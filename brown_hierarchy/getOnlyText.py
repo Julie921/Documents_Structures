@@ -18,10 +18,9 @@ def get_only_text(file):
         
 if __name__=="__main__":
     
-    conll = sys.argv[1]
-    
-    texte = get_only_text(conll)
+    my_conll = sys.argv[1]
+    my_text = get_only_text(my_conll)
     
     #écriture du résultat dans un fichier texte
-    with open(f"{conll.split('/')[-1]}_only_text.txt", "w", encoding="utf-8") as f:
-        f.write(texte)       
+    with open(f"{my_conll.split('/')[-1]}_only_text.txt", "w", encoding="utf-8") as f:
+        f.write(my_text)       
