@@ -21,7 +21,7 @@ Pour avoir une visualisation HTML plus claire :
 
 CM par un prof de Columbia University sur le Brown clustering : https://www.youtube.com/playlist?list=PLlQBy7xY8mbLLALDjL2R-r2dxV42IABP1
 
-!(Schéma expliquant la signification des rangs de la hiérarchie Brown)[schema_brown_hierarchy.png]
+![Schéma expliquant la signification des rangs de la hiérarchie Brown](schema_brown_hierarchy.png)
 
 Notes : 
 
