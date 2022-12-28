@@ -34,3 +34,4 @@ Notes :
 A FAIRE : 
 
 - [ ] Essayer de régler le problème avec le script `make_html.py`
+- [ ] Finir de regarder le CM
