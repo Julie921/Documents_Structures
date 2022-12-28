@@ -29,3 +29,8 @@ Notes :
 - Algorithme déterministe
 - Il faut avoir un corpus de plusieurs millions de mots
 - De manière générale, on choisit de faire autour de 1000 clusters
+
+
+A FAIRE : 
+
+- [ ] Essayer de régler le problème avec le script `make_html.py`
