@@ -1,0 +1,13 @@
+Lien vers l'outil : http://www.cs.cmu.edu/~ark/TweetNLP/
+
+ATTENTION : 
+
+- l'outil prend en entrée du texte (1 tweet par ligne) 
+- il le tokenize et sort des conlls ! 
+
+PROBLEME : 
+- on a déjà des conlls 
+
+SOLUTION :
+- on peut changer le code java -> décompile / enlever le step de tokenisation (Tagger.class) / recompiler 
+- faire un script pr récupérer le text de nos fichiers conll 
