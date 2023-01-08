@@ -16,6 +16,8 @@ Pour avoir une visualisation HTML plus claire :
 ./cluster-viewer/build-viewer.sh corpus.out/paths
 ```
 
+Le résultat se trouve dans `clusters/cluster_viewer.html`.
+
 # Explication sur le fonctionnement de la hiérarchie Brown
 
 >Brown clustering is a hard hierarchical agglomerative clustering problem based on distributional information proposed by Peter Brown, William A. Brown, Vincent Della Pietra, Peter V. de Souza, Jennifer Lai, and Robert Mercer.[1] It is typically applied to text, grouping words into clusters that are assumed to be semantically related by virtue of their having been embedded in similar contexts. (Wikipédia)
@@ -34,5 +36,5 @@ Notes :
 
 A FAIRE : 
 
-- [ ] Essayer de régler le problème avec le script `make_html.py`
+- [x] Essayer de régler le problème avec le script `make_html.py`
 - [ ] Finir de regarder le CM
