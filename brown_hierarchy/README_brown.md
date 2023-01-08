@@ -9,7 +9,7 @@ cd resources/clusters/brown-master
 # Output in input-c50-p1.out/paths
 ```
 
-Pour avoir une visualisation HTML plus claire, sur notre Git : 
+Pour avoir une visualisation HTML plus claire, il faut lancer le script `build-viewer.sh` qui se trouve sur *notre* github : 
 
 ```bash
 ./cluster-viewer/build-viewer.sh corpus.out/paths
@@ -37,3 +37,5 @@ A FAIRE :
 
 - [x] Essayer de régler le problème avec le script `make_html.py`
 - [ ] Finir de regarder le CM
+- [ ] essayer de voir si je peux augmenter les données ? 
+- [ ] regarder comment utiliser les clusters pour le pos tagging
