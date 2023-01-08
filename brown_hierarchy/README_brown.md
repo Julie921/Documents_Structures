@@ -19,8 +19,6 @@ Le résultat se trouve dans `clusters/cluster_viewer.html`. (Le code que j'ai ut
 
 EDIT : Je crois que l'implémentation de l'algorithme de Brown vient originellement de ce Github : https://github.com/percyliang/brown-cluster
 
-
-
 # Explication sur le fonctionnement de la hiérarchie Brown
 
 >Brown clustering is a hard hierarchical agglomerative clustering problem based on distributional information proposed by Peter Brown, William A. Brown, Vincent Della Pietra, Peter V. de Souza, Jennifer Lai, and Robert Mercer.[1] It is typically applied to text, grouping words into clusters that are assumed to be semantically related by virtue of their having been embedded in similar contexts. (Wikipédia)
@@ -36,6 +34,9 @@ Notes :
 - Il faut avoir un corpus de plusieurs millions de mots
 - De manière générale, on choisit de faire autour de 1000 clusters
 
+# Résultats
+
+Les résutats semblent ne pas être fifous. Je pense que c'est parce que notre corpus est trop petit et aussi pas nettoyé (@USER et @URL). Il faudrait réessayer en nettoyant les données et en augmentant avec de l'anglais.
 
 A FAIRE : 
 
