@@ -1,7 +1,7 @@
 # Mode d'emploi du lancement de la clusterisation Brown
 
-Le code que j'ai utilisé provient de [ce GitHub](https://bitbucket.org/soegaard/aave-pos16.git). 
 ```bash
+git clone https://bitbucket.org/soegaard/aave-pos16.git
 cd resources/clusters/brown-master
 
 # Clusters input.txt into 50 clusters:
@@ -10,11 +10,12 @@ cd resources/clusters/brown-master
 ```
 
 Pour avoir une visualisation HTML plus claire, sur notre Git : 
+
 ```bash
 ./cluster-viewer/build-viewer.sh corpus.out/paths
 ```
 
-Le résultat se trouve dans `clusters/cluster_viewer.html`. (J'ai un peu modifié le code `make_html.py` d'origine parce qu'il était écrit en Python 2).
+Le résultat se trouve dans `clusters/cluster_viewer.html`. (Le code que j'ai utilisé provient de [ce GitHub](https://bitbucket.org/soegaard/aave-pos16.git).  J'ai un peu modifié le script `make_html.py` d'origine parce qu'il était écrit en Python 2).
 
 # Explication sur le fonctionnement de la hiérarchie Brown
 
