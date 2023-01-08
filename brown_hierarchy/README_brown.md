@@ -1,8 +1,9 @@
 # Mode d'emploi du lancement de la clusterisation Brown
 
+Le code que j'ai utilisé provient de [ce GitHub](https://bitbucket.org/soegaard/aave-pos16.git). J'ai un peu modifié le code `make_html.py` parce qu'il était écrit en Python 2. 
+
 ```bash
-git clone https://bitbucket.org/soegaard/aave-pos16.git
-cd aave-pos16/resources/clusters/brown-master
+cd resources/clusters/brown-master
 
 # Clusters input.txt into 50 clusters:
 ./wcluster --text input.txt --c 50
