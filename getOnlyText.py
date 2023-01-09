@@ -24,12 +24,19 @@ def get_only_text_from_conll(conllu_file):
     # On renvoie le texte final
     return texte
 
-def clean_texte_from_text_grid(texte):
-    clean_texte = ""
-    clean_texte = texte.replace('\n"" \n', " ")
-    clean_texte = clean_texte.replace('"', "")
-    # clean_texte = re.sub(r"\[\<\w+\>\]", "", texte)
-    return clean_texte
+def clean_texte_from_text_grid(texte: str) -> str:
+    """
+    Nettoye un texte en enlevant les guillemets, crochets, barres obliques, éléments comme <laugh> et les lignes vides. Le texte est également converti en minuscules.
+    
+    Params:
+    - texte (str): Le texte à nettoyer.
+    
+    Returns:
+    - str: Le texte nettoyé.
+    """
+    clean_texte = texte.replace('"', "").replace("[", "").replace("]", "").replace("/", "") # on enlève les guillemets, les crochets et les barres obliques
+    clean_texte = re.sub(r"\<.+\>", "", clean_texte).replace("\n \n", "\n") # on enlève les <laugh> et les lignes vides qui ont pu apparaître à cause de ça
+    return clean_texte.lower()
             
 def get_only_text_from_textgrid(textgrid_file):
     texte = ""
@@ -38,8 +45,8 @@ def get_only_text_from_textgrid(textgrid_file):
         line = tg.readline()
         
         while line:
-            if line.strip().startswith('text = "'):
-                texte += line.lstrip('texte = ')
+            if line.strip().startswith('text = "') and line.strip() != 'text = ""':
+                texte += line.lstrip('texte = ') # on enlève le "texte = " au début de la ligne
             line = tg.readline()      
     
     return clean_texte_from_text_grid(texte)
