@@ -1,0 +1,2 @@
+Table de conversion Penn2UD :
+https://universaldependencies.org/tagset-conversion/en-penn-uposf.html
