@@ -1,11 +1,12 @@
 import gensim
 import sys
 import re
+from typing import List, Pattern
 
-def clean(tokens, pattern_clean):
+def clean(tokens: List[str], pattern_clean: Pattern) -> List[str]:
     return [token.lower() for token in tokens if re.match(pattern_clean, token)]
 
-def tokenize(text):
+def tokenize(text: str) -> List[str]:    
     return [token for token in text.split()]
 
 def preprocess(text, pattern_clean):
