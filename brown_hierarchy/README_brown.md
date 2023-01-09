@@ -9,6 +9,8 @@ cd resources/clusters/brown-master
 # Output in input-c50-p1.out/paths
 ```
 
+`input.txt` doit être du texte brut. On peut utiliser le script `extraction.py` du module `dendoun` pour récupérer le texte des coNLL. 
+
 Pour avoir une visualisation HTML plus claire, il faut lancer le script `build-viewer.sh` qui se trouve sur *notre* github : 
 
 ```bash
