@@ -38,6 +38,8 @@ Notes :
 
 Les résutats semblent ne pas être fifous. Je pense que c'est parce que notre corpus est trop petit et aussi pas nettoyé (@USER et @URL). Il faudrait réessayer en nettoyant les données et en augmentant avec de l'anglais.
 
+EDIT : on a trouvé une hiérarchie faite par ARK sur 50 millions de tweets : http://www.cs.cmu.edu/~ark/TweetNLP/#resources
+
 A FAIRE : 
 
 - [x] Essayer de régler le problème avec le script `make_html.py`
