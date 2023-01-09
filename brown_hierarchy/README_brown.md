@@ -38,7 +38,7 @@ Notes :
 
 # Résultats
 
-Les résutats semblent ne pas être fifous. Je pense que c'est parce que notre corpus est trop petit et aussi pas nettoyé (@USER et @URL). Il faudrait réessayer en nettoyant les données et en augmentant avec de l'anglais.
+Les résutats semblent ne pas être fifous. Je pense que c'est parce que notre corpus est trop petit et aussi pas nettoyé (@USER et @URL). Il faudrait réessayer en nettoyant les données et en augmentant avec de l'anglais. Mais je pense que même en nettoyant, ça donnera rien vu que c'est vraiment trop petit notre corpus.
 
 EDIT : on a trouvé une hiérarchie faite par ARK sur 50 millions de tweets : http://www.cs.cmu.edu/~ark/TweetNLP/#resources
 
