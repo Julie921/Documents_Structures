@@ -2,28 +2,15 @@ import gensim
 import sys
 import re
 from typing import List, Pattern
-
-def clean(tokens: List[str], pattern_clean: Pattern) -> List[str]:
-    return [token.lower() for token in tokens if re.match(pattern_clean, token)]
-
-def tokenize(text: str) -> List[str]:    
-    return [token for token in text.split()]
-
-def preprocess(text, pattern_clean):
-    tokens = tokenize(text)
-    tokens_cleaned = clean(tokens, pattern_clean)
-    return tokens_cleaned
+import dendoun.extraction as dde
 
 if __name__=="__main__":
     
     pattern_clean = re.compile("\w+")
     
-    corpus = sys.argv[1]
-    
-    with open(corpus, "r", encoding="utf-8") as f: 
-        text = f.readlines()
+    my_conll = sys.argv[1]
         
-    corpus_clean = [preprocess(sentence, pattern_clean) for sentence in text]
+    corpus_clean = dde.get_only_tokens_text(my_conll)
     
     model = gensim.models.Word2Vec(min_count=1, vector_size=250, window=10, workers=4)
     model.build_vocab(corpus_clean)  # prepare the model vocabulary
