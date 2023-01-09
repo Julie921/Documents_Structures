@@ -1,0 +1,4762 @@
+1	so	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	your	_	DET	_	_	_	_	_	_
+4	boy's	_	DET	_	_	_	_	_	_
+5	name	_	NOUN	_	_	_	_	_	_
+6	is	_	VERB	_	_	_	_	_	_
+7	what	_	PRON	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+
+1	snot	_	NOUN	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	called	_	VERB	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	guy	_	NOUN	_	_	_	_	_	_
+5	snot	_	NOUN	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	snotboogie	_	NOUN	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	yeah	_	ADV	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	snotboogie	_	NOUN	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	he	_	PRON	_	_	_	_	_	_
+3	like	_	VERB	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	name	_	NOUN	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	what	_	PRON	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	snotboogie	_	NOUN	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	this	_	DET	_	_	_	_	_	_
+2	kid	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	whose	_	DET	_	_	_	_	_	_
+5	mama	_	NOUN	_	_	_	_	_	_
+6	went	_	VERB	_	_	_	_	_	_
+7	to	_	ADP	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	trouble	_	NOUN	_	_	_	_	_	_
+10	of	_	ADP	_	_	_	_	_	_
+11	christening	_	VERB	_	_	_	_	_	_
+12	him	_	PRON	_	_	_	_	_	_
+13	omar	_	NOUN	_	_	_	_	_	_
+14	isaiah	_	NOUN	_	_	_	_	_	_
+15	betts	_	NOUN	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	know	_	VERB	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	PRON	_	_	_	_	_	_
+5	forgets	_	VERB	_	_	_	_	_	_
+6	his	_	DET	_	_	_	_	_	_
+7	jacket	_	NOUN	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	so	_	ADV	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	his	_	DET	_	_	_	_	_	_
+12	nose	_	NOUN	_	_	_	_	_	_
+13	starts	_	VERB	_	_	_	_	_	_
+14	running	_	VERB	_	_	_	_	_	_
+15	and	_	CONJ	_	_	_	_	_	_
+16	some	_	DET	_	_	_	_	_	_
+17	asshole	_	NOUN	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	instead	_	ADP	_	_	_	_	_	_
+20	of	_	ADP	_	_	_	_	_	_
+21	giving	_	VERB	_	_	_	_	_	_
+22	him	_	PRON	_	_	_	_	_	_
+23	a	_	DET	_	_	_	_	_	_
+24	kleenex	_	NOUN	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	he	_	PRON	_	_	_	_	_	_
+27	calls	_	VERB	_	_	_	_	_	_
+28	him	_	PRON	_	_	_	_	_	_
+29	"	_	PUNCT	_	_	_	_	_	_
+30	snot	_	NOUN	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+32	"	_	PUNCT	_	_	_	_	_	_
+
+1	so	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he's	_	NOUN	_	_	_	_	_	_
+4	"	_	PUNCT	_	_	_	_	_	_
+5	snot	_	NOUN	_	_	_	_	_	_
+6	"	_	PUNCT	_	_	_	_	_	_
+7	forever	_	ADV	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	doesn't	_	VERB	_	_	_	_	_	_
+2	seem	_	VERB	_	_	_	_	_	_
+3	fair	_	ADJ	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	life	_	NOUN	_	_	_	_	_	_
+2	just	_	ADV	_	_	_	_	_	_
+3	be	_	VERB	_	_	_	_	_	_
+4	that	_	DET	_	_	_	_	_	_
+5	way	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	i	_	PRON	_	_	_	_	_	_
+8	guess	_	VERB	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	so	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	who	_	PRON	_	_	_	_	_	_
+4	shot	_	VERB	_	_	_	_	_	_
+5	snot	_	NOUN	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	ain't	_	VERB	_	_	_	_	_	_
+3	going	_	VERB	_	_	_	_	_	_
+4	to	_	ADP	_	_	_	_	_	_
+5	no	_	DET	_	_	_	_	_	_
+6	court	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	motherfucker	_	NOUN	_	_	_	_	_	_
+2	ain't	_	VERB	_	_	_	_	_	_
+3	have	_	VERB	_	_	_	_	_	_
+4	to	_	ADP	_	_	_	_	_	_
+5	put	_	VERB	_	_	_	_	_	_
+6	no	_	DET	_	_	_	_	_	_
+7	cap	_	NOUN	_	_	_	_	_	_
+8	in	_	ADP	_	_	_	_	_	_
+9	him	_	PRON	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	though	_	ADV	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	definitely	_	ADV	_	_	_	_	_	_
+2	not	_	ADV	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	he	_	PRON	_	_	_	_	_	_
+2	could've	_	VERB	_	_	_	_	_	_
+3	just	_	ADV	_	_	_	_	_	_
+4	whipped	_	VERB	_	_	_	_	_	_
+5	his	_	DET	_	_	_	_	_	_
+6	ass	_	NOUN	_	_	_	_	_	_
+7	like	_	ADP	_	_	_	_	_	_
+8	we	_	PRON	_	_	_	_	_	_
+9	always	_	ADV	_	_	_	_	_	_
+10	whip	_	VERB	_	_	_	_	_	_
+11	his	_	DET	_	_	_	_	_	_
+12	ass	_	NOUN	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	agree	_	VERB	_	_	_	_	_	_
+3	with	_	ADP	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	he	_	PRON	_	_	_	_	_	_
+2	gonna	_	VERB	_	_	_	_	_	_
+3	kill	_	VERB	_	_	_	_	_	_
+4	snot	_	PRON	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	snot	_	NOUN	_	_	_	_	_	_
+2	been	_	VERB	_	_	_	_	_	_
+3	doing	_	VERB	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	same	_	ADJ	_	_	_	_	_	_
+6	shit	_	NOUN	_	_	_	_	_	_
+7	since	_	ADP	_	_	_	_	_	_
+8	i	_	PRON	_	_	_	_	_	_
+9	don't	_	VERB	_	_	_	_	_	_
+10	know	_	VERB	_	_	_	_	_	_
+11	how	_	ADV	_	_	_	_	_	_
+12	long	_	ADV	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	kill	_	VERB	_	_	_	_	_	_
+2	a	_	DET	_	_	_	_	_	_
+3	man	_	NOUN	_	_	_	_	_	_
+4	over	_	ADP	_	_	_	_	_	_
+5	some	_	DET	_	_	_	_	_	_
+6	bullshit	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	i'm	_	NOUN	_	_	_	_	_	_
+2	saying	_	VERB	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	every	_	DET	_	_	_	_	_	_
+5	friday	_	NOUN	_	_	_	_	_	_
+6	night	_	NOUN	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	in	_	ADP	_	_	_	_	_	_
+9	an	_	DET	_	_	_	_	_	_
+10	alley	_	NOUN	_	_	_	_	_	_
+11	behind	_	ADP	_	_	_	_	_	_
+12	the	_	DET	_	_	_	_	_	_
+13	cut-rate	_	NOUN	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	we	_	PRON	_	_	_	_	_	_
+16	rollin'	_	VERB	_	_	_	_	_	_
+17	bones	_	NOUN	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	you	_	PRON	_	_	_	_	_	_
+20	know	_	VERB	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	mean	_	VERB	_	_	_	_	_	_
+3	all	_	DET	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	boys	_	NOUN	_	_	_	_	_	_
+6	from	_	ADP	_	_	_	_	_	_
+7	'round	_	ADP	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	way	_	NOUN	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	we	_	PRON	_	_	_	_	_	_
+12	roll	_	VERB	_	_	_	_	_	_
+13	'til	_	ADP	_	_	_	_	_	_
+14	late	_	ADJ	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+1	alley	_	NOUN	_	_	_	_	_	_
+2	crap	_	NOUN	_	_	_	_	_	_
+3	game	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	right	_	ADJ	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	like	_	ADV	_	_	_	_	_	_
+3	every	_	DET	_	_	_	_	_	_
+4	time	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	snot	_	NOUN	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he'd	_	PRON	_	_	_	_	_	_
+9	fade	_	VERB	_	_	_	_	_	_
+10	a	_	DET	_	_	_	_	_	_
+11	few	_	ADJ	_	_	_	_	_	_
+12	shooters	_	NOUN	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	play	_	VERB	_	_	_	_	_	_
+2	it	_	PRON	_	_	_	_	_	_
+3	out	_	PART	_	_	_	_	_	_
+4	'til	_	ADP	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	pot's	_	NOUN	_	_	_	_	_	_
+7	deep	_	ADJ	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	then	_	ADV	_	_	_	_	_	_
+2	he'd	_	NOUN	_	_	_	_	_	_
+3	snatch	_	VERB	_	_	_	_	_	_
+4	and	_	CONJ	_	_	_	_	_	_
+5	run	_	VERB	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	every	_	DET	_	_	_	_	_	_
+2	time	_	NOUN	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	couldn't	_	VERB	_	_	_	_	_	_
+2	help	_	VERB	_	_	_	_	_	_
+3	hisself	_	PRON	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	let	_	VERB	_	_	_	_	_	_
+2	me	_	PRON	_	_	_	_	_	_
+3	understand	_	VERB	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	every	_	DET	_	_	_	_	_	_
+2	friday	_	NOUN	_	_	_	_	_	_
+3	night	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	and	_	CONJ	_	_	_	_	_	_
+7	your	_	DET	_	_	_	_	_	_
+8	boys	_	NOUN	_	_	_	_	_	_
+9	would	_	VERB	_	_	_	_	_	_
+10	shoot	_	VERB	_	_	_	_	_	_
+11	crap	_	NOUN	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	right	_	ADJ	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	every	_	DET	_	_	_	_	_	_
+3	friday	_	NOUN	_	_	_	_	_	_
+4	night	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	your	_	DET	_	_	_	_	_	_
+7	pal	_	NOUN	_	_	_	_	_	_
+8	snotboogie	_	NOUN	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	he'd	_	PRON	_	_	_	_	_	_
+11	wait	_	VERB	_	_	_	_	_	_
+12	'til	_	ADP	_	_	_	_	_	_
+13	there	_	PRON	_	_	_	_	_	_
+14	was	_	VERB	_	_	_	_	_	_
+15	cash	_	NOUN	_	_	_	_	_	_
+16	on	_	ADP	_	_	_	_	_	_
+17	the	_	DET	_	_	_	_	_	_
+18	ground	_	NOUN	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	then	_	ADV	_	_	_	_	_	_
+21	he	_	PRON	_	_	_	_	_	_
+22	would	_	VERB	_	_	_	_	_	_
+23	grab	_	VERB	_	_	_	_	_	_
+24	the	_	DET	_	_	_	_	_	_
+25	money	_	NOUN	_	_	_	_	_	_
+26	and	_	CONJ	_	_	_	_	_	_
+27	run	_	VERB	_	_	_	_	_	_
+28	away	_	ADV	_	_	_	_	_	_
+29	?	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	let	_	VERB	_	_	_	_	_	_
+3	him	_	PRON	_	_	_	_	_	_
+4	do	_	VERB	_	_	_	_	_	_
+5	that	_	PRON	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	we	_	PRON	_	_	_	_	_	_
+2	catch	_	VERB	_	_	_	_	_	_
+3	him	_	PRON	_	_	_	_	_	_
+4	and	_	CONJ	_	_	_	_	_	_
+5	beat	_	VERB	_	_	_	_	_	_
+6	his	_	DET	_	_	_	_	_	_
+7	ass	_	NOUN	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	but	_	CONJ	_	_	_	_	_	_
+2	ain't	_	VERB	_	_	_	_	_	_
+3	nobody	_	PRON	_	_	_	_	_	_
+4	ever	_	ADV	_	_	_	_	_	_
+5	go	_	VERB	_	_	_	_	_	_
+6	past	_	PART	_	_	_	_	_	_
+7	that	_	PRON	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	gotta	_	VERB	_	_	_	_	_	_
+3	ask	_	VERB	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	if	_	CONJ	_	_	_	_	_	_
+2	every	_	ADJ	_	_	_	_	_	_
+3	time	_	NOUN	_	_	_	_	_	_
+4	snotboogie	_	NOUN	_	_	_	_	_	_
+5	would	_	VERB	_	_	_	_	_	_
+6	grab	_	VERB	_	_	_	_	_	_
+7	the	_	DET	_	_	_	_	_	_
+8	money	_	NOUN	_	_	_	_	_	_
+9	and	_	CONJ	_	_	_	_	_	_
+10	run	_	VERB	_	_	_	_	_	_
+11	away	_	PART	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	why’d	_	ADV	_	_	_	_	_	_
+14	you	_	PRON	_	_	_	_	_	_
+15	even	_	ADV	_	_	_	_	_	_
+16	let	_	VERB	_	_	_	_	_	_
+17	him	_	PRON	_	_	_	_	_	_
+18	in	_	ADP	_	_	_	_	_	_
+19	the	_	DET	_	_	_	_	_	_
+20	game	_	NOUN	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+
+1	what	_	PRON	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+
+1	if	_	CONJ	_	_	_	_	_	_
+2	snotboogie	_	NOUN	_	_	_	_	_	_
+3	always	_	ADV	_	_	_	_	_	_
+4	stole	_	VERB	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	money	_	NOUN	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	why'd	_	ADV	_	_	_	_	_	_
+9	you	_	PRON	_	_	_	_	_	_
+10	let	_	VERB	_	_	_	_	_	_
+11	him	_	PRON	_	_	_	_	_	_
+12	play	_	VERB	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+
+1	got	_	VERB	_	_	_	_	_	_
+2	to	_	ADP	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	this	_	PRON	_	_	_	_	_	_
+2	america	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	man	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	guess	_	VERB	_	_	_	_	_	_
+2	what	_	PRON	_	_	_	_	_	_
+3	he	_	PRON	_	_	_	_	_	_
+4	says	_	VERB	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	what	_	PRON	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+
+1	"	_	PUNCT	_	_	_	_	_	_
+2	gotta	_	VERB	_	_	_	_	_	_
+3	let	_	VERB	_	_	_	_	_	_
+4	him	_	PRON	_	_	_	_	_	_
+5	play	_	VERB	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	this	_	PRON	_	_	_	_	_	_
+8	america	_	NOUN	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+10	"	_	PUNCT	_	_	_	_	_	_
+
+1	no	_	ADJ	_	_	_	_	_	_
+2	fucking	_	ADJ	_	_	_	_	_	_
+3	way	_	NOUN	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	could	_	VERB	_	_	_	_	_	_
+3	i	_	PRON	_	_	_	_	_	_
+4	make	_	VERB	_	_	_	_	_	_
+5	that	_	PRON	_	_	_	_	_	_
+6	up	_	PART	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	-	_	PUNCT	_	_	_	_	_	_
+9	he	_	PRON	_	_	_	_	_	_
+10	give	_	VERB	_	_	_	_	_	_
+11	you	_	PRON	_	_	_	_	_	_
+12	the	_	DET	_	_	_	_	_	_
+13	shooter	_	NOUN	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+
+1	three	_	NUM	_	_	_	_	_	_
+2	newports	_	NOUN	_	_	_	_	_	_
+3	and	_	CONJ	_	_	_	_	_	_
+4	a	_	DET	_	_	_	_	_	_
+5	grape	_	NOUN	_	_	_	_	_	_
+6	nehi	_	NOUN	_	_	_	_	_	_
+7	he's	_	PRON	_	_	_	_	_	_
+8	grand	_	NOUN	_	_	_	_	_	_
+9	juried	_	NOUN	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	it's	_	PRON	_	_	_	_	_	_
+2	down	_	ADP	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	bunk	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	barksdale's	_	NOUN	_	_	_	_	_	_
+2	in	_	ADP	_	_	_	_	_	_
+3	part	_	NOUN	_	_	_	_	_	_
+4	!digits	_	NUM	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	right	_	ADJ	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	huh	_	X	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	project	_	NOUN	_	_	_	_	_	_
+3	murder	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	westside	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	uh	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	which	_	PRON	_	_	_	_	_	_
+4	one	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	now	_	ADV	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+
+1	never	_	ADV	_	_	_	_	_	_
+2	mind	_	VERB	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	gonna	_	VERB	_	_	_	_	_	_
+2	sit	_	VERB	_	_	_	_	_	_
+3	in	_	PART	_	_	_	_	_	_
+4	on	_	PART	_	_	_	_	_	_
+5	it	_	PRON	_	_	_	_	_	_
+6	for	_	ADP	_	_	_	_	_	_
+7	a	_	DET	_	_	_	_	_	_
+8	bit	_	NOUN	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	where	_	ADV	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	gonna	_	VERB	_	_	_	_	_	_
+4	be	_	VERB	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	i'm	_	PRON	_	_	_	_	_	_
+2	gonna	_	VERB	_	_	_	_	_	_
+3	drop	_	VERB	_	_	_	_	_	_
+4	this	_	PRON	_	_	_	_	_	_
+5	off	_	PART	_	_	_	_	_	_
+6	on	_	ADP	_	_	_	_	_	_
+7	nathan	_	NOUN	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	then	_	ADV	_	_	_	_	_	_
+10	i'm	_	PRON	_	_	_	_	_	_
+11	going	_	VERB	_	_	_	_	_	_
+12	to	_	ADP	_	_	_	_	_	_
+13	the	_	DET	_	_	_	_	_	_
+14	office	_	NOUN	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+1	don't	_	VERB	_	_	_	_	_	_
+2	answer	_	NOUN	_	_	_	_	_	_
+3	no	_	DET	_	_	_	_	_	_
+4	phones	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	bunk	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	yeah	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	yeah	_	ADV	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	is	_	VERB	_	_	_	_	_	_
+3	that	_	PRON	_	_	_	_	_	_
+4	your	_	DET	_	_	_	_	_	_
+5	signature	_	NOUN	_	_	_	_	_	_
+6	on	_	ADP	_	_	_	_	_	_
+7	that	_	DET	_	_	_	_	_	_
+8	photo	_	NOUN	_	_	_	_	_	_
+9	array	_	NOUN	_	_	_	_	_	_
+10	card	_	NOUN	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+
+1	yes	_	ADV	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	those	_	PRON	_	_	_	_	_	_
+3	are	_	VERB	_	_	_	_	_	_
+4	your	_	DET	_	_	_	_	_	_
+5	initials	_	NOUN	_	_	_	_	_	_
+6	as	_	ADP	_	_	_	_	_	_
+7	well	_	ADV	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	next	_	ADJ	_	_	_	_	_	_
+10	to	_	ADP	_	_	_	_	_	_
+11	the	_	DET	_	_	_	_	_	_
+12	photo	_	NOUN	_	_	_	_	_	_
+13	you	_	PRON	_	_	_	_	_	_
+14	identified	_	VERB	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+
+1	yes	_	ADV	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	mr.	_	NOUN	_	_	_	_	_	_
+2	gant	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	do	_	VERB	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	see	_	VERB	_	_	_	_	_	_
+7	the	_	DET	_	_	_	_	_	_
+8	man	_	NOUN	_	_	_	_	_	_
+9	you	_	PRON	_	_	_	_	_	_
+10	identified	_	VERB	_	_	_	_	_	_
+11	from	_	ADP	_	_	_	_	_	_
+12	that	_	DET	_	_	_	_	_	_
+13	photo	_	NOUN	_	_	_	_	_	_
+14	array	_	NOUN	_	_	_	_	_	_
+15	card	_	NOUN	_	_	_	_	_	_
+16	sitting	_	VERB	_	_	_	_	_	_
+17	in	_	ADP	_	_	_	_	_	_
+18	the	_	DET	_	_	_	_	_	_
+19	courtroom	_	NOUN	_	_	_	_	_	_
+20	today	_	ADV	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+
+1	he's	_	PRON	_	_	_	_	_	_
+2	right	_	ADJ	_	_	_	_	_	_
+3	there	_	ADV	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	for	_	ADP	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	record	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	witness	_	NOUN	_	_	_	_	_	_
+7	has	_	VERB	_	_	_	_	_	_
+8	identified	_	VERB	_	_	_	_	_	_
+9	the	_	DET	_	_	_	_	_	_
+10	defendant	_	NOUN	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	d'angelo	_	NOUN	_	_	_	_	_	_
+13	barksdale	_	NOUN	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+1	your	_	DET	_	_	_	_	_	_
+2	witness	_	NOUN	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	thank	_	VERB	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	just	_	ADV	_	_	_	_	_	_
+2	one	_	NUM	_	_	_	_	_	_
+3	question	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	mr.	_	NOUN	_	_	_	_	_	_
+6	gant	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	have	_	VERB	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	ever	_	ADV	_	_	_	_	_	_
+4	seen	_	VERB	_	_	_	_	_	_
+5	this	_	DET	_	_	_	_	_	_
+6	young	_	ADJ	_	_	_	_	_	_
+7	man	_	NOUN	_	_	_	_	_	_
+8	before	_	ADP	_	_	_	_	_	_
+9	the	_	DET	_	_	_	_	_	_
+10	day	_	NOUN	_	_	_	_	_	_
+11	in	_	ADP	_	_	_	_	_	_
+12	question	_	NOUN	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+
+1	no	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	ADV	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	no	_	DET	_	_	_	_	_	_
+2	further	_	ADJ	_	_	_	_	_	_
+3	questions	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	your	_	NOUN	_	_	_	_	_	_
+6	honor	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	you're	_	PRON	_	_	_	_	_	_
+2	excused	_	VERB	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	mr.	_	NOUN	_	_	_	_	_	_
+5	gant	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	call	_	VERB	_	_	_	_	_	_
+2	your	_	DET	_	_	_	_	_	_
+3	next	_	ADJ	_	_	_	_	_	_
+4	witness	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	state	_	NOUN	_	_	_	_	_	_
+3	calls	_	VERB	_	_	_	_	_	_
+4	nakeisha	_	NOUN	_	_	_	_	_	_
+5	lyles	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	-	_	PUNCT	_	_	_	_	_	_
+8	your	_	NOUN	_	_	_	_	_	_
+9	honor	_	NOUN	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	do	_	VERB	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	promise	_	VERB	_	_	_	_	_	_
+4	to	_	ADP	_	_	_	_	_	_
+5	tell	_	VERB	_	_	_	_	_	_
+6	the	_	DET	_	_	_	_	_	_
+7	truth	_	NOUN	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	the	_	DET	_	_	_	_	_	_
+10	whole	_	ADJ	_	_	_	_	_	_
+11	truth	_	NOUN	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	and	_	CONJ	_	_	_	_	_	_
+14	nothing	_	PRON	_	_	_	_	_	_
+15	but	_	ADP	_	_	_	_	_	_
+16	the	_	DET	_	_	_	_	_	_
+17	truth	_	NOUN	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	so	_	ADV	_	_	_	_	_	_
+20	help	_	VERB	_	_	_	_	_	_
+21	you	_	PRON	_	_	_	_	_	_
+22	god	_	NOUN	_	_	_	_	_	_
+23	?	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	do	_	VERB	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	ma'am	_	NOUN	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	can	_	VERB	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	state	_	NOUN	_	_	_	_	_	_
+6	your	_	DET	_	_	_	_	_	_
+7	name	_	NOUN	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	please	_	ADV	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+
+1	nakeisha	_	NOUN	_	_	_	_	_	_
+2	lyles	_	NOUN	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	are	_	VERB	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	employed	_	VERB	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	yes	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	PRON	_	_	_	_	_	_
+4	am	_	VERB	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	what	_	PRON	_	_	_	_	_	_
+3	is	_	VERB	_	_	_	_	_	_
+4	your	_	DET	_	_	_	_	_	_
+5	occupation	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ms.	_	NOUN	_	_	_	_	_	_
+8	lyles	_	NOUN	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+
+1	i'm	_	NOUN	_	_	_	_	_	_
+2	a	_	DET	_	_	_	_	_	_
+3	security	_	NOUN	_	_	_	_	_	_
+4	guard	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	were	_	VERB	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	employed	_	VERB	_	_	_	_	_	_
+5	as	_	ADP	_	_	_	_	_	_
+6	a	_	DET	_	_	_	_	_	_
+7	security	_	NOUN	_	_	_	_	_	_
+8	guard	_	NOUN	_	_	_	_	_	_
+9	on	_	ADP	_	_	_	_	_	_
+10	may	_	NOUN	_	_	_	_	_	_
+11	fourth	_	NOUN	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	the	_	DET	_	_	_	_	_	_
+14	day	_	NOUN	_	_	_	_	_	_
+15	of	_	ADP	_	_	_	_	_	_
+16	the	_	DET	_	_	_	_	_	_
+17	shooting	_	NOUN	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+
+1	uh-huh	_	ADV	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	what	_	PRON	_	_	_	_	_	_
+3	were	_	VERB	_	_	_	_	_	_
+4	your	_	DET	_	_	_	_	_	_
+5	duties	_	NOUN	_	_	_	_	_	_
+6	on	_	ADP	_	_	_	_	_	_
+7	that	_	DET	_	_	_	_	_	_
+8	date	_	NOUN	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	was	_	VERB	_	_	_	_	_	_
+3	in	_	ADP	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	booth	_	NOUN	_	_	_	_	_	_
+6	of	_	ADP	_	_	_	_	_	_
+7	2-2-1	_	NUM	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	is	_	VERB	_	_	_	_	_	_
+3	that	_	PRON	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	guard	_	NOUN	_	_	_	_	_	_
+6	booth	_	NOUN	_	_	_	_	_	_
+7	in	_	ADP	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	lobby	_	NOUN	_	_	_	_	_	_
+10	of	_	ADP	_	_	_	_	_	_
+11	the	_	DET	_	_	_	_	_	_
+12	fremont	_	NOUN	_	_	_	_	_	_
+13	avenue	_	NOUN	_	_	_	_	_	_
+14	high-rise	_	NOUN	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+
+1	uh	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	yes	_	ADV	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	you're	_	PRON	_	_	_	_	_	_
+3	behind	_	ADP	_	_	_	_	_	_
+4	bullet-proof	_	NOUN	_	_	_	_	_	_
+5	glass	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	with	_	ADP	_	_	_	_	_	_
+8	a	_	DET	_	_	_	_	_	_
+9	clear	_	ADJ	_	_	_	_	_	_
+10	view	_	NOUN	_	_	_	_	_	_
+11	of	_	ADP	_	_	_	_	_	_
+12	the	_	DET	_	_	_	_	_	_
+13	lobby	_	NOUN	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+
+1	uh	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	yeah	_	ADV	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	good	_	ADJ	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	now	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ms.	_	NOUN	_	_	_	_	_	_
+4	lyles	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	i	_	PRON	_	_	_	_	_	_
+7	know	_	VERB	_	_	_	_	_	_
+8	this	_	PRON	_	_	_	_	_	_
+9	may	_	VERB	_	_	_	_	_	_
+10	be	_	VERB	_	_	_	_	_	_
+11	difficult	_	ADJ	_	_	_	_	_	_
+12	for	_	ADP	_	_	_	_	_	_
+13	you	_	PRON	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	but	_	CONJ	_	_	_	_	_	_
+16	can	_	VERB	_	_	_	_	_	_
+17	you	_	PRON	_	_	_	_	_	_
+18	tell	_	VERB	_	_	_	_	_	_
+19	us	_	PRON	_	_	_	_	_	_
+20	what	_	PRON	_	_	_	_	_	_
+21	you	_	PRON	_	_	_	_	_	_
+22	saw	_	VERB	_	_	_	_	_	_
+23	?	_	PUNCT	_	_	_	_	_	_
+
+1	um	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	DET	_	_	_	_	_	_
+4	man	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	you	_	PRON	_	_	_	_	_	_
+7	know	_	VERB	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	he	_	PRON	_	_	_	_	_	_
+10	was	_	VERB	_	_	_	_	_	_
+11	waiting	_	VERB	_	_	_	_	_	_
+12	for	_	ADP	_	_	_	_	_	_
+13	the	_	DET	_	_	_	_	_	_
+14	elevator	_	NOUN	_	_	_	_	_	_
+15	and	_	CONJ	_	_	_	_	_	_
+16	when	_	ADV	_	_	_	_	_	_
+17	another	_	DET	_	_	_	_	_	_
+18	man	_	NOUN	_	_	_	_	_	_
+19	just	_	ADV	_	_	_	_	_	_
+20	starts	_	VERB	_	_	_	_	_	_
+21	beating	_	VERB	_	_	_	_	_	_
+22	on	_	ADP	_	_	_	_	_	_
+23	him	_	PRON	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	and	_	CONJ	_	_	_	_	_	_
+26	like	_	ADV	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	the	_	DET	_	_	_	_	_	_
+29	one	_	DET	_	_	_	_	_	_
+30	man	_	NOUN	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	he	_	PRON	_	_	_	_	_	_
+33	got	_	VERB	_	_	_	_	_	_
+34	knocked	_	VERB	_	_	_	_	_	_
+35	down	_	PART	_	_	_	_	_	_
+36	--	_	PUNCT	_	_	_	_	_	_
+
+1	the	_	DET	_	_	_	_	_	_
+2	victim	_	NOUN	_	_	_	_	_	_
+3	got	_	VERB	_	_	_	_	_	_
+4	knocked	_	VERB	_	_	_	_	_	_
+5	down	_	PART	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	no	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	man	_	NOUN	_	_	_	_	_	_
+5	with	_	ADP	_	_	_	_	_	_
+6	the	_	DET	_	_	_	_	_	_
+7	gun	_	NOUN	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	the	_	DET	_	_	_	_	_	_
+2	man	_	NOUN	_	_	_	_	_	_
+3	who	_	PRON	_	_	_	_	_	_
+4	was	_	VERB	_	_	_	_	_	_
+5	knocked	_	VERB	_	_	_	_	_	_
+6	down	_	PART	_	_	_	_	_	_
+7	had	_	VERB	_	_	_	_	_	_
+8	a	_	DET	_	_	_	_	_	_
+9	gun	_	NOUN	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	do	_	VERB	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	see	_	VERB	_	_	_	_	_	_
+5	that	_	DET	_	_	_	_	_	_
+6	man	_	NOUN	_	_	_	_	_	_
+7	in	_	ADP	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	courtroom	_	NOUN	_	_	_	_	_	_
+10	today	_	ADV	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+
+1	nope	_	ADV	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	excuse	_	VERB	_	_	_	_	_	_
+2	me	_	PRON	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	he	_	PRON	_	_	_	_	_	_
+2	ain't	_	VERB	_	_	_	_	_	_
+3	here	_	ADV	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	don't	_	VERB	_	_	_	_	_	_
+3	--	_	PUNCT	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	testified	_	VERB	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	ms.	_	NOUN	_	_	_	_	_	_
+2	lyles	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	do	_	VERB	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	remember	_	VERB	_	_	_	_	_	_
+7	when	_	ADV	_	_	_	_	_	_
+8	detective	_	NOUN	_	_	_	_	_	_
+9	barlow	_	NOUN	_	_	_	_	_	_
+10	showed	_	VERB	_	_	_	_	_	_
+11	you	_	PRON	_	_	_	_	_	_
+12	this	_	DET	_	_	_	_	_	_
+13	photo	_	NOUN	_	_	_	_	_	_
+14	array	_	NOUN	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	yeah	_	ADV	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	good	_	ADJ	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	call	_	VERB	_	_	_	_	_	_
+3	your	_	DET	_	_	_	_	_	_
+4	attention	_	NOUN	_	_	_	_	_	_
+5	to	_	ADP	_	_	_	_	_	_
+6	your	_	DET	_	_	_	_	_	_
+7	initials	_	NOUN	_	_	_	_	_	_
+8	which	_	PRON	_	_	_	_	_	_
+9	identify	_	VERB	_	_	_	_	_	_
+10	this	_	DET	_	_	_	_	_	_
+11	photo	_	NOUN	_	_	_	_	_	_
+12	as	_	ADP	_	_	_	_	_	_
+13	the	_	DET	_	_	_	_	_	_
+14	man	_	NOUN	_	_	_	_	_	_
+15	who	_	PRON	_	_	_	_	_	_
+16	shot	_	VERB	_	_	_	_	_	_
+17	mr.	_	NOUN	_	_	_	_	_	_
+18	blanchard	_	NOUN	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+1	did	_	VERB	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	write	_	VERB	_	_	_	_	_	_
+4	your	_	DET	_	_	_	_	_	_
+5	initials	_	NOUN	_	_	_	_	_	_
+6	above	_	ADP	_	_	_	_	_	_
+7	that	_	DET	_	_	_	_	_	_
+8	photograph	_	NOUN	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+
+1	he	_	PRON	_	_	_	_	_	_
+2	ain't	_	VERB	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	one	_	NOUN	_	_	_	_	_	_
+5	that	_	PRON	_	_	_	_	_	_
+6	did	_	VERB	_	_	_	_	_	_
+7	the	_	DET	_	_	_	_	_	_
+8	shooting	_	NOUN	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	but	_	CONJ	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	identified	_	VERB	_	_	_	_	_	_
+4	him	_	PRON	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	that's	_	PRON	_	_	_	_	_	_
+2	'cause	_	CONJ	_	_	_	_	_	_
+3	he	_	PRON	_	_	_	_	_	_
+4	looked	_	VERB	_	_	_	_	_	_
+5	like	_	ADV	_	_	_	_	_	_
+6	the	_	DET	_	_	_	_	_	_
+7	boy	_	NOUN	_	_	_	_	_	_
+8	that	_	PRON	_	_	_	_	_	_
+9	did	_	VERB	_	_	_	_	_	_
+10	it	_	PRON	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+1	see	_	VERB	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	one	_	NOUN	_	_	_	_	_	_
+5	that	_	PRON	_	_	_	_	_	_
+6	did	_	VERB	_	_	_	_	_	_
+7	it	_	PRON	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	i	_	PRON	_	_	_	_	_	_
+10	saw	_	VERB	_	_	_	_	_	_
+11	him	_	PRON	_	_	_	_	_	_
+12	come	_	VERB	_	_	_	_	_	_
+13	in	_	PART	_	_	_	_	_	_
+14	the	_	DET	_	_	_	_	_	_
+15	building	_	NOUN	_	_	_	_	_	_
+16	a	_	DET	_	_	_	_	_	_
+17	week	_	NOUN	_	_	_	_	_	_
+18	later	_	ADV	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	saw	_	VERB	_	_	_	_	_	_
+3	someone	_	NOUN	_	_	_	_	_	_
+4	else	_	ADV	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	thought	_	VERB	_	_	_	_	_	_
+7	did	_	VERB	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	shooting	_	NOUN	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+
+1	right	_	ADJ	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	DET	_	_	_	_	_	_
+4	week	_	NOUN	_	_	_	_	_	_
+5	later	_	ADV	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	ms.	_	NOUN	_	_	_	_	_	_
+2	lyles	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	when	_	ADV	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	spoke	_	VERB	_	_	_	_	_	_
+7	with	_	ADP	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	detectives	_	NOUN	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	you	_	PRON	_	_	_	_	_	_
+12	never	_	ADV	_	_	_	_	_	_
+13	said	_	VERB	_	_	_	_	_	_
+14	anything	_	PRON	_	_	_	_	_	_
+15	about	_	ADP	_	_	_	_	_	_
+16	--	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	tried	_	VERB	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	called	_	VERB	_	_	_	_	_	_
+3	detective	_	NOUN	_	_	_	_	_	_
+4	--	_	PUNCT	_	_	_	_	_	_
+5	um	_	X	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	um	_	X	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	yeah	_	ADV	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	detective	_	NOUN	_	_	_	_	_	_
+12	barlow	_	NOUN	_	_	_	_	_	_
+13	on	_	ADP	_	_	_	_	_	_
+14	may	_	NOUN	_	_	_	_	_	_
+15	13th	_	NOUN	_	_	_	_	_	_
+16	at	_	ADP	_	_	_	_	_	_
+17	!digits	_	NUM	_	_	_	_	_	_
+18	COL	_	PUNCT	_	_	_	_	_	_
+19	!digits	_	NUM	_	_	_	_	_	_
+20	p.m.	_	X	_	_	_	_	_	_
+
+1	but	_	CONJ	_	_	_	_	_	_
+2	he	_	PRON	_	_	_	_	_	_
+3	didn't	_	VERB	_	_	_	_	_	_
+4	call	_	VERB	_	_	_	_	_	_
+5	me	_	PRON	_	_	_	_	_	_
+6	back	_	PART	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	nicely	_	ADV	_	_	_	_	_	_
+2	done	_	VERB	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	called	_	VERB	_	_	_	_	_	_
+3	detective	_	NOUN	_	_	_	_	_	_
+4	barlow	_	NOUN	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	yeah	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	twice	_	NUM	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	yeah	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	PRON	_	_	_	_	_	_
+4	wrote	_	VERB	_	_	_	_	_	_
+5	it	_	PRON	_	_	_	_	_	_
+6	down	_	PART	_	_	_	_	_	_
+7	in	_	ADP	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	log	_	NOUN	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	need	_	VERB	_	_	_	_	_	_
+3	a	_	DET	_	_	_	_	_	_
+4	price	_	NOUN	_	_	_	_	_	_
+5	for	_	ADP	_	_	_	_	_	_
+6	pressure-treated	_	ADJ	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	that's	_	PRON	_	_	_	_	_	_
+2	your	_	DET	_	_	_	_	_	_
+3	price	_	NOUN	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+1	that's	_	PRON	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	price	_	NOUN	_	_	_	_	_	_
+4	that	_	PRON	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	were	_	VERB	_	_	_	_	_	_
+7	going	_	VERB	_	_	_	_	_	_
+8	to	_	ADP	_	_	_	_	_	_
+9	quote	_	VERB	_	_	_	_	_	_
+10	me	_	PRON	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+
+1	well	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	do	_	VERB	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	feel	_	VERB	_	_	_	_	_	_
+6	that	_	PRON	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	mikey	_	NOUN	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	do	_	VERB	_	_	_	_	_	_
+11	you	_	PRON	_	_	_	_	_	_
+12	feel	_	VERB	_	_	_	_	_	_
+13	it	_	PRON	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+
+1	'cause	_	CONJ	_	_	_	_	_	_
+2	i	_	PRON	_	_	_	_	_	_
+3	swear	_	VERB	_	_	_	_	_	_
+4	to	_	ADP	_	_	_	_	_	_
+5	god	_	NOUN	_	_	_	_	_	_
+6	that	_	PRON	_	_	_	_	_	_
+7	is	_	VERB	_	_	_	_	_	_
+8	my	_	PRON	_	_	_	_	_	_
+9	fucking	_	ADJ	_	_	_	_	_	_
+10	dick	_	NOUN	_	_	_	_	_	_
+11	in	_	ADP	_	_	_	_	_	_
+12	your	_	PRON	_	_	_	_	_	_
+13	ear	_	NOUN	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+1	hang	_	VERB	_	_	_	_	_	_
+2	on	_	PART	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	fucking	_	ADJ	_	_	_	_	_	_
+6	thief	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	what's	_	PRON	_	_	_	_	_	_
+2	up	_	PART	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	been	_	VERB	_	_	_	_	_	_
+4	down	_	ADP	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	hall	_	NOUN	_	_	_	_	_	_
+7	lately	_	ADV	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	-	_	PUNCT	_	_	_	_	_	_
+10	what	_	PRON	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+
+1	your	_	DET	_	_	_	_	_	_
+2	case	_	NOUN	_	_	_	_	_	_
+3	just	_	ADV	_	_	_	_	_	_
+4	hit	_	VERB	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	wall	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	barksdale's	_	ADJ	_	_	_	_	_	_
+2	crew	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	they	_	PRON	_	_	_	_	_	_
+5	turned	_	VERB	_	_	_	_	_	_
+6	it	_	PART	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	two	_	NUM	_	_	_	_	_	_
+2	eyewitnesses	_	NOUN	_	_	_	_	_	_
+3	and	_	CONJ	_	_	_	_	_	_
+4	a	_	DET	_	_	_	_	_	_
+5	statement	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	no	_	DET	_	_	_	_	_	_
+2	fucking	_	ADJ	_	_	_	_	_	_
+3	way	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	pal	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	listen	_	VERB	_	_	_	_	_	_
+3	to	_	ADP	_	_	_	_	_	_
+4	me	_	PRON	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	you	_	PRON	_	_	_	_	_	_
+7	little	_	ADJ	_	_	_	_	_	_
+8	shit	_	NOUN	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	there	_	PRON	_	_	_	_	_	_
+11	is	_	VERB	_	_	_	_	_	_
+12	no	_	DET	_	_	_	_	_	_
+13	way	_	NOUN	_	_	_	_	_	_
+14	in	_	ADP	_	_	_	_	_	_
+15	hell	_	NOUN	_	_	_	_	_	_
+16	i	_	PRON	_	_	_	_	_	_
+17	am	_	VERB	_	_	_	_	_	_
+18	paying	_	VERB	_	_	_	_	_	_
+19	that	_	PRON	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+1	no	_	ADV	_	_	_	_	_	_
+2	!	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	use	_	VERB	_	_	_	_	_	_
+3	my	_	DET	_	_	_	_	_	_
+4	goddamn	_	ADJ	_	_	_	_	_	_
+5	car	_	NOUN	_	_	_	_	_	_
+6	to	_	ADP	_	_	_	_	_	_
+7	chauffeur	_	VERB	_	_	_	_	_	_
+8	that	_	DET	_	_	_	_	_	_
+9	dusty	_	ADJ	_	_	_	_	_	_
+10	bitch	_	NOUN	_	_	_	_	_	_
+11	around	_	ADP	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	yo	_	X	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ease	_	VERB	_	_	_	_	_	_
+5	up	_	PART	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	don't	_	VERB	_	_	_	_	_	_
+4	understand	_	VERB	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	did	_	VERB	_	_	_	_	_	_
+3	for	_	ADP	_	_	_	_	_	_
+4	that	_	DET	_	_	_	_	_	_
+5	man	_	NOUN	_	_	_	_	_	_
+6	and	_	CONJ	_	_	_	_	_	_
+7	he	_	PRON	_	_	_	_	_	_
+8	do	_	VERB	_	_	_	_	_	_
+9	this	_	PRON	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	well	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	getting	_	VERB	_	_	_	_	_	_
+4	heated	_	ADJ	_	_	_	_	_	_
+5	ain't	_	VERB	_	_	_	_	_	_
+6	gonna	_	VERB	_	_	_	_	_	_
+7	help	_	VERB	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	hey	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	greggs	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	what's	_	PRON	_	_	_	_	_	_
+6	your	_	DET	_	_	_	_	_	_
+7	bird	_	NOUN	_	_	_	_	_	_
+8	saying	_	VERB	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+
+1	it	_	PRON	_	_	_	_	_	_
+2	ain't	_	VERB	_	_	_	_	_	_
+3	what	_	PRON	_	_	_	_	_	_
+4	she	_	PRON	_	_	_	_	_	_
+5	says	_	VERB	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	yeah	_	ADV	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	what	_	PRON	_	_	_	_	_	_
+4	do	_	VERB	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	say	_	VERB	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	say	_	VERB	_	_	_	_	_	_
+3	we	_	PRON	_	_	_	_	_	_
+4	wait	_	VERB	_	_	_	_	_	_
+5	...	_	PUNCT	_	_	_	_	_	_
+6	shithead	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	that's	_	PRON	_	_	_	_	_	_
+2	him	_	PRON	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	all	_	ADJ	_	_	_	_	_	_
+2	right	_	ADJ	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	easy	_	ADV	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	girl	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	yo	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	herc	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	got	_	VERB	_	_	_	_	_	_
+7	that	_	PRON	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+
+1	yeah	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	we	_	PRON	_	_	_	_	_	_
+4	see	_	VERB	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	got	_	VERB	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	uniforms	_	NOUN	_	_	_	_	_	_
+6	-	_	PUNCT	_	_	_	_	_	_
+7	they're	_	PRON	_	_	_	_	_	_
+8	on	_	ADP	_	_	_	_	_	_
+9	hold	_	NOUN	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	that's	_	PRON	_	_	_	_	_	_
+2	ghost	_	NOUN	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	all	_	ADJ	_	_	_	_	_	_
+2	right	_	ADJ	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	good	_	ADJ	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	tiff	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	now	_	ADV	_	_	_	_	_	_
+2	tell	_	VERB	_	_	_	_	_	_
+3	me	_	PRON	_	_	_	_	_	_
+4	what	_	PRON	_	_	_	_	_	_
+5	i'm	_	PRON	_	_	_	_	_	_
+6	seeing	_	VERB	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	girl	_	NOUN	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	he	_	PRON	_	_	_	_	_	_
+3	gonna	_	VERB	_	_	_	_	_	_
+4	get	_	VERB	_	_	_	_	_	_
+5	little	_	ADJ	_	_	_	_	_	_
+6	mike	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	mm-hmm	_	X	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	then	_	ADV	_	_	_	_	_	_
+2	what	_	PRON	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	mike	_	NOUN	_	_	_	_	_	_
+2	come	_	VERB	_	_	_	_	_	_
+3	back	_	PART	_	_	_	_	_	_
+4	with	_	ADP	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	money	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	all	_	ADJ	_	_	_	_	_	_
+2	right	_	ADJ	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	wait	_	VERB	_	_	_	_	_	_
+5	on	_	ADP	_	_	_	_	_	_
+6	the	_	DET	_	_	_	_	_	_
+7	drop	_	NOUN	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	take	_	VERB	_	_	_	_	_	_
+10	the	_	DET	_	_	_	_	_	_
+11	car	_	NOUN	_	_	_	_	_	_
+12	when	_	ADV	_	_	_	_	_	_
+13	it's	_	PRON	_	_	_	_	_	_
+14	deep	_	ADJ	_	_	_	_	_	_
+15	in	_	ADP	_	_	_	_	_	_
+16	the	_	DET	_	_	_	_	_	_
+17	block	_	NOUN	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	don't	_	VERB	_	_	_	_	_	_
+3	want	_	VERB	_	_	_	_	_	_
+4	no	_	DET	_	_	_	_	_	_
+5	foot	_	NOUN	_	_	_	_	_	_
+6	chase	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	copy	_	X	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	got	_	VERB	_	_	_	_	_	_
+2	it	_	PRON	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	go	_	VERB	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	go	_	VERB	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	go	_	VERB	_	_	_	_	_	_
+6	!	_	PUNCT	_	_	_	_	_	_
+
+1	the	_	DET	_	_	_	_	_	_
+2	driver's	_	NOUN	_	_	_	_	_	_
+3	mine	_	PRON	_	_	_	_	_	_
+4	!	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	got	_	VERB	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	house	_	NOUN	_	_	_	_	_	_
+5	on	_	ADP	_	_	_	_	_	_
+6	the	_	DET	_	_	_	_	_	_
+7	left	_	NOUN	_	_	_	_	_	_
+8	!	_	PUNCT	_	_	_	_	_	_
+
+1	get	_	VERB	_	_	_	_	_	_
+2	on	_	ADP	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	ground	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	get	_	VERB	_	_	_	_	_	_
+2	down	_	ADP	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	put	_	VERB	_	_	_	_	_	_
+2	your	_	DET	_	_	_	_	_	_
+3	hands	_	NOUN	_	_	_	_	_	_
+4	behind	_	ADP	_	_	_	_	_	_
+5	your	_	DET	_	_	_	_	_	_
+6	head	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	see	_	VERB	_	_	_	_	_	_
+2	your	_	DET	_	_	_	_	_	_
+3	hands	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	get	_	VERB	_	_	_	_	_	_
+6	your	_	DET	_	_	_	_	_	_
+7	hands	_	NOUN	_	_	_	_	_	_
+8	up	_	ADP	_	_	_	_	_	_
+9	!	_	PUNCT	_	_	_	_	_	_
+
+1	shut	_	VERB	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	engine	_	NOUN	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	get	_	VERB	_	_	_	_	_	_
+2	that	_	DET	_	_	_	_	_	_
+3	motherfucker	_	NOUN	_	_	_	_	_	_
+4	around	_	ADP	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	corner	_	NOUN	_	_	_	_	_	_
+7	!	_	PUNCT	_	_	_	_	_	_
+
+1	hand	_	VERB	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	keys	_	NOUN	_	_	_	_	_	_
+4	out	_	PART	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	drop	_	VERB	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	keys	_	NOUN	_	_	_	_	_	_
+4	out	_	ADP	_	_	_	_	_	_
+5	of	_	ADP	_	_	_	_	_	_
+6	the	_	DET	_	_	_	_	_	_
+7	car	_	NOUN	_	_	_	_	_	_
+8	!	_	PUNCT	_	_	_	_	_	_
+
+1	drop	_	VERB	_	_	_	_	_	_
+2	'em	_	PRON	_	_	_	_	_	_
+3	now	_	ADV	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	drop	_	VERB	_	_	_	_	_	_
+6	'em	_	PRON	_	_	_	_	_	_
+7	!	_	PUNCT	_	_	_	_	_	_
+
+1	get	_	VERB	_	_	_	_	_	_
+2	out	_	PART	_	_	_	_	_	_
+3	of	_	ADP	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	car	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	get	_	VERB	_	_	_	_	_	_
+2	down	_	PART	_	_	_	_	_	_
+3	right	_	ADJ	_	_	_	_	_	_
+4	here	_	ADV	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	right	_	ADJ	_	_	_	_	_	_
+7	here	_	ADV	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	get	_	VERB	_	_	_	_	_	_
+2	down	_	PART	_	_	_	_	_	_
+3	!	_	PUNCT	_	_	_	_	_	_
+
+1	passenger	_	NOUN	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	put	_	VERB	_	_	_	_	_	_
+4	your	_	DET	_	_	_	_	_	_
+5	hands	_	NOUN	_	_	_	_	_	_
+6	out	_	PART	_	_	_	_	_	_
+7	of	_	ADP	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	car	_	NOUN	_	_	_	_	_	_
+10	window	_	NOUN	_	_	_	_	_	_
+11	!	_	PUNCT	_	_	_	_	_	_
+
+1	both	_	DET	_	_	_	_	_	_
+2	hands	_	NOUN	_	_	_	_	_	_
+3	out	_	ADP	_	_	_	_	_	_
+4	of	_	ADP	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	car	_	NOUN	_	_	_	_	_	_
+7	window	_	NOUN	_	_	_	_	_	_
+8	!	_	PUNCT	_	_	_	_	_	_
+
+1	use	_	VERB	_	_	_	_	_	_
+2	your	_	DET	_	_	_	_	_	_
+3	right	_	ADJ	_	_	_	_	_	_
+4	hand	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	open	_	ADJ	_	_	_	_	_	_
+7	up	_	PART	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	car	_	NOUN	_	_	_	_	_	_
+10	door	_	NOUN	_	_	_	_	_	_
+11	!	_	PUNCT	_	_	_	_	_	_
+
+1	slowly	_	ADV	_	_	_	_	_	_
+2	!	_	PUNCT	_	_	_	_	_	_
+
+1	step	_	VERB	_	_	_	_	_	_
+2	out	_	PART	_	_	_	_	_	_
+3	of	_	ADP	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	car	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	step	_	VERB	_	_	_	_	_	_
+2	out	_	PART	_	_	_	_	_	_
+3	of	_	ADP	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	car	_	NOUN	_	_	_	_	_	_
+6	!	_	PUNCT	_	_	_	_	_	_
+
+1	down	_	ADP	_	_	_	_	_	_
+2	on	_	ADP	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	ground	_	NOUN	_	_	_	_	_	_
+5	!	_	PUNCT	_	_	_	_	_	_
+
+1	down	_	ADP	_	_	_	_	_	_
+2	on	_	ADP	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	ground	_	NOUN	_	_	_	_	_	_
+5	!	_	PUNCT	_	_	_	_	_	_
+
+1	that's	_	PRON	_	_	_	_	_	_
+2	it	_	PRON	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	that's	_	PRON	_	_	_	_	_	_
+5	it	_	PRON	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	take	_	VERB	_	_	_	_	_	_
+8	his	_	DET	_	_	_	_	_	_
+9	ass	_	NOUN	_	_	_	_	_	_
+10	to	_	ADP	_	_	_	_	_	_
+11	jail	_	NOUN	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	got	_	VERB	_	_	_	_	_	_
+4	him	_	PRON	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	carv	_	NOUN	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	-	_	PUNCT	_	_	_	_	_	_
+9	i	_	PRON	_	_	_	_	_	_
+10	got	_	VERB	_	_	_	_	_	_
+11	him	_	PRON	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	look	_	VERB	_	_	_	_	_	_
+2	at	_	ADP	_	_	_	_	_	_
+3	this	_	DET	_	_	_	_	_	_
+4	shit	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	cross	_	VERB	_	_	_	_	_	_
+2	your	_	DET	_	_	_	_	_	_
+3	legs	_	NOUN	_	_	_	_	_	_
+4	!	_	PUNCT	_	_	_	_	_	_
+
+1	look	_	VERB	_	_	_	_	_	_
+2	at	_	ADP	_	_	_	_	_	_
+3	this	_	PRON	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	see	_	VERB	_	_	_	_	_	_
+4	what	_	PRON	_	_	_	_	_	_
+5	he	_	PRON	_	_	_	_	_	_
+6	did	_	VERB	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	-	_	PUNCT	_	_	_	_	_	_
+9	do	_	VERB	_	_	_	_	_	_
+10	you	_	PRON	_	_	_	_	_	_
+11	see	_	VERB	_	_	_	_	_	_
+12	what	_	PRON	_	_	_	_	_	_
+13	he	_	PRON	_	_	_	_	_	_
+14	did	_	VERB	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+
+1	why	_	ADV	_	_	_	_	_	_
+2	he	_	PRON	_	_	_	_	_	_
+3	throw	_	VERB	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	gun	_	NOUN	_	_	_	_	_	_
+6	on	_	ADP	_	_	_	_	_	_
+7	my	_	DET	_	_	_	_	_	_
+8	car	_	NOUN	_	_	_	_	_	_
+9	like	_	ADP	_	_	_	_	_	_
+10	that	_	PRON	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+
+1	shit	_	NOUN	_	_	_	_	_	_
+2	gonna	_	VERB	_	_	_	_	_	_
+3	scratch	_	VERB	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	paint	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	stay	_	VERB	_	_	_	_	_	_
+2	in	_	ADP	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	car	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	tell	_	VERB	_	_	_	_	_	_
+2	him	_	PRON	_	_	_	_	_	_
+3	to	_	ADP	_	_	_	_	_	_
+4	leave	_	VERB	_	_	_	_	_	_
+5	my	_	DET	_	_	_	_	_	_
+6	car	_	NOUN	_	_	_	_	_	_
+7	be	_	VERB	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	stay	_	VERB	_	_	_	_	_	_
+2	in	_	ADP	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	fucking	_	ADJ	_	_	_	_	_	_
+5	car	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	that	_	DET	_	_	_	_	_	_
+2	shit	_	NOUN	_	_	_	_	_	_
+3	just	_	ADV	_	_	_	_	_	_
+4	ain't	_	VERB	_	_	_	_	_	_
+5	right	_	ADJ	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	whatcha	_	PRON	_	_	_	_	_	_
+2	doing	_	VERB	_	_	_	_	_	_
+3	with	_	ADP	_	_	_	_	_	_
+4	something	_	NOUN	_	_	_	_	_	_
+5	like	_	ADP	_	_	_	_	_	_
+6	that	_	PRON	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	huh	_	X	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+
+1	what	_	PRON	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	got	_	VERB	_	_	_	_	_	_
+4	here	_	ADV	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	should've	_	VERB	_	_	_	_	_	_
+3	seen	_	VERB	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	way	_	NOUN	_	_	_	_	_	_
+6	this	_	DET	_	_	_	_	_	_
+7	bitch	_	NOUN	_	_	_	_	_	_
+8	was	_	VERB	_	_	_	_	_	_
+9	lookin'	_	VERB	_	_	_	_	_	_
+10	at	_	ADP	_	_	_	_	_	_
+11	me	_	PRON	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	kima	_	NOUN	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+1	ugly	_	ADJ	_	_	_	_	_	_
+2	little	_	ADJ	_	_	_	_	_	_
+3	fucker	_	NOUN	_	_	_	_	_	_
+4	almost	_	ADV	_	_	_	_	_	_
+5	shit	_	NOUN	_	_	_	_	_	_
+6	his	_	DET	_	_	_	_	_	_
+7	pants	_	NOUN	_	_	_	_	_	_
+8	he	_	PRON	_	_	_	_	_	_
+9	was	_	VERB	_	_	_	_	_	_
+10	so	_	ADV	_	_	_	_	_	_
+11	scared	_	ADJ	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	right	_	ADJ	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+
+1	two	_	NUM	_	_	_	_	_	_
+2	guns	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	remember	_	VERB	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	two	_	NUM	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+
+1	it's	_	PRON	_	_	_	_	_	_
+2	all	_	ADV	_	_	_	_	_	_
+3	good	_	ADJ	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kima	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ease	_	VERB	_	_	_	_	_	_
+8	up	_	PART	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	all	_	PRON	_	_	_	_	_	_
+2	rise	_	VERB	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	part	_	NOUN	_	_	_	_	_	_
+2	!digits	_	NUM	_	_	_	_	_	_
+3	of	_	ADP	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	circuit	_	NOUN	_	_	_	_	_	_
+6	court	_	NOUN	_	_	_	_	_	_
+7	of	_	ADP	_	_	_	_	_	_
+8	baltimore	_	NOUN	_	_	_	_	_	_
+9	city	_	NOUN	_	_	_	_	_	_
+10	is	_	VERB	_	_	_	_	_	_
+11	now	_	ADV	_	_	_	_	_	_
+12	in	_	ADP	_	_	_	_	_	_
+13	session	_	NOUN	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+1	be	_	VERB	_	_	_	_	_	_
+2	seated	_	ADJ	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	madame	_	NOUN	_	_	_	_	_	_
+2	forelady	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	have	_	VERB	_	_	_	_	_	_
+6	a	_	DET	_	_	_	_	_	_
+7	unanimous	_	ADJ	_	_	_	_	_	_
+8	verdict	_	NOUN	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	as	_	ADV	_	_	_	_	_	_
+3	to	_	ADP	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	defendant	_	NOUN	_	_	_	_	_	_
+6	-	_	PUNCT	_	_	_	_	_	_
+7	d'angelo	_	NOUN	_	_	_	_	_	_
+8	barksdale	_	NOUN	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	how	_	ADV	_	_	_	_	_	_
+11	say	_	VERB	_	_	_	_	_	_
+12	you	_	PRON	_	_	_	_	_	_
+13	to	_	ADP	_	_	_	_	_	_
+14	the	_	DET	_	_	_	_	_	_
+15	charge	_	NOUN	_	_	_	_	_	_
+16	of	_	ADP	_	_	_	_	_	_
+17	murder	_	NOUN	_	_	_	_	_	_
+18	in	_	ADP	_	_	_	_	_	_
+19	the	_	DET	_	_	_	_	_	_
+20	first-degree	_	NOUN	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+
+1	not	_	ADV	_	_	_	_	_	_
+2	guilty	_	ADJ	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	how	_	ADV	_	_	_	_	_	_
+2	say	_	VERB	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	to	_	ADP	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	charge	_	NOUN	_	_	_	_	_	_
+7	of	_	ADP	_	_	_	_	_	_
+8	murder	_	NOUN	_	_	_	_	_	_
+9	in	_	ADP	_	_	_	_	_	_
+10	the	_	DET	_	_	_	_	_	_
+11	second-degree	_	NOUN	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+
+1	not	_	ADV	_	_	_	_	_	_
+2	guilty	_	ADJ	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	yeah	_	ADV	_	_	_	_	_	_
+2	!	_	PUNCT	_	_	_	_	_	_
+
+1	that's	_	PRON	_	_	_	_	_	_
+2	what	_	PRON	_	_	_	_	_	_
+3	i'm	_	PRON	_	_	_	_	_	_
+4	talkin'	_	VERB	_	_	_	_	_	_
+5	about	_	ADP	_	_	_	_	_	_
+6	!	_	PUNCT	_	_	_	_	_	_
+
+1	it's	_	PRON	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	daddy	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	uh-huh	_	X	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	yeah	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	that's	_	PRON	_	_	_	_	_	_
+4	right	_	ADJ	_	_	_	_	_	_
+5	!	_	PUNCT	_	_	_	_	_	_
+
+1	at	_	ADP	_	_	_	_	_	_
+2	least	_	ADJ	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	made	_	VERB	_	_	_	_	_	_
+5	'em	_	PRON	_	_	_	_	_	_
+6	work	_	VERB	_	_	_	_	_	_
+7	for	_	ADP	_	_	_	_	_	_
+8	it	_	PRON	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	be	_	VERB	_	_	_	_	_	_
+2	seated	_	ADJ	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	the	_	DET	_	_	_	_	_	_
+2	jury	_	NOUN	_	_	_	_	_	_
+3	is	_	VERB	_	_	_	_	_	_
+4	to	_	ADP	_	_	_	_	_	_
+5	be	_	VERB	_	_	_	_	_	_
+6	thanked	_	VERB	_	_	_	_	_	_
+7	for	_	ADP	_	_	_	_	_	_
+8	its	_	DET	_	_	_	_	_	_
+9	services	_	NOUN	_	_	_	_	_	_
+10	in	_	ADP	_	_	_	_	_	_
+11	this	_	DET	_	_	_	_	_	_
+12	case	_	NOUN	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	deputies	_	NOUN	_	_	_	_	_	_
+2	will	_	VERB	_	_	_	_	_	_
+3	return	_	VERB	_	_	_	_	_	_
+4	defendant	_	NOUN	_	_	_	_	_	_
+5	barksdale	_	NOUN	_	_	_	_	_	_
+6	to	_	ADP	_	_	_	_	_	_
+7	pre-trial	_	NOUN	_	_	_	_	_	_
+8	for	_	ADP	_	_	_	_	_	_
+9	processing	_	VERB	_	_	_	_	_	_
+10	prior	_	ADJ	_	_	_	_	_	_
+11	to	_	ADP	_	_	_	_	_	_
+12	his	_	DET	_	_	_	_	_	_
+13	release	_	NOUN	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+1	think	_	VERB	_	_	_	_	_	_
+2	i	_	PRON	_	_	_	_	_	_
+3	give	_	VERB	_	_	_	_	_	_
+4	a	_	DET	_	_	_	_	_	_
+5	fuck	_	NOUN	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	i'll	_	PRON	_	_	_	_	_	_
+2	be	_	VERB	_	_	_	_	_	_
+3	chalking	_	VERB	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	off	_	PART	_	_	_	_	_	_
+6	one	_	DET	_	_	_	_	_	_
+7	night	_	NOUN	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	have	_	VERB	_	_	_	_	_	_
+3	a	_	DET	_	_	_	_	_	_
+4	nice	_	ADJ	_	_	_	_	_	_
+5	day	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	yo	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	stringer	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	let's	_	VERB	_	_	_	_	_	_
+6	go	_	VERB	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	detective	_	NOUN	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+
+1	detective	_	NOUN	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	detective	_	NOUN	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	judge	_	NOUN	_	_	_	_	_	_
+2	asked	_	VERB	_	_	_	_	_	_
+3	to	_	ADP	_	_	_	_	_	_
+4	speak	_	VERB	_	_	_	_	_	_
+5	with	_	ADP	_	_	_	_	_	_
+6	you	_	PRON	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	what	_	PRON	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	hell	_	NOUN	_	_	_	_	_	_
+4	happened	_	VERB	_	_	_	_	_	_
+5	out	_	ADP	_	_	_	_	_	_
+6	there	_	ADV	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	we	_	PRON	_	_	_	_	_	_
+3	lost	_	VERB	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	were	_	VERB	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	on	_	PART	_	_	_	_	_	_
+5	this	_	PRON	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	case	_	NOUN	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	yeah	_	ADV	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	no	_	ADV	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	it	_	PRON	_	_	_	_	_	_
+5	was	_	VERB	_	_	_	_	_	_
+6	barlow	_	NOUN	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	with	_	ADP	_	_	_	_	_	_
+9	an	_	DET	_	_	_	_	_	_
+10	assist	_	NOUN	_	_	_	_	_	_
+11	from	_	ADP	_	_	_	_	_	_
+12	mclarney	_	NOUN	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	if	_	CONJ	_	_	_	_	_	_
+2	it	_	PRON	_	_	_	_	_	_
+3	was	_	VERB	_	_	_	_	_	_
+4	barlow's	_	DET	_	_	_	_	_	_
+5	case	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	why	_	ADV	_	_	_	_	_	_
+8	are	_	VERB	_	_	_	_	_	_
+9	you	_	PRON	_	_	_	_	_	_
+10	in	_	ADP	_	_	_	_	_	_
+11	court	_	NOUN	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+
+1	no	_	DET	_	_	_	_	_	_
+2	reason	_	NOUN	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	just	_	ADV	_	_	_	_	_	_
+3	like	_	VERB	_	_	_	_	_	_
+4	coming	_	VERB	_	_	_	_	_	_
+5	to	_	ADP	_	_	_	_	_	_
+6	court	_	NOUN	_	_	_	_	_	_
+7	on	_	ADP	_	_	_	_	_	_
+8	murders	_	NOUN	_	_	_	_	_	_
+9	you	_	PRON	_	_	_	_	_	_
+10	don't	_	VERB	_	_	_	_	_	_
+11	even	_	ADV	_	_	_	_	_	_
+12	work	_	VERB	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+
+1	just	_	ADV	_	_	_	_	_	_
+2	for	_	ADP	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	thrill	_	NOUN	_	_	_	_	_	_
+5	of	_	ADP	_	_	_	_	_	_
+6	it	_	PRON	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+
+1	when	_	ADV	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	start	_	VERB	_	_	_	_	_	_
+4	cumming	_	VERB	_	_	_	_	_	_
+5	with	_	ADP	_	_	_	_	_	_
+6	the	_	DET	_	_	_	_	_	_
+7	customers	_	NOUN	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	it's	_	PRON	_	_	_	_	_	_
+10	time	_	NOUN	_	_	_	_	_	_
+11	to	_	ADP	_	_	_	_	_	_
+12	get	_	VERB	_	_	_	_	_	_
+13	out	_	PART	_	_	_	_	_	_
+14	of	_	ADP	_	_	_	_	_	_
+15	the	_	DET	_	_	_	_	_	_
+16	business	_	NOUN	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	shouldn't	_	VERB	_	_	_	_	_	_
+3	talk	_	VERB	_	_	_	_	_	_
+4	dirty	_	ADJ	_	_	_	_	_	_
+5	now	_	ADV	_	_	_	_	_	_
+6	that	_	PRON	_	_	_	_	_	_
+7	you're	_	PRON	_	_	_	_	_	_
+8	a	_	DET	_	_	_	_	_	_
+9	judge	_	NOUN	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	now	_	ADV	_	_	_	_	_	_
+2	that	_	PRON	_	_	_	_	_	_
+3	i'm	_	PRON	_	_	_	_	_	_
+4	a	_	DET	_	_	_	_	_	_
+5	judge	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	i	_	PRON	_	_	_	_	_	_
+8	can	_	VERB	_	_	_	_	_	_
+9	say	_	VERB	_	_	_	_	_	_
+10	anything	_	PRON	_	_	_	_	_	_
+11	i	_	PRON	_	_	_	_	_	_
+12	damn	_	ADJ	_	_	_	_	_	_
+13	please	_	VERB	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+1	that	_	DET	_	_	_	_	_	_
+2	barksdale	_	NOUN	_	_	_	_	_	_
+3	kid	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he's	_	PRON	_	_	_	_	_	_
+6	a	_	DET	_	_	_	_	_	_
+7	cousin	_	NOUN	_	_	_	_	_	_
+8	to	_	ADP	_	_	_	_	_	_
+9	avon	_	NOUN	_	_	_	_	_	_
+10	barksdale	_	NOUN	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+1	who	_	PRON	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+
+1	avon	_	NOUN	_	_	_	_	_	_
+2	barksdale	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	stringer	_	NOUN	_	_	_	_	_	_
+5	bell	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	the	_	DET	_	_	_	_	_	_
+2	crew	_	NOUN	_	_	_	_	_	_
+3	that's	_	PRON	_	_	_	_	_	_
+4	been	_	VERB	_	_	_	_	_	_
+5	running	_	VERB	_	_	_	_	_	_
+6	franklin	_	NOUN	_	_	_	_	_	_
+7	terrace	_	NOUN	_	_	_	_	_	_
+8	for	_	ADP	_	_	_	_	_	_
+9	a	_	DET	_	_	_	_	_	_
+10	year	_	NOUN	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+1	stringer	_	NOUN	_	_	_	_	_	_
+2	bell	_	NOUN	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	yeah	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	that	_	PRON	_	_	_	_	_	_
+4	was	_	VERB	_	_	_	_	_	_
+5	him	_	PRON	_	_	_	_	_	_
+6	in	_	ADP	_	_	_	_	_	_
+7	court	_	NOUN	_	_	_	_	_	_
+8	with	_	ADP	_	_	_	_	_	_
+9	the	_	DET	_	_	_	_	_	_
+10	legal	_	NOUN	_	_	_	_	_	_
+11	pad	_	NOUN	_	_	_	_	_	_
+12	and	_	CONJ	_	_	_	_	_	_
+13	the	_	DET	_	_	_	_	_	_
+14	glasses	_	NOUN	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	scaring	_	VERB	_	_	_	_	_	_
+17	the	_	DET	_	_	_	_	_	_
+18	living	_	ADJ	_	_	_	_	_	_
+19	shit	_	NOUN	_	_	_	_	_	_
+20	out	_	ADP	_	_	_	_	_	_
+21	of	_	ADP	_	_	_	_	_	_
+22	every	_	DET	_	_	_	_	_	_
+23	witness	_	NOUN	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+1	him	_	PRON	_	_	_	_	_	_
+2	and	_	CONJ	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	rest	_	NOUN	_	_	_	_	_	_
+5	of	_	ADP	_	_	_	_	_	_
+6	his	_	DET	_	_	_	_	_	_
+7	crew	_	NOUN	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	wee-bey	_	NOUN	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	savino	_	NOUN	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	stinkum	_	NOUN	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	saw	_	VERB	_	_	_	_	_	_
+3	them	_	PRON	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	think	_	VERB	_	_	_	_	_	_
+3	about	_	ADP	_	_	_	_	_	_
+4	clearing	_	VERB	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	court	_	NOUN	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+
+1	on	_	ADP	_	_	_	_	_	_
+2	what	_	PRON	_	_	_	_	_	_
+3	basis	_	NOUN	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+1	it's	_	PRON	_	_	_	_	_	_
+2	an	_	DET	_	_	_	_	_	_
+3	open	_	ADJ	_	_	_	_	_	_
+4	court	_	NOUN	_	_	_	_	_	_
+5	in	_	ADP	_	_	_	_	_	_
+6	a	_	DET	_	_	_	_	_	_
+7	free	_	ADJ	_	_	_	_	_	_
+8	nation	_	NOUN	_	_	_	_	_	_
+9	of	_	ADP	_	_	_	_	_	_
+10	laws	_	NOUN	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	thought	_	VERB	_	_	_	_	_	_
+3	it	_	PRON	_	_	_	_	_	_
+4	was	_	VERB	_	_	_	_	_	_
+5	baltimore	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	barksdale	_	NOUN	_	_	_	_	_	_
+2	has	_	VERB	_	_	_	_	_	_
+3	five	_	NUM	_	_	_	_	_	_
+4	out	_	ADP	_	_	_	_	_	_
+5	of	_	ADP	_	_	_	_	_	_
+6	seven	_	NUM	_	_	_	_	_	_
+7	towers	_	NOUN	_	_	_	_	_	_
+8	in	_	ADP	_	_	_	_	_	_
+9	the	_	DET	_	_	_	_	_	_
+10	terrace	_	NOUN	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+1	that's	_	PRON	_	_	_	_	_	_
+2	!digits	_	NUM	_	_	_	_	_	_
+3	stairwells	_	NOUN	_	_	_	_	_	_
+4	in	_	ADP	_	_	_	_	_	_
+5	five	_	NUM	_	_	_	_	_	_
+6	high-rises	_	NOUN	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	going	_	VERB	_	_	_	_	_	_
+9	24-seven	_	NUM	_	_	_	_	_	_
+10	for	_	ADP	_	_	_	_	_	_
+11	dope	_	NOUN	_	_	_	_	_	_
+12	and	_	CONJ	_	_	_	_	_	_
+13	coke	_	NOUN	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	that's	_	PRON	_	_	_	_	_	_
+3	just	_	ADV	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	towers	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	the	_	DET	_	_	_	_	_	_
+2	low-rises	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	avenue	_	NOUN	_	_	_	_	_	_
+6	corners	_	NOUN	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	they're	_	PRON	_	_	_	_	_	_
+9	all	_	DET	_	_	_	_	_	_
+10	his	_	DET	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	too	_	ADV	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	how	_	ADV	_	_	_	_	_	_
+2	do	_	VERB	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	know	_	VERB	_	_	_	_	_	_
+5	this	_	PRON	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	everybody	_	PRON	_	_	_	_	_	_
+2	knows	_	VERB	_	_	_	_	_	_
+3	it	_	PRON	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	define	_	VERB	_	_	_	_	_	_
+2	"	_	PUNCT	_	_	_	_	_	_
+3	everybody	_	PRON	_	_	_	_	_	_
+4	"	_	PUNCT	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	everybody	_	PRON	_	_	_	_	_	_
+2	on	_	ADP	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	westside	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	barksdale	_	NOUN	_	_	_	_	_	_
+2	and	_	CONJ	_	_	_	_	_	_
+3	bell	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	they're	_	PRON	_	_	_	_	_	_
+6	the	_	DET	_	_	_	_	_	_
+7	new	_	ADJ	_	_	_	_	_	_
+8	power	_	NOUN	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	mean	_	VERB	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	they've	_	PRON	_	_	_	_	_	_
+5	dropped	_	VERB	_	_	_	_	_	_
+6	!digits	_	NUM	_	_	_	_	_	_
+7	or	_	CONJ	_	_	_	_	_	_
+8	!digits	_	NUM	_	_	_	_	_	_
+9	bodies	_	NOUN	_	_	_	_	_	_
+10	in	_	ADP	_	_	_	_	_	_
+11	as	_	ADV	_	_	_	_	_	_
+12	many	_	ADJ	_	_	_	_	_	_
+13	months	_	NOUN	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+1	beat	_	VERB	_	_	_	_	_	_
+2	three	_	NUM	_	_	_	_	_	_
+3	cases	_	NOUN	_	_	_	_	_	_
+4	in	_	ADP	_	_	_	_	_	_
+5	court	_	NOUN	_	_	_	_	_	_
+6	doing	_	VERB	_	_	_	_	_	_
+7	the	_	DET	_	_	_	_	_	_
+8	same	_	ADJ	_	_	_	_	_	_
+9	thing	_	NOUN	_	_	_	_	_	_
+10	they	_	PRON	_	_	_	_	_	_
+11	just	_	ADV	_	_	_	_	_	_
+12	did	_	VERB	_	_	_	_	_	_
+13	to	_	ADP	_	_	_	_	_	_
+14	you	_	PRON	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+1	who's	_	PRON	_	_	_	_	_	_
+2	working	_	VERB	_	_	_	_	_	_
+3	on	_	ADP	_	_	_	_	_	_
+4	them	_	PRON	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	in	_	ADP	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	department	_	NOUN	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+1	nobody	_	PRON	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	really	_	ADV	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	well	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	we're	_	PRON	_	_	_	_	_	_
+4	a	_	DET	_	_	_	_	_	_
+5	little	_	ADV	_	_	_	_	_	_
+6	busy	_	ADJ	_	_	_	_	_	_
+7	doing	_	VERB	_	_	_	_	_	_
+8	street	_	NOUN	_	_	_	_	_	_
+9	rips	_	NOUN	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	you	_	PRON	_	_	_	_	_	_
+12	know	_	VERB	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	community	_	NOUN	_	_	_	_	_	_
+2	policing	_	NOUN	_	_	_	_	_	_
+3	and	_	CONJ	_	_	_	_	_	_
+4	all	_	DET	_	_	_	_	_	_
+5	that	_	PRON	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	so	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	if	_	CONJ	_	_	_	_	_	_
+4	it's	_	PRON	_	_	_	_	_	_
+5	not	_	ADV	_	_	_	_	_	_
+6	your	_	DET	_	_	_	_	_	_
+7	case	_	NOUN	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	why	_	ADV	_	_	_	_	_	_
+10	do	_	VERB	_	_	_	_	_	_
+11	you	_	PRON	_	_	_	_	_	_
+12	care	_	VERB	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+
+1	who	_	PRON	_	_	_	_	_	_
+2	said	_	VERB	_	_	_	_	_	_
+3	i	_	PRON	_	_	_	_	_	_
+4	did	_	VERB	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	one	_	NUM	_	_	_	_	_	_
+2	more	_	ADJ	_	_	_	_	_	_
+3	time	_	NOUN	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	one	_	NUM	_	_	_	_	_	_
+2	more	_	ADJ	_	_	_	_	_	_
+3	time	_	NOUN	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	stop	_	VERB	_	_	_	_	_	_
+2	playing	_	VERB	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	fuck	_	VERB	_	_	_	_	_	_
+2	me	_	PRON	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	stop	_	VERB	_	_	_	_	_	_
+2	playing	_	VERB	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	got	_	VERB	_	_	_	_	_	_
+3	submission	_	NOUN	_	_	_	_	_	_
+4	numbers	_	NOUN	_	_	_	_	_	_
+5	for	_	ADP	_	_	_	_	_	_
+6	ecu	_	NOUN	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	nope	_	ADV	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	get	_	VERB	_	_	_	_	_	_
+3	'em	_	PRON	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	why	_	ADV	_	_	_	_	_	_
+2	me	_	PRON	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	want	_	VERB	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	collar	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	do	_	VERB	_	_	_	_	_	_
+7	the	_	DET	_	_	_	_	_	_
+8	submissions	_	NOUN	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	giving	_	VERB	_	_	_	_	_	_
+3	me	_	PRON	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	stat	_	NOUN	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	it's	_	PRON	_	_	_	_	_	_
+2	your	_	DET	_	_	_	_	_	_
+3	turn	_	NOUN	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	what's	_	PRON	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	extension	_	NOUN	_	_	_	_	_	_
+4	for	_	ADP	_	_	_	_	_	_
+5	ecu	_	NOUN	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	do	_	VERB	_	_	_	_	_	_
+2	i	_	PRON	_	_	_	_	_	_
+3	look	_	VERB	_	_	_	_	_	_
+4	like	_	ADJ	_	_	_	_	_	_
+5	your	_	DET	_	_	_	_	_	_
+6	bitch	_	NOUN	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+
+1	we	_	PRON	_	_	_	_	_	_
+2	taking	_	VERB	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	mercedes	_	NOUN	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	no	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	PRON	_	_	_	_	_	_
+4	promised	_	VERB	_	_	_	_	_	_
+5	my	_	DET	_	_	_	_	_	_
+6	girl	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	car's	_	NOUN	_	_	_	_	_	_
+2	in	_	ADP	_	_	_	_	_	_
+3	her	_	PRON	_	_	_	_	_	_
+4	name	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	narcotics	_	NOUN	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	lieutenant	_	NOUN	_	_	_	_	_	_
+2	...	_	PUNCT	_	_	_	_	_	_
+3	line	_	NOUN	_	_	_	_	_	_
+4	two	_	NUM	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	here	_	ADV	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	go	_	VERB	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	fuck	_	VERB	_	_	_	_	_	_
+2	me	_	PRON	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	i	_	PRON	_	_	_	_	_	_
+5	cannot	_	VERB	_	_	_	_	_	_
+6	type	_	VERB	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	who	_	PRON	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	fuck	_	NOUN	_	_	_	_	_	_
+4	can	_	VERB	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	shit	_	NOUN	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	millennium	_	NOUN	_	_	_	_	_	_
+4	been	_	VERB	_	_	_	_	_	_
+5	an'	_	CONJ	_	_	_	_	_	_
+6	gone	_	VERB	_	_	_	_	_	_
+7	and	_	CONJ	_	_	_	_	_	_
+8	we	_	PRON	_	_	_	_	_	_
+9	still	_	ADV	_	_	_	_	_	_
+10	fuckin'	_	VERB	_	_	_	_	_	_
+11	around	_	ADP	_	_	_	_	_	_
+12	with	_	ADP	_	_	_	_	_	_
+13	smith-corona	_	NOUN	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+1	we	_	PRON	_	_	_	_	_	_
+2	need	_	VERB	_	_	_	_	_	_
+3	to	_	ADP	_	_	_	_	_	_
+4	get	_	VERB	_	_	_	_	_	_
+5	them	_	DET	_	_	_	_	_	_
+6	computers	_	NOUN	_	_	_	_	_	_
+7	hooked	_	ADJ	_	_	_	_	_	_
+8	up	_	PART	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	they	_	PRON	_	_	_	_	_	_
+2	promised	_	VERB	_	_	_	_	_	_
+3	to	_	ADP	_	_	_	_	_	_
+4	train	_	VERB	_	_	_	_	_	_
+5	us	_	PRON	_	_	_	_	_	_
+6	on	_	ADP	_	_	_	_	_	_
+7	that	_	DET	_	_	_	_	_	_
+8	shit	_	NOUN	_	_	_	_	_	_
+9	a	_	DET	_	_	_	_	_	_
+10	year	_	NOUN	_	_	_	_	_	_
+11	ago	_	ADJ	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	what	_	PRON	_	_	_	_	_	_
+2	would	_	VERB	_	_	_	_	_	_
+3	an	_	DET	_	_	_	_	_	_
+4	ass-ignorant	_	ADJ	_	_	_	_	_	_
+5	motherfucker	_	NOUN	_	_	_	_	_	_
+6	like	_	ADP	_	_	_	_	_	_
+7	you	_	PRON	_	_	_	_	_	_
+8	do	_	VERB	_	_	_	_	_	_
+9	with	_	ADP	_	_	_	_	_	_
+10	a	_	DET	_	_	_	_	_	_
+11	computer	_	NOUN	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	don't	_	VERB	_	_	_	_	_	_
+3	know	_	VERB	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	trade	_	VERB	_	_	_	_	_	_
+6	stocks	_	NOUN	_	_	_	_	_	_
+7	and	_	CONJ	_	_	_	_	_	_
+8	shit	_	NOUN	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	jerk	_	VERB	_	_	_	_	_	_
+2	off	_	PART	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	mean	_	VERB	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	we	_	PRON	_	_	_	_	_	_
+2	get	_	VERB	_	_	_	_	_	_
+3	them	_	DET	_	_	_	_	_	_
+4	computers	_	NOUN	_	_	_	_	_	_
+5	hooked	_	ADJ	_	_	_	_	_	_
+6	up	_	PART	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	herc'll	_	NOUN	_	_	_	_	_	_
+9	be	_	VERB	_	_	_	_	_	_
+10	deep	_	ADJ	_	_	_	_	_	_
+11	into	_	ADP	_	_	_	_	_	_
+12	some	_	DET	_	_	_	_	_	_
+13	porn	_	NOUN	_	_	_	_	_	_
+14	and	_	CONJ	_	_	_	_	_	_
+15	kima	_	NOUN	_	_	_	_	_	_
+16	still	_	ADV	_	_	_	_	_	_
+17	be	_	VERB	_	_	_	_	_	_
+18	pecking	_	VERB	_	_	_	_	_	_
+19	out	_	PART	_	_	_	_	_	_
+20	her	_	PRON	_	_	_	_	_	_
+21	24s	_	NUM	_	_	_	_	_	_
+22	on	_	ADP	_	_	_	_	_	_
+23	that	_	DET	_	_	_	_	_	_
+24	old	_	ADJ	_	_	_	_	_	_
+25	piece	_	NOUN	_	_	_	_	_	_
+26	of	_	ADP	_	_	_	_	_	_
+27	shit	_	NOUN	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	gotta	_	VERB	_	_	_	_	_	_
+3	go	_	VERB	_	_	_	_	_	_
+4	upstairs	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	what's	_	PRON	_	_	_	_	_	_
+3	up	_	PART	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+1	deputy's	_	NOUN	_	_	_	_	_	_
+2	throwing	_	VERB	_	_	_	_	_	_
+3	some	_	DET	_	_	_	_	_	_
+4	kinda	_	NOUN	_	_	_	_	_	_
+5	piss-fit	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	major	_	NOUN	_	_	_	_	_	_
+2	know	_	VERB	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	he's	_	PRON	_	_	_	_	_	_
+2	up	_	ADP	_	_	_	_	_	_
+3	there	_	ADV	_	_	_	_	_	_
+4	now	_	ADV	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	with	_	ADP	_	_	_	_	_	_
+2	a	_	DET	_	_	_	_	_	_
+3	mouthful	_	NOUN	_	_	_	_	_	_
+4	of	_	ADP	_	_	_	_	_	_
+5	piss	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	probably	_	ADV	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	like	_	CONJ	_	_	_	_	_	_
+2	our	_	DET	_	_	_	_	_	_
+3	major	_	NOUN	_	_	_	_	_	_
+4	don't	_	VERB	_	_	_	_	_	_
+5	know	_	VERB	_	_	_	_	_	_
+6	what	_	PRON	_	_	_	_	_	_
+7	that	_	PRON	_	_	_	_	_	_
+8	tastes	_	VERB	_	_	_	_	_	_
+9	like	_	ADP	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+
+1	it's	_	PRON	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	chain-of-command	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	baby	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	the	_	DET	_	_	_	_	_	_
+8	shit	_	NOUN	_	_	_	_	_	_
+9	always	_	ADV	_	_	_	_	_	_
+10	rolls	_	VERB	_	_	_	_	_	_
+11	downhill	_	ADV	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	motherfucker	_	NOUN	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	we	_	PRON	_	_	_	_	_	_
+4	talking	_	VERB	_	_	_	_	_	_
+5	about	_	ADP	_	_	_	_	_	_
+6	piss	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	piss	_	NOUN	_	_	_	_	_	_
+2	does	_	VERB	_	_	_	_	_	_
+3	too	_	ADV	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	think	_	VERB	_	_	_	_	_	_
+6	about	_	ADP	_	_	_	_	_	_
+7	it	_	PRON	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	shit	_	NOUN	_	_	_	_	_	_
+2	rolls	_	VERB	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	piss	_	NOUN	_	_	_	_	_	_
+5	trickles	_	VERB	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	downhill	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	though	_	ADV	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	don't	_	VERB	_	_	_	_	_	_
+3	know	_	VERB	_	_	_	_	_	_
+4	that	_	PRON	_	_	_	_	_	_
+5	for	_	ADP	_	_	_	_	_	_
+6	sure	_	ADJ	_	_	_	_	_	_
+7	--	_	PUNCT	_	_	_	_	_	_
+8	not	_	ADV	_	_	_	_	_	_
+9	to	_	ADP	_	_	_	_	_	_
+10	change	_	VERB	_	_	_	_	_	_
+11	the	_	DET	_	_	_	_	_	_
+12	subject	_	NOUN	_	_	_	_	_	_
+13	on	_	ADP	_	_	_	_	_	_
+14	you	_	PRON	_	_	_	_	_	_
+15	two	_	NUM	_	_	_	_	_	_
+16	charmers	_	NOUN	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	but	_	ADP	_	_	_	_	_	_
+19	why	_	ADV	_	_	_	_	_	_
+20	are	_	VERB	_	_	_	_	_	_
+21	there	_	ADV	_	_	_	_	_	_
+22	only	_	ADJ	_	_	_	_	_	_
+23	two	_	NUM	_	_	_	_	_	_
+24	ecu	_	NOUN	_	_	_	_	_	_
+25	numbers	_	NOUN	_	_	_	_	_	_
+26	?	_	PUNCT	_	_	_	_	_	_
+
+1	dope	_	NOUN	_	_	_	_	_	_
+2	and	_	CONJ	_	_	_	_	_	_
+3	guns	_	NOUN	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	two	_	NUM	_	_	_	_	_	_
+2	guns	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	right	_	ADJ	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	that's	_	PRON	_	_	_	_	_	_
+2	three	_	NUM	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	fuck	_	VERB	_	_	_	_	_	_
+2	it	_	PRON	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	kima	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	want	_	VERB	_	_	_	_	_	_
+3	a	_	DET	_	_	_	_	_	_
+4	job	_	NOUN	_	_	_	_	_	_
+5	done	_	VERB	_	_	_	_	_	_
+6	right	_	ADJ	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	you	_	PRON	_	_	_	_	_	_
+9	gotta	_	VERB	_	_	_	_	_	_
+10	do	_	VERB	_	_	_	_	_	_
+11	it	_	PRON	_	_	_	_	_	_
+12	your	_	DET	_	_	_	_	_	_
+13	ownself	_	PRON	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+1	what	_	PRON	_	_	_	_	_	_
+2	he	_	PRON	_	_	_	_	_	_
+3	means	_	VERB	_	_	_	_	_	_
+4	to	_	ADP	_	_	_	_	_	_
+5	say	_	VERB	_	_	_	_	_	_
+6	is	_	VERB	_	_	_	_	_	_
+7	that	_	CONJ	_	_	_	_	_	_
+8	we	_	PRON	_	_	_	_	_	_
+9	are	_	VERB	_	_	_	_	_	_
+10	an	_	DET	_	_	_	_	_	_
+11	effective	_	ADJ	_	_	_	_	_	_
+12	deterrent	_	NOUN	_	_	_	_	_	_
+13	on	_	ADP	_	_	_	_	_	_
+14	the	_	DET	_	_	_	_	_	_
+15	war	_	NOUN	_	_	_	_	_	_
+16	on	_	ADP	_	_	_	_	_	_
+17	drugs	_	NOUN	_	_	_	_	_	_
+18	when	_	ADV	_	_	_	_	_	_
+19	we	_	PRON	_	_	_	_	_	_
+20	are	_	VERB	_	_	_	_	_	_
+21	on	_	ADP	_	_	_	_	_	_
+22	the	_	DET	_	_	_	_	_	_
+23	street	_	NOUN	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+1	fucking	_	VERB	_	_	_	_	_	_
+2	motherfuckers	_	NOUN	_	_	_	_	_	_
+3	up	_	PART	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	right	_	ADJ	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	indeed	_	ADV	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	fuck	_	VERB	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	paperwork	_	NOUN	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	collect	_	VERB	_	_	_	_	_	_
+2	bodies	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	split	_	VERB	_	_	_	_	_	_
+5	heads	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	split	_	VERB	_	_	_	_	_	_
+3	'em	_	PRON	_	_	_	_	_	_
+4	wide	_	ADV	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	western	_	NOUN	_	_	_	_	_	_
+4	district	_	NOUN	_	_	_	_	_	_
+5	way	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	a'ight	_	ADV	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	heroic	_	ADJ	_	_	_	_	_	_
+3	motherfuckers	_	NOUN	_	_	_	_	_	_
+4	kill	_	VERB	_	_	_	_	_	_
+5	me	_	PRON	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	fighting	_	VERB	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	war	_	NOUN	_	_	_	_	_	_
+4	on	_	ADP	_	_	_	_	_	_
+5	drugs	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	one	_	DET	_	_	_	_	_	_
+8	brutality	_	NOUN	_	_	_	_	_	_
+9	case	_	NOUN	_	_	_	_	_	_
+10	at	_	ADP	_	_	_	_	_	_
+11	a	_	DET	_	_	_	_	_	_
+12	time	_	NOUN	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	girl	_	NOUN	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	can't	_	VERB	_	_	_	_	_	_
+5	even	_	ADV	_	_	_	_	_	_
+6	call	_	VERB	_	_	_	_	_	_
+7	this	_	DET	_	_	_	_	_	_
+8	shit	_	NOUN	_	_	_	_	_	_
+9	a	_	DET	_	_	_	_	_	_
+10	war	_	NOUN	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+1	why	_	ADV	_	_	_	_	_	_
+2	not	_	ADV	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	wars	_	NOUN	_	_	_	_	_	_
+2	end	_	VERB	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	gonna	_	VERB	_	_	_	_	_	_
+3	write	_	VERB	_	_	_	_	_	_
+4	that	_	PRON	_	_	_	_	_	_
+5	down	_	ADP	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	how	_	ADV	_	_	_	_	_	_
+2	happy	_	ADJ	_	_	_	_	_	_
+3	am	_	VERB	_	_	_	_	_	_
+4	i	_	PRON	_	_	_	_	_	_
+5	to	_	ADP	_	_	_	_	_	_
+6	see	_	VERB	_	_	_	_	_	_
+7	my	_	DET	_	_	_	_	_	_
+8	pager	_	NOUN	_	_	_	_	_	_
+9	go	_	VERB	_	_	_	_	_	_
+10	off	_	PART	_	_	_	_	_	_
+11	with	_	ADP	_	_	_	_	_	_
+12	your	_	DET	_	_	_	_	_	_
+13	call	_	NOUN	_	_	_	_	_	_
+14	number	_	NOUN	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+
+1	smoke	_	VERB	_	_	_	_	_	_
+2	'em	_	PRON	_	_	_	_	_	_
+3	if	_	CONJ	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	got	_	VERB	_	_	_	_	_	_
+6	'em	_	PRON	_	_	_	_	_	_
+7	because	_	CONJ	_	_	_	_	_	_
+8	this	_	DET	_	_	_	_	_	_
+9	motherfucker	_	NOUN	_	_	_	_	_	_
+10	is	_	VERB	_	_	_	_	_	_
+11	as	_	ADP	_	_	_	_	_	_
+12	ripe	_	ADJ	_	_	_	_	_	_
+13	as	_	ADP	_	_	_	_	_	_
+14	they	_	PRON	_	_	_	_	_	_
+15	get	_	VERB	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+1	we	_	PRON	_	_	_	_	_	_
+2	aren't	_	VERB	_	_	_	_	_	_
+3	up	_	PART	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nolan's	_	DET	_	_	_	_	_	_
+6	squad	_	NOUN	_	_	_	_	_	_
+7	is	_	VERB	_	_	_	_	_	_
+8	up	_	PART	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	know	_	VERB	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	i	_	PRON	_	_	_	_	_	_
+5	know	_	VERB	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	but	_	ADP	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	had	_	VERB	_	_	_	_	_	_
+4	to	_	ADP	_	_	_	_	_	_
+5	answer	_	VERB	_	_	_	_	_	_
+6	the	_	DET	_	_	_	_	_	_
+7	fucking	_	ADJ	_	_	_	_	_	_
+8	phone	_	NOUN	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	didn't	_	VERB	_	_	_	_	_	_
+11	you	_	PRON	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+
+1	got	_	VERB	_	_	_	_	_	_
+2	to	_	ADP	_	_	_	_	_	_
+3	pay	_	VERB	_	_	_	_	_	_
+4	down	_	PART	_	_	_	_	_	_
+5	my	_	DET	_	_	_	_	_	_
+6	credit	_	NOUN	_	_	_	_	_	_
+7	cards	_	NOUN	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	not	_	ADV	_	_	_	_	_	_
+2	off	_	ADP	_	_	_	_	_	_
+3	him	_	PRON	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	ain't	_	VERB	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	motherfucker	_	NOUN	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	PRON	_	_	_	_	_	_
+4	leave	_	VERB	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	alone	_	ADJ	_	_	_	_	_	_
+7	for	_	ADP	_	_	_	_	_	_
+8	a	_	DET	_	_	_	_	_	_
+9	minute	_	NOUN	_	_	_	_	_	_
+10	or	_	CONJ	_	_	_	_	_	_
+11	two	_	NUM	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	what	_	PRON	_	_	_	_	_	_
+14	do	_	VERB	_	_	_	_	_	_
+15	you	_	PRON	_	_	_	_	_	_
+16	do	_	VERB	_	_	_	_	_	_
+17	?	_	PUNCT	_	_	_	_	_	_
+
+1	all	_	ADJ	_	_	_	_	_	_
+2	right	_	ADJ	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	i	_	PRON	_	_	_	_	_	_
+5	heard	_	VERB	_	_	_	_	_	_
+6	you	_	PRON	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	well	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	say	_	VERB	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	words	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	bunk	_	NOUN	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	c'mon	_	VERB	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	man	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	speak	_	VERB	_	_	_	_	_	_
+3	to	_	ADP	_	_	_	_	_	_
+4	me	_	PRON	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	so	_	CONJ	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	gonna	_	VERB	_	_	_	_	_	_
+5	cut	_	VERB	_	_	_	_	_	_
+6	and	_	CONJ	_	_	_	_	_	_
+7	run	_	VERB	_	_	_	_	_	_
+8	on	_	ADP	_	_	_	_	_	_
+9	the	_	DET	_	_	_	_	_	_
+10	bunk	_	NOUN	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+
+1	that	_	DET	_	_	_	_	_	_
+2	shit	_	NOUN	_	_	_	_	_	_
+3	ain't	_	VERB	_	_	_	_	_	_
+4	right	_	ADJ	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	jimmy	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	all	_	ADJ	_	_	_	_	_	_
+2	right	_	ADJ	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	then	_	ADV	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	this	_	PRON	_	_	_	_	_	_
+7	is	_	VERB	_	_	_	_	_	_
+8	my	_	DET	_	_	_	_	_	_
+9	case	_	NOUN	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	my	_	DET	_	_	_	_	_	_
+2	file	_	NOUN	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	this	_	DET	_	_	_	_	_	_
+2	shit	_	NOUN	_	_	_	_	_	_
+3	comes	_	VERB	_	_	_	_	_	_
+4	back	_	ADV	_	_	_	_	_	_
+5	a	_	DET	_	_	_	_	_	_
+6	murder	_	NOUN	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	you	_	PRON	_	_	_	_	_	_
+9	ain't	_	VERB	_	_	_	_	_	_
+10	gotta	_	VERB	_	_	_	_	_	_
+11	do	_	VERB	_	_	_	_	_	_
+12	shit	_	NOUN	_	_	_	_	_	_
+13	but	_	ADP	_	_	_	_	_	_
+14	stand	_	VERB	_	_	_	_	_	_
+15	there	_	ADV	_	_	_	_	_	_
+16	and	_	CONJ	_	_	_	_	_	_
+17	laugh	_	VERB	_	_	_	_	_	_
+18	at	_	ADP	_	_	_	_	_	_
+19	me	_	PRON	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	happy	_	ADJ	_	_	_	_	_	_
+3	now	_	ADV	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	bitch	_	NOUN	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+
+1	this'll	_	PRON	_	_	_	_	_	_
+2	teach	_	VERB	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	to	_	ADP	_	_	_	_	_	_
+5	give	_	VERB	_	_	_	_	_	_
+6	a	_	DET	_	_	_	_	_	_
+7	fuck	_	NOUN	_	_	_	_	_	_
+8	when	_	ADV	_	_	_	_	_	_
+9	it	_	PRON	_	_	_	_	_	_
+10	ain't	_	VERB	_	_	_	_	_	_
+11	your	_	DET	_	_	_	_	_	_
+12	turn	_	NOUN	_	_	_	_	_	_
+13	to	_	ADP	_	_	_	_	_	_
+14	give	_	VERB	_	_	_	_	_	_
+15	a	_	DET	_	_	_	_	_	_
+16	fuck	_	NOUN	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+1	it	_	PRON	_	_	_	_	_	_
+2	ain't	_	VERB	_	_	_	_	_	_
+3	even	_	ADV	_	_	_	_	_	_
+4	gonna	_	VERB	_	_	_	_	_	_
+5	be	_	VERB	_	_	_	_	_	_
+6	a	_	DET	_	_	_	_	_	_
+7	murder	_	NOUN	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	this	_	DET	_	_	_	_	_	_
+2	motherfucker	_	NOUN	_	_	_	_	_	_
+3	probably	_	ADV	_	_	_	_	_	_
+4	came	_	VERB	_	_	_	_	_	_
+5	in	_	PART	_	_	_	_	_	_
+6	here	_	ADV	_	_	_	_	_	_
+7	to	_	ADP	_	_	_	_	_	_
+8	take	_	VERB	_	_	_	_	_	_
+9	a	_	DET	_	_	_	_	_	_
+10	shit	_	NOUN	_	_	_	_	_	_
+11	or	_	CONJ	_	_	_	_	_	_
+12	something	_	NOUN	_	_	_	_	_	_
+13	and	_	CONJ	_	_	_	_	_	_
+14	just	_	ADV	_	_	_	_	_	_
+15	fell	_	VERB	_	_	_	_	_	_
+16	out	_	PART	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	bet	_	VERB	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	there	_	ADV	_	_	_	_	_	_
+5	ain't	_	VERB	_	_	_	_	_	_
+6	nothing	_	PRON	_	_	_	_	_	_
+7	to	_	ADP	_	_	_	_	_	_
+8	it	_	PRON	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	hope	_	VERB	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	where	_	ADV	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	going	_	VERB	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	back	_	ADV	_	_	_	_	_	_
+2	to	_	ADP	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	office	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	where	_	ADV	_	_	_	_	_	_
+7	i	_	PRON	_	_	_	_	_	_
+8	belong	_	VERB	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	...	_	PUNCT	_	_	_	_	_	_
+3	moldering	_	ADJ	_	_	_	_	_	_
+4	motherfucker	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	don't	_	VERB	_	_	_	_	_	_
+2	even	_	ADV	_	_	_	_	_	_
+3	think	_	VERB	_	_	_	_	_	_
+4	about	_	ADP	_	_	_	_	_	_
+5	coming	_	VERB	_	_	_	_	_	_
+6	back	_	PART	_	_	_	_	_	_
+7	a	_	DET	_	_	_	_	_	_
+8	murder	_	NOUN	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	don't	_	VERB	_	_	_	_	_	_
+2	even	_	ADV	_	_	_	_	_	_
+3	think	_	VERB	_	_	_	_	_	_
+4	of	_	ADP	_	_	_	_	_	_
+5	that	_	DET	_	_	_	_	_	_
+6	shit	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	by	_	ADP	_	_	_	_	_	_
+2	tomorrow	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	lieutenant	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	don't	_	VERB	_	_	_	_	_	_
+2	fail	_	VERB	_	_	_	_	_	_
+3	me	_	PRON	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	major's	_	NOUN	_	_	_	_	_	_
+2	pissed	_	VERB	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	he	_	PRON	_	_	_	_	_	_
+2	should	_	VERB	_	_	_	_	_	_
+3	be	_	VERB	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	he	_	PRON	_	_	_	_	_	_
+2	didn't	_	VERB	_	_	_	_	_	_
+3	have	_	VERB	_	_	_	_	_	_
+4	answers	_	NOUN	_	_	_	_	_	_
+5	for	_	ADP	_	_	_	_	_	_
+6	the	_	DET	_	_	_	_	_	_
+7	deputy's	_	NOUN	_	_	_	_	_	_
+8	questions	_	NOUN	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	about	_	ADP	_	_	_	_	_	_
+2	what	_	PRON	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	avon	_	NOUN	_	_	_	_	_	_
+2	barksdale	_	NOUN	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	who	_	PRON	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+
+1	that's	_	PRON	_	_	_	_	_	_
+2	what	_	PRON	_	_	_	_	_	_
+3	i	_	PRON	_	_	_	_	_	_
+4	said	_	VERB	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	who	_	PRON	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	fuck	_	NOUN	_	_	_	_	_	_
+4	is	_	VERB	_	_	_	_	_	_
+5	avon	_	NOUN	_	_	_	_	_	_
+6	barksdale	_	NOUN	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+
+1	according	_	ADP	_	_	_	_	_	_
+2	to	_	ADP	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	right	_	ADJ	_	_	_	_	_	_
+5	honorable	_	ADJ	_	_	_	_	_	_
+6	judge	_	NOUN	_	_	_	_	_	_
+7	phelan	_	NOUN	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	DET	_	_	_	_	_	_
+10	westside	_	ADJ	_	_	_	_	_	_
+11	player	_	NOUN	_	_	_	_	_	_
+12	who	_	PRON	_	_	_	_	_	_
+13	apparently	_	ADV	_	_	_	_	_	_
+14	indulges	_	VERB	_	_	_	_	_	_
+15	in	_	ADP	_	_	_	_	_	_
+16	the	_	DET	_	_	_	_	_	_
+17	occasional	_	ADJ	_	_	_	_	_	_
+18	murder	_	NOUN	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+1	now	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	as	_	ADP	_	_	_	_	_	_
+4	of	_	ADP	_	_	_	_	_	_
+5	today	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	i	_	PRON	_	_	_	_	_	_
+8	never	_	ADV	_	_	_	_	_	_
+9	heard	_	VERB	_	_	_	_	_	_
+10	of	_	ADP	_	_	_	_	_	_
+11	mr.	_	NOUN	_	_	_	_	_	_
+12	barksdale	_	NOUN	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	but	_	CONJ	_	_	_	_	_	_
+15	by	_	ADP	_	_	_	_	_	_
+16	tomorrow	_	NOUN	_	_	_	_	_	_
+17	...	_	PUNCT	_	_	_	_	_	_
+
+1	all	_	ADJ	_	_	_	_	_	_
+2	right	_	ADJ	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	what	_	PRON	_	_	_	_	_	_
+5	do	_	VERB	_	_	_	_	_	_
+6	we	_	PRON	_	_	_	_	_	_
+7	know	_	VERB	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+
+1	according	_	ADP	_	_	_	_	_	_
+2	to	_	ADP	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	judge	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	he	_	PRON	_	_	_	_	_	_
+7	has	_	VERB	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	westside	_	ADJ	_	_	_	_	_	_
+10	high-rises	_	NOUN	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+1	the	_	DET	_	_	_	_	_	_
+2	terrace	_	NOUN	_	_	_	_	_	_
+3	mostly	_	ADV	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	sounds	_	VERB	_	_	_	_	_	_
+2	like	_	ADP	_	_	_	_	_	_
+3	a	_	DET	_	_	_	_	_	_
+4	bunch	_	NOUN	_	_	_	_	_	_
+5	of	_	ADP	_	_	_	_	_	_
+6	bullshit	_	NOUN	_	_	_	_	_	_
+7	to	_	ADP	_	_	_	_	_	_
+8	me	_	PRON	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	boss	_	NOUN	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+1	maybe	_	ADV	_	_	_	_	_	_
+2	so	_	ADV	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	it's	_	PRON	_	_	_	_	_	_
+2	gotta	_	VERB	_	_	_	_	_	_
+3	be	_	VERB	_	_	_	_	_	_
+4	tonight	_	NOUN	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	major	_	NOUN	_	_	_	_	_	_
+2	wants	_	VERB	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	file	_	NOUN	_	_	_	_	_	_
+5	by	_	ADP	_	_	_	_	_	_
+6	morning	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	call	_	VERB	_	_	_	_	_	_
+2	andrews	_	NOUN	_	_	_	_	_	_
+3	at	_	ADP	_	_	_	_	_	_
+4	dea	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	see	_	VERB	_	_	_	_	_	_
+2	what	_	PRON	_	_	_	_	_	_
+3	they	_	PRON	_	_	_	_	_	_
+4	have	_	VERB	_	_	_	_	_	_
+5	on	_	ADP	_	_	_	_	_	_
+6	this	_	DET	_	_	_	_	_	_
+7	mope	_	NOUN	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	what	_	PRON	_	_	_	_	_	_
+2	about	_	ADP	_	_	_	_	_	_
+3	homicide	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	i	_	PRON	_	_	_	_	_	_
+6	mean	_	VERB	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	if	_	CONJ	_	_	_	_	_	_
+9	the	_	DET	_	_	_	_	_	_
+10	guy's	_	NOUN	_	_	_	_	_	_
+11	doing	_	VERB	_	_	_	_	_	_
+12	murders	_	NOUN	_	_	_	_	_	_
+13	--	_	PUNCT	_	_	_	_	_	_
+
+1	homicide	_	NOUN	_	_	_	_	_	_
+2	major	_	NOUN	_	_	_	_	_	_
+3	was	_	VERB	_	_	_	_	_	_
+4	in	_	ADP	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	same	_	ADJ	_	_	_	_	_	_
+7	meeting	_	NOUN	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	his	_	DET	_	_	_	_	_	_
+2	people	_	NOUN	_	_	_	_	_	_
+3	will	_	VERB	_	_	_	_	_	_
+4	be	_	VERB	_	_	_	_	_	_
+5	scrambling	_	VERB	_	_	_	_	_	_
+6	to	_	ADP	_	_	_	_	_	_
+7	put	_	VERB	_	_	_	_	_	_
+8	something	_	NOUN	_	_	_	_	_	_
+9	on	_	PART	_	_	_	_	_	_
+10	paper	_	NOUN	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	too	_	ADV	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	doubt	_	VERB	_	_	_	_	_	_
+3	they'll	_	PRON	_	_	_	_	_	_
+4	be	_	VERB	_	_	_	_	_	_
+5	willing	_	VERB	_	_	_	_	_	_
+6	to	_	ADP	_	_	_	_	_	_
+7	share	_	VERB	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	but	_	CONJ	_	_	_	_	_	_
+10	you	_	PRON	_	_	_	_	_	_
+11	can	_	VERB	_	_	_	_	_	_
+12	try	_	VERB	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	barksdale	_	NOUN	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	avon	_	NOUN	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	got	_	VERB	_	_	_	_	_	_
+2	a	_	DET	_	_	_	_	_	_
+3	dob	_	NOUN	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+1	hey	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	jay	_	NOUN	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	where	_	ADV	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	fuck	_	NOUN	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	been	_	VERB	_	_	_	_	_	_
+6	all	_	DET	_	_	_	_	_	_
+7	day	_	NOUN	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+
+1	drinking	_	VERB	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	crack	_	NOUN	_	_	_	_	_	_
+4	smoking	_	VERB	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	whoring	_	VERB	_	_	_	_	_	_
+2	myself	_	PRON	_	_	_	_	_	_
+3	on	_	ADP	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	streets	_	NOUN	_	_	_	_	_	_
+6	of	_	ADP	_	_	_	_	_	_
+7	baltimore	_	NOUN	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	well	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	okay	_	ADV	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	just	_	ADV	_	_	_	_	_	_
+2	so	_	ADV	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	have	_	VERB	_	_	_	_	_	_
+5	an	_	DET	_	_	_	_	_	_
+6	excuse	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	but	_	CONJ	_	_	_	_	_	_
+2	your	_	DET	_	_	_	_	_	_
+3	fuck	_	NOUN	_	_	_	_	_	_
+4	of	_	ADP	_	_	_	_	_	_
+5	a	_	DET	_	_	_	_	_	_
+6	partner	_	NOUN	_	_	_	_	_	_
+7	picked	_	VERB	_	_	_	_	_	_
+8	up	_	PART	_	_	_	_	_	_
+9	the	_	DET	_	_	_	_	_	_
+10	phone	_	NOUN	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	caught	_	VERB	_	_	_	_	_	_
+13	a	_	DET	_	_	_	_	_	_
+14	call	_	NOUN	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+1	yeah	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	PRON	_	_	_	_	_	_
+4	saw	_	VERB	_	_	_	_	_	_
+5	him	_	PRON	_	_	_	_	_	_
+6	out	_	ADP	_	_	_	_	_	_
+7	there	_	ADV	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	yeah	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	what'd	_	PRON	_	_	_	_	_	_
+4	he	_	PRON	_	_	_	_	_	_
+5	get	_	VERB	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	decomp	_	NOUN	_	_	_	_	_	_
+2	in	_	ADP	_	_	_	_	_	_
+3	a	_	DET	_	_	_	_	_	_
+4	vacant	_	ADJ	_	_	_	_	_	_
+5	apartment	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	fuck	_	X	_	_	_	_	_	_
+2	!	_	PUNCT	_	_	_	_	_	_
+
+1	nolan's	_	DET	_	_	_	_	_	_
+2	squad	_	NOUN	_	_	_	_	_	_
+3	was	_	VERB	_	_	_	_	_	_
+4	up	_	PART	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	that	_	DET	_	_	_	_	_	_
+7	one	_	NOUN	_	_	_	_	_	_
+8	should	_	VERB	_	_	_	_	_	_
+9	be	_	VERB	_	_	_	_	_	_
+10	theirs	_	PRON	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+1	hey	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	it's	_	PRON	_	_	_	_	_	_
+4	a	_	DET	_	_	_	_	_	_
+5	decomp	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	maybe	_	ADV	_	_	_	_	_	_
+2	it	_	PRON	_	_	_	_	_	_
+3	comes	_	VERB	_	_	_	_	_	_
+4	back	_	PART	_	_	_	_	_	_
+5	a	_	DET	_	_	_	_	_	_
+6	natural	_	ADJ	_	_	_	_	_	_
+7	death	_	NOUN	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	think	_	VERB	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+1	-	_	PUNCT	_	_	_	_	_	_
+2	in	_	ADP	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	poe	_	NOUN	_	_	_	_	_	_
+5	homes	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	no	_	DET	_	_	_	_	_	_
+8	fucking	_	ADJ	_	_	_	_	_	_
+9	way	_	NOUN	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	hold	_	VERB	_	_	_	_	_	_
+2	up	_	PART	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	major	_	NOUN	_	_	_	_	_	_
+2	wants	_	VERB	_	_	_	_	_	_
+3	to	_	ADP	_	_	_	_	_	_
+4	talk	_	VERB	_	_	_	_	_	_
+5	to	_	ADP	_	_	_	_	_	_
+6	you	_	PRON	_	_	_	_	_	_
+7	before	_	ADP	_	_	_	_	_	_
+8	you	_	PRON	_	_	_	_	_	_
+9	roll	_	VERB	_	_	_	_	_	_
+10	out	_	PART	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+1	what	_	PRON	_	_	_	_	_	_
+2	about	_	ADP	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	fuck	_	NOUN	_	_	_	_	_	_
+2	should	_	VERB	_	_	_	_	_	_
+3	i	_	PRON	_	_	_	_	_	_
+4	know	_	VERB	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	i'm	_	PRON	_	_	_	_	_	_
+7	only	_	ADV	_	_	_	_	_	_
+8	your	_	DET	_	_	_	_	_	_
+9	sergeant	_	NOUN	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	sit	_	VERB	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	fuck	_	NOUN	_	_	_	_	_	_
+4	down	_	PART	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	detective	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	something	_	PRON	_	_	_	_	_	_
+2	wrong	_	ADJ	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	put	_	VERB	_	_	_	_	_	_
+2	your	_	DET	_	_	_	_	_	_
+3	ass	_	NOUN	_	_	_	_	_	_
+4	in	_	ADP	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	chair	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	see	_	VERB	_	_	_	_	_	_
+3	these	_	PRON	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	mcnulty	_	NOUN	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	you	_	PRON	_	_	_	_	_	_
+8	see	_	VERB	_	_	_	_	_	_
+9	'em	_	PRON	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+
+1	these	_	PRON	_	_	_	_	_	_
+2	are	_	VERB	_	_	_	_	_	_
+3	for	_	ADP	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	these	_	PRON	_	_	_	_	_	_
+2	are	_	VERB	_	_	_	_	_	_
+3	for	_	ADP	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	for	_	ADP	_	_	_	_	_	_
+6	as	_	ADP	_	_	_	_	_	_
+7	long	_	ADJ	_	_	_	_	_	_
+8	as	_	ADP	_	_	_	_	_	_
+9	it	_	PRON	_	_	_	_	_	_
+10	takes	_	VERB	_	_	_	_	_	_
+11	me	_	PRON	_	_	_	_	_	_
+12	to	_	ADP	_	_	_	_	_	_
+13	get	_	VERB	_	_	_	_	_	_
+14	even	_	PART	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+1	major	_	NOUN	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	what	_	PRON	_	_	_	_	_	_
+4	--	_	PUNCT	_	_	_	_	_	_
+
+1	don't	_	VERB	_	_	_	_	_	_
+2	"	_	PUNCT	_	_	_	_	_	_
+3	major	_	VERB	_	_	_	_	_	_
+4	"	_	PUNCT	_	_	_	_	_	_
+5	me	_	PRON	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	you	_	PRON	_	_	_	_	_	_
+8	back-stabbing	_	NOUN	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	smartass	_	NOUN	_	_	_	_	_	_
+11	piece	_	NOUN	_	_	_	_	_	_
+12	of	_	ADP	_	_	_	_	_	_
+13	shit	_	NOUN	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+1	what	_	PRON	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	fuck	_	NOUN	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	doing	_	VERB	_	_	_	_	_	_
+6	over	_	ADP	_	_	_	_	_	_
+7	at	_	ADP	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	courthouse	_	NOUN	_	_	_	_	_	_
+10	anyway	_	ADV	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+
+1	why	_	ADV	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	fuck	_	NOUN	_	_	_	_	_	_
+4	are	_	VERB	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	talking	_	VERB	_	_	_	_	_	_
+7	to	_	ADP	_	_	_	_	_	_
+8	some	_	DET	_	_	_	_	_	_
+9	shitbag	_	ADJ	_	_	_	_	_	_
+10	judge	_	NOUN	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+
+1	these	_	PRON	_	_	_	_	_	_
+2	are	_	VERB	_	_	_	_	_	_
+3	for	_	ADP	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	mcnulty	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	this	_	DET	_	_	_	_	_	_
+2	one	_	NOUN	_	_	_	_	_	_
+3	over	_	ADP	_	_	_	_	_	_
+4	here	_	ADV	_	_	_	_	_	_
+5	is	_	VERB	_	_	_	_	_	_
+6	going	_	VERB	_	_	_	_	_	_
+7	up	_	ADP	_	_	_	_	_	_
+8	your	_	DET	_	_	_	_	_	_
+9	narrow	_	ADJ	_	_	_	_	_	_
+10	fucking	_	ADJ	_	_	_	_	_	_
+11	irish	_	ADJ	_	_	_	_	_	_
+12	ass	_	NOUN	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	this	_	DET	_	_	_	_	_	_
+3	bad	_	ADJ	_	_	_	_	_	_
+4	boy	_	NOUN	_	_	_	_	_	_
+5	over	_	ADP	_	_	_	_	_	_
+6	here	_	ADV	_	_	_	_	_	_
+7	is	_	VERB	_	_	_	_	_	_
+8	in	_	ADP	_	_	_	_	_	_
+9	your	_	DET	_	_	_	_	_	_
+10	fucking	_	ADJ	_	_	_	_	_	_
+11	eye	_	NOUN	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	i'm	_	PRON	_	_	_	_	_	_
+2	upstairs	_	NOUN	_	_	_	_	_	_
+3	answering	_	VERB	_	_	_	_	_	_
+4	questions	_	NOUN	_	_	_	_	_	_
+5	about	_	ADP	_	_	_	_	_	_
+6	some	_	DET	_	_	_	_	_	_
+7	project	_	NOUN	_	_	_	_	_	_
+8	nigger	_	NOUN	_	_	_	_	_	_
+9	i	_	PRON	_	_	_	_	_	_
+10	never	_	ADV	_	_	_	_	_	_
+11	even	_	ADV	_	_	_	_	_	_
+12	heard	_	VERB	_	_	_	_	_	_
+13	of	_	ADP	_	_	_	_	_	_
+14	who's	_	PRON	_	_	_	_	_	_
+15	supposed	_	VERB	_	_	_	_	_	_
+16	to	_	ADP	_	_	_	_	_	_
+17	have	_	VERB	_	_	_	_	_	_
+18	beat	_	VERB	_	_	_	_	_	_
+19	my	_	DET	_	_	_	_	_	_
+20	unit	_	NOUN	_	_	_	_	_	_
+21	out	_	PART	_	_	_	_	_	_
+22	of	_	ADP	_	_	_	_	_	_
+23	!digits	_	NUM	_	_	_	_	_	_
+24	murders	_	NOUN	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+1	three	_	NUM	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	they	_	PRON	_	_	_	_	_	_
+2	only	_	ADJ	_	_	_	_	_	_
+3	beat	_	VERB	_	_	_	_	_	_
+4	three	_	NUM	_	_	_	_	_	_
+5	in	_	ADP	_	_	_	_	_	_
+6	court	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	got	_	VERB	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	deputy	_	NOUN	_	_	_	_	_	_
+5	asking	_	VERB	_	_	_	_	_	_
+6	about	_	ADP	_	_	_	_	_	_
+7	!digits	_	NUM	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	no	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	they	_	PRON	_	_	_	_	_	_
+4	did	_	VERB	_	_	_	_	_	_
+5	!digits	_	NUM	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	we	_	PRON	_	_	_	_	_	_
+8	only	_	ADJ	_	_	_	_	_	_
+9	charged	_	VERB	_	_	_	_	_	_
+10	them	_	PRON	_	_	_	_	_	_
+11	with	_	ADP	_	_	_	_	_	_
+12	three	_	NUM	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	you're	_	PRON	_	_	_	_	_	_
+2	full	_	ADJ	_	_	_	_	_	_
+3	of	_	ADP	_	_	_	_	_	_
+4	shit	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	well	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	sir	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	can	_	VERB	_	_	_	_	_	_
+7	check	_	VERB	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	files	_	NOUN	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	maurice	_	NOUN	_	_	_	_	_	_
+2	scroggins	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	toreen	_	NOUN	_	_	_	_	_	_
+5	boyd	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	roland	_	NOUN	_	_	_	_	_	_
+8	leggett	_	NOUN	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	what's	_	PRON	_	_	_	_	_	_
+11	her	_	DET	_	_	_	_	_	_
+12	name	_	NOUN	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	the	_	DET	_	_	_	_	_	_
+15	girl	_	NOUN	_	_	_	_	_	_
+16	they	_	PRON	_	_	_	_	_	_
+17	found	_	VERB	_	_	_	_	_	_
+18	in	_	ADP	_	_	_	_	_	_
+19	the	_	DET	_	_	_	_	_	_
+20	stairwell	_	NOUN	_	_	_	_	_	_
+21	on	_	ADP	_	_	_	_	_	_
+22	saratoga	_	NOUN	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	collette	_	NOUN	_	_	_	_	_	_
+25	something	_	NOUN	_	_	_	_	_	_
+26	or	_	CONJ	_	_	_	_	_	_
+27	other	_	NOUN	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	mean	_	VERB	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	major	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	these	_	DET	_	_	_	_	_	_
+7	guys	_	NOUN	_	_	_	_	_	_
+8	are	_	VERB	_	_	_	_	_	_
+9	real	_	ADJ	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	they	_	PRON	_	_	_	_	_	_
+2	beat	_	VERB	_	_	_	_	_	_
+3	me	_	PRON	_	_	_	_	_	_
+4	up	_	PART	_	_	_	_	_	_
+5	on	_	ADP	_	_	_	_	_	_
+6	the	_	DET	_	_	_	_	_	_
+7	gerard	_	NOUN	_	_	_	_	_	_
+8	bogue	_	NOUN	_	_	_	_	_	_
+9	case	_	NOUN	_	_	_	_	_	_
+10	just	_	ADV	_	_	_	_	_	_
+11	like	_	ADP	_	_	_	_	_	_
+12	they	_	PRON	_	_	_	_	_	_
+13	did	_	VERB	_	_	_	_	_	_
+14	barlow	_	NOUN	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+1	scroggins	_	NOUN	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	don't	_	VERB	_	_	_	_	_	_
+3	have	_	VERB	_	_	_	_	_	_
+4	an	_	DET	_	_	_	_	_	_
+5	h-file	_	NOUN	_	_	_	_	_	_
+6	on	_	ADP	_	_	_	_	_	_
+7	scroggins	_	NOUN	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	he	_	PRON	_	_	_	_	_	_
+2	was	_	VERB	_	_	_	_	_	_
+3	last	_	ADJ	_	_	_	_	_	_
+4	year	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	summer	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	two	_	NUM	_	_	_	_	_	_
+2	in	_	ADP	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	back	_	NOUN	_	_	_	_	_	_
+5	of	_	ADP	_	_	_	_	_	_
+6	the	_	DET	_	_	_	_	_	_
+7	head	_	NOUN	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	low-rise	_	NOUN	_	_	_	_	_	_
+10	courtyard	_	NOUN	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+1	let	_	VERB	_	_	_	_	_	_
+2	me	_	PRON	_	_	_	_	_	_
+3	understand	_	VERB	_	_	_	_	_	_
+4	something	_	PRON	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	are	_	VERB	_	_	_	_	_	_
+3	having	_	VERB	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	deputy	_	NOUN	_	_	_	_	_	_
+6	bust	_	VERB	_	_	_	_	_	_
+7	my	_	DET	_	_	_	_	_	_
+8	balls	_	NOUN	_	_	_	_	_	_
+9	over	_	ADP	_	_	_	_	_	_
+10	a	_	DET	_	_	_	_	_	_
+11	prior-year	_	NOUN	_	_	_	_	_	_
+12	case	_	NOUN	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+
+1	is	_	VERB	_	_	_	_	_	_
+2	this	_	PRON	_	_	_	_	_	_
+3	what	_	PRON	_	_	_	_	_	_
+4	i	_	PRON	_	_	_	_	_	_
+5	need	_	VERB	_	_	_	_	_	_
+6	from	_	ADP	_	_	_	_	_	_
+7	you	_	PRON	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	you	_	PRON	_	_	_	_	_	_
+10	insubordinate	_	ADJ	_	_	_	_	_	_
+11	little	_	ADJ	_	_	_	_	_	_
+12	fuck	_	NOUN	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+
+1	major	_	NOUN	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	look	_	VERB	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	i'm	_	PRON	_	_	_	_	_	_
+6	really	_	ADV	_	_	_	_	_	_
+7	sorry	_	ADJ	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	phelan	_	NOUN	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	PRON	_	_	_	_	_	_
+4	and	_	CONJ	_	_	_	_	_	_
+5	i	_	PRON	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	we	_	PRON	_	_	_	_	_	_
+8	go	_	VERB	_	_	_	_	_	_
+9	back	_	PART	_	_	_	_	_	_
+10	a	_	DET	_	_	_	_	_	_
+11	little	_	ADJ	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	you	_	PRON	_	_	_	_	_	_
+14	know	_	VERB	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+
+1	he	_	PRON	_	_	_	_	_	_
+2	wanted	_	VERB	_	_	_	_	_	_
+3	to	_	ADP	_	_	_	_	_	_
+4	know	_	VERB	_	_	_	_	_	_
+5	what	_	PRON	_	_	_	_	_	_
+6	i	_	PRON	_	_	_	_	_	_
+7	know	_	VERB	_	_	_	_	_	_
+8	about	_	ADP	_	_	_	_	_	_
+9	the	_	DET	_	_	_	_	_	_
+10	crew	_	NOUN	_	_	_	_	_	_
+11	in	_	ADP	_	_	_	_	_	_
+12	his	_	DET	_	_	_	_	_	_
+13	court	_	NOUN	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	didn't	_	VERB	_	_	_	_	_	_
+3	mean	_	VERB	_	_	_	_	_	_
+4	to	_	ADP	_	_	_	_	_	_
+5	cross	_	VERB	_	_	_	_	_	_
+6	you	_	PRON	_	_	_	_	_	_
+7	up	_	PART	_	_	_	_	_	_
+8	--	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	had	_	VERB	_	_	_	_	_	_
+3	to	_	ADP	_	_	_	_	_	_
+4	go	_	VERB	_	_	_	_	_	_
+5	upstairs	_	NOUN	_	_	_	_	_	_
+6	knowing	_	VERB	_	_	_	_	_	_
+7	nothing	_	PRON	_	_	_	_	_	_
+8	and	_	CONJ	_	_	_	_	_	_
+9	explain	_	VERB	_	_	_	_	_	_
+10	to	_	ADP	_	_	_	_	_	_
+11	the	_	DET	_	_	_	_	_	_
+12	deputy	_	NOUN	_	_	_	_	_	_
+13	why	_	ADV	_	_	_	_	_	_
+14	he's	_	PRON	_	_	_	_	_	_
+15	getting	_	VERB	_	_	_	_	_	_
+16	calls	_	VERB	_	_	_	_	_	_
+17	about	_	ADP	_	_	_	_	_	_
+18	murders	_	NOUN	_	_	_	_	_	_
+19	that	_	PRON	_	_	_	_	_	_
+20	don't	_	VERB	_	_	_	_	_	_
+21	mean	_	VERB	_	_	_	_	_	_
+22	a	_	DET	_	_	_	_	_	_
+23	shit	_	NOUN	_	_	_	_	_	_
+24	to	_	ADP	_	_	_	_	_	_
+25	anybody	_	PRON	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+1	look	_	VERB	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	sir	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	this	_	DET	_	_	_	_	_	_
+6	judge	_	NOUN	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	PRON	_	_	_	_	_	_
+9	fucks	_	VERB	_	_	_	_	_	_
+10	me	_	PRON	_	_	_	_	_	_
+11	up	_	PART	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	he	_	PRON	_	_	_	_	_	_
+2	asks	_	VERB	_	_	_	_	_	_
+3	me	_	PRON	_	_	_	_	_	_
+4	a	_	DET	_	_	_	_	_	_
+5	question	_	NOUN	_	_	_	_	_	_
+6	and	_	CONJ	_	_	_	_	_	_
+7	i	_	PRON	_	_	_	_	_	_
+8	answer	_	VERB	_	_	_	_	_	_
+9	it	_	PRON	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	didn't	_	VERB	_	_	_	_	_	_
+3	know	_	VERB	_	_	_	_	_	_
+4	he	_	PRON	_	_	_	_	_	_
+5	was	_	VERB	_	_	_	_	_	_
+6	gonna	_	VERB	_	_	_	_	_	_
+7	call	_	VERB	_	_	_	_	_	_
+8	anybody	_	PRON	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	have	_	VERB	_	_	_	_	_	_
+3	my	_	DET	_	_	_	_	_	_
+4	attention	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	detective	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	my	_	DET	_	_	_	_	_	_
+2	complete	_	ADJ	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	undivided	_	ADJ	_	_	_	_	_	_
+5	attention	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	yes	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	sir	_	NOUN	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	where	_	ADV	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	going	_	VERB	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+1	i'm	_	PRON	_	_	_	_	_	_
+2	eight-to-four	_	NOUN	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	no	_	ADV	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	you're	_	PRON	_	_	_	_	_	_
+2	typing	_	VERB	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	sir	_	NOUN	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+
+1	deputy	_	NOUN	_	_	_	_	_	_
+2	wants	_	VERB	_	_	_	_	_	_
+3	a	_	DET	_	_	_	_	_	_
+4	report	_	NOUN	_	_	_	_	_	_
+5	on	_	ADP	_	_	_	_	_	_
+6	his	_	DET	_	_	_	_	_	_
+7	desk	_	NOUN	_	_	_	_	_	_
+8	at	_	ADP	_	_	_	_	_	_
+9	!digits	_	NUM	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	a	_	DET	_	_	_	_	_	_
+2	report	_	NOUN	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	clean	_	ADJ	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	DET	_	_	_	_	_	_
+4	typos	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	make	_	VERB	_	_	_	_	_	_
+2	it	_	PRON	_	_	_	_	_	_
+3	look	_	VERB	_	_	_	_	_	_
+4	right	_	ADJ	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	then	_	ADV	_	_	_	_	_	_
+7	put	_	VERB	_	_	_	_	_	_
+8	my	_	DET	_	_	_	_	_	_
+9	name	_	NOUN	_	_	_	_	_	_
+10	on	_	ADP	_	_	_	_	_	_
+11	it	_	PRON	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	do	_	VERB	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	want	_	VERB	_	_	_	_	_	_
+4	to	_	ADP	_	_	_	_	_	_
+5	reference	_	VERB	_	_	_	_	_	_
+6	all	_	DET	_	_	_	_	_	_
+7	the	_	DET	_	_	_	_	_	_
+8	murders	_	NOUN	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+
+1	or	_	CONJ	_	_	_	_	_	_
+2	should	_	VERB	_	_	_	_	_	_
+3	i	_	PRON	_	_	_	_	_	_
+4	soft-pedal	_	VERB	_	_	_	_	_	_
+5	that	_	PRON	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+
+1	fucking	_	ADJ	_	_	_	_	_	_
+2	horse	_	NOUN	_	_	_	_	_	_
+3	is	_	VERB	_	_	_	_	_	_
+4	out	_	ADP	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	barn	_	NOUN	_	_	_	_	_	_
+7	door	_	NOUN	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	right	_	ADJ	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+
+1	let's	_	VERB	_	_	_	_	_	_
+2	try	_	VERB	_	_	_	_	_	_
+3	not	_	ADV	_	_	_	_	_	_
+4	to	_	ADP	_	_	_	_	_	_
+5	make	_	VERB	_	_	_	_	_	_
+6	me	_	PRON	_	_	_	_	_	_
+7	look	_	VERB	_	_	_	_	_	_
+8	stupid	_	ADJ	_	_	_	_	_	_
+9	twice	_	NUM	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	when	_	ADV	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	list	_	VERB	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	cases	_	NOUN	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	put	_	VERB	_	_	_	_	_	_
+9	a	_	DET	_	_	_	_	_	_
+10	little	_	ADJ	_	_	_	_	_	_
+11	dot	_	NOUN	_	_	_	_	_	_
+12	next	_	ADJ	_	_	_	_	_	_
+13	to	_	ADP	_	_	_	_	_	_
+14	each	_	ADJ	_	_	_	_	_	_
+15	one	_	NOUN	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+1	deputy	_	NOUN	_	_	_	_	_	_
+2	likes	_	VERB	_	_	_	_	_	_
+3	dots	_	NOUN	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	i'm	_	PRON	_	_	_	_	_	_
+2	sorry	_	ADJ	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	major	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	really	_	ADV	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	niggers	_	NOUN	_	_	_	_	_	_
+2	crazy	_	ADJ	_	_	_	_	_	_
+3	in	_	ADP	_	_	_	_	_	_
+4	there	_	ADP	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	yo	_	X	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	eastside	_	NOUN	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	westside	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	everybody	_	PRON	_	_	_	_	_	_
+6	beefin'	_	VERB	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	ain't	_	VERB	_	_	_	_	_	_
+3	have	_	VERB	_	_	_	_	_	_
+4	no	_	DET	_	_	_	_	_	_
+5	problem	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	right	_	ADJ	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+
+1	hell	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	naw	_	ADV	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	we	_	PRON	_	_	_	_	_	_
+6	deep	_	ADJ	_	_	_	_	_	_
+7	in	_	ADP	_	_	_	_	_	_
+8	there	_	ADP	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	hmm	_	X	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+1	y'all	_	PRON	_	_	_	_	_	_
+2	deep	_	ADJ	_	_	_	_	_	_
+3	down	_	ADP	_	_	_	_	_	_
+4	at	_	ADP	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	courthouse	_	NOUN	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	too	_	ADV	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	sittin'	_	VERB	_	_	_	_	_	_
+2	there	_	ADP	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	i	_	PRON	_	_	_	_	_	_
+5	didn't	_	VERB	_	_	_	_	_	_
+6	know	_	VERB	_	_	_	_	_	_
+7	what	_	PRON	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	fuck	_	NOUN	_	_	_	_	_	_
+10	was	_	VERB	_	_	_	_	_	_
+11	gonna	_	VERB	_	_	_	_	_	_
+12	happen	_	VERB	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	i'm	_	PRON	_	_	_	_	_	_
+2	wondering	_	VERB	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	how	_	ADV	_	_	_	_	_	_
+5	y'all	_	PRON	_	_	_	_	_	_
+6	gonna	_	VERB	_	_	_	_	_	_
+7	make	_	VERB	_	_	_	_	_	_
+8	it	_	PRON	_	_	_	_	_	_
+9	happen	_	VERB	_	_	_	_	_	_
+10	for	_	ADP	_	_	_	_	_	_
+11	me	_	PRON	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	you	_	PRON	_	_	_	_	_	_
+14	know	_	VERB	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+
+1	slick	_	ADJ	_	_	_	_	_	_
+2	what	_	PRON	_	_	_	_	_	_
+3	y'all	_	PRON	_	_	_	_	_	_
+4	did	_	VERB	_	_	_	_	_	_
+5	with	_	ADP	_	_	_	_	_	_
+6	that	_	DET	_	_	_	_	_	_
+7	security	_	NOUN	_	_	_	_	_	_
+8	lady	_	NOUN	_	_	_	_	_	_
+9	though	_	ADV	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	that	_	DET	_	_	_	_	_	_
+2	shit	_	NOUN	_	_	_	_	_	_
+3	was	_	VERB	_	_	_	_	_	_
+4	tight	_	ADJ	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	yo	_	X	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	let's	_	VERB	_	_	_	_	_	_
+2	walk	_	VERB	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	what's	_	PRON	_	_	_	_	_	_
+2	the	_	DET	_	_	_	_	_	_
+3	rule	_	NOUN	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	know	_	VERB	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	rule	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	say	_	VERB	_	_	_	_	_	_
+2	it	_	PRON	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	don't	_	VERB	_	_	_	_	_	_
+2	talk	_	VERB	_	_	_	_	_	_
+3	in	_	ADP	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	car	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	or	_	CONJ	_	_	_	_	_	_
+2	on	_	ADP	_	_	_	_	_	_
+3	the	_	DET	_	_	_	_	_	_
+4	phone	_	NOUN	_	_	_	_	_	_
+5	or	_	CONJ	_	_	_	_	_	_
+6	in	_	ADP	_	_	_	_	_	_
+7	any	_	DET	_	_	_	_	_	_
+8	place	_	NOUN	_	_	_	_	_	_
+9	that	_	CONJ	_	_	_	_	_	_
+10	ain't	_	VERB	_	_	_	_	_	_
+11	ours	_	PRON	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	don't	_	VERB	_	_	_	_	_	_
+3	say	_	VERB	_	_	_	_	_	_
+4	shit	_	NOUN	_	_	_	_	_	_
+5	to	_	ADP	_	_	_	_	_	_
+6	anybody	_	PRON	_	_	_	_	_	_
+7	who	_	PRON	_	_	_	_	_	_
+8	ain't	_	VERB	_	_	_	_	_	_
+9	us	_	PRON	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	but	_	CONJ	_	_	_	_	_	_
+2	it	_	PRON	_	_	_	_	_	_
+3	was	_	VERB	_	_	_	_	_	_
+4	just	_	ADV	_	_	_	_	_	_
+5	you	_	PRON	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	yo	_	X	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	it's	_	PRON	_	_	_	_	_	_
+2	your	_	DET	_	_	_	_	_	_
+3	fucking	_	ADJ	_	_	_	_	_	_
+4	truck	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	don't	_	VERB	_	_	_	_	_	_
+2	talk	_	VERB	_	_	_	_	_	_
+3	in	_	ADP	_	_	_	_	_	_
+4	the	_	DET	_	_	_	_	_	_
+5	car	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	what	_	PRON	_	_	_	_	_	_
+2	about	_	ADP	_	_	_	_	_	_
+3	marcel	_	NOUN	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+1	no	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	PRON	_	_	_	_	_	_
+4	ain't	_	VERB	_	_	_	_	_	_
+5	invitin'	_	VERB	_	_	_	_	_	_
+6	marcel	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	want	_	VERB	_	_	_	_	_	_
+3	him	_	PRON	_	_	_	_	_	_
+4	out	_	ADP	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	really	_	ADV	_	_	_	_	_	_
+3	don't	_	VERB	_	_	_	_	_	_
+4	give	_	VERB	_	_	_	_	_	_
+5	a	_	DET	_	_	_	_	_	_
+6	shit	_	NOUN	_	_	_	_	_	_
+7	what	_	PRON	_	_	_	_	_	_
+8	you	_	PRON	_	_	_	_	_	_
+9	do	_	VERB	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	actually	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	ADV	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	go	_	VERB	_	_	_	_	_	_
+2	down	_	ADP	_	_	_	_	_	_
+3	there	_	ADP	_	_	_	_	_	_
+4	and	_	CONJ	_	_	_	_	_	_
+5	make	_	VERB	_	_	_	_	_	_
+6	that	_	DET	_	_	_	_	_	_
+7	motherfucker	_	NOUN	_	_	_	_	_	_
+8	pay	_	VERB	_	_	_	_	_	_
+9	for	_	ADP	_	_	_	_	_	_
+10	his	_	DET	_	_	_	_	_	_
+11	drinks	_	NOUN	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	the	_	DET	_	_	_	_	_	_
+2	bum	_	NOUN	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+1	how	_	ADV	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	doin'	_	VERB	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+1	what's	_	PRON	_	_	_	_	_	_
+2	up	_	ADP	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	dee	_	NOUN	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	good	_	ADJ	_	_	_	_	_	_
+7	to	_	ADP	_	_	_	_	_	_
+8	see	_	VERB	_	_	_	_	_	_
+9	you	_	PRON	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	what	_	PRON	_	_	_	_	_	_
+2	up	_	PART	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	man	_	NOUN	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	ain't	_	VERB	_	_	_	_	_	_
+7	seen	_	VERB	_	_	_	_	_	_
+8	you	_	PRON	_	_	_	_	_	_
+9	in	_	ADP	_	_	_	_	_	_
+10	a	_	DET	_	_	_	_	_	_
+11	long	_	ADJ	_	_	_	_	_	_
+12	time	_	NOUN	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+1	yo	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	remember	_	VERB	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	cop	_	NOUN	_	_	_	_	_	_
+7	that	_	PRON	_	_	_	_	_	_
+8	tried	_	VERB	_	_	_	_	_	_
+9	to	_	ADP	_	_	_	_	_	_
+10	pin	_	VERB	_	_	_	_	_	_
+11	gerard	_	NOUN	_	_	_	_	_	_
+12	on	_	ADP	_	_	_	_	_	_
+13	little	_	NOUN	_	_	_	_	_	_
+14	kevin	_	NOUN	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+
+1	which	_	ADJ	_	_	_	_	_	_
+2	one	_	NOUN	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	white	_	ADJ	_	_	_	_	_	_
+2	detective	_	NOUN	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	black	_	ADJ	_	_	_	_	_	_
+5	hair	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	the	_	DET	_	_	_	_	_	_
+2	one	_	NOUN	_	_	_	_	_	_
+3	that	_	PRON	_	_	_	_	_	_
+4	was	_	VERB	_	_	_	_	_	_
+5	knocking	_	VERB	_	_	_	_	_	_
+6	on	_	PART	_	_	_	_	_	_
+7	all	_	DET	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	doors	_	NOUN	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	what	_	PRON	_	_	_	_	_	_
+2	about	_	ADP	_	_	_	_	_	_
+3	him	_	PRON	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+1	he	_	PRON	_	_	_	_	_	_
+2	showed	_	VERB	_	_	_	_	_	_
+3	up	_	PART	_	_	_	_	_	_
+4	in	_	ADP	_	_	_	_	_	_
+5	court	_	NOUN	_	_	_	_	_	_
+6	to	_	ADP	_	_	_	_	_	_
+7	watch	_	VERB	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	word	_	ADV	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+
+1	what	_	PRON	_	_	_	_	_	_
+2	are	_	VERB	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	talkin'	_	VERB	_	_	_	_	_	_
+5	to	_	ADP	_	_	_	_	_	_
+6	that	_	DET	_	_	_	_	_	_
+7	motherfucker	_	NOUN	_	_	_	_	_	_
+8	for	_	ADP	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+
+1	damn	_	ADJ	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	dee	_	NOUN	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+1	he	_	PRON	_	_	_	_	_	_
+2	say	_	VERB	_	_	_	_	_	_
+3	anything	_	PRON	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+
+1	naw	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	just	_	ADV	_	_	_	_	_	_
+4	sat	_	VERB	_	_	_	_	_	_
+5	in	_	ADP	_	_	_	_	_	_
+6	the	_	DET	_	_	_	_	_	_
+7	back	_	NOUN	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	yo	_	X	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	what	_	PRON	_	_	_	_	_	_
+4	up	_	PART	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+
+1	wee-bey	_	NOUN	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	yo	_	X	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	what	_	PRON	_	_	_	_	_	_
+6	you	_	PRON	_	_	_	_	_	_
+7	got	_	VERB	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+
+1	c'mon	_	VERB	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	PRON	_	_	_	_	_	_
+4	got	_	VERB	_	_	_	_	_	_
+5	something	_	PRON	_	_	_	_	_	_
+6	for	_	ADP	_	_	_	_	_	_
+7	you	_	PRON	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	must	_	VERB	_	_	_	_	_	_
+3	feel	_	VERB	_	_	_	_	_	_
+4	good	_	ADJ	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	know	_	VERB	_	_	_	_	_	_
+3	how	_	ADV	_	_	_	_	_	_
+4	that	_	PRON	_	_	_	_	_	_
+5	go	_	VERB	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	say	_	VERB	_	_	_	_	_	_
+2	what	_	PRON	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+
+1	i'm	_	PRON	_	_	_	_	_	_
+2	sayin'	_	VERB	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	you	_	PRON	_	_	_	_	_	_
+5	know	_	VERB	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	jail	_	NOUN	_	_	_	_	_	_
+8	ain't	_	VERB	_	_	_	_	_	_
+9	no	_	DET	_	_	_	_	_	_
+10	joke	_	NOUN	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	don't	_	VERB	_	_	_	_	_	_
+3	know	_	VERB	_	_	_	_	_	_
+4	shit	_	PRON	_	_	_	_	_	_
+5	about	_	ADP	_	_	_	_	_	_
+6	jail	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	don't	_	VERB	_	_	_	_	_	_
+3	plan	_	VERB	_	_	_	_	_	_
+4	on	_	ADP	_	_	_	_	_	_
+5	knowing	_	VERB	_	_	_	_	_	_
+6	shit	_	PRON	_	_	_	_	_	_
+7	about	_	ADP	_	_	_	_	_	_
+8	jail	_	NOUN	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	you	_	PRON	_	_	_	_	_	_
+11	feel	_	VERB	_	_	_	_	_	_
+12	me	_	PRON	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	wanna	_	VERB	_	_	_	_	_	_
+3	talk	_	VERB	_	_	_	_	_	_
+4	about	_	ADP	_	_	_	_	_	_
+5	jail	_	NOUN	_	_	_	_	_	_
+6	though	_	ADV	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	you	_	PRON	_	_	_	_	_	_
+9	can	_	VERB	_	_	_	_	_	_
+10	go	_	VERB	_	_	_	_	_	_
+11	sit	_	VERB	_	_	_	_	_	_
+12	down	_	PART	_	_	_	_	_	_
+13	next	_	ADP	_	_	_	_	_	_
+14	to	_	ADP	_	_	_	_	_	_
+15	marcel	_	NOUN	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+1	he	_	PRON	_	_	_	_	_	_
+2	just	_	ADV	_	_	_	_	_	_
+3	got	_	VERB	_	_	_	_	_	_
+4	home	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	true	_	ADJ	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	right	_	ADJ	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	sit	_	VERB	_	_	_	_	_	_
+2	your	_	DET	_	_	_	_	_	_
+3	ass	_	NOUN	_	_	_	_	_	_
+4	down	_	PART	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	i	_	PRON	_	_	_	_	_	_
+2	know	_	VERB	_	_	_	_	_	_
+3	it	_	PRON	_	_	_	_	_	_
+4	ain't	_	VERB	_	_	_	_	_	_
+5	go	_	VERB	_	_	_	_	_	_
+6	so	_	ADV	_	_	_	_	_	_
+7	good	_	ADV	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	but	_	CONJ	_	_	_	_	_	_
+2	that	_	DET	_	_	_	_	_	_
+3	nigger	_	NOUN	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	pooh	_	NOUN	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	he	_	PRON	_	_	_	_	_	_
+8	caught	_	VERB	_	_	_	_	_	_
+9	me	_	PRON	_	_	_	_	_	_
+10	off	_	ADP	_	_	_	_	_	_
+11	guard	_	NOUN	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	he	_	PRON	_	_	_	_	_	_
+2	came	_	VERB	_	_	_	_	_	_
+3	at	_	ADP	_	_	_	_	_	_
+4	me	_	PRON	_	_	_	_	_	_
+5	like	_	VERB	_	_	_	_	_	_
+6	he	_	PRON	_	_	_	_	_	_
+7	was	_	VERB	_	_	_	_	_	_
+8	crazy	_	ADJ	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	so	_	CONJ	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	you	_	PRON	_	_	_	_	_	_
+4	shoot	_	VERB	_	_	_	_	_	_
+5	the	_	DET	_	_	_	_	_	_
+6	motherfucker	_	NOUN	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+
+1	i'm	_	PRON	_	_	_	_	_	_
+2	sayin'	_	VERB	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	it	_	PRON	_	_	_	_	_	_
+5	was	_	VERB	_	_	_	_	_	_
+6	him	_	PRON	_	_	_	_	_	_
+7	or	_	CONJ	_	_	_	_	_	_
+8	me	_	PRON	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	in	_	ADP	_	_	_	_	_	_
+3	our	_	DET	_	_	_	_	_	_
+4	building	_	NOUN	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	got	_	VERB	_	_	_	_	_	_
+3	people	_	NOUN	_	_	_	_	_	_
+4	on	_	ADP	_	_	_	_	_	_
+5	both	_	DET	_	_	_	_	_	_
+6	stairs	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+1	you	_	PRON	_	_	_	_	_	_
+2	got	_	VERB	_	_	_	_	_	_
+3	more	_	ADJ	_	_	_	_	_	_
+4	motherfuckin'	_	ADJ	_	_	_	_	_	_
+5	people	_	NOUN	_	_	_	_	_	_
+6	out	_	ADP	_	_	_	_	_	_
+7	in	_	ADP	_	_	_	_	_	_
+8	the	_	DET	_	_	_	_	_	_
+9	court	_	NOUN	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+1	and	_	CONJ	_	_	_	_	_	_
+2	you	_	PRON	_	_	_	_	_	_
+3	got	_	VERB	_	_	_	_	_	_
+4	a	_	DET	_	_	_	_	_	_
+5	gun	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+1	so	_	CONJ	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	what	_	PRON	_	_	_	_	_	_
+4	i'm	_	PRON	_	_	_	_	_	_
+5	tryin'	_	VERB	_	_	_	_	_	_
+6	to	_	ADP	_	_	_	_	_	_
+7	figure	_	VERB	_	_	_	_	_	_
+8	out	_	PART	_	_	_	_	_	_
+9	is	_	VERB	_	_	_	_	_	_
+10	...	_	PUNCT	_	_	_	_	_	_
+11	how	_	ADP	_	_	_	_	_	_
+12	the	_	DET	_	_	_	_	_	_
+13	fuck	_	NOUN	_	_	_	_	_	_
+14	you	_	PRON	_	_	_	_	_	_
+15	end	_	VERB	_	_	_	_	_	_
+16	up	_	PART	_	_	_	_	_	_
+17	shootin’	_	VERB	_	_	_	_	_	_
+18	this	_	DET	_	_	_	_	_	_
+19	nigger	_	NOUN	_	_	_	_	_	_
+20	in	_	ADP	_	_	_	_	_	_
+21	front	_	ADP	_	_	_	_	_	_
+22	of	_	ADP	_	_	_	_	_	_
+23	the	_	DET	_	_	_	_	_	_
+24	security	_	NOUN	_	_	_	_	_	_
+25	booth	_	NOUN	_	_	_	_	_	_
+26	with	_	ADP	_	_	_	_	_	_
+27	all	_	DET	_	_	_	_	_	_
+28	them	_	DET	_	_	_	_	_	_
+29	people	_	NOUN	_	_	_	_	_	_
+30	around	_	ADP	_	_	_	_	_	_
+31	?	_	PUNCT	_	_	_	_	_	_
+
+1	i'm	_	PRON	_	_	_	_	_	_
+2	sayin'	_	VERB	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	this	_	DET	_	_	_	_	_	_
+5	nigger	_	NOUN	_	_	_	_	_	_
+6	was	_	VERB	_	_	_	_	_	_
+7	coming	_	VERB	_	_	_	_	_	_
+8	at	_	ADP	_	_	_	_	_	_
+9	me	_	PRON	_	_	_	_	_	_
+10	like	_	ADP	_	_	_	_	_	_
+11	--	_	PUNCT	_	_	_	_	_	_
+12	like	_	ADP	_	_	_	_	_	_
+13	he	_	PRON	_	_	_	_	_	_
+14	was	_	VERB	_	_	_	_	_	_
+15	trying	_	VERB	_	_	_	_	_	_
+16	to	_	ADP	_	_	_	_	_	_
+17	end	_	VERB	_	_	_	_	_	_
+18	me	_	PRON	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+1	this	_	PRON	_	_	_	_	_	_
+2	ain't	_	VERB	_	_	_	_	_	_
+3	about	_	ADP	_	_	_	_	_	_
+4	him	_	PRON	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+1	it's	_	PRON	_	_	_	_	_	_
+
