@@ -1,12 +1,8 @@
 import gensim
 import sys
-import re
-from typing import List, Pattern
 import dendoun.extraction as dde
 
 if __name__=="__main__":
-    
-    pattern_clean = re.compile("\w+")
     
     my_conll = sys.argv[1]
         
