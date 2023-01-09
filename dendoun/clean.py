@@ -11,10 +11,12 @@ def clean_token(token: str) -> str:
     """
     if re.match("@\w", token): # anonymisation des utilisateurs
         return "@user"
-    elif re.match("COL"):
+    elif re.match("COL", token):
         return ":"
-    elif token.startwith("httpCOL//"): # on enlève les liens
+    elif token.startswith("httpCOL//"): # on enlève les liens
         return "@link"
+    else: # on renvoie le token non modifié 
+        return token
 
 def clean_texte_from_text_grid(texte: str) -> str:
     """
