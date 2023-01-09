@@ -1,0 +1,5092 @@
+little	A	0.9555
+somethin	N	0.9990
+'	,	0.9705
+for	P	0.9993
+my	D	0.9946
+godson	N	0.8687
+elijah	^	0.9419
+
+and	&	0.9996
+a	D	0.9955
+little	A	0.9965
+girl	N	0.9985
+named	V	0.9969
+corinne	^	0.9844
+
+some	D	0.7097
+say	V	0.9419
+the	D	0.9981
+blacker	^	0.7285
+the	D	0.9940
+berry	N	0.8578
+,	,	0.9910
+the	D	0.9982
+sweeter	A	0.8692
+the	D	0.9978
+juice	N	0.9804
+
+i	O	0.9895
+say	V	0.9998
+the	D	0.9989
+darker	A	0.9402
+the	D	0.9982
+flesh	N	0.9969
+then	R	0.6341
+the	D	0.9961
+deeper	A	0.9745
+the	D	0.9984
+roots	N	0.9925
+
+i	O	0.9853
+give	V	0.9999
+a	D	0.9894
+holla	N	0.8416
+to	P	0.9982
+my	D	0.9983
+sisters	N	0.9976
+on	P	0.9987
+welfare	N	0.9518
+
+2pac	^	0.9742
+cares	V	0.9560
+,	,	0.9980
+if	P	0.9843
+don't	V	0.9994
+nobody	N	0.7018
+else	R	0.8956
+care	V	0.7960
+
+and	&	0.9972
+,	,	0.9945
+i	O	0.9904
+know	V	0.9998
+they	O	0.9924
+like	V	0.9199
+to	P	0.9839
+beat	V	0.9998
+you	O	0.9992
+down	R	0.3112
+a	D	0.9958
+lot	N	0.9433
+
+when	R	0.9804
+you	O	0.9985
+come	V	0.9998
+around	P	0.8976
+the	D	0.9991
+block	N	0.9806
+,	,	0.9973
+brothers	N	0.8743
+clown	N	0.9342
+a	D	0.9633
+lot	N	0.9425
+
+but	&	0.9919
+please	V	0.9004
+don't	V	0.9999
+cry	V	0.9941
+,	,	0.9972
+dry	V	0.7109
+your	D	0.9947
+eyes	N	0.9990
+,	,	0.9990
+never	R	0.9922
+let	V	0.9992
+up	T	0.9787
+
+forgive	V	0.9577
+but	&	0.9675
+don't	V	0.9987
+forget	V	0.9996
+,	,	0.9962
+girl	N	0.9798
+,	,	0.9959
+keep	V	0.9955
+your	D	0.9952
+head	N	0.9962
+up	T	0.5872
+
+and	&	0.9986
+when	R	0.9752
+he	O	0.9968
+tells	V	0.9999
+you	O	0.9962
+you	O	0.9845
+ain't	V	0.9974
+nothin	N	0.9228
+'	,	0.9682
+,	,	0.9941
+don't	V	0.9991
+believe	V	1.0000
+him	O	0.9839
+
+and	&	0.9983
+if	P	0.9955
+he	O	0.9983
+can't	V	0.9999
+learn	V	0.9998
+to	P	0.9870
+love	V	0.9974
+you	O	0.9987
+,	,	0.9987
+you	O	0.9985
+should	V	0.9994
+leave	V	0.9999
+him	O	0.9830
+
+cause	P	0.6602
+sister	N	0.9850
+,	,	0.9961
+you	O	0.9982
+don't	V	1.0000
+need	V	0.9999
+him	O	0.9825
+
+and	&	0.9990
+i	O	0.9888
+ain't	V	0.9970
+tryin	V	0.9869
+'	,	0.9718
+to	P	0.9862
+gas	V	0.9384
+ya	O	0.8950
+up	T	0.9054
+,	,	0.9970
+i	O	0.9809
+just	R	0.9996
+call	V	0.9646
+'	,	0.9887
+em	O	0.9463
+how	R	0.9957
+i	O	0.9954
+see	V	0.9988
+'	,	0.9873
+em	O	0.9244
+
+you	O	0.9983
+know	V	0.9986
+what	O	0.9975
+makes	V	0.9985
+me	O	0.9967
+unhappy	A	0.9855
+
+when	R	0.9777
+brothers	N	0.9345
+make	V	0.9508
+babies	N	0.9922
+,	,	0.9987
+and	&	0.9988
+leave	V	0.9957
+a	D	0.9983
+young	A	0.9972
+mother	N	0.9967
+to	P	0.9990
+be	V	0.9998
+a	D	0.9901
+pappy	N	0.9422
+
+and	&	0.9978
+since	P	0.9721
+we	O	0.9947
+all	D	0.4344
+came	V	0.7170
+from	P	0.9942
+a	D	0.9979
+woman	N	0.9937
+
+got	V	0.9946
+our	D	0.9987
+name	N	0.9993
+from	P	0.9997
+a	D	0.9977
+woman	N	0.9924
+and	&	0.9890
+our	D	0.9944
+game	N	0.9984
+from	P	0.9997
+a	D	0.9977
+woman	N	0.9951
+
+i	O	0.9858
+wonder	V	0.9876
+why	R	0.9733
+we	O	0.9976
+take	V	0.9979
+from	P	0.9826
+our	D	0.9978
+women	N	0.9930
+
+why	R	0.9119
+we	O	0.9950
+rape	V	0.9948
+our	D	0.9970
+women	N	0.9961
+,	,	0.9979
+do	V	0.9964
+we	O	0.9993
+hate	V	0.9999
+our	D	0.9976
+women	N	0.9945
+
+i	O	0.9890
+think	V	0.9998
+it's	L	0.9933
+time	N	0.9816
+to	P	0.9985
+kill	V	0.9976
+for	P	0.9988
+our	D	0.9970
+women	N	0.9951
+
+time	N	0.9742
+to	P	0.9990
+heal	V	0.9997
+our	D	0.9985
+women	N	0.9961
+,	,	0.9971
+be	V	0.9901
+real	A	0.7007
+to	P	0.9994
+our	D	0.9945
+women	N	0.9945
+
+and	&	0.9983
+if	P	0.9929
+we	O	0.9991
+don't	V	1.0000
+we'll	V	0.4953
+have	V	0.9999
+a	D	0.9981
+race	N	0.9995
+of	P	0.9951
+babies	N	0.9289
+
+that	O	0.7304
+will	V	0.9961
+hate	V	0.9999
+the	D	0.9996
+ladies	N	0.9988
+that	P	0.9301
+make	V	0.9925
+the	D	0.9993
+babies	N	0.9939
+
+and	&	0.9978
+since	P	0.9464
+a	D	0.9971
+man	N	0.9928
+can't	V	0.9989
+make	V	0.9988
+one	$	0.8148
+
+he	O	0.9959
+has	V	0.9999
+no	D	0.7788
+right	N	0.7796
+to	P	0.9992
+tell	V	0.9991
+a	D	0.9983
+woman	N	0.9913
+when	R	0.9952
+and	&	0.9973
+where	R	0.9905
+to	P	0.9991
+create	V	0.9982
+one	$	0.8401
+
+so	R	0.5198
+will	V	0.9931
+the	D	0.9995
+real	A	0.9934
+men	N	0.9983
+get	V	0.9998
+up	T	0.9678
+
+i	O	0.9908
+know	V	0.9999
+you're	L	0.9961
+fed	V	0.9859
+up	T	0.9151
+ladies	N	0.9959
+,	,	0.9990
+but	&	0.9912
+keep	V	0.9881
+your	D	0.9953
+head	N	0.9984
+up	T	0.5813
+
+keep	V	0.9880
+ya	D	0.8814
+head	N	0.9723
+up	T	0.6684
+,	,	0.9976
+ooh	!	0.9922
+,	,	0.9951
+child	N	0.8546
+,	,	0.9977
+things	N	0.9882
+are	V	0.9901
+gonna	V	0.9837
+get	V	0.9996
+easier	A	0.9944
+
+keep	V	0.9880
+ya	D	0.8814
+head	N	0.9723
+up	T	0.6684
+,	,	0.9976
+ooh	!	0.9922
+,	,	0.9951
+child	N	0.8546
+,	,	0.9991
+things'll	L	0.8653
+get	V	0.9993
+brighter	A	0.9923
+
+aiyyo	!	0.9967
+,	,	0.9964
+i	O	0.9890
+remember	V	0.9995
+marvin	^	0.9969
+gaye	^	0.9833
+used	V	0.9358
+to	P	0.9945
+sing	V	0.9998
+to	P	0.9957
+me	O	0.9985
+
+he	O	0.9960
+had	V	1.0000
+me	O	0.9981
+feelin	V	0.9768
+'	,	0.9776
+like	P	0.6644
+black	A	0.8211
+was	V	0.9337
+the	D	0.9998
+thing	N	0.9984
+to	P	0.9989
+be	V	0.9986
+
+and	&	0.9987
+suddenly	R	0.9869
+the	D	0.9986
+ghetto	A	0.5221
+didn't	V	0.9948
+seem	V	0.9916
+so	R	0.8885
+tough	A	0.9847
+
+and	&	0.9982
+though	P	0.9203
+we	O	0.9990
+had	V	1.0000
+it	O	0.9388
+rough	A	0.9680
+,	,	0.9977
+we	O	0.9964
+always	R	0.9961
+had	V	0.9985
+enough	A	0.5239
+
+i	O	0.9785
+huffed	V	0.9344
+and	&	0.9958
+puffed	V	0.9779
+about	P	0.9959
+my	D	0.9907
+curfew	N	0.9515
+and	&	0.9979
+broke	V	0.8801
+the	D	0.9998
+rules	N	0.9970
+
+ran	V	0.9864
+with	P	0.9994
+the	D	0.9994
+local	A	0.9117
+crew	N	0.9992
+and	&	0.9976
+had	V	0.9993
+a	D	0.9961
+smoke	N	0.9890
+or	&	0.9793
+two	$	0.9185
+
+and	&	0.9990
+i	O	0.9943
+realize	V	0.9991
+momma	N	0.7470
+really	R	0.9975
+paid	V	0.9970
+the	D	0.9994
+price	N	0.9936
+
+she	O	0.9954
+nearly	R	0.9987
+gave	V	0.9997
+her	D	0.9703
+life	N	0.9996
+to	P	0.9995
+raise	V	0.9999
+me	O	0.9976
+right	R	0.7430
+
+and	&	0.9992
+all	D	0.9639
+i	O	0.9834
+had	V	0.9999
+to	P	0.9930
+give	V	0.9999
+her	O	0.8549
+was	V	0.9993
+my	D	0.9987
+pipe	N	0.9755
+dream	N	0.5412
+
+of	P	0.9562
+how	R	0.9291
+i'd	L	0.9790
+rock	V	0.9929
+the	D	0.9985
+mic	N	0.6887
+and	&	0.9967
+make	V	0.9976
+it	O	0.9006
+to	P	0.9968
+the	D	0.9993
+bright	A	0.9347
+screen	N	0.9830
+
+i'm	L	0.9962
+tryin	V	0.9630
+'	,	0.9650
+to	P	0.9925
+make	V	0.9994
+a	D	0.9967
+dollar	N	0.9946
+out	P	0.9605
+of	P	0.9896
+fifteen	$	0.7967
+cents	N	0.9922
+
+it's	L	0.9903
+hard	A	0.9317
+to	P	0.9978
+be	V	0.9993
+legit	A	0.8421
+and	&	0.9980
+still	R	0.9965
+pay	V	0.9951
+the	D	0.9983
+rent	N	0.9820
+
+and	&	0.9979
+in	P	0.9892
+the	D	0.9986
+end	N	0.9760
+it	O	0.9815
+seems	V	0.9940
+i'm	L	0.9891
+headin	V	0.8667
+'	,	0.9819
+for	P	0.9997
+the	D	0.9993
+pen	N	0.9637
+
+i	O	0.9844
+try	V	0.9996
+to	P	0.9886
+find	V	0.9999
+my	D	0.9990
+friends	N	0.9832
+but	&	0.9750
+they're	L	0.8991
+blowin	V	0.5985
+'	,	0.9728
+in	P	0.9948
+the	D	0.9992
+wind	N	0.9982
+
+last	A	0.9893
+night	N	0.9903
+my	D	0.9783
+buddy	N	0.9977
+lost	V	0.9640
+his	D	0.9987
+whole	A	0.9916
+family	N	0.9842
+
+it's	L	0.9954
+gonna	V	0.9914
+take	V	0.9998
+the	D	0.9997
+man	N	0.9962
+in	P	0.9974
+me	O	0.9962
+to	P	0.9876
+conquer	V	0.9991
+this	D	0.9755
+insanity	N	0.9930
+
+it	O	0.9955
+seems	V	0.9986
+the	D	0.9997
+rain'll	N	0.9886
+never	R	0.9933
+let	V	0.9995
+up	T	0.9676
+
+i	O	0.9844
+try	V	0.9996
+to	P	0.9830
+keep	V	0.9997
+my	D	0.9985
+head	N	0.9946
+up	T	0.4768
+and	&	0.9979
+still	R	0.9979
+keep	V	0.9633
+from	P	0.9900
+gettin	V	0.8141
+'	,	0.9624
+wet	A	0.6554
+up	T	0.7541
+
+you	O	0.9983
+know	V	0.9986
+it's	L	0.9980
+funny	A	0.9988
+when	R	0.9697
+it	O	0.9907
+rains	V	0.9980
+it	O	0.9956
+pours	V	0.9976
+
+they	O	0.9928
+got	V	0.9991
+money	N	0.9885
+for	P	0.9996
+wars	N	0.9898
+but	&	0.9873
+can't	V	0.9952
+feed	V	0.9996
+the	D	0.9983
+poor	A	0.4880
+
+say	V	0.9698
+there	R	0.4755
+ain't	V	0.9811
+no	D	0.7033
+hope	N	0.9274
+for	P	0.9999
+the	D	0.9989
+youth	N	0.8847
+and	&	0.9923
+the	D	0.9987
+truth	N	0.9335
+is	V	0.9957
+
+it	O	0.9890
+ain't	V	0.9967
+no	D	0.7006
+hope	N	0.9233
+for	P	0.9999
+the	D	0.9988
+future	N	0.7270
+
+and	&	0.9987
+then	R	0.9659
+they	O	0.9919
+wonder	V	0.9838
+why	R	0.9785
+we	O	0.9860
+crazy	A	0.9972
+
+i	O	0.9854
+blame	V	0.9999
+my	D	0.9980
+mother	N	0.9957
+for	P	0.9996
+turning	V	0.9989
+my	D	0.9988
+brother	N	0.9927
+into	P	0.9997
+a	D	0.9857
+crack	N	0.9482
+baby	N	0.9977
+
+we	O	0.9940
+ain't	V	0.9964
+meant	V	0.9946
+to	P	0.9097
+survive	V	0.9955
+cause	P	0.8239
+it's	L	0.9975
+a	D	0.9954
+setup	N	0.9964
+
+and	&	0.9987
+even	R	0.9935
+though	P	0.9714
+you're	L	0.9797
+fed	V	0.9927
+up	T	0.9790
+
+huh	!	0.9914
+,	,	0.9988
+ya	O	0.8551
+got	V	0.9990
+to	P	0.9582
+keep	V	0.9997
+your	D	0.9959
+head	N	0.9976
+up	T	0.5431
+
+and	&	0.9985
+uh	!	0.9374
+,	,	0.9960
+to	P	0.9950
+all	X	0.6310
+the	D	0.9999
+ladies	N	0.9976
+havin	V	0.9606
+'	,	0.9608
+babies	N	0.9814
+on	P	0.9984
+they	D	0.6062
+own	A	0.5682
+
+i	O	0.9908
+know	V	0.9994
+it's	L	0.9986
+kinda	R	0.9872
+rough	A	0.9953
+and	&	0.9979
+you're	L	0.9926
+feelin	V	0.9691
+'	,	0.9888
+all	D	0.5254
+alone	A	0.8283
+
+daddy's	S	0.4678
+long	A	0.9292
+gone	A	0.4612
+and	&	0.9977
+he	O	0.9963
+left	V	0.9989
+you	O	0.9980
+by	P	0.9948
+your	D	0.9955
+lonesome	N	0.7024
+
+thank	V	0.9151
+the	D	0.9992
+lord	N	0.6529
+for	P	0.9999
+my	D	0.9972
+kids	N	0.9975
+,	,	0.9987
+even	R	0.9931
+if	P	0.9895
+nobody	N	0.9418
+else	R	0.9455
+want	V	0.9929
+'	,	0.9850
+em	O	0.9382
+
+cause	P	0.5690
+i	O	0.9954
+think	V	0.9999
+we	O	0.9979
+can	V	0.9997
+make	V	0.9998
+it	O	0.8306
+,	,	0.9985
+in	P	0.9655
+fact	N	0.9940
+,	,	0.9982
+i'm	L	0.9968
+sure	A	0.9685
+
+and	&	0.9983
+if	P	0.9919
+you	O	0.9991
+fall	V	0.9399
+,	,	0.9955
+stand	V	0.8659
+tall	A	0.9694
+and	&	0.9968
+come	V	0.9964
+back	R	0.9077
+for	P	0.9894
+more	A	0.9414
+
+cause	P	0.6832
+ain't	V	0.9622
+nothin	N	0.9282
+'	,	0.9757
+worse	A	0.9712
+than	P	0.9969
+when	R	0.9060
+your	D	0.9720
+son	N	0.9957
+
+wants	V	0.9982
+to	P	0.9888
+know	V	0.9989
+why	R	0.9002
+his	D	0.9978
+daddy	N	0.9984
+don't	V	0.9998
+love	V	0.9996
+him	O	0.9780
+no	D	0.7837
+mo	N	0.9899
+'	,	0.8930
+
+you	O	0.9953
+can't	V	0.9999
+complain	V	1.0000
+you	O	0.9994
+was	V	0.9998
+dealt	V	0.9867
+this	D	0.6636
+
+hell	N	0.8833
+of	P	0.9967
+a	D	0.9989
+hand	N	0.9982
+without	P	0.9991
+a	D	0.9970
+man	N	0.9933
+,	,	0.9983
+feelin	V	0.9660
+'	,	0.9664
+helpless	A	0.9238
+
+because	P	0.9926
+there's	L	0.8611
+too	R	0.9962
+many	A	0.9914
+things	N	0.9984
+for	P	0.9999
+you	O	0.9994
+to	P	0.9622
+deal	V	0.7890
+with	P	0.9946
+
+dyin	V	0.9012
+'	,	0.9898
+inside	R	0.7299
+,	,	0.9991
+but	&	0.9906
+outside	P	0.5805
+you're	L	0.9834
+looking	V	0.9563
+fearless	A	0.9559
+
+while	P	0.5581
+tears	N	0.9897
+is	V	0.9987
+rollin	V	0.8906
+'	,	0.9762
+down	P	0.5515
+your	D	0.9956
+cheeks	N	0.9954
+
+ya	!	0.4880
+steady	A	0.9742
+hopin	N	0.7905
+'	,	0.9765
+things	N	0.9959
+don't	V	0.9999
+fall	V	0.9974
+down	T	0.5321
+this	D	0.9822
+week	N	0.9917
+
+cause	P	0.6849
+if	P	0.9971
+it	O	0.9995
+did	V	0.9973
+,	,	0.9977
+you	O	0.9982
+couldn't	V	0.9999
+take	V	0.9999
+it	O	0.8535
+,	,	0.9989
+and	&	0.9990
+don't	V	0.9998
+blame	V	1.0000
+me	O	0.9985
+
+i	O	0.9914
+was	V	0.9998
+given	V	0.9944
+this	D	0.9752
+world	N	0.9893
+i	O	0.9541
+didn't	V	1.0000
+make	V	0.9998
+it	O	0.8784
+
+and	&	0.9983
+now	R	0.9837
+my	D	0.9982
+son's	N	0.5966
+gettin	V	0.9579
+'	,	0.9596
+older	A	0.9082
+and	&	0.9976
+older	A	0.9230
+and	&	0.9962
+cold	A	0.9882
+
+from	P	0.9927
+havin	V	0.6574
+'	,	0.9403
+the	D	0.9981
+world	N	0.9770
+on	P	0.9992
+his	D	0.9994
+shoulders	N	0.9949
+
+while	P	0.9557
+the	D	0.9991
+rich	A	0.9835
+kids	N	0.9954
+is	V	0.9994
+drivin	V	0.6265
+'	,	0.9813
+benz	N	0.9344
+
+i'm	L	0.9965
+still	R	0.9674
+tryin	V	0.9933
+'	,	0.9788
+to	P	0.9923
+hold	V	0.9987
+on	T	0.6620
+to	P	0.9923
+surviving	V	0.9982
+friends	N	0.9203
+
+and	&	0.9986
+it's	L	0.9977
+crazy	A	0.9978
+,	,	0.9982
+it	O	0.9965
+seems	V	0.9926
+it'll	L	0.9959
+never	R	0.9942
+let	V	0.9995
+up	T	0.9609
+,	,	0.9989
+but	&	0.9949
+
+please	V	0.9038
+,	,	0.9979
+you	O	0.9990
+got	V	0.9996
+to	P	0.9582
+keep	V	0.9997
+your	D	0.9959
+head	N	0.9976
+up	T	0.5431
+
+yeah	!	0.9928
+nigga	N	0.5698
+
+we	O	0.9968
+gonna	V	0.9993
+smoke	V	0.9978
+this	D	0.9616
+motherfucker	N	0.9373
+right	R	0.8284
+here	R	0.9878
+,	,	0.9983
+right	!	0.4435
+
+we	O	0.9968
+gonna	V	0.9993
+smoke	V	0.9970
+this	D	0.9790
+shit	N	0.9927
+
+and	&	0.9984
+i'ma	L	0.9936
+drink	V	0.9970
+a	D	0.9939
+lot	N	0.8910
+a	D	0.9676
+water	N	0.9955
+
+and	&	0.9984
+i'ma	L	0.9929
+take	V	0.9987
+golden	A	0.9234
+seal	N	0.9994
+,	,	0.9988
+so	P	0.9280
+my	D	0.8686
+po	N	0.7407
+don't	V	0.9998
+find	V	0.9998
+out	T	0.9677
+
+i’m	L	0.9965
+smoking	V	0.9944
+this	D	0.9908
+shit	N	0.9974
+,	,	0.9990
+aight	!	0.9215
+?	,	0.9979
+
+yo	!	0.8427
+,	,	0.9974
+niggas	N	0.8970
+wouldn't	V	0.9862
+rob	^	0.6095
+frankie	^	0.9997
+if	P	0.9981
+they	O	0.9984
+had	V	0.9999
+the	D	0.9993
+chance	N	0.9822
+
+wasn't	V	0.8860
+cause	P	0.7665
+of	P	0.9914
+him	O	0.9860
+it	O	0.9935
+was	V	0.9989
+cause	P	0.5041
+of	P	0.9974
+his	D	0.9993
+man	N	0.9668
+lance	^	0.5893
+
+frankie	^	0.9986
+cut	N	0.7828
+crack	N	0.7401
+
+lance	^	0.9596
+hold	V	0.9946
+the	D	0.9992
+mac	^	0.8848
+
+if	P	0.9883
+fiends	N	0.7057
+fuck	V	0.9306
+with	P	0.9939
+frankie's	Z	0.9090
+pac's	Z	0.4886
+
+lance	^	0.9613
+cut	V	0.8916
+the	D	0.9972
+crack	N	0.9670
+heads	V	0.6561
+blocked	V	0.9974
+up	T	0.9694
+
+thought	V	0.9683
+he	O	0.9978
+was	V	0.9995
+locked	V	0.9842
+up	T	0.9883
+
+came	V	0.9260
+thru	P	0.5507
+stuntin	V	0.8927
+'	,	0.9909
+wit	P	0.9683
+his	D	0.9994
+wrist	N	0.9957
+all	D	0.6463
+rocked	V	0.9826
+up	T	0.9761
+
+shoulda	^	0.4772
+seen	V	0.9996
+him	O	0.7880
+smile	V	0.5697
+,	,	0.9978
+missin	V	0.8376
+'	,	0.9612
+the	D	0.9989
+tooth	N	0.9992
+
+coupe	N	0.9246
+missin	V	0.9156
+the	D	0.9994
+roof	N	0.9945
+
+he	O	0.9898
+like	V	0.7951
+"	,	0.9944
+what	O	0.9870
+up	T	0.7079
+,	,	0.9967
+50	$	0.9906
+?	,	0.9945
+"	,	0.9596
+
+i'm	L	0.9934
+like	P	0.5711
+"	,	0.9901
+what	O	0.9870
+up	T	0.8160
+with	P	0.9996
+you	O	0.9976
+"	,	0.9990
+
+lance	^	0.9738
+had	V	0.9983
+a	D	0.9933
+reputation	N	0.9943
+that	P	0.7337
+was	V	0.9921
+well	R	0.9443
+earned	V	0.9783
+
+heard	V	0.9907
+he	O	0.9985
+taught	V	0.9996
+niggas	N	0.8655
+how	R	0.9850
+them	D	0.6376
+shells	N	0.9828
+burn	V	0.8949
+
+out	P	0.5554
+there	R	0.8079
+in	P	0.9607
+red	A	0.9730
+firm	N	0.9918
+
+at	P	0.9989
+the	D	0.9988
+dice	N	0.9573
+game	N	0.9980
+,	,	0.9968
+he	O	0.9958
+rolled	V	0.9971
+ahead	R	0.8433
+,	,	0.9980
+crapped	V	0.9456
+in	P	0.9779
+the	D	0.9975
+crack	N	0.9855
+
+i'm	L	0.9934
+like	P	0.5711
+"	,	0.9864
+nah	!	0.9490
+,	,	0.9970
+i	O	0.9775
+ain't	V	0.9967
+paying	V	0.9989
+for	P	0.9981
+that	O	0.9322
+!	,	0.9980
+nigga	N	0.9046
+,	,	0.9974
+shoot	V	0.9325
+it	O	0.9918
+back	R	0.6302
+"	,	0.9963
+
+niggas	N	0.8423
+lookin	V	0.9757
+at	P	0.9973
+me	O	0.9989
+like	P	0.9065
+i'm	L	0.9912
+crazy	A	0.9992
+,	,	0.9980
+they	O	0.9909
+shook	V	0.9952
+
+i	O	0.9863
+don't	V	1.0000
+give	V	0.9999
+a	D	0.9869
+fuck	N	0.9509
+who	O	0.9886
+he	O	0.9117
+shot	V	0.6492
+out	T	0.6909
+in	P	0.9850
+red	A	0.9561
+hook	N	0.9962
+
+asked	V	0.9990
+him	O	0.9923
+about	P	0.7148
+?	,	0.9887
+?	,	0.9798
+
+yeah	!	0.9985
+,	,	0.9977
+bizzy	A	0.6536
+was	V	0.9899
+my	D	0.9992
+man	N	0.9962
+till	P	0.9989
+he	O	0.9975
+beat	V	0.9999
+me	O	0.9985
+for	P	0.9925
+ten	$	0.7946
+grand	A	0.9273
+and	&	0.9963
+sold	V	0.9989
+my	D	0.9959
+mac	^	0.8126
+for	P	0.9969
+
+seven	$	0.9112
+grand	A	0.8902
+(	,	0.9880
+fuckin	A	0.5031
+'	,	0.9801
+crazy	A	0.9771
+)	,	0.9824
+
+the	D	0.9989
+man	N	0.9901
+was	V	0.9954
+crazy	A	0.9961
+i	O	0.9618
+could	V	0.9998
+tell	V	0.9913
+by	P	0.9987
+his	D	0.9589
+look	N	0.4759
+
+cause	P	0.9499
+he	O	0.9972
+looked	V	0.9998
+the	D	0.9997
+way	N	0.9792
+i	O	0.9260
+look	V	0.9966
+
+when	R	0.9811
+i	O	0.9875
+look	V	0.9991
+for	P	0.9993
+a	D	0.9846
+jooks	N	0.7344
+
+bitch	N	0.8507
+
+motherfucker	N	0.6412
+
+teamwork	N	0.9808
+,	,	0.9978
+work	N	0.8164
+hard	A	0.8267
+nigga	N	0.9866
+
+!	,	0.9857
+digits	N	0.8832
+cent	N	0.9806
+
+rotten	A	0.7947
+apple	N	0.9225
+
+g-unit	^	0.4304
+
+lloyd	^	0.9812
+banks	N	0.9772
+
+tony	^	0.9642
+yayo	^	0.8062
+,	,	0.9958
+nigga	N	0.8644
+
+hey	!	0.9978
+what	O	0.9972
+up	T	0.7800
+,	,	0.9973
+nigga	N	0.7218
+
+you	O	0.9722
+motherfuckin	V	0.8385
+'	,	0.9745
+right	R	0.5840
+this	D	0.7120
+dj	^	0.6037
+clue	N	0.8142
+grand	A	0.9323
+theft	N	0.9987
+audio	N	0.9758
+!	,	0.9970
+digits	N	0.9370
+
+get	V	0.9973
+the	D	0.9917
+fuck	N	0.9504
+out	P	0.7925
+the	D	0.9994
+car	N	0.9930
+nigga	N	0.9789
+don't	V	0.9998
+make	V	0.9999
+me	O	0.7930
+rush	V	0.9600
+you	O	0.9920
+,	,	0.9982
+nigga	N	0.8359
+
+shoot	V	0.6470
+that	D	0.8627
+nigga	N	0.9941
+,	,	0.9978
+!	,	0.9916
+digits	N	0.9722
+!	,	0.9988
+
+try	V	0.9725
+to	P	0.9924
+remain	V	0.9998
+calm	A	0.9080
+,	,	0.9984
+you’re	L	0.9850
+fucking	R	0.4392
+with	P	0.9991
+a	D	0.9881
+don	N	0.8204
+
+pocket	N	0.7378
+full	A	0.8608
+of	P	0.9888
+green	A	0.9345
+,	,	0.9978
+green	A	0.9408
+in	P	0.9989
+the	D	0.9987
+bong	N	0.9874
+
+that	D	0.9083
+bitch	N	0.9922
+with	P	0.9999
+the	D	0.9985
+bow	N	0.6033
+leg	N	0.9721
+stance	N	0.9915
+turning	V	0.9994
+me	O	0.9966
+on	P	0.5536
+
+too	R	0.9878
+little	A	0.9991
+time	N	0.9988
+,	,	0.9973
+peace	N	0.6598
+rainbow	N	0.9736
+turn	V	0.9928
+me	O	0.9976
+on	P	0.5017
+
+niggas	N	0.9114
+still	R	0.9919
+want	V	0.9999
+me	O	0.9970
+dead	A	0.6435
+like	P	0.9718
+osam	^	0.3049
+’	,	0.8879
+
+but	&	0.9946
+they	O	0.9903
+ain't	V	0.9873
+gon	V	0.9927
+’	,	0.9223
+make	V	0.8493
+,	,	0.9981
+they	O	0.9837
+come	V	0.9992
+at	P	0.9978
+me	O	0.9965
+wrong	A	0.9331
+
+them	D	0.7351
+niggas	N	0.9652
+all	D	0.9751
+workers	N	0.9924
+i	O	0.9118
+smack	V	0.9987
+the	D	0.9997
+shit	N	0.9991
+out	P	0.9692
+their	D	0.9945
+bosses	N	0.9982
+
+ferrari	^	0.6890
+,	,	0.9969
+i’m	L	0.9935
+stronger	A	0.9945
+than	P	0.9535
+!	,	0.9871
+digits	N	0.8716
+hundred	$	0.6521
+horses	N	0.9959
+
+money	N	0.9887
+is	V	0.9981
+power	N	0.9432
+,	,	0.9970
+you	O	0.9719
+niggas	N	0.5786
+better	A	0.5885
+wake	V	0.5642
+up	T	0.9825
+
+my	D	0.9979
+earrings	N	0.9944
+blinking	V	0.6796
+,	,	0.9992
+that’s	L	0.9838
+old	A	0.9993
+shit	N	0.9942
+from	P	0.9992
+jacob	^	0.9989
+
+add	V	0.9939
+it	O	0.9922
+up	T	0.9820
+,	,	0.9966
+!	,	0.9899
+digits	N	0.9172
+plus	R	0.2288
+!	,	0.9929
+digits	N	0.9010
+that’s	L	0.9589
+!	,	0.9925
+digits	N	0.8799
+carats	N	0.9388
+
+you	O	0.9959
+can’t	V	0.9999
+run	V	0.9978
+and	&	0.9915
+get	V	0.9997
+ya	D	0.7449
+pain	N	0.9986
+,	,	0.9970
+you	O	0.9965
+ain't	V	0.9941
+got	V	0.9994
+it	O	0.9836
+
+blackjack	^	0.5600
+we	O	0.9923
+do	V	0.9999
+that	O	0.8286
+,	,	0.9974
+!	,	0.9899
+digits	N	0.8380
+grand	A	0.6845
+a	D	0.9762
+hand	N	0.9964
+
+you	O	0.9968
+could	V	0.9994
+get	V	0.9975
+shot	N	0.9685
+fucking	V	0.6136
+with	P	0.9935
+floyd	^	0.8918
+that’s	L	0.9744
+my	D	0.9959
+man	N	0.9869
+
+billionaire	N	0.8372
+brotherhood	N	0.9915
+,	,	0.9969
+we	O	0.9949
+call	V	0.9963
+this	O	0.7020
+the	D	0.9984
+money	N	0.9873
+team	N	0.9748
+
+pinky	N	0.5607
+ring	N	0.5448
+flawless	A	0.9021
+,	,	0.9972
+my	D	0.9798
+god	^	0.4904
+i’m	L	0.9935
+gorgeous	A	0.9985
+
+remain	V	0.9961
+calm	A	0.9201
+,	,	0.9978
+you’re	L	0.9848
+fucking	R	0.4392
+with	P	0.9992
+a	D	0.9905
+don	N	0.8832
+
+remain	V	0.9961
+calm	A	0.9201
+,	,	0.9966
+hoe	N	0.8174
+,	,	0.9978
+remain	V	0.9971
+calm	A	0.9208
+
+i’m	L	0.9936
+chillin	V	0.7925
+’	,	0.9312
+like	P	0.8247
+a	D	0.9952
+villain	N	0.9998
+while	P	0.9764
+i’m	L	0.9877
+dealin	V	0.7687
+’	,	0.9277
+i	O	0.9854
+am	V	0.9963
+
+rulin	V	0.3832
+’	,	0.9244
+while	P	0.8277
+i’m	L	0.9885
+coolin	V	0.7101
+’	,	0.9457
+with	P	0.9986
+my	D	0.9985
+tool	N	0.9998
+in	P	0.9987
+my	D	0.9988
+hand	N	0.9985
+
+post	V	0.7301
+up	T	0.9495
+,	,	0.9934
+coast	N	0.8423
+up	T	0.6765
+,	,	0.9976
+this	O	0.9662
+is	V	0.9994
+my	D	0.9975
+life	N	0.9789
+bitch	N	0.9756
+
+up	T	0.6172
+close	A	0.6959
+only	R	0.8056
+,	,	0.9983
+you’ll	L	0.9860
+get	V	0.9996
+stuck	V	0.9449
+with	P	0.9984
+a	D	0.9985
+knife	N	0.9503
+bitch	N	0.9777
+
+cuz	P	0.8096
+burnt	V	0.9806
+out	T	0.9502
+,	,	0.9979
+turnt	V	0.9748
+out	T	0.8743
+like	P	0.9819
+a	D	0.9942
+light	N	0.9736
+switch	V	0.5525
+
+got	V	0.9846
+a	D	0.9976
+lot	N	0.9886
+of	P	0.9968
+hoes	N	0.9942
+but	&	0.9866
+charmaine	^	0.9815
+,	,	0.9968
+that’s	L	0.9769
+my	D	0.9915
+white	A	0.9639
+bitch	N	0.9957
+
+the	D	0.9982
+rest	N	0.9974
+of	P	0.9987
+my	D	0.9982
+bitches	N	0.9985
+,	,	0.9987
+nah	!	0.9668
+,	,	0.9982
+they	O	0.9880
+ain’t	V	0.9763
+gonna	V	0.9988
+like	V	0.7242
+this	O	0.8907
+
+but	&	0.9948
+i	O	0.9952
+don’t	V	1.0000
+give	V	0.9998
+a	D	0.9862
+fuck	N	0.8867
+cause	P	0.8986
+they	O	0.9891
+all	D	0.8461
+love	N	0.6375
+this	D	0.9643
+night	N	0.9965
+stick	V	0.9282
+
+but	&	0.9948
+i	O	0.9936
+still	R	0.9934
+remain	V	0.9985
+calm	A	0.8914
+,	,	0.9974
+bang	V	0.6484
+and	&	0.9965
+drop	V	0.7941
+bombs	N	0.8900
+
+collar	N	0.8541
+popped	V	0.9988
+up	T	0.9193
+cool	A	0.9452
+as	P	0.9952
+the	D	0.9982
+fonz	^	0.9205
+
+motherfucker	N	0.6645
+,	,	0.9978
+have	V	0.9985
+a	D	0.9992
+seat	N	0.9939
+and	&	0.9954
+loosen	V	0.9990
+up	T	0.9779
+
+get	V	0.9970
+a	D	0.9972
+glass	N	0.9986
+of	P	0.9991
+some	D	0.9945
+gin	N	0.9882
+now	R	0.9749
+juice	N	0.5210
+it	O	0.9621
+up	T	0.9817
+
+deuces	V	0.4856
+up	T	0.9465
+
+see	V	0.9016
+there’s	L	0.6335
+a	D	0.9958
+line	N	0.9955
+there	R	0.8912
+for	P	0.9995
+a	D	0.9979
+reason	N	0.9943
+
+and	&	0.9983
+if	P	0.9919
+you	O	0.9995
+cross	V	0.9983
+it	O	0.9396
+no	R	0.6169
+more	A	0.6234
+breathin	V	0.4637
+’	,	0.9662
+
+you’re	L	0.9909
+leavin	V	0.9706
+’	,	0.8849
+,	,	0.9961
+believe	V	0.9992
+it	O	0.9900
+
+we	O	0.9975
+understand	V	0.9989
+each	D	0.9847
+other	A	0.9517
+
+cause	P	0.5690
+i	O	0.9946
+would	V	0.9998
+hate	V	0.9998
+to	P	0.9906
+have	V	0.9998
+to	P	0.9971
+put	V	0.9991
+a	D	0.9984
+slug	N	0.9990
+in	P	0.9985
+you	O	0.9512
+brother	N	0.8953
+
+ya	!	0.6461
+digg	N	0.7023
+?	,	0.9969
+
+with	P	0.9939
+fif	G	0.3670
+’	,	0.5169
+on	P	0.9779
+that	D	0.9182
+shit	N	0.9978
+,	,	0.9980
+that	D	0.6277
+glock	N	0.8387
+cocked	V	0.9953
+in	P	0.9623
+ya	D	0.9563
+face	N	0.9909
+
+my	D	0.9959
+twat	N	0.9827
+cocked	V	0.9969
+in	P	0.9588
+ya	D	0.9473
+face	N	0.9930
+,	,	0.9958
+you	O	0.9991
+know	V	0.9998
+you	O	0.9987
+wan	A	0.5660
+’	,	0.9331
+taste	V	0.7036
+
+alexander	^	0.9955
+mcqueen	^	0.9941
+,	,	0.9945
+strapless	N	0.4184
+with	P	0.9997
+my	D	0.9154
+back	N	0.6627
+out	P	0.5910
+
+!	,	0.9838
+digits	N	0.8539
+inch	N	0.9256
+givenchy’s	L	0.1333
+and	&	0.9976
+bitch	N	0.9600
+finna	P	0.6717
+act	V	0.9967
+out	T	0.7062
+
+niggas	N	0.8992
+on	P	0.9986
+my	D	0.9985
+heels	N	0.9943
+tryna	V	0.9164
+find	V	0.9997
+out	T	0.9461
+what	O	0.9831
+the	D	0.9994
+head	N	0.9924
+like	P	0.9663
+
+i	O	0.9908
+know	V	0.9994
+what	O	0.9865
+the	D	0.9988
+bread	N	0.9967
+like	P	0.9516
+
+my	D	0.8329
+[	,	0.9633
+?	,	0.9760
+]	,	0.9036
+headlight	N	0.8829
+,	,	0.9981
+shine	V	0.9876
+like	P	0.8590
+i	O	0.9949
+shine	V	0.9994
+
+night	N	0.8950
+or	&	0.9903
+day	N	0.9927
+time	N	0.9927
+
+but	&	0.9917
+nah	!	0.9348
+,	,	0.9979
+nana-nah-na	N	0.4552
+
+make	V	0.9869
+a	D	0.9981
+nigga	N	0.9962
+walk	V	0.9367
+by	P	0.8595
+,	,	0.9949
+everything	N	0.9901
+i	O	0.9775
+say	V	0.9992
+by	P	0.9723
+
+nana-nah-na	!	0.6498
+
+get	V	0.9918
+wet	A	0.9597
+i	O	0.9579
+got	V	0.9997
+that	D	0.8828
+comeback	N	0.9984
+
+dead	A	0.8837
+crack	N	0.9747
+,	,	0.9964
+my	D	0.9964
+assets	N	0.9987
+is	V	0.9988
+my	D	0.9983
+ass	N	0.9856
+jack	^	0.8114
+
+stunt	N	0.8912
+i	O	0.9618
+tell	V	0.9999
+my	D	0.9948
+niggas	N	0.9923
+right	R	0.7074
+where	R	0.9676
+your	D	0.9181
+stash	N	0.9977
+at	P	0.9986
+
+you’re	L	0.9794
+fucking	A	0.3670
+with	P	0.9987
+a	D	0.9973
+southside	N	0.7009
+bitch	N	0.9860
+
+i	O	0.9843
+go	V	0.9989
+where	R	0.9919
+the	D	0.9986
+money	N	0.9971
+go	V	0.9846
+
+i’m	L	0.9943
+at	P	0.9882
+‘	,	0.9262
+em	O	0.8840
+,	,	0.9972
+i	O	0.9842
+put	V	0.9995
+her	O	0.8312
+on	P	0.9931
+the	D	0.9984
+strobe	N	0.9018
+
+get	V	0.9986
+my	D	0.9967
+money	N	0.9899
+hoe	N	0.8715
+
+catch	V	0.9947
+me	O	0.9986
+in	P	0.7807
+ferragamo	^	0.6683
+
+or	&	0.9865
+dolce	N	0.8879
+&	&	0.9936
+gabbana	^	0.4943
+or	&	0.9771
+[	,	0.9699
+?	,	0.9852
+]	,	0.8492
+
+i’m	L	0.9931
+b-squared	V	0.9187
+up	T	0.9768
+,	,	0.9982
+what	O	0.9528
+?	,	0.9932
+
+i	O	0.9863
+don't	V	1.0000
+know	V	0.9996
+what	O	0.9743
+you	O	0.9993
+take	V	0.9999
+me	O	0.9942
+for	P	0.9808
+
+i	O	0.9813
+really	R	0.9964
+don't	V	1.0000
+play	V	0.9996
+that	D	0.9190
+shit	N	0.9958
+
+i	O	0.9767
+ain't	V	0.9970
+got	V	0.9985
+to	P	0.9769
+get	V	1.0000
+you	O	0.9995
+hit	V	0.9943
+
+i	O	0.9849
+get	V	1.0000
+out	T	0.8447
+myself	O	0.9939
+and	&	0.9964
+spray	N	0.8847
+that	P	0.6308
+shit	N	0.9786
+
+i	O	0.9892
+got	V	0.9998
+a	D	0.9969
+itchy	A	0.9153
+itchy	N	0.4804
+trigger	N	0.7677
+finger	N	0.9960
+,	,	0.9978
+nigga	N	0.7315
+its	L	0.9871
+a	D	0.9820
+killa	N	0.9256
+in	P	0.9967
+me	O	0.9987
+not	R	0.9994
+to	P	0.9882
+spray	V	0.6557
+that	D	0.7328
+shit	N	0.9971
+
+i	O	0.9892
+got	V	0.9997
+enough	A	0.7223
+ammo	N	0.9871
+shots	N	0.9976
+to	P	0.9982
+blow	N	0.5660
+,	,	0.9954
+put	V	0.9845
+a	D	0.9953
+hole	N	0.9986
+up	P	0.7912
+every	D	0.9928
+mothafucka	N	0.9867
+out	P	0.9617
+this	D	0.9762
+bitch	N	0.9883
+
+i	O	0.9854
+unload	V	0.9973
+then	R	0.9769
+reload	V	0.4661
+,	,	0.9988
+when	R	0.9874
+you	O	0.9986
+get	V	0.9997
+hit	V	0.8299
+i	O	0.9948
+supposed	V	0.9716
+you	O	0.9991
+gon	V	0.9989
+'	,	0.9664
+be	V	0.9618
+strong	A	0.9569
+enough	R	0.4802
+to	P	0.9972
+take	V	0.9996
+this	D	0.9941
+shit	N	0.9951
+
+i’m	L	0.9945
+in	P	0.9966
+the	D	0.9992
+hood	N	0.9917
+ridin	V	0.8802
+’	,	0.9054
+round	N	0.5771
+with	P	0.9996
+a	D	0.9985
+chrome	N	0.9724
+fo	P	0.8210
+’	,	0.7283
+pound	N	0.9526
+,	,	0.9985
+can	V	0.9994
+you	O	0.9987
+see	V	0.9964
+thru	P	0.9563
+the	D	0.9993
+windows	N	0.7392
+see	V	0.9289
+tints	N	0.9816
+
+i	O	0.9873
+do	V	0.9998
+dirt	N	0.9828
+,	,	0.9953
+the	D	0.9888
+gat	A	0.7009
+bussa	N	0.9804
+,	,	0.9971
+get	V	0.9969
+to	P	0.9778
+kickin	V	0.9945
+’	,	0.9295
+up	T	0.4660
+dust	N	0.9914
+,	,	0.9908
+'	,	0.8588
+fore	P	0.8628
+the	D	0.9945
+jakes	N	0.8872
+come	V	0.9973
+around	R	0.7426
+here	R	0.9571
+kid	N	0.7481
+
+niggas	N	0.9430
+get	V	0.9984
+knocked	V	0.9940
+if	P	0.9985
+they	O	0.9955
+start	V	0.9988
+aksin	^	0.2549
+’	,	0.8222
+question	N	0.9670
+,	,	0.9970
+my	D	0.9975
+name	N	0.9970
+end	N	0.6947
+up	T	0.5461
+in	P	0.9899
+all	D	0.9958
+types	N	0.9981
+of	P	0.9955
+shit	N	0.9913
+
+i	O	0.9833
+be	V	0.9999
+a	D	0.9841
+gangsta	A	0.9184
+,	,	0.9975
+a	D	0.9960
+nigga	N	0.9955
+till	P	0.9867
+i	O	0.9959
+die	V	0.9983
+fo	P	0.5047
+'	,	0.6469
+sho	!	0.2678
+'	,	0.9333
+,	,	0.9932
+whether	P	0.6966
+i'm	L	0.9889
+poor	A	0.9030
+or	&	0.9806
+i'm	L	0.9965
+filthy	A	0.9885
+rich	A	0.8320
+
+now	R	0.9628
+what	O	0.9641
+you	O	0.9997
+know	V	0.9990
+about	P	0.9490
+movin	V	0.4716
+'	,	0.9846
+that	O	0.4463
+pervuian	V	0.5178
+and	&	0.9971
+flake	V	0.8851
+for	P	0.9980
+that	D	0.8645
+cake	N	0.9940
+,	,	0.9976
+i	O	0.9832
+get	V	0.9998
+rid	A	0.8359
+of	P	0.9987
+them	D	0.9064
+bricks	N	0.9350
+
+i	O	0.9863
+don't	V	1.0000
+know	V	0.9996
+what	O	0.9743
+you	O	0.9993
+take	V	0.9999
+me	O	0.9942
+for	P	0.9808
+
+i	O	0.9813
+really	R	0.9964
+don't	V	1.0000
+play	V	0.9996
+that	D	0.9190
+shit	N	0.9958
+
+i	O	0.9767
+ain't	V	0.9970
+got	V	0.9985
+to	P	0.9769
+get	V	1.0000
+you	O	0.9995
+hit	V	0.9943
+
+i	O	0.9849
+get	V	1.0000
+out	T	0.8447
+myself	O	0.9939
+and	&	0.9964
+spray	N	0.8847
+that	P	0.6308
+shit	N	0.9786
+
+man	!	0.5929
+i	O	0.9853
+gotta	V	0.9998
+have	V	0.9968
+shoes	N	0.9962
+,	,	0.9968
+you	O	0.9991
+know	V	0.9968
+chrome	N	0.8550
+22's	$	0.8297
+,	,	0.9983
+everytime	R	0.7956
+i	O	0.9897
+get	V	1.0000
+a	D	0.9957
+brand	N	0.4555
+new	A	0.9634
+whip	N	0.8735
+
+i	O	0.9888
+rolled	V	0.9996
+around	P	0.4259
+in	P	0.9679
+a	D	0.6989
+!	,	0.9868
+digits	N	0.9695
+,	,	0.9981
+till	P	0.9879
+my	D	0.9972
+money	N	0.9985
+got	V	0.9981
+right	A	0.5497
+,	,	0.9993
+then	R	0.9878
+i	O	0.9923
+went	V	0.9996
+back	R	0.9516
+and	&	0.9987
+got	V	0.9978
+that	D	0.6364
+six	N	0.5050
+
+i'm	L	0.9945
+in	P	0.9800
+a	D	0.9983
+big	A	0.9533
+white	A	0.8988
+benz	N	0.9906
+,	,	0.9990
+on	P	0.9851
+a	D	0.9982
+hot	A	0.9748
+sunny	A	0.9938
+day	N	0.9991
+,	,	0.9983
+i	O	0.9828
+call	V	0.9997
+up	T	0.9106
+the	D	0.9995
+milk	N	0.9916
+truck	N	0.9973
+and	&	0.9985
+shit	N	0.9690
+
+i	O	0.9896
+have	V	1.0000
+ya	D	0.8931
+hoe	N	0.9693
+,	,	0.9982
+eyeballin	V	0.4244
+'	,	0.9747
+at	P	0.9993
+the	D	0.9992
+light	N	0.9871
+,	,	0.9988
+damn	!	0.5303
+pimpin	N	0.6464
+'	,	0.9747
+,	,	0.9949
+you	O	0.9985
+should	V	0.9996
+take	V	0.9992
+time	N	0.9939
+to	P	0.9981
+check	V	0.9968
+that	D	0.8947
+bitch	N	0.9948
+
+you	O	0.9980
+saw	V	0.9999
+me	O	0.9978
+ridin	V	0.9579
+through	P	0.9958
+the	D	0.9993
+hood	N	0.9938
+,	,	0.9989
+actin	V	0.9167
+'	,	0.9776
+like	P	0.9327
+its	L	0.9658
+all	D	0.5851
+good	A	0.9936
+,	,	0.9990
+but	&	0.9931
+i'm	L	0.9962
+lookin	V	0.8729
+'	,	0.9819
+for	P	0.9983
+a	D	0.9791
+jux	R	0.8454
+and	&	0.9956
+shit	N	0.9662
+
+in	P	0.9915
+the	D	0.9992
+middle	N	0.9645
+of	P	0.9995
+the	D	0.9996
+night	N	0.9967
+,	,	0.9979
+you	O	0.9985
+can	V	0.9997
+turn	V	0.9987
+on	P	0.5463
+ya	D	0.8485
+lights	N	0.9401
+,	,	0.9980
+i	O	0.9892
+mean	V	0.9994
+my	D	0.9964
+niggas	N	0.9968
+in	P	0.9965
+ya	D	0.8346
+crib	N	0.9671
+
+nigga	N	0.7706
+holla	V	0.7818
+if	P	0.9760
+there's	L	0.9268
+a	D	0.9981
+problem	N	0.9981
+,	,	0.9989
+and	&	0.9993
+your	D	0.9065
+niggas	N	0.9962
+got	V	0.9931
+drama	N	0.9926
+,	,	0.9979
+i	O	0.9887
+got	V	0.9995
+burners	N	0.9706
+for	P	0.9997
+sell	V	0.6484
+and	&	0.9939
+shit	N	0.9528
+
+got	V	0.9866
+the	D	0.9992
+macs	N	0.9357
+,	,	0.9983
+got	V	0.9957
+the	D	0.9992
+nines	N	0.8037
+,	,	0.9984
+got	V	0.9990
+them	O	0.9177
+tecks	V	0.7525
+all	X	0.5949
+the	D	0.9998
+time	N	0.9982
+,	,	0.9954
+holo-tips	N	0.5877
+and	&	0.9931
+the	D	0.9971
+extra	A	0.9715
+clips	N	0.9974
+
+i	O	0.9863
+don't	V	1.0000
+know	V	0.9996
+what	O	0.9743
+you	O	0.9993
+take	V	0.9999
+me	O	0.9942
+for	P	0.9808
+
+i	O	0.9813
+really	R	0.9964
+don't	V	1.0000
+play	V	0.9996
+that	D	0.9190
+shit	N	0.9958
+
+i	O	0.9767
+ain't	V	0.9970
+got	V	0.9985
+to	P	0.9769
+get	V	1.0000
+you	O	0.9995
+hit	V	0.9943
+
+i	O	0.9849
+get	V	1.0000
+out	T	0.8447
+myself	O	0.9939
+and	&	0.9964
+spray	N	0.8847
+that	P	0.6308
+shit	N	0.9786
+
+man	!	0.8424
+i'm	L	0.9981
+tired	A	0.9240
+of	P	0.9939
+tellin	V	0.6251
+'	,	0.9641
+niggas	N	0.9741
+over	P	0.7644
+and	&	0.9975
+over	P	0.5580
+everything	N	0.8832
+about	P	0.9954
+me	O	0.9995
+be	V	0.9927
+gangsta	A	0.9604
+
+man	!	0.8424
+i'm	L	0.9981
+tired	A	0.9240
+of	P	0.9939
+tellin	V	0.6251
+'	,	0.9641
+niggas	N	0.9741
+over	P	0.7644
+and	&	0.9975
+over	P	0.4390
+i	O	0.9964
+won't	V	0.9970
+hesitate	V	0.9995
+to	P	0.9926
+pop	V	0.6037
+or	&	0.9785
+shank	V	0.8095
+ya	O	0.7310
+
+man	!	0.8424
+i'm	L	0.9981
+tired	A	0.9240
+of	P	0.9939
+tellin	V	0.6251
+'	,	0.9641
+niggas	N	0.9741
+over	P	0.7644
+and	&	0.9975
+over	P	0.8659
+they	O	0.9971
+can	V	0.9994
+hustle	V	0.9909
+and	&	0.9943
+i'm	L	0.9940
+in	P	0.9908
+your	D	0.9954
+shit	N	0.9979
+
+man	!	0.8424
+i'm	L	0.9981
+tired	A	0.9240
+of	P	0.9939
+tellin	V	0.6251
+'	,	0.9641
+niggas	N	0.9741
+over	P	0.7644
+and	&	0.9975
+over	P	0.8471
+you	O	0.9998
+don't	V	1.0000
+listen	V	1.0000
+you	O	0.9994
+gon	V	0.9989
+'	,	0.9733
+get	V	0.9974
+ya	D	0.9031
+ass	N	0.9866
+hit	V	0.8071
+
+this	O	0.9526
+is	V	0.9954
+!	,	0.9935
+digits	N	0.9589
+
+yeah	!	0.9988
+
+nigga	N	0.8819
+cherish	V	0.9983
+me	O	0.9986
+
+like	P	0.9233
+the	D	0.9987
+water	N	0.9966
+you	O	0.9758
+drink	V	0.9823
+
+like	P	0.9233
+the	D	0.9987
+air	N	0.9941
+you	O	0.9761
+breathe	V	0.9374
+
+you	O	0.9980
+need	V	0.9998
+me	O	0.9980
+to	P	0.9825
+live	V	0.9747
+
+yeah	!	0.9988
+
+as	P	0.7296
+i	O	0.9962
+walk	V	0.9989
+through	P	0.9947
+the	D	0.9985
+valley	N	0.9775
+of	P	0.9995
+the	D	0.9979
+shadow	N	0.9933
+of	P	0.9972
+death	N	0.9896
+
+i	O	0.9855
+take	V	0.9999
+a	D	0.9684
+look	N	0.9122
+at	P	0.9998
+my	D	0.9992
+life	N	0.9968
+and	&	0.9972
+realize	V	0.9908
+there's	L	0.8579
+nothin	N	0.9855
+'	,	0.9760
+left	V	0.5939
+
+cause	P	0.7827
+i've	L	0.9878
+been	V	0.9925
+blasting	V	0.9924
+and	&	0.9962
+laughing	V	0.9878
+so	R	0.9614
+long	A	0.9479
+,	,	0.9987
+
+that	O	0.7534
+even	R	0.9238
+my	D	0.9923
+mama	N	0.9944
+thinks	V	0.9979
+that	P	0.8400
+my	D	0.9959
+mind	N	0.9958
+is	V	0.9946
+gone	A	0.5725
+
+but	&	0.9948
+i	O	0.9928
+ain't	V	0.9933
+never	R	0.9965
+crossed	V	0.9987
+a	D	0.9980
+man	N	0.9866
+that	P	0.7987
+didn't	V	0.9993
+deserve	V	1.0000
+it	O	0.9909
+
+me	O	0.9976
+be	V	0.9964
+treated	V	0.9883
+like	P	0.9611
+a	D	0.9970
+punk	N	0.9959
+you	O	0.9970
+know	V	0.9993
+that's	L	0.9948
+unheard	A	0.9774
+of	P	0.9877
+
+you	O	0.9721
+better	A	0.6157
+watch	V	0.6142
+how	R	0.9813
+you're	L	0.9878
+talking	V	0.8897
+and	&	0.9961
+where	R	0.9704
+you're	L	0.9861
+walking	V	0.9878
+
+or	&	0.9924
+you	O	0.9988
+and	&	0.9911
+your	D	0.8474
+homies	N	0.9864
+might	V	0.9845
+be	V	0.9994
+lined	V	0.9721
+in	P	0.9112
+chalk	N	0.9786
+
+i	O	0.9813
+really	R	0.9924
+hate	V	0.9995
+to	P	0.9859
+trip	V	0.7307
+but	&	0.9907
+i	O	0.9940
+gotta	V	0.9991
+loc	G	0.6607
+
+as	P	0.9659
+they	O	0.9935
+croak	V	0.9970
+,	,	0.9980
+i	O	0.9842
+see	V	0.9999
+myself	O	0.9653
+in	P	0.9906
+the	D	0.9993
+pistol	N	0.9958
+smoke	N	0.6697
+,	,	0.9961
+fool	N	0.9836
+
+i'm	L	0.9877
+the	D	0.9855
+kinda	^	0.4545
+g	G	0.3880
+the	D	0.9983
+little	A	0.9912
+homies	N	0.9802
+wanna	V	0.9872
+be	V	0.9993
+like	P	0.7976
+
+on	P	0.9880
+my	D	0.9985
+knees	N	0.9971
+in	P	0.9997
+the	D	0.9995
+night	N	0.9912
+saying	V	0.9973
+prayers	N	0.9784
+in	P	0.9996
+the	D	0.9992
+streetlight	N	0.9975
+
+been	V	0.9800
+spending	V	0.9985
+most	R	0.9360
+their	D	0.8957
+lives	N	0.9807
+,	,	0.9987
+living	V	0.9945
+in	P	0.9805
+the	D	0.9987
+gangsta's	Z	0.5782
+paradise	N	0.8847
+
+keep	V	0.9503
+spending	V	0.9917
+most	R	0.9388
+our	D	0.9583
+lives	N	0.9592
+,	,	0.9987
+living	V	0.9945
+in	P	0.9805
+the	D	0.9987
+gangsta's	Z	0.5782
+paradise	N	0.8847
+
+look	V	0.9135
+at	P	0.9994
+the	D	0.9993
+situation	N	0.9994
+they	O	0.9820
+got	V	1.0000
+me	O	0.9982
+facin	V	0.9477
+'	,	0.9854
+
+i	O	0.9868
+can't	V	0.9999
+live	V	0.9971
+a	D	0.9974
+normal	A	0.9981
+life	N	0.9989
+,	,	0.9976
+i	O	0.9916
+was	V	0.9998
+raised	V	0.9359
+by	P	0.9992
+the	D	0.9993
+streets	N	0.7906
+
+so	R	0.5368
+i	O	0.9907
+gotta	V	0.9998
+be	V	0.9994
+down	R	0.5822
+with	P	0.9998
+the	D	0.9995
+hood	N	0.9722
+team	N	0.9907
+
+too	R	0.9986
+much	A	0.9740
+television	N	0.9951
+watching	V	0.9799
+got	V	0.9984
+me	O	0.9992
+chasing	V	0.9948
+dreams	N	0.9645
+
+i'm	L	0.9915
+an	D	0.9577
+educated	A	0.8145
+fool	N	0.9992
+with	P	0.9993
+money	N	0.9829
+on	P	0.9992
+my	D	0.9925
+mind	N	0.9926
+
+got	V	0.9930
+my	D	0.7012
+!	,	0.9734
+digits	N	0.8935
+in	P	0.9981
+my	D	0.9988
+hand	N	0.9973
+and	&	0.9987
+a	D	0.9938
+gleam	N	0.9806
+in	P	0.9982
+my	D	0.9983
+eye	N	0.9974
+
+i'm	L	0.9938
+a	D	0.9144
+loc'd	N	0.8075
+out	P	0.7513
+gangsta	A	0.6058
+set	N	0.8281
+trippin	V	0.9029
+'	,	0.9754
+banger	N	0.9255
+
+and	&	0.9989
+my	D	0.9858
+homies	N	0.9919
+is	V	0.9994
+down	R	0.7635
+so	R	0.6467
+don't	V	0.9989
+arouse	V	1.0000
+my	D	0.9980
+anger	N	0.9992
+,	,	0.9984
+fool	N	0.9845
+
+death	N	0.9648
+ain't	V	0.9526
+nothing	N	0.9773
+but	&	0.9909
+a	D	0.9964
+heartbeat	N	0.9951
+away	R	0.9743
+,	,	0.9979
+
+i'm	L	0.9967
+living	V	0.9064
+life	N	0.9942
+,	,	0.9983
+do	V	0.9907
+or	&	0.9825
+die	V	0.8478
+,	,	0.9981
+what	O	0.9889
+can	V	0.9939
+i	O	0.9906
+say	V	0.9986
+
+i'm	L	0.9786
+!	,	0.9905
+digits	N	0.8883
+now	R	0.9973
+,	,	0.9991
+but	&	0.9933
+will	V	0.9533
+i	O	0.9800
+live	V	0.9771
+to	P	0.9928
+see	V	0.9886
+!	,	0.9874
+digits	N	0.9333
+
+the	D	0.9988
+way	N	0.9212
+things	N	0.9839
+are	V	0.9925
+going	V	0.9524
+i	O	0.9921
+don't	V	1.0000
+know	V	0.9991
+
+tell	V	0.9944
+me	O	0.9992
+why	R	0.9893
+are	V	0.9759
+we	O	0.9981
+so	R	0.9603
+blind	A	0.9925
+to	P	0.9986
+see	V	0.9949
+
+that	P	0.8205
+the	D	0.9995
+ones	N	0.9761
+we	O	0.9830
+hurt	V	0.9876
+are	V	0.9932
+you	O	0.9986
+and	&	0.9926
+me	O	0.9984
+
+been	V	0.9800
+spending	V	0.9985
+most	R	0.9360
+their	D	0.8957
+lives	N	0.9807
+,	,	0.9987
+living	V	0.9945
+in	P	0.9805
+the	D	0.9987
+gangsta's	Z	0.5782
+paradise	N	0.8847
+
+keep	V	0.9503
+spending	V	0.9917
+most	R	0.9388
+our	D	0.9583
+lives	N	0.9592
+,	,	0.9987
+living	V	0.9945
+in	P	0.9805
+the	D	0.9987
+gangsta's	Z	0.5782
+paradise	N	0.8847
+
+power	N	0.8484
+and	&	0.9915
+the	D	0.9991
+money	N	0.9973
+,	,	0.9976
+money	N	0.9629
+and	&	0.9867
+the	D	0.9984
+power	N	0.9929
+
+minute	N	0.8357
+after	P	0.9834
+minute	N	0.8817
+,	,	0.9983
+hour	N	0.9554
+after	P	0.9804
+hour	N	0.9478
+
+everybody's	L	0.8333
+running	V	0.9511
+,	,	0.9990
+but	&	0.9946
+half	R	0.4840
+of	P	0.9979
+them	O	0.8663
+ain't	V	0.9490
+looking	V	0.9898
+
+what's	L	0.9967
+going	V	0.9920
+on	P	0.5201
+in	P	0.9973
+the	D	0.9993
+kitchen	N	0.9470
+,	,	0.9993
+but	&	0.9962
+i	O	0.9945
+don't	V	1.0000
+know	V	0.9995
+what's	L	0.9981
+cookin	V	0.9150
+'	,	0.9807
+
+they	O	0.9927
+say	V	0.9944
+i	O	0.9948
+gotta	V	0.9997
+learn	V	0.9940
+,	,	0.9989
+but	&	0.9960
+nobody's	L	0.9810
+here	R	0.9922
+to	P	0.9951
+teach	V	0.9999
+me	O	0.9972
+
+if	P	0.9975
+they	O	0.9976
+can't	V	0.9998
+understand	V	0.9999
+it	O	0.9878
+,	,	0.9992
+how	R	0.9845
+can	V	0.9982
+they	O	0.9848
+reach	V	0.9999
+me	O	0.9983
+
+i	O	0.9894
+guess	V	0.9999
+they	O	0.9942
+can't	V	0.9998
+,	,	0.9963
+i	O	0.9888
+guess	V	0.9999
+they	O	0.9864
+won't	V	0.9944
+
+i	O	0.9894
+guess	V	0.9999
+they	O	0.8160
+front	N	0.5834
+,	,	0.9985
+that's	L	0.9930
+why	R	0.9847
+i	O	0.9961
+know	V	0.9999
+my	D	0.9970
+life	N	0.9994
+is	V	0.9994
+out	P	0.7379
+of	P	0.9800
+luck	N	0.9810
+,	,	0.9987
+fool	N	0.9666
+
+been	V	0.9800
+spending	V	0.9985
+most	R	0.9360
+their	D	0.8957
+lives	N	0.9807
+,	,	0.9987
+living	V	0.9945
+in	P	0.9805
+the	D	0.9987
+gangsta's	Z	0.5782
+paradise	N	0.8847
+
+keep	V	0.9503
+spending	V	0.9917
+most	R	0.9388
+our	D	0.9583
+lives	N	0.9592
+,	,	0.9987
+living	V	0.9945
+in	P	0.9805
+the	D	0.9987
+gangsta's	Z	0.5782
+paradise	N	0.8847
+
+tell	V	0.9944
+me	O	0.9992
+why	R	0.9893
+are	V	0.9759
+we	O	0.9981
+so	R	0.9603
+blind	A	0.9925
+to	P	0.9986
+see	V	0.9949
+
+that	P	0.8205
+the	D	0.9994
+one's	S	0.5325
+we	O	0.9966
+hurt	V	0.9876
+are	V	0.9932
+you	O	0.9986
+and	&	0.9926
+me	O	0.9984
+
+tell	V	0.9944
+me	O	0.9992
+why	R	0.9893
+are	V	0.9759
+we	O	0.9981
+so	R	0.9603
+blind	A	0.9925
+to	P	0.9986
+see	V	0.9949
+
+that	P	0.8205
+the	D	0.9994
+one's	S	0.5325
+we	O	0.9966
+hurt	V	0.9876
+are	V	0.9932
+you	O	0.9986
+and	&	0.9926
+me	O	0.9984
+
+ladies	N	0.9895
+and	&	0.9984
+gentlemen	N	0.9749
+
+this	D	0.9705
+one	$	0.7640
+goes	V	0.9875
+out	T	0.9131
+to	P	0.9975
+that	D	0.8586
+little	A	0.9928
+kid	N	0.9796
+that	P	0.8818
+got	V	0.9947
+fried	A	0.9936
+spam	N	0.9875
+for	P	0.9992
+lunch	N	0.8918
+
+i	O	0.9836
+feel	V	0.9997
+for	P	0.9992
+you	O	0.9986
+,	,	0.9995
+i'm	L	0.9932
+with	P	0.9992
+you	O	0.9986
+,	,	0.9995
+i'm	L	0.9932
+with	P	0.9993
+you	O	0.9517
+brother	N	0.8953
+
+and	&	0.9992
+this	D	0.9157
+one	$	0.8967
+right	R	0.7847
+here	R	0.9658
+is	V	0.9908
+for	P	0.9969
+that	D	0.8950
+ghetto	A	0.8809
+girl	N	0.9977
+with	P	0.9999
+the	D	0.9995
+bad	A	0.9781
+perm	N	0.9619
+
+that	O	0.7457
+just	R	0.9990
+burn	V	0.9779
+baby	N	0.9848
+,	,	0.9968
+burn	V	0.8451
+baby	N	0.9837
+,	,	0.9970
+burn	V	0.7999
+
+pop	N	0.4944
+open	V	0.9624
+a	D	0.9923
+malt	N	0.9560
+liquor	N	0.9930
+
+smoke	V	0.8950
+something	N	0.9923
+until	P	0.9997
+your	D	0.9913
+scalp	N	0.9982
+gets	V	0.9983
+killed	V	0.9433
+
+gangstas	N	0.9468
+and	&	0.9976
+pimps	N	0.9752
+
+love	V	0.7629
+lobsters	^	0.4488
+and	&	0.9988
+shrimps	N	0.8454
+
+kool-aid	N	0.5764
+and	&	0.9978
+chicken	N	0.8869
+
+flashy	A	0.9973
+things	N	0.9989
+and	&	0.9979
+women	N	0.9764
+
+all	D	0.9432
+i	O	0.9873
+need	V	0.9984
+
+is	V	0.9889
+remy	^	0.6234
+and	&	0.9984
+weed	N	0.8534
+
+somebody	N	0.9624
+not	R	0.9994
+afraid	A	0.9548
+
+to	P	0.9814
+go	V	0.9996
+some	D	0.3646
+for	P	0.9996
+my	D	0.9950
+escalade	N	0.9739
+
+i'm	L	0.9966
+just	R	0.9973
+pimping	V	0.9825
+
+baby	N	0.8562
+you	O	0.9963
+got	V	0.9998
+a	D	0.9983
+rule	N	0.9830
+for	P	0.9998
+me	O	0.9986
+
+put	V	0.9896
+your	D	0.9958
+mink	N	0.9970
+on	P	0.9796
+and	&	0.9978
+slide	V	0.8366
+in	P	0.8834
+a	D	0.9958
+cool	A	0.8431
+for	P	0.9998
+me	O	0.9988
+
+hey	!	0.9912
+you	O	0.9988
+gotta	V	0.9994
+get	V	0.9991
+high	A	0.8954
+and	&	0.9949
+go	V	0.9886
+low	A	0.6447
+for	P	0.9997
+me	O	0.9986
+
+it's	L	0.9769
+cash	N	0.8966
+money	N	0.9900
+young	A	0.9919
+money	N	0.9961
+never	R	0.9951
+know	V	0.9836
+money	N	0.9706
+
+it's	L	0.9901
+!	,	0.9881
+digits	N	0.8665
+degreez	N	0.7291
+it's	L	0.9979
+not	R	0.9933
+fool	N	0.9770
+
+but	&	0.9962
+it	O	0.9976
+and	&	0.9875
+the	D	0.9982
+dro	N	0.9824
+got	V	0.9991
+me	O	0.9985
+so	R	0.8899
+scummy	A	0.9508
+
+and	&	0.9979
+to	P	0.9518
+drum	N	0.6611
+hole	N	0.9361
+a	D	0.9870
+whole	A	0.9855
+hundred	A	0.3723
+
+can	V	0.9755
+i	O	0.9777
+put	V	0.9994
+a	D	0.9988
+whole	A	0.9861
+hundred	$	0.7008
+in	P	0.9962
+your	D	0.9927
+whole	A	0.9439
+tummy	N	0.9551
+
+hehe	!	0.9972
+,	,	0.9970
+man	N	0.8966
+weezy's	Z	0.4789
+a	D	0.9912
+legend	N	0.9966
+
+you	O	0.9969
+can	V	0.9998
+tell	V	0.9981
+by	P	0.9987
+the	D	0.9992
+bottom	N	0.9409
+of	P	0.9990
+my	D	0.9991
+sleeve	N	0.9952
+when	R	0.9494
+you	O	0.9986
+see	V	0.9974
+what's	L	0.9895
+in	P	0.9526
+a	D	0.9957
+bezel	N	0.9401
+
+and	&	0.9989
+he	O	0.9943
+be	V	0.9995
+on	P	0.9660
+a	D	0.9975
+level	N	0.9919
+that's	L	0.9787
+so	R	0.9820
+terrific	A	0.9865
+
+i'm	L	0.9945
+in	P	0.9932
+this	D	0.9890
+bitch	N	0.9958
+hold	V	0.9985
+your	D	0.9954
+pictures	N	0.9979
+
+and	&	0.9985
+hold	V	0.9989
+your	D	0.9931
+bitches	N	0.9951
+cuz	P	0.9924
+she	O	0.9983
+gon	V	0.9979
+want	V	0.9999
+a	D	0.9982
+part	N	0.9992
+of	P	0.9987
+me	O	0.9977
+
+cuz	P	0.9471
+she	O	0.9977
+never	R	0.9984
+see	V	0.9975
+the	D	0.9996
+roof	N	0.9983
+of	P	0.9990
+my	D	0.9984
+car	N	0.9992
+with	P	0.9998
+me	O	0.9984
+
+and	&	0.9989
+you	O	0.9989
+never	R	0.9961
+see	V	0.9980
+a	D	0.9991
+tooth	N	0.9994
+without	P	0.9991
+a	D	0.9908
+diamond	N	0.9803
+on	P	0.9989
+it	O	0.9974
+
+this	O	0.9526
+is	V	0.9868
+game	N	0.9885
+at	P	0.9998
+its	L	0.5366
+finest	A	0.9953
+homie	N	0.9902
+
+peep	V	0.5029
+it	O	0.9838
+
+see	V	0.8247
+i	O	0.9855
+was	V	0.9998
+born	V	0.9532
+from	P	0.9963
+a	D	0.9944
+gangsta	A	0.9424
+
+pa	^	0.8203
+gave	V	0.9989
+me	O	0.9967
+a	D	0.9733
+whip	N	0.9652
+
+ran	V	0.9444
+numbers	N	0.9655
+with	P	0.9979
+pimps	N	0.8546
+and	&	0.9986
+i	O	0.9905
+laid	V	0.9997
+down	T	0.5345
+cents	N	0.9829
+
+one	$	0.9869
+of	P	0.9979
+a	D	0.9972
+kind	N	0.5386
+birdman	^	0.6717
+i	O	0.9612
+shine	V	0.9987
+
+22's	$	0.7384
+on	P	0.9955
+it	O	0.9961
+?	,	0.9990
+
+the	D	0.9992
+bitch	N	0.9926
+ain't	V	0.9804
+mine	O	0.9626
+
+i	O	0.9891
+taught	V	1.0000
+her	O	0.7960
+the	D	0.9994
+game	N	0.9886
+ma	G	0.3489
+
+i	O	0.9891
+gave	V	1.0000
+it	O	0.9634
+all	D	0.4559
+to	P	0.9947
+her	O	0.7808
+
+weezy	^	0.6412
+wee	A	0.7487
+my	D	0.9945
+son	N	0.9975
+i	O	0.9120
+give	V	1.0000
+it	O	0.9639
+all	R	0.4138
+to	P	0.9943
+him	O	0.9832
+
+the	D	0.9919
+birdman	^	0.9863
+junior	N	0.7401
+i'm	L	0.9355
+the	D	0.9969
+son	N	0.9935
+of	P	0.9989
+a	D	0.9965
+stunna	N	0.9505
+
+mannie	A	0.4888
+fresh	A	0.9895
+
+jazze	^	0.7292
+phezzy	^	0.4017
+this	O	0.5816
+our	D	0.9873
+summer	N	0.9884
+
+!	,	0.9838
+digits	N	0.8419
+degreez	N	0.8905
+got	V	0.9915
+rich	A	0.9666
+off	P	0.9346
+the	D	0.9996
+four	$	0.5055
+
+cadillac	^	0.9776
+slant	N	0.8705
+back	R	0.6732
+cut	N	0.7052
+side	N	0.8367
+elbow	N	0.9935
+
+cadillac	^	0.9666
+smoke	V	0.4705
+dro	N	0.9352
+just	R	0.9988
+me	O	0.9969
+and	&	0.9862
+the	D	0.9894
+ho	^	0.4787
+
+flash	N	0.9216
+from	P	0.9969
+hard	A	0.7945
+times	N	0.9981
+from	P	0.9995
+that	D	0.8518
+coke	N	0.9942
+and	&	0.9981
+dope	N	0.5198
+
+put	V	0.9272
+cars	N	0.9919
+in	P	0.9901
+moms	N	0.8698
+name	N	0.9938
+just	R	0.9996
+to	P	0.9855
+duck	N	0.7067
+white	A	0.9350
+folks	N	0.9976
+
+we	O	0.9958
+eat	V	0.9976
+lobster	N	0.9916
+and	&	0.9976
+shrimp	N	0.9840
+
+nigga	N	0.8028
+park	N	0.7024
+that	P	0.6667
+lambo	N	0.8882
+
+i'm	L	0.9938
+a	D	0.9747
+v.i.p.	A	0.5315
+nigga	N	0.9916
+
+pop	N	0.7606
+bottles	N	0.9951
+of	P	0.9967
+mo	N	0.5490
+
+i	O	0.9855
+pray	V	0.9994
+that	D	0.7698
+one	$	0.9451
+day	N	0.9946
+i'll	L	0.9741
+open	V	0.9914
+a	D	0.9934
+better	A	0.9698
+door	N	0.9943
+
+ain't	V	0.9675
+no	D	0.9021
+mountain	N	0.9992
+high	N	0.4562
+enough	N	0.6563
+
+to	P	0.9944
+me	O	0.9972
+for	P	0.9893
+cuz	P	0.2764
+i	O	0.9926
+keep	V	0.9979
+on	P	0.8431
+buying	V	0.9433
+fi-fi	^	0.5272
+stuff	N	0.9518
+
+and	&	0.9977
+the	D	0.9975
+eastside	^	0.7243
+where	R	0.9785
+we	O	0.9973
+pump	V	0.9190
+
+it's	L	0.9917
+my	D	0.9970
+part	N	0.9997
+of	P	0.9936
+new	A	0.8089
+orleans	^	0.8911
+
+bleed	V	0.9846
+for	P	0.9993
+ya	O	0.7969
+i'm	L	0.9469
+the	D	0.9980
+heart	N	0.9990
+of	P	0.9954
+new	A	0.8791
+orleans	^	0.7872
+
+hear	V	0.9356
+you're	L	0.9394
+fucking	V	0.4760
+with	P	0.9983
+a	D	0.9982
+gangsta	A	0.9763
+foe	N	0.8887
+
+hope	V	0.9874
+you	O	0.9989
+never	R	0.9989
+close	A	0.5218
+your	D	0.9899
+eyes	N	0.9979
+i'll	L	0.9672
+bang	V	0.9985
+your	D	0.8904
+ho	N	0.3717
+
+all	X	0.4680
+she	O	0.9922
+need	V	0.9805
+is	V	0.9979
+some	D	0.9931
+guidance	N	0.9902
+i'll	L	0.9702
+tame	V	0.9113
+your	D	0.9184
+ho	N	0.3717
+
+it's	L	0.9800
+big	A	0.9721
+pimping	V	0.8463
+over	P	0.5835
+here	R	0.8900
+man	N	0.5012
+yeah	!	0.9396
+man	!	0.6185
+
+if	P	0.9982
+she	O	0.9987
+looking	V	0.9989
+for	P	0.9989
+a	D	0.9978
+daddy	N	0.9987
+see	V	0.9847
+the	D	0.9995
+lil	A	0.8150
+man	N	0.9544
+
+weezy	^	0.7696
+baby	N	0.9523
+,	,	0.9978
+don't	V	0.9992
+fool	V	0.9316
+yourself	O	0.9484
+you	O	0.9988
+need	V	0.9997
+me	O	0.9556
+baby	N	0.8345
+
+easy	A	0.9895
+baby	N	0.9983
+,	,	0.9977
+i'm	L	0.9967
+just	R	0.9997
+trying	V	0.9994
+to	P	0.9939
+keep	V	0.9997
+my	D	0.9963
+bread	N	0.9926
+cheesy	A	0.9865
+baby	N	0.9977
+
+slick	A	0.9725
+when	R	0.9894
+i	O	0.9861
+spit	V	0.9964
+shit	N	0.9330
+right	R	0.4427
+
+26-inch	N	0.6875
+got	V	0.9956
+a	D	0.9981
+deep-dish	A	0.9715
+ma	N	0.4899
+
+sweet	A	0.9944
+as	P	0.9484
+mami	N	0.8871
+lips	N	0.9766
+when	R	0.9351
+i'm	L	0.9960
+creeping	V	0.9834
+by	P	0.9779
+
+baby	N	0.9648
+gave	V	0.9979
+me	O	0.9842
+wings	N	0.9717
+just	R	0.9996
+to	P	0.9922
+keep	V	0.9997
+me	O	0.9990
+fly	V	0.8708
+
+weezy	^	0.6210
+i	O	0.9024
+,	,	0.9885
+hell	N	0.5813
+yeah	!	0.9888
+
+and	&	0.9983
+i'm	L	0.9971
+rolling	V	0.9866
+with	P	0.9985
+them	O	0.9170
+
+there	X	0.4284
+ain't	V	0.9772
+no	D	0.7168
+love	N	0.9832
+like	P	0.8381
+
+like	P	0.7081
+father	N	0.9706
+like	P	0.9192
+son	N	0.9758
+,	,	0.9983
+nigga	N	0.8236
+
+yeah	!	0.9988
+
+it's	L	0.9903
+filthy	A	0.9957
+with	P	0.9955
+quarter	N	0.9317
+ki's	G	0.2315
+in	P	0.9947
+the	D	0.9993
+kitchen	N	0.9558
+on	P	0.9913
+'	,	0.9815
+em	O	0.9273
+
+tha	D	0.9926
+block	N	0.9887
+is	V	0.9967
+hot	A	0.9935
+but	&	0.9855
+we	O	0.9950
+out	T	0.3786
+here	R	0.9729
+gettin	V	0.9654
+it	O	0.9945
+on	P	0.8311
+'	,	0.9787
+em	O	0.9218
+
+and	&	0.9984
+keep	V	0.9953
+a	D	0.9971
+tool	N	0.9991
+everytime	R	0.6033
+we	O	0.9969
+hit	V	0.9995
+the	D	0.9994
+streets	N	0.8871
+
+cause	P	0.9103
+these	D	0.9652
+niggas	N	0.9851
+act	V	0.9750
+a	D	0.9984
+fool	N	0.9977
+and	&	0.9964
+we	O	0.9953
+be	V	0.9991
+quick	A	0.7036
+to	P	0.9984
+put	V	0.9997
+it	O	0.9720
+on	P	0.8381
+'	,	0.9846
+em	O	0.9274
+
+them	O	0.9244
+tear	V	0.8963
+drops	V	0.7435
+homie	N	0.8342
+we	O	0.9764
+so	R	0.8799
+not	R	0.9987
+
+the	D	0.9990
+nigga	N	0.9956
+to	P	0.9989
+fuck	V	0.9907
+with	P	0.9859
+cause	P	0.8838
+we	O	0.9985
+will	V	0.9987
+pop	V	0.8109
+
+.	,	0.9818
+40	$	0.9706
+cal	N	0.4037
+keep	V	0.9976
+it	O	0.9957
+cocked	V	0.9854
+nigga	N	0.9185
+ready	A	0.9380
+to	P	0.9986
+block	V	0.9606
+
+keep	V	0.9768
+a	D	0.9980
+gun	N	0.9908
+a	D	0.9603
+extra	A	0.9876
+clip	N	0.9986
+homie	N	0.9607
+thats	L	0.9454
+how	R	0.9952
+we	O	0.9954
+rock	V	0.8471
+
+and	&	0.9976
+like	V	0.4061
+father	N	0.9654
+like	P	0.9410
+son	N	0.9306
+daddy	N	0.9708
+we	O	0.9789
+dont	V	0.9985
+borrow	V	0.9975
+
+we	O	0.9955
+stay	V	0.9933
+on	P	0.9459
+the	D	0.9968
+grind	N	0.8811
+homie	N	0.9794
+cause	P	0.9841
+we	O	0.9982
+grind	V	0.9965
+harder	A	0.8779
+
+and	&	0.9987
+fuckin	V	0.8503
+with	P	0.9983
+me	O	0.9510
+homie	N	0.4788
+you	O	0.9902
+won't	V	0.9944
+like	V	0.6277
+
+you	O	0.9962
+be	V	0.9998
+the	D	0.9980
+next	A	0.9696
+t-shirt	N	0.9972
+,	,	0.9975
+we	O	0.9912
+in	P	0.9354
+ya	D	0.8376
+hood	N	0.9643
+all	D	0.9833
+night	N	0.9868
+
+we	O	0.9973
+got	V	0.9979
+birds	N	0.9534
+flyin	V	0.9897
+out	T	0.8721
+and	&	0.9970
+we've	L	0.9299
+allowed	V	0.9519
+the	D	0.9998
+pipes	N	0.9732
+
+we	O	0.9968
+do	V	0.9999
+this	D	0.9368
+state	N	0.9900
+to	P	0.9981
+state	N	0.5550
+thing	N	0.9965
+and	&	0.9952
+cheat	V	0.9981
+the	D	0.9994
+price	N	0.9949
+
+and	&	0.9985
+rufus	^	0.9440
+came	V	0.9800
+home	N	0.6962
+and	&	0.9990
+i	O	0.9938
+told	V	1.0000
+him	O	0.9955
+to	P	0.9892
+shave	V	0.9951
+
+but	&	0.9930
+he	O	0.9985
+was	V	0.9998
+tellin	V	0.9618
+me	O	0.9987
+about	P	0.9545
+them	D	0.5285
+pussy	N	0.9793
+niggas	N	0.9877
+back	R	0.7339
+in	P	0.9976
+the	D	0.9993
+eighties	N	0.9522
+,	,	0.9987
+baby	N	0.9655
+
+listen	V	0.9782
+
+birdman	^	0.9797
+put	V	0.9948
+me	O	0.9975
+on	P	0.7047
+when	R	0.9726
+i	O	0.9938
+was	V	0.9995
+just	R	0.9993
+eleven	$	0.4880
+
+he	O	0.9960
+was	V	0.9999
+my	D	0.9989
+teacher	N	0.9973
+,	,	0.9991
+so	R	0.5191
+i	O	0.9938
+was	V	0.9999
+like	P	0.6773
+fuck	V	0.9384
+the	D	0.9993
+lesson	N	0.9751
+
+he	O	0.9960
+was	V	0.9999
+my	D	0.9989
+preacher	N	0.9967
+,	,	0.9991
+so	R	0.5191
+i	O	0.9938
+was	V	0.9999
+like	P	0.6773
+fuck	V	0.9384
+the	D	0.9863
+reverend	^	0.8713
+
+my	D	0.9960
+mother	N	0.9837
+cita	N	0.3815
+,	,	0.9976
+she	O	0.9978
+said	V	0.9995
+that	O	0.4692
+i	O	0.9963
+was	V	0.9999
+with	P	0.9990
+the	D	0.9996
+devil	N	0.9773
+
+my	D	0.9960
+mother	N	0.9837
+cita	N	0.3815
+,	,	0.9989
+now	R	0.9939
+say	V	0.9961
+that	P	0.8285
+he	O	0.9990
+was	V	0.9995
+sent	V	0.9909
+from	P	0.9978
+heaven	^	0.9686
+
+so	R	0.8039
+,	,	0.9946
+i	O	0.9841
+take	V	0.9992
+heed	V	0.9132
+to	P	0.9962
+every	D	0.9875
+single	A	0.8307
+word	N	0.9425
+that	P	0.9932
+he	O	0.9974
+tell	V	0.9998
+me	O	0.9992
+
+and	&	0.9990
+i	O	0.9943
+remember	V	0.9996
+what	O	0.9668
+my	D	0.9908
+poppa	N	0.9579
+told	V	0.9995
+me	O	0.9989
+
+remember	V	0.9725
+what	O	0.9723
+my	D	0.9908
+poppa	N	0.9591
+told	V	0.9996
+me	O	0.9978
+,	,	0.9958
+young	A	0.9933
+stunna	N	0.9191
+
+yeah	!	0.9988
+
+im	L	0.9907
+out	P	0.5317
+c'here	N	0.8541
+homie	N	0.9523
+pitchin	V	0.9947
+the	D	0.9996
+game	N	0.9970
+
+and	&	0.9985
+yes	!	0.9497
+i	O	0.9928
+do	V	0.9999
+the	D	0.9995
+whole	A	0.9837
+thing	N	0.9904
+nigga	N	0.9674
+give	V	0.9994
+me	O	0.9933
+my	D	0.9846
+change	N	0.9946
+
+yes	!	0.9854
+we	O	0.9980
+do	V	0.9999
+the	D	0.9995
+same	A	0.9962
+thing	N	0.9978
+out	P	0.9807
+the	D	0.9988
+brand	N	0.6279
+new	A	0.9922
+range	N	0.9963
+
+little	A	0.9723
+nigga	N	0.9890
+like	P	0.9461
+his	D	0.9965
+father	N	0.9808
+homie	N	0.9555
+doin	V	0.9952
+his	D	0.9996
+thing	N	0.9986
+
+we	O	0.9946
+keep	V	0.9994
+the	D	0.9995
+gun	N	0.9835
+for	P	0.9994
+paper	N	0.9618
+homie	N	0.9830
+aimed	V	0.9387
+and	&	0.9945
+cocked	V	0.9906
+
+every	D	0.9830
+nigga	N	0.9976
+in	P	0.9976
+my	D	0.9979
+circle	N	0.9976
+homie	N	0.9491
+ready	A	0.9603
+to	P	0.9990
+pop	V	0.7134
+
+we	O	0.9946
+be	V	0.9994
+ridin	V	0.9326
+drop	V	0.7245
+tops	V	0.5877
+thats	L	0.9656
+just	R	0.9996
+how	R	0.9922
+we	O	0.9970
+rock	V	0.9439
+
+and	&	0.9978
+ill	L	0.9883
+be	V	0.9989
+ridin	V	0.9327
+in	P	0.9795
+the	D	0.9991
+phantom	N	0.5961
+through	P	0.9992
+my	D	0.7362
+up	A	0.5915
+town	N	0.9233
+blocks	N	0.9497
+
+nigga	N	0.5857
+
+alright	!	0.8600
+money	N	0.9692
+on	P	0.9976
+my	D	0.9950
+mind	N	0.9894
+
+look	V	0.9072
+i-i-i	O	0.5028
+i	O	0.9618
+hear	V	0.9988
+you	O	0.9623
+niggas	N	0.8362
+wisperin	V	0.6409
+
+i	O	0.9895
+say	V	0.9992
+wisperin	V	0.4507
+cause	P	0.8646
+you	O	0.9858
+niggas	N	0.8464
+ain't	V	0.9839
+hollerin	V	0.9878
+bout	P	0.8264
+shit	N	0.9418
+
+po	G	0.3645
+'	,	0.6201
+pussy	N	0.9729
+ass	N	0.9290
+niggas	N	0.9650
+gangster	N	0.9940
+and	&	0.9976
+me	O	0.9989
+
+look	V	0.8922
+birdman	^	0.9258
+jr	^	0.9858
+fuck	V	0.9658
+the	D	0.9990
+world	N	0.9310
+pops	N	0.8610
+
+and	&	0.9991
+we	O	0.9978
+gon	V	0.9991
+keep	V	0.9995
+it	O	0.9908
+movin	V	0.9488
+even	R	0.9969
+if	P	0.9988
+the	D	0.9977
+world	N	0.9414
+stops	V	0.5876
+
+stay	V	0.8918
+strapped	V	0.8635
+and	&	0.9949
+laced	V	0.9815
+like	P	0.6936
+girl	N	0.9737
+socks	N	0.8822
+
+stay	V	0.8282
+dapped	V	0.8806
+and	&	0.9967
+drapped	V	0.9883
+like	P	0.9527
+a	D	0.9954
+birthday	N	0.9920
+cake	N	0.9964
+
+birthdays	N	0.9197
+was	V	0.9979
+the	D	0.9998
+worst	A	0.9950
+days	N	0.9952
+
+now	R	0.9804
+we	O	0.9931
+sippin	V	0.9933
+'	,	0.9843
+on	P	0.9850
+louis	^	0.9704
+when	R	0.9776
+we	O	0.9677
+thirsty	A	0.9825
+
+ya	O	0.7286
+know	V	0.9914
+,	,	0.9962
+i	O	0.9890
+do	V	0.9998
+believe	V	0.9963
+the	D	0.9995
+moneys	N	0.9948
+cursed	V	0.9994
+me	O	0.9964
+
+so	R	0.5368
+i	O	0.9893
+pray	V	0.9987
+to	P	0.9937
+god	V	0.6112
+that	P	0.8945
+the	D	0.9994
+devil	N	0.9783
+dont	V	0.9890
+murk	V	0.9920
+me	O	0.9975
+,	,	0.9975
+uh	!	0.9750
+
+little	A	0.9817
+wizzle	N	0.8734
+but	&	0.9815
+you	O	0.9867
+bitches	N	0.7060
+call	V	0.9933
+me	O	0.9537
+first	A	0.9286
+place	N	0.9974
+
+and	&	0.9985
+papa	^	0.9546
+taught	V	0.9996
+me	O	0.9692
+paper	N	0.9293
+chase	N	0.5626
+never	R	0.9698
+skirt	N	0.6408
+chase	N	0.4864
+
+i	O	0.9855
+put	V	0.9996
+you	O	0.9659
+niggas	N	0.8113
+in	P	0.9988
+the	D	0.9993
+closet	N	0.9939
+in	P	0.9991
+the	D	0.9992
+shirt	N	0.9793
+space	N	0.9812
+
+you	O	0.9552
+niggas	N	0.7516
+yellow	A	0.5056
+like	P	0.9633
+sesame	N	0.8801
+street	N	0.9387
+bert's	S	0.6205
+face	N	0.9846
+
+worst	A	0.9939
+case	N	0.9932
+scenario	N	0.9964
+,	,	0.9985
+burial	N	0.9552
+
+two	$	0.9570
+tone	N	0.9852
+carara	V	0.3270
+like	P	0.7605
+mascara	N	0.9753
+,	,	0.9985
+uh	!	0.9820
+
+the	D	0.9975
+g4	^	0.7058
+take	V	0.9922
+your	D	0.9967
+boy	N	0.9981
+where	R	0.9908
+ever	R	0.9830
+
+like	P	0.7081
+father	N	0.9882
+,	,	0.9982
+like	P	0.6564
+son	N	0.9437
+the	D	0.9983
+era	N	0.9962
+,	,	0.9982
+nigga	N	0.8103
+
+dj	^	0.8452
+,	,	0.9972
+please	V	0.9842
+pick	V	0.9987
+up	T	0.9629
+your	D	0.9924
+phone	N	0.9996
+
+i'm	L	0.9970
+on	P	0.9967
+the	D	0.9994
+request	N	0.9945
+line	N	0.9872
+
+this	O	0.9526
+is	V	0.9990
+a	D	0.9987
+missy	N	0.9869
+elliott	^	0.9132
+one-time	A	0.9900
+exclusive	A	0.8859
+,	,	0.9967
+come	V	0.9921
+on	P	0.5587
+
+is	V	0.9993
+it	O	0.9983
+worth	V	0.9186
+it	O	0.8319
+,	,	0.9982
+let	V	0.9984
+me	O	0.9902
+work	V	0.8981
+it	O	0.9839
+
+i	O	0.9855
+put	V	0.9998
+my	D	0.9989
+thing	N	0.9985
+down	R	0.6892
+,	,	0.9968
+flip	V	0.9725
+it	O	0.9924
+and	&	0.9927
+reverse	V	0.9276
+it	O	0.9840
+
+put	V	0.9893
+my	D	0.9987
+thing	N	0.9989
+down	R	0.6790
+,	,	0.9968
+flip	V	0.9725
+it	O	0.9924
+and	&	0.9938
+reverse	V	0.8838
+it	O	0.9772
+
+if	P	0.9977
+you	O	0.9998
+got	V	0.9998
+a	D	0.9989
+big	A	0.9812
+dick	N	0.9916
+,	,	0.9977
+let	V	0.9984
+me	O	0.9881
+search	V	0.9216
+you	O	0.9956
+
+and	&	0.9985
+find	V	0.9977
+out	T	0.9753
+how	R	0.9983
+hard	A	0.8356
+i	O	0.9513
+gotta	V	0.9994
+work	V	0.8971
+you	O	0.9958
+
+put	V	0.9893
+my	D	0.9987
+thing	N	0.9989
+down	R	0.6790
+,	,	0.9968
+flip	V	0.9725
+it	O	0.9924
+and	&	0.9938
+reverse	V	0.8838
+it	O	0.9772
+
+i'd	L	0.9841
+like	V	0.9472
+to	P	0.9893
+get	V	0.9998
+to	P	0.9832
+know	V	0.9999
+ya	O	0.7993
+so	R	0.7111
+i	O	0.9895
+could	V	0.9997
+show	V	0.8972
+ya	O	0.4392
+
+put	V	0.9811
+the	D	0.9996
+pussy	N	0.9957
+on	P	0.9981
+ya	O	0.9242
+like	P	0.6455
+i	O	0.9971
+told	V	1.0000
+ya	O	0.5973
+
+give	V	0.9985
+me	O	0.9972
+all	D	0.4449
+your	D	0.9920
+numbers	N	0.9991
+so	P	0.5909
+i	O	0.9935
+can	V	0.9997
+phone	V	0.7606
+ya	O	0.4444
+
+your	D	0.9767
+girl	N	0.9984
+acting	V	0.9972
+stank	A	0.8812
+,	,	0.9988
+then	R	0.9811
+call	V	0.9917
+me	O	0.9985
+ova	T	0.2896
+
+not	R	0.9937
+on	P	0.9984
+the	D	0.9992
+bed	N	0.9883
+,	,	0.9967
+lay	V	0.9874
+me	O	0.9984
+on	P	0.9460
+your	D	0.9922
+sofa	N	0.9862
+
+call	V	0.7425
+before	P	0.9731
+you	O	0.9995
+come	V	0.9986
+,	,	0.9969
+i	O	0.9886
+need	V	0.9992
+to	P	0.9826
+shave	V	0.9996
+my	D	0.9609
+chocha	N	0.6457
+
+you	O	0.9979
+do	V	0.9994
+or	&	0.9889
+you	O	0.9992
+don't	V	0.9999
+or	&	0.9414
+you	O	0.9993
+will	V	0.9987
+or	&	0.9788
+won't	V	0.9978
+you	O	0.9978
+
+go	V	0.8948
+downtown	A	0.7772
+and	&	0.9953
+eat	V	0.9987
+it	O	0.9917
+like	P	0.7975
+a	D	0.9954
+vulture	N	0.9952
+
+see	V	0.9907
+my	D	0.9993
+hips	N	0.9960
+and	&	0.9918
+my	D	0.9967
+tips	N	0.9992
+,	,	0.9982
+don't	V	0.9999
+ya	O	0.6192
+
+see	V	0.9907
+my	D	0.9995
+ass	N	0.9919
+and	&	0.9933
+my	D	0.9971
+lips	N	0.9981
+,	,	0.9978
+don't	V	0.9999
+ya	O	0.6192
+
+lost	V	0.8980
+a	D	0.9974
+few	A	0.8680
+pounds	N	0.9928
+and	&	0.9968
+my	D	0.9970
+waist	N	0.9973
+for	P	0.9999
+ya	O	0.8236
+
+this	O	0.6275
+the	D	0.9844
+kinda	R	0.7454
+beat	V	0.9900
+that	O	0.6285
+go	V	0.9871
+ra-ta-ta	G	0.5516
+
+ra-ta-ta-ta-ta-ta-ta-ta-ta-ta	G	0.5618
+
+sex	N	0.6434
+me	O	0.9807
+so	R	0.9888
+good	A	0.9963
+i	O	0.9621
+say	V	0.9978
+blah-blah-blah	!	0.9653
+
+work	V	0.6248
+it	O	0.9781
+,	,	0.9975
+i	O	0.9873
+need	V	0.9997
+a	D	0.9962
+glass	N	0.9982
+of	P	0.9968
+water	N	0.9874
+
+boy	N	0.9023
+oh	!	0.9609
+boy	N	0.9154
+,	,	0.9986
+it's	L	0.9943
+good	A	0.9958
+to	P	0.9946
+know	V	0.9999
+ya	O	0.5355
+
+if	P	0.9977
+you	O	0.9977
+a	D	0.9759
+fly	A	0.5052
+gal	N	0.9985
+get	V	0.9989
+your	D	0.9971
+nails	N	0.9987
+done	V	0.9565
+
+get	V	0.9970
+a	D	0.9954
+pedicure	N	0.9838
+,	,	0.9968
+get	V	0.9994
+your	D	0.9965
+hair	N	0.9993
+did	V	0.9777
+
+boy	N	0.9226
+,	,	0.9970
+lift	V	0.9935
+it	O	0.9894
+up	T	0.9715
+,	,	0.9979
+let's	L	0.9855
+make	V	0.9992
+a	D	0.9959
+toast-a	N	0.9944
+
+let's	L	0.9858
+get	V	0.9997
+drunk	A	0.9542
+,	,	0.9986
+that's	L	0.9926
+gonna	V	0.9896
+bring	V	1.0000
+us	O	0.9347
+closer	R	0.9631
+
+don't	V	0.9974
+i	O	0.9678
+look	V	0.9990
+like	P	0.9691
+a	D	0.9791
+halle	N	0.5571
+berry	N	0.9053
+poster	N	0.9985
+
+see	V	0.9815
+the	D	0.9982
+belvedere	^	0.5672
+playing	V	0.9837
+tricks	N	0.9353
+on	P	0.9989
+you	O	0.9986
+
+girlfriend	N	0.9309
+wanna	V	0.9913
+be	V	0.9994
+like	P	0.8861
+me	O	0.9985
+,	,	0.9989
+never	R	0.9897
+
+you	O	0.9899
+won't	V	0.9952
+find	V	0.9996
+a	D	0.9990
+bitch	N	0.9948
+that's	L	0.9829
+even	R	0.9985
+better	A	0.9638
+
+i	O	0.9855
+make	V	0.9999
+you	O	0.8874
+hot	A	0.9769
+as	P	0.9446
+las	^	0.6901
+vegas	^	0.9908
+weather	N	0.9061
+
+listen	V	0.9992
+up	T	0.8786
+close	A	0.5778
+while	P	0.6253
+i	O	0.9968
+take	V	1.0000
+it	O	0.9244
+backwards	R	0.9490
+
+i'm	L	0.9980
+not	R	0.9901
+a	D	0.9939
+prostitute	N	0.9983
+,	,	0.9991
+but	&	0.9962
+i	O	0.9948
+could	V	0.9998
+give	V	0.9997
+you	O	0.9983
+what	O	0.6959
+you	O	0.9995
+want	V	0.9991
+
+i	O	0.9818
+love	V	0.9996
+your	D	0.9838
+braids	N	0.9962
+and	&	0.9964
+your	D	0.9597
+mouth	N	0.9992
+full	A	0.9428
+of	P	0.9903
+floss	N	0.7209
+
+love	V	0.9269
+the	D	0.9993
+way	N	0.9676
+my	D	0.9960
+ass	N	0.9921
+go	V	0.8553
+bum-bum-bum-bum	N	0.8234
+
+keep	V	0.9904
+your	D	0.9953
+eyes	N	0.9989
+on	P	0.9994
+my	D	0.9966
+bum-bum-bum-bum-bum	N	0.9836
+
+you	O	0.9980
+think	V	0.9999
+you	O	0.9993
+can	V	0.9997
+handle	V	0.9999
+this	D	0.9374
+badonkadonk-donk	N	0.9750
+
+take	V	0.9973
+my	D	0.9987
+thong	N	0.9984
+off	P	0.4451
+and	&	0.9986
+my	D	0.9976
+ass	N	0.9921
+go	V	0.8390
+boom	N	0.3820
+
+cut	V	0.7827
+the	D	0.9990
+lights	N	0.9750
+on	P	0.9886
+so	P	0.8315
+you	O	0.9995
+see	V	0.9973
+what	O	0.8615
+i	O	0.9933
+could	V	0.9999
+do	V	0.9968
+
+boys	N	0.9906
+,	,	0.9977
+boys	N	0.9969
+,	,	0.9985
+all	D	0.9652
+type	N	0.9918
+of	P	0.9914
+boys	N	0.9965
+
+black	A	0.8333
+,	,	0.9981
+white	A	0.7671
+,	,	0.9972
+puerto	^	0.8997
+rican	^	0.8709
+,	,	0.9960
+chinese	A	0.9072
+boys	N	0.9999
+
+why-thai	R	0.5665
+,	,	0.9949
+-thai-o-toy-o-thai-thai	N	0.3642
+
+rock-thai	N	0.5538
+,	,	0.9981
+-thai-o-toy-o-thai-thai	N	0.3642
+
+girls	N	0.9766
+,	,	0.9977
+girls	N	0.9911
+,	,	0.9965
+get	V	0.9985
+that	D	0.6905
+cash	N	0.9919
+
+if	P	0.9899
+it's	L	0.9962
+!	,	0.9829
+digits	N	0.9033
+to	P	0.9882
+!	,	0.9778
+digits	N	0.9702
+or	&	0.9868
+shaking	V	0.9995
+your	D	0.9967
+ass	N	0.9949
+
+ain't	V	0.9675
+no	D	0.9570
+shame	N	0.9997
+,	,	0.9980
+ladies	N	0.9872
+do	V	0.9986
+your	D	0.9907
+thing	N	0.9993
+
+just	R	0.9991
+make	V	0.9968
+sure	A	0.8265
+you	O	0.9854
+ahead	R	0.7893
+of	P	0.9993
+the	D	0.9994
+game	N	0.9972
+
+just	R	0.9962
+cause	P	0.7314
+i	O	0.9951
+got	V	0.9999
+a	D	0.9977
+lot	N	0.9842
+of	P	0.9972
+fame	N	0.9736
+super	R	0.5677
+
+prince	^	0.8557
+couldn't	V	0.9913
+get	V	1.0000
+me	O	0.9944
+change	V	0.9808
+my	D	0.9970
+name	N	0.9981
+papa	^	0.6156
+
+kunta	^	0.9883
+kinte	^	0.9750
+a	D	0.9907
+slave	N	0.9977
+again	R	0.9790
+,	,	0.9961
+no	!	0.4873
+sir	N	0.9187
+
+picture	N	0.8851
+black	A	0.9429
+sam	^	0.9482
+,	,	0.9980
+oh	!	0.9928
+yes	!	0.9943
+a	D	0.9530
+massa	^	0.7727
+
+picture	N	0.8159
+lil	A	0.7762
+'	,	0.9483
+kim	^	0.9939
+dating	V	0.9992
+a	D	0.9975
+pastor	N	0.9988
+
+minute	N	0.5201
+man	N	0.9594
+and	&	0.9980
+big	A	0.9004
+red	A	0.9116
+could	V	0.9711
+out	T	0.5818
+last	A	0.8099
+ya	!	0.6154
+
+who	O	0.9980
+is	V	0.9999
+the	D	0.9995
+best	A	0.9778
+,	,	0.9965
+i	O	0.9861
+don't	V	1.0000
+have	V	0.9999
+to	P	0.9984
+ask	V	0.9999
+ya	O	0.7225
+
+when	R	0.9811
+i	O	0.9874
+come	V	1.0000
+out	T	0.8916
+,	,	0.9977
+you	O	0.9956
+won't	V	0.9899
+even	R	0.9876
+matter	V	0.6970
+
+why	R	0.9573
+you	O	0.9976
+act	V	0.9841
+dumb	A	0.9875
+like	P	0.7290
+,	,	0.9952
+uh	!	0.9806
+,	,	0.9971
+duh	!	0.9809
+
+so	P	0.8338
+you	O	0.9984
+act	V	0.9841
+dumb	A	0.9875
+like	P	0.7290
+,	,	0.9952
+uh	!	0.9806
+,	,	0.9971
+duh	!	0.9809
+
+as	P	0.9879
+the	D	0.9991
+drummer	N	0.9935
+boy	N	0.9947
+go	V	0.9752
+ba-rom-pop-pom-pom	G	0.4332
+
+give	V	0.9982
+you	O	0.9937
+some-some-some	D	0.4370
+of	P	0.9956
+this	D	0.9457
+cinnabun	N	0.8814
+
+to	P	0.9965
+my	D	0.9977
+fellas	N	0.9987
+,	,	0.9982
+i	O	0.9666
+like	V	0.6530
+the	D	0.9993
+way	N	0.9492
+you	O	0.9615
+work	V	0.9541
+that	O	0.6937
+
+to	P	0.9965
+my	D	0.9977
+ladies	N	0.9996
+,	,	0.9972
+you	O	0.9959
+sure	A	0.8758
+know	V	0.8595
+how	R	0.9928
+to	P	0.9867
+work	V	0.9233
+that	O	0.6937
+
+hey	!	0.9951
+you	O	0.9796
+nigga	N	0.9248
+
+tell	V	0.9944
+me	O	0.9993
+what	O	0.9582
+the	D	0.9992
+issue	N	0.9919
+
+all	D	0.6134
+up	T	0.5339
+in	P	0.9942
+the	D	0.9993
+booty	N	0.9819
+like	P	0.9539
+tissue	N	0.9631
+
+could	V	0.9988
+it	O	0.9927
+be	V	0.9985
+how	R	0.9924
+missy	N	0.9518
+so	R	0.4997
+vicious	A	0.9910
+
+make	V	0.9955
+you	O	0.9905
+so	R	0.9484
+suspicious	A	0.9928
+
+i	O	0.9913
+been	V	0.9993
+known	V	0.9965
+to	P	0.9922
+beat	V	0.9998
+them	D	0.7832
+bitches	N	0.9901
+with	P	0.9998
+those	D	0.7596
+switches	N	0.8837
+
+if	P	0.9977
+you	O	0.9997
+wanna	V	0.9974
+roll	V	0.9847
+with	P	0.9985
+those	D	0.9576
+sissies	N	0.9805
+
+you	O	0.9953
+can't	V	0.9998
+roll	V	0.9949
+with	P	0.9927
+missy	N	0.9302
+i'ma	L	0.9809
+kiss	V	0.9991
+you	O	0.9988
+on	P	0.9879
+your	D	0.9919
+cookie	N	0.9986
+
+show	V	0.5804
+these	D	0.9737
+pussies	N	0.9668
+i'm	L	0.9249
+the	D	0.9954
+rookie	N	0.7890
+
+sleep	N	0.6495
+while	P	0.9770
+your	D	0.9682
+homeboy	N	0.9016
+book	V	0.7549
+me	O	0.9969
+(	,	0.9864
+fikky	A	0.2695
+fikky	N	0.7438
+fikky	N	0.6581
+)	,	0.9814
+
+is	V	0.9991
+you	O	0.9990
+mad	A	0.9637
+cause	P	0.9721
+i'm	L	0.9962
+took	V	0.9708
+and	&	0.9970
+got	V	0.9994
+you	O	0.9981
+shooken	V	0.8183
+
+you	O	0.9980
+think	V	0.9999
+you	O	0.9952
+slick	A	0.9935
+
+tried	V	0.9851
+to	P	0.9952
+play	V	0.9995
+a	D	0.9985
+dirty	A	0.9835
+trick	N	0.9897
+on	P	0.9987
+this	D	0.9830
+heart	N	0.9989
+of	P	0.9977
+mine	O	0.9536
+
+you	O	0.9980
+thought	V	0.9996
+that	O	0.5142
+i	O	0.9960
+was	V	0.9996
+blind	A	0.9899
+
+you	O	0.9980
+took	V	0.9999
+your	D	0.7804
+pick	N	0.9177
+
+between	P	0.9915
+this	D	0.9688
+other	A	0.9880
+girl	N	0.9933
+and	&	0.9979
+me	O	0.9986
+
+she	O	0.9972
+was	V	0.9998
+a	D	0.9996
+friend	N	0.9977
+of	P	0.9965
+mine	O	0.9576
+
+i	O	0.9892
+got	V	0.9999
+your	D	0.9954
+ass	N	0.9913
+this	D	0.9826
+time	N	0.9973
+
+don't	V	0.9999
+you	O	0.9983
+come	V	0.9995
+here	R	0.9959
+talking	V	0.9625
+that	D	0.7998
+bull	N	0.9849
+shit	N	0.9884
+to	P	0.9988
+me	O	0.9983
+(	,	0.9887
+to	P	0.9934
+me	O	0.9981
+)	,	0.9922
+
+i	O	0.9767
+ain't	V	0.9993
+the	D	0.9988
+one	$	0.9245
+you	O	0.9934
+with	P	0.9900
+
+tears	N	0.9728
+in	P	0.9980
+your	D	0.9957
+eyes	N	0.9972
+won't	V	0.9313
+shed	V	0.9992
+the	D	0.9993
+lies	N	0.9864
+you	O	0.9973
+told	V	0.9996
+to	P	0.9933
+me	O	0.9983
+(	,	0.9887
+to	P	0.9926
+me	O	0.9982
+)	,	0.9903
+
+so	P	0.8033
+get	V	0.9984
+up	T	0.9725
+out	P	0.8200
+my	D	0.9987
+face	N	0.9956
+
+bye	!	0.9180
+(	,	0.9941
+it	O	0.9868
+aint	V	0.9930
+a	D	0.8171
+,	,	0.9975
+it	O	0.9939
+aint	V	0.9920
+a	D	0.8322
+)	,	0.9758
+
+bye	!	0.8894
+bye	!	0.9528
+(	,	0.9922
+you	O	0.9962
+can	V	0.9998
+cry	V	0.9993
+all	D	0.6597
+you	O	0.9989
+want	V	0.9997
+to	P	0.9718
+)	,	0.9675
+
+bye	!	0.9180
+(	,	0.9808
+i	O	0.9691
+caught	V	0.9999
+you	O	0.9985
+)	,	0.9933
+
+you	O	0.9912
+coulda	V	0.9545
+stopped	V	0.9994
+by	P	0.9192
+,	,	0.9974
+you	O	0.9990
+got	V	0.9999
+me	O	0.9994
+hurting	V	0.9979
+inside	P	0.4874
+
+you	O	0.9922
+shoulda	V	0.8544
+never	R	0.9955
+lied	V	0.9433
+
+bye	!	0.9180
+(	,	0.9898
+bye	!	0.7280
+)	,	0.9970
+you	O	0.9920
+shouldn'tve	V	0.9866
+kept	V	0.9999
+that	D	0.7640
+trick	N	0.9648
+on	P	0.9994
+the	D	0.9994
+side	N	0.9902
+
+you	O	0.9980
+think	V	0.9999
+you	O	0.9948
+bad	A	0.9828
+
+lost	V	0.8840
+the	D	0.9884
+only	A	0.8907
+love	V	0.7378
+you	O	0.9998
+had	V	0.9989
+
+looking	V	0.9874
+for	P	0.9984
+someone	N	0.9635
+
+who	O	0.9650
+you	O	0.9985
+could	V	0.9996
+fuck	V	0.9530
+for	P	0.9900
+fun	N	0.5174
+(	,	0.9785
+ficky-ficky-ficky	A	0.2571
+)	,	0.9799
+
+why	R	0.9499
+stay	V	0.8150
+wit	P	0.9077
+me	O	0.9972
+
+if	P	0.9884
+what	O	0.9914
+you	O	0.9995
+wanna	V	0.9989
+do	V	0.9976
+is	V	0.9923
+play	V	0.8211
+
+take	V	0.9973
+your	D	0.9958
+tricks	N	0.9972
+somewhere	R	0.9835
+
+and	&	0.9984
+keep	V	0.9979
+your	D	0.9919
+hoe	N	0.9760
+ass	N	0.9279
+there	R	0.8479
+(	,	0.9904
+you	O	0.9968
+can	V	0.9997
+stay	V	0.9972
+right	R	0.8769
+there	R	0.8027
+)	,	0.9783
+
+shouldn't	V	0.9979
+have	V	0.9993
+kept	V	0.9396
+,	,	0.9980
+shouldn't	V	0.9990
+have	V	0.9993
+kept	V	0.9931
+that	D	0.7640
+trick	N	0.9648
+on	P	0.9994
+the	D	0.9994
+side	N	0.9902
+
+then	R	0.9842
+maybe	R	0.9854
+i	O	0.9798
+,	,	0.9906
+i	O	0.9733
+wouldn't	V	0.9982
+of	P	0.9275
+had	V	0.9783
+to	P	0.9855
+say	V	0.9951
+goodbye	!	0.9803
+
+all	X	0.4370
+you	O	0.9981
+had	V	0.9998
+to	P	0.9636
+do	V	0.9988
+was	V	0.9869
+ask	V	0.9947
+me	O	0.9987
+
+if	P	0.9840
+i	O	0.9982
+was	V	0.9997
+nasty	A	0.9971
+
+lasting	V	0.5358
+
+won't	V	0.9373
+quit	V	0.9993
+until	P	0.9935
+the	D	0.9992
+sun	N	0.6377
+set	V	0.5597
+
+read	V	0.9932
+my	D	0.9964
+lips	N	0.9973
+
+i'd	L	0.9841
+like	V	0.9472
+to	P	0.9598
+know	V	0.9982
+who	O	0.9951
+that	D	0.8627
+bitch	N	0.9950
+in	P	0.9994
+the	D	0.9993
+flick	N	0.9954
+is	V	0.9934
+
+who	O	0.9650
+you	O	0.9966
+cheesing	V	0.9995
+with	P	0.9737
+,	,	0.9977
+i'm	L	0.9909
+about	P	0.7718
+to	P	0.9870
+flip	V	0.9654
+
+know	V	0.9631
+what	O	0.9935
+i'd	L	0.9614
+do	V	0.9999
+if	P	0.9716
+i	O	0.9898
+drink	V	0.9992
+a	D	0.9948
+brew	N	0.9956
+
+uhh	!	0.9775
+miller	^	0.9275
+boo	N	0.6913
+
+kick	N	0.6018
+1-2	$	0.9846
+kung	N	0.4635
+fu	G	0.5658
+
+you	O	0.9945
+and	&	0.9928
+your	D	0.8415
+boo	N	0.9890
+
+the	D	0.9990
+worst	A	0.9989
+thing	N	0.9925
+you	O	0.9937
+could	V	0.9996
+ever	R	0.9747
+do	V	0.9981
+
+is	V	0.9919
+have	V	0.9914
+a	D	0.9989
+chick	N	0.9862
+on	P	0.9995
+the	D	0.9994
+side	N	0.9919
+,	,	0.9987
+right	R	0.5664
+?	,	0.9985
+
+true	A	0.8990
+!	,	0.9944
+(	,	0.9414
+true	A	0.9953
+,	,	0.9982
+true	A	0.9450
+)	,	0.9824
+

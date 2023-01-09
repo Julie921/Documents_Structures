@@ -1,0 +1,21 @@
+Lien vers l'outil : http://www.cs.cmu.edu/~ark/TweetNLP/
+
+ATTENTION : 
+
+- l'outil prend en entrée du texte (1 tweet par ligne) 
+- il le tokenize et sort des conlls ! 
+
+PROBLEME : 
+- on a déjà des conlls -> script pour récupérer seulement les textes et utiliser l'outil. 
+
+SOLUTION :
+- on peut changer le code java -> décompile / enlever le step de tokenisation (Tagger.class) / recompiler 
+- faire un script pr récupérer le text de nos fichiers conll (fait)
+- il y a une possibilité d'avoir un --input-format conll (not working yet)
+
+Pour lancer le script : ./runTagger.sh --output-format conll examples/example_tweets.txt
+
+TAGSET : 
+- ils sont crées leur propre tagset en s'inspirant de PennTreebank. J'ai crée un document de converstion
+des tags vers UD. Il faudrait le faire aussi vers PennTreebank tagset ? 
+- problème : ils ont la même annotation (P) pour "ADP" et "SCONJ" => quelles solutions ? 
