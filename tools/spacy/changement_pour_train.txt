@@ -1,0 +1,9 @@
+Il y a plusieurs paramètres que vous pouvez essayer de modifier dans un fichier de configuration de spaCy afin d'améliorer le modèle d'apprentissage :
+
+batch_size: le nombre d'exemples d'entraînement à inclure dans chaque lot d'apprentissage. Un grand batch size peut entraîner une convergence plus rapide, mais peut également être moins stable et entraîner des oscillations de perte.
+
+learning_rate: la vitesse à laquelle le modèle s'ajuste aux exemples d'entraînement. Un taux d'apprentissage plus élevé peut entraîner une convergence plus rapide, mais peut également être instable et entraîner des oscillations de perte.
+
+n_iter: le nombre d'itérations d'apprentissage à effectuer sur l'ensemble de données d'entraînement. Plus le nombre d'itérations est élevé, plus le modèle sera entraîné, mais cela peut entraîner un surapprentissage et une diminution de la performance sur les données de test.
+
+dropout: le taux de "dropout" à appliquer aux couches du modèle. Le dropout consiste à ignorer aléatoirement un pourcentage de neurones lors de chaque itération d'entraînement, ce qui peut aider à prévenir l'overfitting et à améliorer la généralisation.
