@@ -46,5 +46,4 @@ A FAIRE :
 
 - [x] Essayer de régler le problème avec le script `make_html.py`
 - [ ] Finir de regarder le CM
-- [ ] essayer de voir si je peux augmenter les données ? 
 - [ ] regarder comment utiliser les clusters pour le pos tagging
