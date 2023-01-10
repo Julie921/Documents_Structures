@@ -1,0 +1,2025 @@
+# text = yea uu did some , put dat bx in dere ' ion fuck uh round !
+# sent_id = 1
+1	yea	_	INTJ	_	_	3	discourse	_	_
+2	uu	_	PRON	_	_	3	nsubj	_	_
+3	did	_	VERB	_	_	0	root	_	_
+4	some	_	DET	_	_	6	det	_	_
+5	,	_	PUNCT	_	_	6	punct	_	_
+6	put	_	NOUN	_	_	3	obj	_	_
+7	dat	_	NOUN	_	_	8	compound	_	_
+8	bx	_	NOUN	_	_	6	appos	_	_
+9	in	_	ADP	_	_	10	case	_	_
+10	dere	_	ADV	_	_	3	obl	_	_
+11	'	_	PUNCT	_	_	12	punct	_	_
+12	ion	_	VERB	_	_	3	parataxis	_	_
+13	fuck	_	ADP	_	_	15	case	_	_
+14	uh	_	PRON	_	_	15	nmod:poss	_	_
+15	round	_	NOUN	_	_	12	obl	_	_
+16	!	_	PUNCT	_	_	3	punct	_	_
+
+# text = Tell me how I feel worse today than I did yesterday .. ?
+# sent_id = 1
+1	Tell	_	VERB	_	_	0	root	_	_
+2	me	_	PRON	_	_	1	obj	_	_
+3	how	_	ADV	_	_	5	advmod	_	_
+4	I	_	PRON	_	_	5	nsubj	_	_
+5	feel	_	VERB	_	_	1	ccomp	_	_
+6	worse	_	ADJ	_	_	5	xcomp	_	_
+7	today	_	NOUN	_	_	1	parataxis	_	_
+8	than	_	SCONJ	_	_	10	mark	_	_
+9	I	_	PRON	_	_	10	nsubj	_	_
+10	did	_	VERB	_	_	7	acl:relcl	_	_
+11	yesterday	_	PROPN	_	_	10	obj	_	_
+12	..	_	PUNCT	_	_	1	punct	_	_
+13	?	_	PUNCT	_	_	1	punct	_	_
+
+# text = Dan Uggla did n't make the postseason roster . About time they made a good decision
+# sent_id = 1
+1	Dan	_	PROPN	_	_	5	nsubj	_	_
+2	Uggla	_	PROPN	_	_	1	flat	_	_
+3	did	_	AUX	_	_	5	aux	_	_
+4	n't	_	PART	_	_	5	advmod	_	_
+5	make	_	VERB	_	_	0	root	_	_
+6	the	_	DET	_	_	8	det	_	_
+7	postseason	_	PROPN	_	_	8	compound	_	_
+8	roster	_	NOUN	_	_	5	obj	_	_
+9	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 2
+1	About	_	ADP	_	_	2	case	_	_
+2	time	_	NOUN	_	_	0	root	_	_
+3	they	_	PRON	_	_	4	nsubj	_	_
+4	made	_	VERB	_	_	2	parataxis	_	_
+5	a	_	DET	_	_	7	det	_	_
+6	good	_	ADJ	_	_	7	amod	_	_
+7	decision	_	NOUN	_	_	4	obj	_	_
+
+# text = Ritz is good & all but too many without anything to drink will kill you .
+# sent_id = 1
+1	Ritz	_	PROPN	_	_	3	nsubj	_	_
+2	is	_	AUX	_	_	3	cop	_	_
+3	good	_	ADJ	_	_	0	root	_	_
+4	&	_	CCONJ	_	_	8	cc	_	_
+5	all	_	DET	_	_	8	det:predet	_	_
+6	but	_	CCONJ	_	_	8	cc	_	_
+7	too	_	ADV	_	_	8	advmod	_	_
+8	many	_	ADJ	_	_	3	conj	_	_
+9	without	_	ADP	_	_	10	case	_	_
+10	anything	_	PRON	_	_	8	nmod	_	_
+11	to	_	ADP	_	_	12	case	_	_
+12	drink	_	PROPN	_	_	8	nmod	_	_
+13	will	_	AUX	_	_	14	aux	_	_
+14	kill	_	VERB	_	_	8	parataxis	_	_
+15	you	_	PRON	_	_	14	obj	_	_
+16	.	_	PUNCT	_	_	3	punct	_	_
+
+# text = # todayshow no , but what they need to do is to pick more challenging teams oft that team to play
+# sent_id = 1
+1	#	_	X	_	_	8	discourse	_	_
+2	todayshow	_	NOUN	_	_	8	vocative	_	_
+3	no	_	INTJ	_	_	2	discourse	_	_
+4	,	_	PUNCT	_	_	8	punct	_	_
+5	but	_	CCONJ	_	_	8	cc	_	_
+6	what	_	PRON	_	_	8	obj	_	_
+7	they	_	PRON	_	_	8	nsubj	_	_
+8	need	_	VERB	_	_	0	root	_	_
+9	to	_	PART	_	_	10	mark	_	_
+10	do	_	VERB	_	_	8	advcl	_	_
+11	is	_	VERB	_	_	10	ccomp	_	_
+12	to	_	PART	_	_	13	mark	_	_
+13	pick	_	VERB	_	_	11	xcomp	_	_
+14	more	_	ADV	_	_	13	advmod	_	_
+15	challenging	_	VERB	_	_	11	xcomp	_	_
+16	teams	_	NOUN	_	_	15	obj	_	_
+17	oft	_	ADP	_	_	19	mark	_	_
+18	that	_	PRON	_	_	19	nsubj	_	_
+19	team	_	VERB	_	_	15	advcl	_	_
+20	to	_	ADP	_	_	19	obl	_	_
+21	play	_	INTJ	_	_	8	discourse	_	_
+
+# text = So ... . why u mad again swear u turnt up one fa no reason
+# sent_id = 1
+1	So	_	ADV	_	_	0	root	_	_
+2	...	_	PUNCT	_	_	1	punct	_	_
+3	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	why	_	ADV	_	_	3	advmod	_	_
+2	u	_	PRON	_	_	3	nsubj	_	_
+3	mad	_	VERB	_	_	0	root	_	_
+4	again	_	ADV	_	_	5	advmod	_	_
+5	swear	_	VERB	_	_	3	xcomp	_	_
+6	u	_	PRON	_	_	5	obj	_	_
+7	turnt	_	VERB	_	_	5	xcomp	_	_
+8	up	_	ADP	_	_	9	case	_	_
+9	one	_	NUM	_	_	7	obl	_	_
+10	fa	_	ADP	_	_	12	case	_	_
+11	no	_	DET	_	_	12	det	_	_
+12	reason	_	NOUN	_	_	7	obl	_	_
+
+# text = Just Did Bolingo And The Other African Song In My Living Room # BecauseICan
+# sent_id = 1
+1	Just	_	ADV	_	_	2	advmod	_	_
+2	Did	_	VERB	_	_	0	root	_	_
+3	Bolingo	_	PROPN	_	_	2	obj	_	_
+4	And	_	CCONJ	_	_	14	cc	_	_
+5	The	_	DET	_	_	8	det	_	_
+6	Other	_	PRON	_	_	8	nmod:poss	_	_
+7	African	_	PROPN	_	_	8	compound	_	_
+8	Song	_	PROPN	_	_	14	nsubj	_	_
+9	In	_	ADP	_	_	12	case	_	_
+10	My	_	PRON	_	_	12	nmod:poss	_	_
+11	Living	_	NOUN	_	_	12	compound	_	_
+12	Room	_	NOUN	_	_	8	nmod	_	_
+13	#	_	SYM	_	_	14	discourse	_	_
+14	BecauseICan	_	PROPN	_	_	2	conj	_	_
+
+# text = I wish I could text/call anyone but tmobile is fucking queer
+# sent_id = 1
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	wish	_	VERB	_	_	0	root	_	_
+3	I	_	PRON	_	_	5	nsubj	_	_
+4	could	_	AUX	_	_	5	aux	_	_
+5	text	_	VERB	_	_	2	ccomp	_	_
+6	/call	_	SCONJ	_	_	11	mark	_	_
+7	anyone	_	PRON	_	_	11	nsubj	_	_
+8	but	_	CCONJ	_	_	9	cc	_	_
+9	tmobile	_	NOUN	_	_	7	conj	_	_
+10	is	_	AUX	_	_	11	aux	_	_
+11	fucking	_	VERB	_	_	5	advcl	_	_
+12	queer	_	ADV	_	_	11	advmod	_	_
+
+# text = Simple concept : If the bottle is empty , throw it away .
+# sent_id = 1
+1	Simple	_	PROPN	_	_	2	compound	_	_
+2	concept	_	NOUN	_	_	0	root	_	_
+3	:	_	PUNCT	_	_	2	punct	_	_
+4	If	_	SCONJ	_	_	8	mark	_	_
+5	the	_	DET	_	_	6	det	_	_
+6	bottle	_	NOUN	_	_	8	nsubj	_	_
+7	is	_	AUX	_	_	8	cop	_	_
+8	empty	_	ADJ	_	_	2	parataxis	_	_
+9	,	_	PUNCT	_	_	10	punct	_	_
+10	throw	_	VERB	_	_	8	obj	_	_
+11	it	_	PRON	_	_	10	obj	_	_
+12	away	_	ADV	_	_	10	advmod	_	_
+13	.	_	PUNCT	_	_	2	punct	_	_
+
+# text = I wan na go home .. instead of being outside in the cold .
+# sent_id = 1
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	wan	_	VERB	_	_	0	root	_	_
+3	na	_	PART	_	_	4	mark	_	_
+4	go	_	VERB	_	_	2	xcomp	_	_
+5	home	_	ADV	_	_	4	advmod	_	_
+6	..	_	PUNCT	_	_	2	punct	_	_
+7	instead	_	ADJ	_	_	2	parataxis	_	_
+8	of	_	SCONJ	_	_	13	mark	_	_
+9	being	_	AUX	_	_	13	cop	_	_
+10	outside	_	ADV	_	_	13	advmod	_	_
+11	in	_	ADP	_	_	13	case	_	_
+12	the	_	DET	_	_	13	det	_	_
+13	cold	_	NOUN	_	_	7	xcomp	_	_
+14	.	_	PUNCT	_	_	2	punct	_	_
+
+# text = Lmfao . Its at Spencer 's . It was too much goin on in dat mofo . I aint buy it
+# sent_id = 1
+1	Lmfao	_	INTJ	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	Its	_	PRON	_	_	0	root	_	_
+2	at	_	ADP	_	_	3	case	_	_
+3	Spencer	_	PROPN	_	_	1	nmod	_	_
+4	's	_	PART	_	_	3	case	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3
+1	It	_	PRON	_	_	5	nsubj	_	_
+2	was	_	AUX	_	_	5	cop	_	_
+3	too	_	ADV	_	_	4	advmod	_	_
+4	much	_	ADJ	_	_	5	amod	_	_
+5	goin	_	NOUN	_	_	0	root	_	_
+6	on	_	ADP	_	_	9	case	_	_
+7	in	_	ADP	_	_	9	case	_	_
+8	dat	_	DET	_	_	9	det	_	_
+9	mofo	_	NOUN	_	_	5	nmod	_	_
+10	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 4
+1	I	_	PRON	_	_	3	nsubj	_	_
+2	aint	_	AUX	_	_	3	aux	_	_
+3	buy	_	VERB	_	_	0	root	_	_
+4	it	_	PRON	_	_	3	obj	_	_
+
+# text = You 're a bagger . Do your fucking job and BAG SHIT !
+# sent_id = 1
+1	You	_	PRON	_	_	4	nsubj	_	_
+2	're	_	AUX	_	_	4	cop	_	_
+3	a	_	DET	_	_	4	det	_	_
+4	bagger	_	NOUN	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2
+1	Do	_	AUX	_	_	3	aux	_	_
+2	your	_	PRON	_	_	3	nsubj	_	_
+3	fucking	_	VERB	_	_	0	root	_	_
+4	job	_	NOUN	_	_	3	obj	_	_
+5	and	_	CCONJ	_	_	7	cc	_	_
+6	BAG	_	PROPN	_	_	7	compound	_	_
+7	SHIT	_	PROPN	_	_	3	conj	_	_
+8	!	_	PUNCT	_	_	3	punct	_	_
+
+# text = All my niggas Off The Porch And Neva Ina House
+# sent_id = 1
+1	All	_	DET	_	_	3	det:predet	_	_
+2	my	_	PRON	_	_	3	nmod:poss	_	_
+3	niggas	_	NOUN	_	_	0	root	_	_
+4	Off	_	ADP	_	_	6	case	_	_
+5	The	_	DET	_	_	6	det	_	_
+6	Porch	_	NOUN	_	_	3	nmod	_	_
+7	And	_	CCONJ	_	_	10	cc	_	_
+8	Neva	_	PROPN	_	_	10	compound	_	_
+9	Ina	_	PROPN	_	_	8	flat	_	_
+10	House	_	NOUN	_	_	3	conj	_	_
+
+# text = Getting a hug from Kay just made my day ! # lovethatlady
+# sent_id = 1
+1	Getting	_	VERB	_	_	0	root	_	_
+2	a	_	DET	_	_	3	det	_	_
+3	hug	_	NOUN	_	_	1	obj	_	_
+4	from	_	ADP	_	_	5	case	_	_
+5	Kay	_	PROPN	_	_	3	nmod	_	_
+6	just	_	ADV	_	_	7	advmod	_	_
+7	made	_	VERB	_	_	1	parataxis	_	_
+8	my	_	PRON	_	_	9	nmod:poss	_	_
+9	day	_	NOUN	_	_	7	obj	_	_
+10	!	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	#	_	X	_	_	0	root	_	_
+2	lovethatlady	_	INTJ	_	_	1	discourse	_	_
+
+# text = sometimes bad things happen , and there is nothing you can do about it
+# sent_id = 1
+1	sometimes	_	VERB	_	_	0	root	_	_
+2	bad	_	ADJ	_	_	3	amod	_	_
+3	things	_	NOUN	_	_	1	obj	_	_
+4	happen	_	VERB	_	_	1	parataxis	_	_
+5	,	_	PUNCT	_	_	4	obl	_	_
+6	and	_	CCONJ	_	_	7	cc	_	_
+7	there	_	PRON	_	_	5	conj	_	_
+8	is	_	AUX	_	_	9	cop	_	_
+9	nothing	_	PRON	_	_	5	appos	_	_
+10	you	_	PRON	_	_	12	nsubj	_	_
+11	can	_	AUX	_	_	12	aux	_	_
+12	do	_	VERB	_	_	9	acl:relcl	_	_
+13	about	_	ADP	_	_	14	case	_	_
+14	it	_	PRON	_	_	12	obl	_	_
+
+# text = To whoever was bumpin to pearl jam in their shitty little car ... I love you .
+# sent_id = 1
+1	To	_	ADP	_	_	4	mark	_	_
+2	whoever	_	ADV	_	_	4	advmod	_	_
+3	was	_	AUX	_	_	4	aux:pass	_	_
+4	bumpin	_	VERB	_	_	0	root	_	_
+5	to	_	ADP	_	_	6	case	_	_
+6	pearl	_	PROPN	_	_	4	obl	_	_
+7	jam	_	PROPN	_	_	6	flat	_	_
+8	in	_	ADP	_	_	12	case	_	_
+9	their	_	PRON	_	_	12	nmod:poss	_	_
+10	shitty	_	ADJ	_	_	12	amod	_	_
+11	little	_	ADJ	_	_	12	amod	_	_
+12	car	_	NOUN	_	_	4	obl	_	_
+13	...	_	PUNCT	_	_	4	punct	_	_
+14	I	_	PRON	_	_	15	nsubj	_	_
+15	love	_	VERB	_	_	4	parataxis	_	_
+16	you	_	PRON	_	_	15	obj	_	_
+17	.	_	PUNCT	_	_	4	punct	_	_
+
+# text = These hoes will get u fucked up or locked up
+# sent_id = 1
+1	These	_	DET	_	_	2	det	_	_
+2	hoes	_	NOUN	_	_	4	nsubj	_	_
+3	will	_	AUX	_	_	4	aux	_	_
+4	get	_	VERB	_	_	0	root	_	_
+5	u	_	PRON	_	_	4	obj	_	_
+6	fucked	_	VERB	_	_	4	xcomp	_	_
+7	up	_	ADP	_	_	6	compound:prt	_	_
+8	or	_	CCONJ	_	_	9	cc	_	_
+9	locked	_	VERB	_	_	6	conj	_	_
+10	up	_	ADP	_	_	9	compound:prt	_	_
+
+# text = i need coffee to be able to stay awake for tonight series of events . mmmmz
+# sent_id = 1
+1	i	_	PRON	_	_	2	nsubj	_	_
+2	need	_	VERB	_	_	0	root	_	_
+3	coffee	_	NOUN	_	_	2	obj	_	_
+4	to	_	PART	_	_	6	mark	_	_
+5	be	_	AUX	_	_	6	cop	_	_
+6	able	_	ADJ	_	_	2	advcl	_	_
+7	to	_	ADP	_	_	9	case	_	_
+8	stay	_	ADJ	_	_	9	amod	_	_
+9	awake	_	NOUN	_	_	6	obl	_	_
+10	for	_	ADP	_	_	12	mark	_	_
+11	tonight	_	NOUN	_	_	12	nsubj	_	_
+12	series	_	VERB	_	_	6	advcl	_	_
+13	of	_	ADP	_	_	14	case	_	_
+14	events	_	NOUN	_	_	12	obl	_	_
+15	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+1	mmmmz	_	INTJ	_	_	0	root	_	_
+
+# text = I think my nose has bled more today than it has my whole life
+# sent_id = 1
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	think	_	VERB	_	_	0	root	_	_
+3	my	_	PRON	_	_	4	nmod:poss	_	_
+4	nose	_	NOUN	_	_	6	nsubj	_	_
+5	has	_	AUX	_	_	6	aux	_	_
+6	bled	_	VERB	_	_	2	ccomp	_	_
+7	more	_	ADJ	_	_	6	xcomp	_	_
+8	today	_	NOUN	_	_	2	obl:tmod	_	_
+9	than	_	SCONJ	_	_	14	mark	_	_
+10	it	_	PRON	_	_	14	nsubj	_	_
+11	has	_	AUX	_	_	14	cop	_	_
+12	my	_	PRON	_	_	13	nmod:poss	_	_
+13	whole	_	NOUN	_	_	14	nsubj	_	_
+14	life	_	ADJ	_	_	2	advcl	_	_
+
+# text = - I still got ta go in there & write my name on my stocking !
+# sent_id = 1
+1	-	_	PUNCT	_	_	4	punct	_	_
+2	I	_	PRON	_	_	4	nsubj	_	_
+3	still	_	ADV	_	_	4	advmod	_	_
+4	got	_	VERB	_	_	0	root	_	_
+5	ta	_	PART	_	_	6	mark	_	_
+6	go	_	VERB	_	_	4	xcomp	_	_
+7	in	_	ADP	_	_	6	compound:prt	_	_
+8	there	_	ADV	_	_	6	advmod	_	_
+9	&	_	CCONJ	_	_	10	cc	_	_
+10	write	_	ADJ	_	_	6	conj	_	_
+11	my	_	PRON	_	_	12	nmod:poss	_	_
+12	name	_	NOUN	_	_	10	obj	_	_
+13	on	_	ADP	_	_	15	case	_	_
+14	my	_	PRON	_	_	15	nmod:poss	_	_
+15	stocking	_	NOUN	_	_	10	obl	_	_
+16	!	_	PUNCT	_	_	4	punct	_	_
+
+# text = would you die fo yo nigga ? that 's all I wan na knoooooow .
+# sent_id = 1
+1	would	_	AUX	_	_	3	aux	_	_
+2	you	_	PRON	_	_	3	nsubj	_	_
+3	die	_	VERB	_	_	0	root	_	_
+4	fo	_	ADP	_	_	6	case	_	_
+5	yo	_	PRON	_	_	6	nmod:poss	_	_
+6	nigga	_	NOUN	_	_	3	obl	_	_
+7	?	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+1	that	_	PRON	_	_	3	nsubj	_	_
+2	's	_	AUX	_	_	3	cop	_	_
+3	all	_	DET	_	_	0	root	_	_
+4	I	_	PRON	_	_	5	nsubj	_	_
+5	wan	_	VERB	_	_	3	acl:relcl	_	_
+6	na	_	PART	_	_	7	mark	_	_
+7	knoooooow	_	VERB	_	_	5	xcomp	_	_
+8	.	_	PUNCT	_	_	3	punct	_	_
+
+# text = Nigga be jamming when I 'm not on the phone With O ,
+# sent_id = 1
+1	Nigga	_	NOUN	_	_	3	nsubj	_	_
+2	be	_	AUX	_	_	3	aux	_	_
+3	jamming	_	VERB	_	_	0	root	_	_
+4	when	_	ADV	_	_	11	mark	_	_
+5	I	_	PRON	_	_	7	nmod:poss	_	_
+6	'	_	PUNCT	_	_	7	punct	_	_
+7	m	_	AUX	_	_	11	nsubj	_	_
+8	not	_	PART	_	_	11	advmod	_	_
+9	on	_	ADP	_	_	11	case	_	_
+10	the	_	DET	_	_	11	det	_	_
+11	phone	_	NOUN	_	_	3	obl	_	_
+12	With	_	ADP	_	_	13	case	_	_
+13	O	_	NOUN	_	_	11	nmod	_	_
+14	,	_	PUNCT	_	_	3	punct	_	_
+
+# text = When your focus is on making sure that person is happy ... that 's called love
+# sent_id = 1
+1	When	_	ADV	_	_	6	mark	_	_
+2	your	_	PRON	_	_	3	nmod:poss	_	_
+3	focus	_	NOUN	_	_	6	nsubj	_	_
+4	is	_	AUX	_	_	6	aux	_	_
+5	on	_	PART	_	_	6	advmod	_	_
+6	making	_	VERB	_	_	0	root	_	_
+7	sure	_	ADJ	_	_	6	xcomp	_	_
+8	that	_	SCONJ	_	_	11	mark	_	_
+9	person	_	NOUN	_	_	11	nsubj	_	_
+10	is	_	AUX	_	_	11	cop	_	_
+11	happy	_	ADJ	_	_	7	advcl	_	_
+12	...	_	PUNCT	_	_	6	punct	_	_
+13	that	_	PRON	_	_	15	nsubj	_	_
+14	's	_	AUX	_	_	15	aux	_	_
+15	called	_	VERB	_	_	6	parataxis	_	_
+16	love	_	ADJ	_	_	15	xcomp	_	_
+
+# text = On other news I think that was the best day booze all summer
+# sent_id = 1
+1	On	_	ADP	_	_	3	case	_	_
+2	other	_	ADJ	_	_	3	amod	_	_
+3	news	_	NOUN	_	_	5	obl	_	_
+4	I	_	PRON	_	_	5	nsubj	_	_
+5	think	_	VERB	_	_	0	root	_	_
+6	that	_	PRON	_	_	11	obj	_	_
+7	was	_	AUX	_	_	11	aux	_	_
+8	the	_	DET	_	_	10	det	_	_
+9	best	_	ADJ	_	_	10	amod	_	_
+10	day	_	NOUN	_	_	11	nsubj	_	_
+11	booze	_	VERB	_	_	5	parataxis	_	_
+12	all	_	DET	_	_	13	det	_	_
+13	summer	_	NOUN	_	_	11	obj	_	_
+
+# text = Awww man I ran into my playa patna from Mechanicsville today ! ! !
+# sent_id = 1
+1	Awww	_	INTJ	_	_	4	discourse	_	_
+2	man	_	NOUN	_	_	4	vocative	_	_
+3	I	_	PRON	_	_	4	nsubj	_	_
+4	ran	_	VERB	_	_	0	root	_	_
+5	into	_	ADP	_	_	7	case	_	_
+6	my	_	PRON	_	_	7	nmod:poss	_	_
+7	playa	_	PROPN	_	_	4	obl	_	_
+8	pat	_	VERB	_	_	4	xcomp	_	_
+9	na	_	NOUN	_	_	8	obj	_	_
+10	from	_	ADP	_	_	11	case	_	_
+11	Mechanicsville	_	PROPN	_	_	8	obl	_	_
+12	today	_	NOUN	_	_	8	obl:tmod	_	_
+13	!	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 3
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# text = I cried a Lil bit when dani went home # sad
+# sent_id = 1
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	cried	_	VERB	_	_	0	root	_	_
+3	a	_	DET	_	_	4	det	_	_
+4	Lil	_	NOUN	_	_	2	obj	_	_
+5	bit	_	ADP	_	_	8	mark	_	_
+6	when	_	ADV	_	_	8	mark	_	_
+7	dani	_	NOUN	_	_	8	nsubj	_	_
+8	went	_	VERB	_	_	2	advcl	_	_
+9	home	_	ADV	_	_	8	advmod	_	_
+10	#	_	SYM	_	_	11	discourse	_	_
+11	sad	_	ADJ	_	_	2	parataxis	_	_
+
+# text = Me and my cousin gon na go ova my pooh house whenever he get ready
+# sent_id = 1
+1	Me	_	PRON	_	_	5	nsubj	_	_
+2	and	_	CCONJ	_	_	4	cc	_	_
+3	my	_	PRON	_	_	4	nmod:poss	_	_
+4	cousin	_	NOUN	_	_	1	conj	_	_
+5	gon	_	VERB	_	_	0	root	_	_
+6	na	_	PART	_	_	7	mark	_	_
+7	go	_	VERB	_	_	5	xcomp	_	_
+8	ova	_	ADP	_	_	11	case	_	_
+9	my	_	PRON	_	_	11	nmod:poss	_	_
+10	pooh	_	NOUN	_	_	11	compound	_	_
+11	house	_	NOUN	_	_	7	obl	_	_
+12	whenever	_	ADV	_	_	14	mark	_	_
+13	he	_	PRON	_	_	14	nsubj	_	_
+14	get	_	VERB	_	_	5	advcl	_	_
+15	ready	_	ADJ	_	_	14	xcomp	_	_
+
+# text = Tomorrow is going to be a hell of a day !
+# sent_id = 1
+1	Tomorrow	_	NOUN	_	_	3	nsubj	_	_
+2	is	_	AUX	_	_	3	aux	_	_
+3	going	_	VERB	_	_	0	root	_	_
+4	to	_	PART	_	_	7	mark	_	_
+5	be	_	AUX	_	_	7	cop	_	_
+6	a	_	DET	_	_	7	det	_	_
+7	hell	_	NOUN	_	_	3	xcomp	_	_
+8	of	_	ADP	_	_	10	case	_	_
+9	a	_	DET	_	_	10	det	_	_
+10	day	_	NOUN	_	_	7	nmod	_	_
+11	!	_	PUNCT	_	_	3	punct	_	_
+
+# text = That 's why it was a MUST that I got a Pepsi before this class .
+# sent_id = 1
+1	That	_	PRON	_	_	2	nsubj	_	_
+2	's	_	VERB	_	_	0	root	_	_
+3	why	_	ADV	_	_	2	advmod	_	_
+4	it	_	PRON	_	_	3	obj	_	_
+5	was	_	AUX	_	_	4	acl	_	_
+6	a	_	DET	_	_	5	root	_	_
+7	MUST	_	CCONJ	_	_	10	cc	_	_
+8	that	_	PRON	_	_	10	obj	_	_
+9	I	_	PRON	_	_	10	nsubj	_	_
+10	got	_	VERB	_	_	6	conj	_	_
+11	a	_	DET	_	_	12	det	_	_
+12	Pepsi	_	PROPN	_	_	10	obj	_	_
+13	before	_	ADP	_	_	15	case	_	_
+14	this	_	DET	_	_	15	det	_	_
+15	class	_	NOUN	_	_	10	obl	_	_
+16	.	_	PUNCT	_	_	6	punct	_	_
+
+# text = A sexy girl pulls up and walks right to the goofy dude . Life is n't fair sometimes .
+# sent_id = 1
+1	A	_	DET	_	_	4	det	_	_
+2	sexy	_	ADJ	_	_	4	amod	_	_
+3	girl	_	NOUN	_	_	4	compound	_	_
+4	pulls	_	NOUN	_	_	0	root	_	_
+5	up	_	ADP	_	_	8	case	_	_
+6	and	_	CCONJ	_	_	7	cc	_	_
+7	walks	_	VERB	_	_	5	conj	_	_
+8	right	_	NOUN	_	_	4	nmod	_	_
+9	to	_	ADP	_	_	12	case	_	_
+10	the	_	DET	_	_	11	det	_	_
+11	goofy	_	NOUN	_	_	12	compound	_	_
+12	dude	_	NOUN	_	_	4	nmod	_	_
+13	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2
+1	Life	_	NOUN	_	_	5	nsubj	_	_
+2	is	_	AUX	_	_	5	cop	_	_
+3	n't	_	PART	_	_	4	advmod	_	_
+4	fair	_	ADJ	_	_	5	amod	_	_
+5	sometimes	_	NOUN	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# text = The indirect tweet tho since when everybody worried about who retweeting what 's old smh all on my case branch . Offffff
+# sent_id = 1
+1	The	_	DET	_	_	2	det	_	_
+2	indirect	_	NOUN	_	_	3	nsubj	_	_
+3	tweet	_	VERB	_	_	0	root	_	_
+4	tho	_	DET	_	_	5	det	_	_
+5	since	_	NOUN	_	_	3	obj	_	_
+6	when	_	ADV	_	_	8	mark	_	_
+7	everybody	_	PRON	_	_	8	nsubj	_	_
+8	worried	_	VERB	_	_	3	advcl	_	_
+9	about	_	ADP	_	_	11	mark	_	_
+10	who	_	PRON	_	_	11	nsubj	_	_
+11	retweeting	_	VERB	_	_	8	advcl	_	_
+12	what	_	PRON	_	_	15	nsubj	_	_
+13	's	_	AUX	_	_	15	cop	_	_
+14	old	_	ADJ	_	_	15	amod	_	_
+15	smh	_	NOUN	_	_	11	obj	_	_
+16	all	_	DET	_	_	15	det	_	_
+17	on	_	ADP	_	_	20	case	_	_
+18	my	_	PRON	_	_	19	nmod:poss	_	_
+19	case	_	NOUN	_	_	20	nmod:poss	_	_
+20	branch	_	NOUN	_	_	15	nmod	_	_
+21	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+1	Offffff	_	INTJ	_	_	0	root	_	_
+
+# text = I do n't want to be home . : / I really do n't wan na be home .
+# sent_id = 1
+1	I	_	PRON	_	_	4	nsubj	_	_
+2	do	_	AUX	_	_	4	aux	_	_
+3	n't	_	PART	_	_	4	advmod	_	_
+4	want	_	VERB	_	_	0	root	_	_
+5	to	_	PART	_	_	7	mark	_	_
+6	be	_	AUX	_	_	7	cop	_	_
+7	home	_	ADV	_	_	4	xcomp	_	_
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2
+1	:	_	PUNCT	_	_	0	root	_	_
+2	/	_	PUNCT	_	_	7	punct	_	_
+3	I	_	PRON	_	_	7	nsubj	_	_
+4	really	_	ADV	_	_	7	advmod	_	_
+5	do	_	AUX	_	_	7	aux	_	_
+6	n't	_	PART	_	_	7	advmod	_	_
+7	wan	_	VERB	_	_	0	root	_	_
+8	na	_	PART	_	_	10	mark	_	_
+9	be	_	AUX	_	_	10	cop	_	_
+10	home	_	ADV	_	_	7	xcomp	_	_
+11	.	_	PUNCT	_	_	7	punct	_	_
+
+# text = Shania Twain is playing on the radio right now . # lovingit
+# sent_id = 1
+1	Shania	_	PROPN	_	_	4	nsubj	_	_
+2	Twain	_	PROPN	_	_	1	flat	_	_
+3	is	_	AUX	_	_	4	aux	_	_
+4	playing	_	VERB	_	_	0	root	_	_
+5	on	_	ADP	_	_	7	case	_	_
+6	the	_	DET	_	_	7	det	_	_
+7	radio	_	NOUN	_	_	4	obl	_	_
+8	right	_	ADV	_	_	4	advmod	_	_
+9	now	_	ADV	_	_	8	advmod	_	_
+10	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2
+1	#	_	X	_	_	0	discourse	_	_
+2	lovingit	_	INTJ	_	_	0	root	_	_
+
+# text = I was offered a contract with dbg but I 'm still weighing my options
+# sent_id = 1
+1	I	_	PRON	_	_	3	nsubj	_	_
+2	was	_	AUX	_	_	3	aux	_	_
+3	offered	_	VERB	_	_	0	root	_	_
+4	a	_	DET	_	_	5	det	_	_
+5	contract	_	NOUN	_	_	3	obj	_	_
+6	with	_	NOUN	_	_	7	compound	_	_
+7	dbg	_	NOUN	_	_	5	conj	_	_
+8	but	_	CCONJ	_	_	13	cc	_	_
+9	I	_	PRON	_	_	13	obj	_	_
+10	'	_	PUNCT	_	_	13	punct	_	_
+11	m	_	AUX	_	_	13	nsubj	_	_
+12	still	_	ADV	_	_	13	advmod	_	_
+13	weighing	_	VERB	_	_	3	conj	_	_
+14	my	_	PRON	_	_	15	nmod:poss	_	_
+15	options	_	NOUN	_	_	13	obj	_	_
+
+# text = If u wit me den u pose to RESPECT ME
+# sent_id = 1
+1	If	_	SCONJ	_	_	3	mark	_	_
+2	u	_	PRON	_	_	3	nsubj	_	_
+3	wit	_	VERB	_	_	0	root	_	_
+4	me	_	PRON	_	_	3	obj	_	_
+5	den	_	VERB	_	_	3	ccomp	_	_
+6	u	_	PRON	_	_	5	obj	_	_
+7	pose	_	VERB	_	_	5	xcomp	_	_
+8	to	_	PART	_	_	9	mark	_	_
+9	RESPECT	_	VERB	_	_	7	xcomp	_	_
+10	ME	_	PRON	_	_	9	obj	_	_
+
+# text = It 's too many fine chocolate niggas outchea to be worried about jst one !
+# sent_id = 1
+1	It	_	PRON	_	_	5	nsubj	_	_
+2	's	_	AUX	_	_	5	cop	_	_
+3	too	_	ADV	_	_	4	advmod	_	_
+4	many	_	ADJ	_	_	5	amod	_	_
+5	fine	_	NOUN	_	_	0	root	_	_
+6	chocolate	_	ADJ	_	_	7	amod	_	_
+7	niggas	_	NOUN	_	_	8	nsubj	_	_
+8	outchea	_	VERB	_	_	5	parataxis	_	_
+9	to	_	PART	_	_	11	mark	_	_
+10	be	_	AUX	_	_	11	cop	_	_
+11	worried	_	ADJ	_	_	8	xcomp	_	_
+12	about	_	ADP	_	_	14	case	_	_
+13	jst	_	ADV	_	_	14	advmod	_	_
+14	one	_	NUM	_	_	11	obl	_	_
+15	!	_	PUNCT	_	_	5	punct	_	_
+
+# text = This semester ima be like Kobe when he scored 80 taking all the shots
+# sent_id = 1
+1	This	_	DET	_	_	2	det	_	_
+2	semester	_	NOUN	_	_	3	nsubj	_	_
+3	ima	_	VERB	_	_	0	root	_	_
+4	be	_	AUX	_	_	6	cop	_	_
+5	like	_	ADP	_	_	6	case	_	_
+6	Kobe	_	PROPN	_	_	3	obl	_	_
+7	when	_	ADV	_	_	9	mark	_	_
+8	he	_	PRON	_	_	9	nsubj	_	_
+9	scored	_	VERB	_	_	3	advcl	_	_
+10	80	_	NUM	_	_	11	nsubj	_	_
+11	taking	_	VERB	_	_	9	ccomp	_	_
+12	all	_	DET	_	_	14	det	_	_
+13	the	_	DET	_	_	14	det	_	_
+14	shots	_	NOUN	_	_	11	obj	_	_
+
+# text = If its one thing that can put me in my feelings it 's the end to Friday night lights
+# sent_id = 1
+1	If	_	SCONJ	_	_	7	mark	_	_
+2	its	_	PRON	_	_	4	nmod:poss	_	_
+3	one	_	NUM	_	_	4	nummod	_	_
+4	thing	_	NOUN	_	_	7	vocative	_	_
+5	that	_	PRON	_	_	7	nsubj	_	_
+6	can	_	AUX	_	_	7	aux	_	_
+7	put	_	VERB	_	_	0	root	_	_
+8	me	_	PRON	_	_	7	obj	_	_
+9	in	_	ADP	_	_	11	case	_	_
+10	my	_	PRON	_	_	11	nmod:poss	_	_
+11	feelings	_	NOUN	_	_	7	obl	_	_
+12	it	_	PRON	_	_	15	nsubj	_	_
+13	's	_	AUX	_	_	15	cop	_	_
+14	the	_	DET	_	_	15	det	_	_
+15	end	_	NOUN	_	_	7	ccomp	_	_
+16	to	_	ADP	_	_	19	case	_	_
+17	Friday	_	PROPN	_	_	19	compound	_	_
+18	night	_	NOUN	_	_	19	compound	_	_
+19	lights	_	NOUN	_	_	15	nmod	_	_
+
+# text = This Weekend , If He 's In Town , Is A MUST That i See Him !
+# sent_id = 1
+1	This	_	DET	_	_	2	det	_	_
+2	Weekend	_	NOUN	_	_	0	root	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	If	_	SCONJ	_	_	6	mark	_	_
+5	He	_	PRON	_	_	6	nsubj	_	_
+6	's	_	VERB	_	_	12	advcl	_	_
+7	In	_	ADP	_	_	8	case	_	_
+8	Town	_	PROPN	_	_	6	obl	_	_
+9	,	_	PUNCT	_	_	12	punct	_	_
+10	Is	_	AUX	_	_	12	cop	_	_
+11	A	_	DET	_	_	12	det	_	_
+12	MUST	_	NOUN	_	_	2	parataxis	_	_
+13	That	_	PRON	_	_	15	obj	_	_
+14	i	_	PRON	_	_	15	nsubj	_	_
+15	See	_	VERB	_	_	12	acl:relcl	_	_
+16	Him	_	PRON	_	_	15	obj	_	_
+17	!	_	PUNCT	_	_	2	punct	_	_
+
+# text = You walking out you coming back again cus we became the best of friends
+# sent_id = 1
+1	You	_	PRON	_	_	2	nsubj	_	_
+2	walking	_	VERB	_	_	0	root	_	_
+3	out	_	ADP	_	_	2	compound:prt	_	_
+4	you	_	PRON	_	_	5	nsubj	_	_
+5	coming	_	VERB	_	_	2	ccomp	_	_
+6	back	_	ADV	_	_	5	advmod	_	_
+7	again	_	ADV	_	_	10	advmod	_	_
+8	cus	_	NOUN	_	_	10	obl:tmod	_	_
+9	we	_	PRON	_	_	10	nsubj	_	_
+10	became	_	VERB	_	_	2	parataxis	_	_
+11	the	_	DET	_	_	12	det	_	_
+12	best	_	ADJ	_	_	10	obj	_	_
+13	of	_	ADP	_	_	14	case	_	_
+14	friends	_	NOUN	_	_	12	nmod	_	_
+
+# text = I PUT ALOT OF STUFF OFF TIL THE LAST MIN
+# sent_id = 1
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	PUT	_	VERB	_	_	0	root	_	_
+3	ALOT	_	ADP	_	_	2	compound:prt	_	_
+4	OF	_	ADP	_	_	5	case	_	_
+5	STUFF	_	PROPN	_	_	2	obl	_	_
+6	OFF	_	ADP	_	_	2	xcomp	_	_
+7	TIL	_	ADP	_	_	6	xcomp	_	_
+8	THE	_	DET	_	_	9	det	_	_
+9	LAST	_	PROPN	_	_	7	obj	_	_
+10	MIN	_	PROPN	_	_	9	flat	_	_
+
+# text = Trust me you will neva see me or Tune half steppin
+# sent_id = 1
+1	Trust	_	VERB	_	_	0	root	_	_
+2	me	_	PRON	_	_	1	obj	_	_
+3	you	_	PRON	_	_	5	nsubj	_	_
+4	will	_	AUX	_	_	5	aux	_	_
+5	neva	_	VERB	_	_	1	ccomp	_	_
+6	see	_	VERB	_	_	5	xcomp	_	_
+7	me	_	PRON	_	_	6	obj	_	_
+8	or	_	CCONJ	_	_	9	cc	_	_
+9	Tune	_	NOUN	_	_	6	conj	_	_
+10	half	_	NOUN	_	_	11	compound	_	_
+11	steppin	_	NOUN	_	_	9	flat	_	_
+
+# text = Big Day for my Hoops team Philly 's got the Heat tonight and UNC plays NC State at 3 : 00 # LoveMySquads # LetsGo
+# sent_id = 1
+1	Big	_	VERB	_	_	2	amod	_	_
+2	Day	_	NOUN	_	_	0	root	_	_
+3	for	_	ADP	_	_	6	case	_	_
+4	my	_	PRON	_	_	6	nmod:poss	_	_
+5	Hoops	_	NOUN	_	_	6	compound	_	_
+6	team	_	NOUN	_	_	2	nmod	_	_
+7	Philly	_	PROPN	_	_	9	nsubj	_	_
+8	's	_	PART	_	_	7	case	_	_
+9	got	_	VERB	_	_	2	parataxis	_	_
+10	the	_	DET	_	_	11	det	_	_
+11	Heat	_	PROPN	_	_	9	obj	_	_
+12	tonight	_	NOUN	_	_	9	obj	_	_
+13	and	_	CCONJ	_	_	14	cc	_	_
+14	UNC	_	PROPN	_	_	12	conj	_	_
+15	plays	_	VERB	_	_	2	parataxis	_	_
+16	NC	_	PROPN	_	_	17	compound	_	_
+17	State	_	NOUN	_	_	15	obj	_	_
+18	at	_	ADP	_	_	19	case	_	_
+19	3	_	PROPN	_	_	15	obl	_	_
+20	:	_	PUNCT	_	_	2	punct	_	_
+21	00	_	NUM	_	_	23	nummod	_	_
+22	#	_	SYM	_	_	23	discourse	_	_
+23	LoveMySquads	_	NOUN	_	_	2	parataxis	_	_
+24	#	_	X	_	_	2	discourse	_	_
+25	LetsGo	_	X	_	_	2	discourse	_	_
+
+# text = Cleaned all day . Icy hot feels so good right now # relaxing
+# sent_id = 1
+1	Cleaned	_	VERB	_	_	0	root	_	_
+2	all	_	DET	_	_	3	det	_	_
+3	day	_	NOUN	_	_	1	obj	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	Icy	_	PROPN	_	_	3	vocative	_	_
+2	hot	_	NOUN	_	_	3	nsubj	_	_
+3	feels	_	VERB	_	_	0	root	_	_
+4	so	_	ADV	_	_	5	advmod	_	_
+5	good	_	ADJ	_	_	3	xcomp	_	_
+6	right	_	ADV	_	_	9	advmod	_	_
+7	now	_	ADV	_	_	9	advmod	_	_
+8	#	_	SYM	_	_	9	discourse	_	_
+9	relaxing	_	VERB	_	_	3	parataxis	_	_
+
+# text = Now we gone get fucked up , no excuses , no apologize ..
+# sent_id = 1
+1	Now	_	ADV	_	_	3	advmod	_	_
+2	we	_	PRON	_	_	3	nsubj	_	_
+3	gone	_	VERB	_	_	0	root	_	_
+4	get	_	AUX	_	_	5	aux:pass	_	_
+5	fucked	_	VERB	_	_	3	conj	_	_
+6	up	_	ADP	_	_	5	compound:prt	_	_
+7	,	_	PUNCT	_	_	9	punct	_	_
+8	no	_	DET	_	_	9	det	_	_
+9	excuses	_	NOUN	_	_	5	obj	_	_
+10	,	_	PUNCT	_	_	9	punct	_	_
+11	no	_	DET	_	_	12	det	_	_
+12	apologize	_	NOUN	_	_	9	appos	_	_
+13	..	_	PUNCT	_	_	3	punct	_	_
+
+# text = Stop Acting Perfect Like You Aint No On The Low Ratttt
+# sent_id = 1
+1	Stop	_	VERB	_	_	0	root	_	_
+2	Acting	_	VERB	_	_	3	amod	_	_
+3	Perfect	_	NOUN	_	_	1	obj	_	_
+4	Like	_	SCONJ	_	_	6	mark	_	_
+5	You	_	PRON	_	_	6	nsubj	_	_
+6	Aint	_	VERB	_	_	1	advcl	_	_
+7	No	_	PART	_	_	6	xcomp	_	_
+8	On	_	ADP	_	_	11	case	_	_
+9	The	_	DET	_	_	11	det	_	_
+10	Low	_	NOUN	_	_	11	compound	_	_
+11	Ratttt	_	NOUN	_	_	7	obl	_	_
+
+# text = The Stars are a rumored destination for Dan Cleary . They are hellbent on being average this season .
+# sent_id = 1
+1	The	_	DET	_	_	2	det	_	_
+2	Stars	_	NOUN	_	_	6	nsubj	_	_
+3	are	_	AUX	_	_	6	cop	_	_
+4	a	_	DET	_	_	6	det	_	_
+5	rumored	_	ADJ	_	_	6	amod	_	_
+6	destination	_	NOUN	_	_	0	root	_	_
+7	for	_	ADP	_	_	9	case	_	_
+8	Dan	_	PROPN	_	_	9	compound	_	_
+9	Cleary	_	PROPN	_	_	6	nmod	_	_
+10	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2
+1	They	_	PRON	_	_	3	nsubj	_	_
+2	are	_	AUX	_	_	3	cop	_	_
+3	hellbent	_	ADJ	_	_	0	root	_	_
+4	on	_	ADP	_	_	5	mark	_	_
+5	being	_	VERB	_	_	3	advcl	_	_
+6	average	_	ADP	_	_	8	case	_	_
+7	this	_	DET	_	_	8	det	_	_
+8	season	_	NOUN	_	_	5	obl	_	_
+9	.	_	PUNCT	_	_	3	punct	_	_
+
+# text = Got tired of not having shit I strapped on my own nuts .
+# sent_id = 1
+1	Got	_	VERB	_	_	0	root	_	_
+2	tired	_	ADJ	_	_	1	xcomp	_	_
+3	of	_	ADP	_	_	2	compound:prt	_	_
+4	not	_	PART	_	_	5	advmod	_	_
+5	having	_	VERB	_	_	2	acl:relcl	_	_
+6	shit	_	NOUN	_	_	5	obj	_	_
+7	I	_	PRON	_	_	8	nsubj	_	_
+8	strapped	_	VERB	_	_	6	acl:relcl	_	_
+9	on	_	ADP	_	_	12	case	_	_
+10	my	_	PRON	_	_	12	nmod:poss	_	_
+11	own	_	ADJ	_	_	12	amod	_	_
+12	nuts	_	NOUN	_	_	8	obl	_	_
+13	.	_	PUNCT	_	_	1	punct	_	_
+
+# text = To be a business man you got ta think like one
+# sent_id = 1
+1	To	_	PART	_	_	5	mark	_	_
+2	be	_	AUX	_	_	5	aux	_	_
+3	a	_	DET	_	_	4	det	_	_
+4	business	_	NOUN	_	_	5	nsubj	_	_
+5	man	_	VERB	_	_	0	root	_	_
+6	you	_	PRON	_	_	5	obj	_	_
+7	got	_	VERB	_	_	5	xcomp	_	_
+8	ta	_	PART	_	_	9	mark	_	_
+9	think	_	VERB	_	_	7	xcomp	_	_
+10	like	_	ADP	_	_	11	case	_	_
+11	one	_	NUM	_	_	9	obl	_	_
+
+# text = I Aint Got A Girl Married 2 Tha Streets Or That Be In Them She Sumthin New # 800
+# sent_id = 1
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	Aint	_	VERB	_	_	0	root	_	_
+3	Got	_	VERB	_	_	2	xcomp	_	_
+4	A	_	DET	_	_	5	det	_	_
+5	Girl	_	NOUN	_	_	3	obj	_	_
+6	Married	_	VERB	_	_	2	xcomp	_	_
+7	2	_	ADP	_	_	9	case	_	_
+8	Tha	_	DET	_	_	9	det	_	_
+9	Streets	_	NOUN	_	_	6	obl	_	_
+10	Or	_	PRON	_	_	2	parataxis	_	_
+11	That	_	PRON	_	_	14	nsubj	_	_
+12	Be	_	AUX	_	_	14	cop	_	_
+13	In	_	ADP	_	_	14	case	_	_
+14	Them	_	PRON	_	_	10	acl:relcl	_	_
+15	She	_	PRON	_	_	16	nsubj	_	_
+16	Sumthin	_	VERB	_	_	2	advcl	_	_
+17	New	_	PROPN	_	_	16	obj	_	_
+18	#	_	X	_	_	16	discourse	_	_
+19	800	_	NUM	_	_	16	vocative	_	_
+
+# text = You make me the happiest i have ever been . Thank you .
+# sent_id = 1
+1	You	_	PRON	_	_	2	nsubj	_	_
+2	make	_	VERB	_	_	0	root	_	_
+3	me	_	PRON	_	_	2	obj	_	_
+4	the	_	DET	_	_	5	det	_	_
+5	happiest	_	ADJ	_	_	2	xcomp	_	_
+6	i	_	PRON	_	_	9	nsubj	_	_
+7	have	_	AUX	_	_	9	aux	_	_
+8	ever	_	ADV	_	_	9	advmod	_	_
+9	been	_	VERB	_	_	5	acl:relcl	_	_
+10	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+1	Thank	_	VERB	_	_	0	root	_	_
+2	you	_	PRON	_	_	1	obj	_	_
+3	.	_	PUNCT	_	_	1	punct	_	_
+
+# text = About To Try To Get This Do Did ! ! Its A MUST ! !
+# sent_id = 1
+1	About	_	VERB	_	_	0	root	_	_
+2	To	_	PART	_	_	3	mark	_	_
+3	Try	_	VERB	_	_	1	xcomp	_	_
+4	To	_	PART	_	_	5	mark	_	_
+5	Get	_	VERB	_	_	3	xcomp	_	_
+6	This	_	PRON	_	_	8	nsubj	_	_
+7	Do	_	AUX	_	_	8	aux	_	_
+8	Did	_	VERB	_	_	5	ccomp	_	_
+9	!	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 3
+1	Its	_	PRON	_	_	3	nsubj	_	_
+2	A	_	DET	_	_	3	det	_	_
+3	MUST	_	NOUN	_	_	0	root	_	_
+4	!	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 4
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# text = Its a Damn Shame ' iont GangBang but i beat a Nigga Blue Black .
+# sent_id = 1
+1	Its	_	PRON	_	_	6	nmod:poss	_	_
+2	a	_	DET	_	_	4	det	_	_
+3	Damn	_	NOUN	_	_	4	compound	_	_
+4	Shame	_	NOUN	_	_	6	compound	_	_
+5	'	_	PUNCT	_	_	4	punct	_	_
+6	iont	_	NOUN	_	_	7	nsubj	_	_
+7	GangBang	_	VERB	_	_	0	root	_	_
+8	but	_	CCONJ	_	_	10	cc	_	_
+9	i	_	PRON	_	_	10	nsubj	_	_
+10	beat	_	VERB	_	_	7	conj	_	_
+11	a	_	DET	_	_	13	det	_	_
+12	Nigga	_	PROPN	_	_	13	compound	_	_
+13	Blue	_	PROPN	_	_	10	obj	_	_
+14	Black	_	ADJ	_	_	13	amod	_	_
+15	.	_	PUNCT	_	_	7	punct	_	_
+
+# text = When I get home I need to go see my plug .
+# sent_id = 1
+1	When	_	ADV	_	_	3	mark	_	_
+2	I	_	PRON	_	_	3	nsubj	_	_
+3	get	_	VERB	_	_	0	root	_	_
+4	home	_	ADV	_	_	6	advmod	_	_
+5	I	_	PRON	_	_	6	nsubj	_	_
+6	need	_	VERB	_	_	3	ccomp	_	_
+7	to	_	PART	_	_	8	mark	_	_
+8	go	_	VERB	_	_	6	xcomp	_	_
+9	see	_	VERB	_	_	8	xcomp	_	_
+10	my	_	PRON	_	_	11	nmod:poss	_	_
+11	plug	_	NOUN	_	_	9	obj	_	_
+12	.	_	PUNCT	_	_	3	punct	_	_
+
+# text = And the boys are state bound ! T-minus 24 hours until we are !
+# sent_id = 1
+1	And	_	CCONJ	_	_	6	cc	_	_
+2	the	_	DET	_	_	3	det	_	_
+3	boys	_	NOUN	_	_	6	nsubj	_	_
+4	are	_	AUX	_	_	6	cop	_	_
+5	state	_	ADJ	_	_	6	amod	_	_
+6	bound	_	NOUN	_	_	0	root	_	_
+7	!	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2
+1	T-minus	_	NOUN	_	_	0	root	_	_
+2	24	_	NUM	_	_	3	nummod	_	_
+3	hours	_	NOUN	_	_	1	nmod:tmod	_	_
+4	until	_	SCONJ	_	_	6	mark	_	_
+5	we	_	PRON	_	_	6	nsubj	_	_
+6	are	_	AUX	_	_	1	acl	_	_
+7	!	_	PUNCT	_	_	1	punct	_	_
+
+# text = UGH MA HAIR ALL MESSED UP NOW CUS OF THIS FUQN RAIN
+# sent_id = 1
+1	UGH	_	X	_	_	0	root	_	_
+2	MA	_	DET	_	_	3	det	_	_
+3	HAIR	_	NOUN	_	_	1	vocative	_	_
+4	ALL	_	DET	_	_	5	det	_	_
+5	MESSED	_	NOUN	_	_	3	appos	_	_
+6	UP	_	ADP	_	_	8	case	_	_
+7	NOW	_	ADV	_	_	8	advmod	_	_
+8	CUS	_	VERB	_	_	5	acl	_	_
+9	OF	_	ADP	_	_	12	case	_	_
+10	THIS	_	DET	_	_	12	det	_	_
+11	FUQN	_	PROPN	_	_	12	compound	_	_
+12	RAIN	_	PROPN	_	_	8	obl	_	_
+
+# text = # tweetliketheoppositegender Oh damn . I love it when all these bitches wear yoga pants . # bigoleboner
+# sent_id = 1
+1	#	_	X	_	_	2	discourse	_	_
+2	tweetliketheoppositegender	_	NOUN	_	_	0	root	_	_
+3	Oh	_	INTJ	_	_	2	discourse	_	_
+4	damn	_	NOUN	_	_	2	vocative	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	love	_	VERB	_	_	0	root	_	_
+3	it	_	PRON	_	_	2	obj	_	_
+4	when	_	ADV	_	_	2	advmod	_	_
+5	all	_	DET	_	_	4	obj	_	_
+6	these	_	DET	_	_	7	det	_	_
+7	bitches	_	NOUN	_	_	8	nsubj	_	_
+8	wear	_	VERB	_	_	5	acl:relcl	_	_
+9	yoga	_	PROPN	_	_	10	compound	_	_
+10	pants	_	NOUN	_	_	8	obj	_	_
+11	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 3
+1	#	_	X	_	_	0	root	_	_
+2	bigoleboner	_	X	_	_	1	discourse	_	_
+
+# text = I wonder what a piece of meat would do in my position right now
+# sent_id = 1
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	wonder	_	VERB	_	_	0	root	_	_
+3	what	_	PRON	_	_	9	obj	_	_
+4	a	_	DET	_	_	5	det	_	_
+5	piece	_	NOUN	_	_	9	nsubj	_	_
+6	of	_	ADP	_	_	7	case	_	_
+7	meat	_	NOUN	_	_	5	nmod	_	_
+8	would	_	AUX	_	_	9	aux	_	_
+9	do	_	VERB	_	_	2	ccomp	_	_
+10	in	_	ADP	_	_	12	case	_	_
+11	my	_	PRON	_	_	12	nmod:poss	_	_
+12	position	_	NOUN	_	_	9	obl	_	_
+13	right	_	ADV	_	_	14	advmod	_	_
+14	now	_	ADV	_	_	2	advmod	_	_
+
+# text = Big difference between avoiding and Distant . I promise .
+# sent_id = 1
+1	Big	_	ADJ	_	_	2	amod	_	_
+2	difference	_	NOUN	_	_	3	nsubj	_	_
+3	between	_	VERB	_	_	0	root	_	_
+4	avoiding	_	NOUN	_	_	3	obj	_	_
+5	and	_	CCONJ	_	_	6	cc	_	_
+6	Distant	_	NOUN	_	_	4	conj	_	_
+7	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	promise	_	VERB	_	_	0	root	_	_
+3	.	_	PUNCT	_	_	2	punct	_	_
+
+# text = I Dont Beef . Whats The Point Of It . Like Drop It Or Fight If Not Stfu !
+# sent_id = 1
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	Dont	_	VERB	_	_	0	root	_	_
+3	Beef	_	NOUN	_	_	2	obj	_	_
+4	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+1	Whats	_	DET	_	_	3	det:predet	_	_
+2	The	_	DET	_	_	3	det	_	_
+3	Point	_	NOUN	_	_	0	root	_	_
+4	Of	_	ADP	_	_	5	case	_	_
+5	It	_	PRON	_	_	3	nmod	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 3
+1	Like	_	VERB	_	_	0	root	_	_
+2	Drop	_	ADP	_	_	3	case	_	_
+3	It	_	PRON	_	_	1	obl	_	_
+4	Or	_	CCONJ	_	_	5	cc	_	_
+5	Fight	_	NOUN	_	_	1	conj	_	_
+6	If	_	ADP	_	_	8	mark	_	_
+7	Not	_	PART	_	_	8	advmod	_	_
+8	Stfu	_	VERB	_	_	5	acl	_	_
+9	!	_	PUNCT	_	_	1	punct	_	_
+
+# text = ALL GOLD EVERYTHING PLAYED OUT . STOP PLAYING THAT SHIT . TF
+# sent_id = 1
+1	ALL	_	DET	_	_	4	det	_	_
+2	GOLD	_	NOUN	_	_	3	compound	_	_
+3	EVERYTHING	_	NOUN	_	_	4	compound	_	_
+4	PLAYED	_	NOUN	_	_	0	root	_	_
+5	OUT	_	ADP	_	_	4	case	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2
+1	STOP	_	PROPN	_	_	2	nsubj	_	_
+2	PLAYING	_	VERB	_	_	0	root	_	_
+3	THAT	_	DET	_	_	4	det	_	_
+4	SHIT	_	NOUN	_	_	2	obj	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 3
+1	TF	_	NOUN	_	_	0	root	_	_
+
+# text = Glad to know i 'll have a game in my home state . FLORIDA Stand Up ! ! ! Um on my way
+# sent_id = 1
+1	Glad	_	ADJ	_	_	0	root	_	_
+2	to	_	PART	_	_	3	mark	_	_
+3	know	_	VERB	_	_	1	xcomp	_	_
+4	i	_	PRON	_	_	3	obj	_	_
+5	'	_	PUNCT	_	_	7	punct	_	_
+6	ll	_	INTJ	_	_	7	discourse	_	_
+7	have	_	VERB	_	_	1	conj	_	_
+8	a	_	DET	_	_	9	det	_	_
+9	game	_	NOUN	_	_	7	obj	_	_
+10	in	_	ADP	_	_	13	case	_	_
+11	my	_	PRON	_	_	13	nmod:poss	_	_
+12	home	_	NOUN	_	_	13	compound	_	_
+13	state	_	NOUN	_	_	7	obl	_	_
+14	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	FLORIDA	_	PROPN	_	_	2	nsubj	_	_
+2	Stand	_	VERB	_	_	0	root	_	_
+3	Up	_	ADP	_	_	2	compound:prt	_	_
+4	!	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 3
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 4
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 5
+1	Um	_	INTJ	_	_	4	discourse	_	_
+2	on	_	ADP	_	_	4	case	_	_
+3	my	_	PRON	_	_	4	nmod:poss	_	_
+4	way	_	NOUN	_	_	0	root	_	_
+
+# text = Now omw to get my hair done for coronation tomorrow
+# sent_id = 1
+1	Now	_	ADV	_	_	2	advmod	_	_
+2	omw	_	ADJ	_	_	0	root	_	_
+3	to	_	PART	_	_	4	mark	_	_
+4	get	_	VERB	_	_	2	acl	_	_
+5	my	_	PRON	_	_	7	nmod:poss	_	_
+6	hair	_	NOUN	_	_	7	compound	_	_
+7	done	_	NOUN	_	_	4	obj	_	_
+8	for	_	ADP	_	_	9	case	_	_
+9	coronation	_	NOUN	_	_	4	obl	_	_
+10	tomorrow	_	NOUN	_	_	4	obl:tmod	_	_
+
+# text = Damnnnn , I told her ass the same thing this morning !
+# sent_id = 1
+1	Damnnnn	_	PROPN	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	I	_	PRON	_	_	4	nsubj	_	_
+4	told	_	VERB	_	_	1	parataxis	_	_
+5	her	_	PRON	_	_	4	obj	_	_
+6	ass	_	ADP	_	_	9	case	_	_
+7	the	_	DET	_	_	9	det	_	_
+8	same	_	ADJ	_	_	9	amod	_	_
+9	thing	_	NOUN	_	_	4	obl	_	_
+10	this	_	DET	_	_	11	det	_	_
+11	morning	_	NOUN	_	_	9	appos	_	_
+12	!	_	PUNCT	_	_	1	punct	_	_
+
+# text = Why do I always have to get fucking sick on imporant days .
+# sent_id = 1
+1	Why	_	ADV	_	_	5	advmod	_	_
+2	do	_	AUX	_	_	5	aux	_	_
+3	I	_	PRON	_	_	5	nsubj	_	_
+4	always	_	ADV	_	_	5	advmod	_	_
+5	have	_	VERB	_	_	0	root	_	_
+6	to	_	PART	_	_	7	mark	_	_
+7	get	_	VERB	_	_	5	xcomp	_	_
+8	fucking	_	ADJ	_	_	9	amod	_	_
+9	sick	_	NOUN	_	_	7	obj	_	_
+10	on	_	ADP	_	_	12	case	_	_
+11	imporant	_	ADJ	_	_	12	amod	_	_
+12	days	_	NOUN	_	_	7	obl	_	_
+13	.	_	PUNCT	_	_	5	punct	_	_
+
+# text = Do I wan na pay a $ 92 bill every month ? NOPE
+# sent_id = 1
+1	Do	_	AUX	_	_	3	aux	_	_
+2	I	_	PRON	_	_	3	nsubj	_	_
+3	wan	_	VERB	_	_	0	root	_	_
+4	na	_	PART	_	_	5	mark	_	_
+5	pay	_	VERB	_	_	3	xcomp	_	_
+6	a	_	DET	_	_	11	det	_	_
+7	$	_	SYM	_	_	11	nsubj	_	_
+8	92	_	NUM	_	_	7	nummod	_	_
+9	bill	_	AUX	_	_	11	cop	_	_
+10	every	_	DET	_	_	11	det	_	_
+11	month	_	NOUN	_	_	5	obj	_	_
+12	?	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+1	NOPE	_	PROPN	_	_	0	root	_	_
+
+# text = Outta all the bad things I am a hypocrite will never be one # icanadmitmymistakes
+# sent_id = 1
+1	Outta	_	ADP	_	_	5	case	_	_
+2	all	_	DET	_	_	5	det:predet	_	_
+3	the	_	DET	_	_	5	det	_	_
+4	bad	_	ADJ	_	_	5	amod	_	_
+5	things	_	NOUN	_	_	9	obl	_	_
+6	I	_	PRON	_	_	9	nsubj	_	_
+7	am	_	AUX	_	_	9	cop	_	_
+8	a	_	DET	_	_	9	det	_	_
+9	hypocrite	_	NOUN	_	_	0	root	_	_
+10	will	_	AUX	_	_	11	cop	_	_
+11	never	_	ADV	_	_	9	parataxis	_	_
+12	be	_	AUX	_	_	11	cop	_	_
+13	one	_	NUM	_	_	15	cop	_	_
+14	#	_	NUM	_	_	15	nummod	_	_
+15	icanadmitmymistakes	_	NOUN	_	_	11	parataxis	_	_
+
+# text = Shout out to the blue collar workers . Got ta love it
+# sent_id = 1
+1	Shout	_	VERB	_	_	0	root	_	_
+2	out	_	ADP	_	_	1	compound:prt	_	_
+3	to	_	ADP	_	_	7	case	_	_
+4	the	_	DET	_	_	7	det	_	_
+5	blue	_	ADJ	_	_	7	amod	_	_
+6	collar	_	ADJ	_	_	7	amod	_	_
+7	workers	_	NOUN	_	_	1	obl	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	Got	_	VERB	_	_	0	root	_	_
+2	ta	_	NOUN	_	_	3	nsubj	_	_
+3	love	_	VERB	_	_	1	ccomp	_	_
+4	it	_	PRON	_	_	3	obj	_	_
+
+# text = Is it weird that I love the smell of gasoline
+# sent_id = 1
+1	Is	_	AUX	_	_	3	aux	_	_
+2	it	_	PRON	_	_	3	nsubj	_	_
+3	weird	_	VERB	_	_	0	root	_	_
+4	that	_	PRON	_	_	6	obj	_	_
+5	I	_	PRON	_	_	6	nsubj	_	_
+6	love	_	VERB	_	_	3	ccomp	_	_
+7	the	_	DET	_	_	8	det	_	_
+8	smell	_	NOUN	_	_	6	obj	_	_
+9	of	_	ADP	_	_	10	case	_	_
+10	gasoline	_	NOUN	_	_	8	nmod	_	_
+
+# text = Poor poor Merle , bravo for Michael Rooker and Norman Reedus 's performance on last night 's show .
+# sent_id = 1
+1	Poor	_	ADJ	_	_	2	amod	_	_
+2	poor	_	NOUN	_	_	3	compound	_	_
+3	Merle	_	NOUN	_	_	0	root	_	_
+4	,	_	PUNCT	_	_	5	punct	_	_
+5	bravo	_	NOUN	_	_	3	nmod	_	_
+6	for	_	ADP	_	_	8	case	_	_
+7	Michael	_	PROPN	_	_	8	compound	_	_
+8	Rooker	_	PROPN	_	_	5	nmod	_	_
+9	and	_	CCONJ	_	_	13	cc	_	_
+10	Norman	_	PROPN	_	_	11	compound	_	_
+11	Reedus	_	PROPN	_	_	13	nmod:poss	_	_
+12	's	_	PART	_	_	11	case	_	_
+13	performance	_	NOUN	_	_	5	conj	_	_
+14	on	_	ADP	_	_	16	case	_	_
+15	last	_	ADJ	_	_	16	amod	_	_
+16	night	_	NOUN	_	_	13	nmod	_	_
+17	's	_	PART	_	_	16	case	_	_
+18	show	_	NOUN	_	_	16	appos	_	_
+19	.	_	PUNCT	_	_	3	punct	_	_
+
+# text = I 'm trying hard , real hard , every day not to lose my temper . # tssf
+# sent_id = 1
+1	I	_	PRON	_	_	0	root	_	_
+2	'	_	PUNCT	_	_	1	punct	_	_
+3	m	_	PRON	_	_	4	nsubj	_	_
+4	trying	_	VERB	_	_	1	parataxis	_	_
+5	hard	_	ADJ	_	_	8	amod	_	_
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	real	_	ADJ	_	_	8	amod	_	_
+8	hard	_	NOUN	_	_	4	obj	_	_
+9	,	_	PUNCT	_	_	8	punct	_	_
+10	every	_	PRON	_	_	11	nsubj	_	_
+11	day	_	VERB	_	_	8	acl	_	_
+12	not	_	PART	_	_	11	obj	_	_
+13	to	_	ADP	_	_	14	mark	_	_
+14	lose	_	VERB	_	_	11	advcl	_	_
+15	my	_	PRON	_	_	16	nmod:poss	_	_
+16	temper	_	NOUN	_	_	14	obj	_	_
+17	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	#	_	X	_	_	2	discourse	_	_
+2	tssf	_	NOUN	_	_	0	root	_	_
+
+# text = chilled listening to the weeknd , KEEP CALM & RELAX ..
+# sent_id = 1
+1	chilled	_	VERB	_	_	2	amod	_	_
+2	listening	_	NOUN	_	_	0	root	_	_
+3	to	_	ADP	_	_	5	case	_	_
+4	the	_	DET	_	_	5	det	_	_
+5	weeknd	_	NOUN	_	_	2	nmod	_	_
+6	,	_	PUNCT	_	_	2	punct	_	_
+7	KEEP	_	PROPN	_	_	8	compound	_	_
+8	CALM	_	PROPN	_	_	2	parataxis	_	_
+9	&	_	CCONJ	_	_	10	cc	_	_
+10	RELAX	_	ADJ	_	_	8	conj	_	_
+11	..	_	PUNCT	_	_	2	punct	_	_
+
+# text = No bitch yu seen a car like mines sum where
+# sent_id = 1
+1	No	_	DET	_	_	2	det	_	_
+2	bitch	_	NOUN	_	_	0	root	_	_
+3	yu	_	PRON	_	_	4	nsubj	_	_
+4	seen	_	VERB	_	_	2	acl:relcl	_	_
+5	a	_	DET	_	_	6	det	_	_
+6	car	_	NOUN	_	_	4	obj	_	_
+7	like	_	ADP	_	_	9	case	_	_
+8	mines	_	NOUN	_	_	9	compound	_	_
+9	sum	_	NOUN	_	_	2	nmod	_	_
+10	where	_	ADV	_	_	2	parataxis	_	_
+
+# text = PETER JACKSON YOU DIDNT LET ME DOWN ! ! ! 2 WORDS FOR THE HOBBIT KICK ARSE
+# sent_id = 1
+1	PETER	_	VERB	_	_	0	root	_	_
+2	JACKSON	_	PROPN	_	_	1	obj	_	_
+3	YOU	_	PRON	_	_	5	nsubj	_	_
+4	DIDNT	_	AUX	_	_	5	aux	_	_
+5	LET	_	VERB	_	_	2	acl:relcl	_	_
+6	ME	_	PRON	_	_	5	obj	_	_
+7	DOWN	_	PROPN	_	_	5	obj	_	_
+8	!	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 3
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 4
+1	2	_	NUM	_	_	2	nummod	_	_
+2	WORDS	_	PROPN	_	_	3	nsubj	_	_
+3	FOR	_	VERB	_	_	0	root	_	_
+4	THE	_	DET	_	_	6	det	_	_
+5	HOBBIT	_	ADJ	_	_	6	amod	_	_
+6	KICK	_	NOUN	_	_	3	obj	_	_
+7	ARSE	_	ADV	_	_	3	advmod	_	_
+
+# text = Well . 7 days till game time . I 'm safe to say that it 's on ..
+# sent_id = 1
+1	Well	_	INTJ	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	7	_	NUM	_	_	2	nummod	_	_
+2	days	_	NOUN	_	_	0	root	_	_
+3	till	_	ADP	_	_	5	case	_	_
+4	game	_	ADJ	_	_	5	amod	_	_
+5	time	_	NOUN	_	_	2	nmod	_	_
+6	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 3
+1	I	_	PRON	_	_	0	root	_	_
+2	'	_	PUNCT	_	_	1	punct	_	_
+3	m	_	PRON	_	_	4	nmod:poss	_	_
+4	safe	_	NOUN	_	_	1	parataxis	_	_
+5	to	_	PART	_	_	6	mark	_	_
+6	say	_	VERB	_	_	4	acl	_	_
+7	that	_	SCONJ	_	_	6	xcomp	_	_
+8	it	_	PRON	_	_	7	obj	_	_
+9	's	_	AUX	_	_	8	nmod	_	_
+10	on	_	ADP	_	_	9	obl	_	_
+11	..	_	PUNCT	_	_	4	punct	_	_
+
+# text = I 'm overslept right now . Like . Damn . I usually get like 4 hours of sleep .
+# sent_id = 1
+1	I	_	PRON	_	_	4	nsubj	_	_
+2	'	_	AUX	_	_	4	cop	_	_
+3	m	_	PRON	_	_	4	compound	_	_
+4	overslept	_	NOUN	_	_	0	root	_	_
+5	right	_	ADV	_	_	6	advmod	_	_
+6	now	_	ADV	_	_	4	advmod	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2
+1	Like	_	X	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3
+1	Damn	_	NOUN	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4
+1	I	_	PRON	_	_	3	nsubj	_	_
+2	usually	_	ADV	_	_	3	advmod	_	_
+3	get	_	VERB	_	_	0	root	_	_
+4	like	_	ADP	_	_	6	case	_	_
+5	4	_	NUM	_	_	6	nummod	_	_
+6	hours	_	NOUN	_	_	3	obl	_	_
+7	of	_	ADP	_	_	8	case	_	_
+8	sleep	_	ADJ	_	_	6	nmod	_	_
+9	.	_	PUNCT	_	_	3	punct	_	_
+
+# text = When people pick their nose around me I want to scream and run away hysterically .
+# sent_id = 1
+1	When	_	ADV	_	_	9	mark	_	_
+2	people	_	ADJ	_	_	3	amod	_	_
+3	pick	_	NOUN	_	_	7	compound	_	_
+4	their	_	PRON	_	_	6	nmod:poss	_	_
+5	nose	_	ADJ	_	_	6	amod	_	_
+6	around	_	NOUN	_	_	7	compound	_	_
+7	me	_	PRON	_	_	9	obl:tmod	_	_
+8	I	_	PRON	_	_	9	nsubj	_	_
+9	want	_	VERB	_	_	0	root	_	_
+10	to	_	PART	_	_	11	mark	_	_
+11	scream	_	VERB	_	_	9	xcomp	_	_
+12	and	_	CCONJ	_	_	13	cc	_	_
+13	run	_	VERB	_	_	11	conj	_	_
+14	away	_	ADV	_	_	13	advmod	_	_
+15	hysterically	_	ADV	_	_	13	advmod	_	_
+16	.	_	PUNCT	_	_	9	punct	_	_
+
+# text = My boss fired somebody on site n front of everybody # She 's A Savage
+# sent_id = 1
+1	My	_	PRON	_	_	2	nmod:poss	_	_
+2	boss	_	NOUN	_	_	3	nsubj	_	_
+3	fired	_	VERB	_	_	0	root	_	_
+4	somebody	_	PRON	_	_	3	obj	_	_
+5	on	_	ADP	_	_	3	compound:prt	_	_
+6	site	_	ADP	_	_	8	case	_	_
+7	n	_	NUM	_	_	8	nummod	_	_
+8	front	_	NOUN	_	_	3	obl	_	_
+9	of	_	ADP	_	_	10	case	_	_
+10	everybody	_	PRON	_	_	8	nmod	_	_
+11	#	_	PUNCT	_	_	3	punct	_	_
+12	She	_	PRON	_	_	15	nsubj	_	_
+13	's	_	AUX	_	_	15	cop	_	_
+14	A	_	DET	_	_	15	det	_	_
+15	Savage	_	NOUN	_	_	3	parataxis	_	_
+
+# text = say my ma fuckin name when we fuck and ' ll beat it harder
+# sent_id = 1
+1	say	_	VERB	_	_	0	root	_	_
+2	my	_	PRON	_	_	3	nmod:poss	_	_
+3	ma	_	NOUN	_	_	1	obj	_	_
+4	fuckin	_	VERB	_	_	1	xcomp	_	_
+5	name	_	NOUN	_	_	4	obj	_	_
+6	when	_	ADV	_	_	8	mark	_	_
+7	we	_	PRON	_	_	8	nsubj	_	_
+8	fuck	_	VERB	_	_	1	advcl	_	_
+9	and	_	CCONJ	_	_	12	cc	_	_
+10	'	_	PUNCT	_	_	12	punct	_	_
+11	ll	_	DET	_	_	10	det	_	_
+12	beat	_	VERB	_	_	8	conj	_	_
+13	it	_	PRON	_	_	12	obj	_	_
+14	harder	_	ADJ	_	_	12	xcomp	_	_
+
+# text = Anddddd , I ca n't seem find permanent happiness . It 's always temporary .
+# sent_id = 1
+1	Anddddd	_	X	_	_	6	discourse	_	_
+2	,	_	PUNCT	_	_	6	punct	_	_
+3	I	_	PRON	_	_	6	nsubj	_	_
+4	ca	_	AUX	_	_	6	aux	_	_
+5	n't	_	PART	_	_	6	advmod	_	_
+6	seem	_	VERB	_	_	0	root	_	_
+7	find	_	ADJ	_	_	9	amod	_	_
+8	permanent	_	NOUN	_	_	9	compound	_	_
+9	happiness	_	NOUN	_	_	6	obj	_	_
+10	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 2
+1	It	_	PRON	_	_	4	nsubj	_	_
+2	's	_	AUX	_	_	4	cop	_	_
+3	always	_	ADV	_	_	4	advmod	_	_
+4	temporary	_	NOUN	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# text = It feels like a lightning bolt just hit the tip of my penis
+# sent_id = 1
+1	It	_	PRON	_	_	2	nsubj	_	_
+2	feels	_	VERB	_	_	0	root	_	_
+3	like	_	SCONJ	_	_	2	xcomp	_	_
+4	a	_	DET	_	_	5	det	_	_
+5	lightning	_	NOUN	_	_	3	obj	_	_
+6	bolt	_	SCONJ	_	_	8	mark	_	_
+7	just	_	ADV	_	_	8	advmod	_	_
+8	hit	_	VERB	_	_	5	acl	_	_
+9	the	_	DET	_	_	10	det	_	_
+10	tip	_	NOUN	_	_	8	obj	_	_
+11	of	_	ADP	_	_	13	case	_	_
+12	my	_	PRON	_	_	13	nmod:poss	_	_
+13	penis	_	NOUN	_	_	10	nmod	_	_
+
+# text = I think maybe I was numb to last year , but you know I feel it now more than ever
+# sent_id = 1
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	think	_	VERB	_	_	0	root	_	_
+3	maybe	_	PRON	_	_	2	obj	_	_
+4	I	_	PRON	_	_	6	nsubj	_	_
+5	was	_	AUX	_	_	6	cop	_	_
+6	numb	_	ADJ	_	_	3	acl:relcl	_	_
+7	to	_	PART	_	_	9	mark	_	_
+8	last	_	ADJ	_	_	9	amod	_	_
+9	year	_	NOUN	_	_	6	obj	_	_
+10	,	_	PUNCT	_	_	13	punct	_	_
+11	but	_	CCONJ	_	_	13	cc	_	_
+12	you	_	PRON	_	_	13	nsubj	_	_
+13	know	_	VERB	_	_	2	conj	_	_
+14	I	_	PRON	_	_	15	nsubj	_	_
+15	feel	_	VERB	_	_	13	ccomp	_	_
+16	it	_	PRON	_	_	15	obj	_	_
+17	now	_	ADV	_	_	18	advmod	_	_
+18	more	_	ADJ	_	_	15	advmod	_	_
+19	than	_	ADP	_	_	20	case	_	_
+20	ever	_	ADV	_	_	15	obl	_	_
+
+# text = , damnnn I done let alot of time pass by . .
+# sent_id = 1
+1	,	_	PUNCT	_	_	4	punct	_	_
+2	damnnn	_	PROPN	_	_	4	vocative	_	_
+3	I	_	PRON	_	_	4	nsubj	_	_
+4	done	_	VERB	_	_	0	root	_	_
+5	let	_	ADJ	_	_	6	amod	_	_
+6	alot	_	NOUN	_	_	4	obj	_	_
+7	of	_	ADP	_	_	9	case	_	_
+8	time	_	NOUN	_	_	9	compound	_	_
+9	pass	_	NOUN	_	_	6	nmod	_	_
+10	by	_	ADP	_	_	4	compound:prt	_	_
+11	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2
+1	.	_	PUNCT	_	_	0	root	_	_
+
+# text = You do n't have to keep on smiling that smile that 's driving me wild
+# sent_id = 1
+1	You	_	PRON	_	_	4	nsubj	_	_
+2	do	_	AUX	_	_	4	aux	_	_
+3	n't	_	PART	_	_	4	advmod	_	_
+4	have	_	VERB	_	_	0	root	_	_
+5	to	_	PART	_	_	6	mark	_	_
+6	keep	_	VERB	_	_	4	xcomp	_	_
+7	on	_	ADP	_	_	6	compound:prt	_	_
+8	smiling	_	VERB	_	_	4	parataxis	_	_
+9	that	_	PRON	_	_	8	obj	_	_
+10	smile	_	VERB	_	_	8	xcomp	_	_
+11	that	_	PRON	_	_	13	nsubj	_	_
+12	's	_	AUX	_	_	13	aux	_	_
+13	driving	_	VERB	_	_	10	ccomp	_	_
+14	me	_	PRON	_	_	13	obj	_	_
+15	wild	_	AUX	_	_	8	nmod	_	_
+
+# text = I want a love like off The Vow .. # perfect # oneday
+# sent_id = 1
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	want	_	VERB	_	_	0	root	_	_
+3	a	_	DET	_	_	4	det	_	_
+4	love	_	NOUN	_	_	2	obj	_	_
+5	like	_	ADP	_	_	8	case	_	_
+6	off	_	ADP	_	_	8	case	_	_
+7	The	_	DET	_	_	8	det	_	_
+8	Vow	_	NOUN	_	_	2	obl	_	_
+9	..	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+1	#	_	X	_	_	2	discourse	_	_
+2	perfect	_	INTJ	_	_	0	root	_	_
+3	#	_	SYM	_	_	2	discourse	_	_
+4	oneday	_	X	_	_	2	discourse	_	_
+
+# text = I could eat Special K Vanilla Almond every day of my life
+# sent_id = 1
+1	I	_	PRON	_	_	3	nsubj	_	_
+2	could	_	AUX	_	_	3	aux	_	_
+3	eat	_	VERB	_	_	0	root	_	_
+4	Special	_	PROPN	_	_	7	compound	_	_
+5	K	_	PROPN	_	_	4	flat	_	_
+6	Vanilla	_	PROPN	_	_	7	compound	_	_
+7	Almond	_	PROPN	_	_	3	obj	_	_
+8	every	_	PRON	_	_	9	nmod:poss	_	_
+9	day	_	NOUN	_	_	7	appos	_	_
+10	of	_	ADP	_	_	12	case	_	_
+11	my	_	PRON	_	_	12	nmod:poss	_	_
+12	life	_	NOUN	_	_	9	nmod	_	_
+
+# text = Jax keeps curling up on my bed and tossing and turning repeatedly . Like he cant get comfy . # Soocute # Puppylove
+# sent_id = 1
+1	Jax	_	PROPN	_	_	3	nsubj	_	_
+2	keeps	_	PROPN	_	_	1	flat	_	_
+3	curling	_	VERB	_	_	0	root	_	_
+4	up	_	ADP	_	_	3	compound:prt	_	_
+5	on	_	ADP	_	_	7	case	_	_
+6	my	_	PRON	_	_	7	nmod:poss	_	_
+7	bed	_	NOUN	_	_	3	obl	_	_
+8	and	_	CCONJ	_	_	9	cc	_	_
+9	tossing	_	VERB	_	_	3	conj	_	_
+10	and	_	CCONJ	_	_	11	cc	_	_
+11	turning	_	VERB	_	_	9	conj	_	_
+12	repeatedly	_	ADV	_	_	11	advmod	_	_
+13	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+1	Like	_	SCONJ	_	_	4	mark	_	_
+2	he	_	PRON	_	_	4	nsubj	_	_
+3	cant	_	AUX	_	_	4	aux	_	_
+4	get	_	VERB	_	_	0	root	_	_
+5	comfy	_	NOUN	_	_	4	obj	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 3
+1	#	_	X	_	_	2	discourse	_	_
+2	Soocute	_	NOUN	_	_	0	root	_	_
+3	#	_	X	_	_	2	discourse	_	_
+4	Puppylove	_	X	_	_	2	discourse	_	_
+
+# text = Me and Pay got matching coupes , me and kid fucked ya boo
+# sent_id = 1
+1	Me	_	PRON	_	_	4	nsubj	_	_
+2	and	_	CCONJ	_	_	3	cc	_	_
+3	Pay	_	VERB	_	_	1	conj	_	_
+4	got	_	VERB	_	_	0	root	_	_
+5	matching	_	NOUN	_	_	6	compound	_	_
+6	coupes	_	NOUN	_	_	4	obj	_	_
+7	,	_	PUNCT	_	_	4	punct	_	_
+8	me	_	PRON	_	_	11	nsubj	_	_
+9	and	_	CCONJ	_	_	10	cc	_	_
+10	kid	_	VERB	_	_	8	conj	_	_
+11	fucked	_	VERB	_	_	4	parataxis	_	_
+12	ya	_	PRON	_	_	13	nmod:poss	_	_
+13	boo	_	NOUN	_	_	11	obj	_	_
+
+# text = Chasing people around the lounge because they stole your cookies # fatgirlproblems
+# sent_id = 1
+1	Chasing	_	VERB	_	_	0	root	_	_
+2	people	_	NOUN	_	_	1	obj	_	_
+3	around	_	ADP	_	_	5	case	_	_
+4	the	_	DET	_	_	5	det	_	_
+5	lounge	_	NOUN	_	_	1	obl	_	_
+6	because	_	SCONJ	_	_	8	mark	_	_
+7	they	_	PRON	_	_	8	nsubj	_	_
+8	stole	_	VERB	_	_	1	advcl	_	_
+9	your	_	PRON	_	_	10	nmod:poss	_	_
+10	cookies	_	NOUN	_	_	8	obj	_	_
+11	#	_	SYM	_	_	1	discourse	_	_
+12	fatgirlproblems	_	NOUN	_	_	1	parataxis	_	_
+
+# text = Philosophy is the worst thing to ever happen to the world
+# sent_id = 1
+1	Philosophy	_	NOUN	_	_	5	nsubj	_	_
+2	is	_	AUX	_	_	5	cop	_	_
+3	the	_	DET	_	_	5	det	_	_
+4	worst	_	ADJ	_	_	5	amod	_	_
+5	thing	_	NOUN	_	_	0	root	_	_
+6	to	_	PART	_	_	8	mark	_	_
+7	ever	_	ADV	_	_	8	advmod	_	_
+8	happen	_	VERB	_	_	5	acl	_	_
+9	to	_	ADP	_	_	11	case	_	_
+10	the	_	DET	_	_	11	det	_	_
+11	world	_	NOUN	_	_	8	obl	_	_
+
+# text = Cash Is Sitting Here All Into These Damn Games She Playing Lmao .. She Better Calm Her Ass Down .
+# sent_id = 1
+1	Cash	_	NOUN	_	_	3	nsubj	_	_
+2	Is	_	AUX	_	_	3	aux	_	_
+3	Sitting	_	VERB	_	_	0	root	_	_
+4	Here	_	ADV	_	_	3	advmod	_	_
+5	All	_	DET	_	_	4	obj	_	_
+6	Into	_	ADP	_	_	9	case	_	_
+7	These	_	DET	_	_	9	det	_	_
+8	Damn	_	PROPN	_	_	9	compound	_	_
+9	Games	_	PROPN	_	_	3	obl	_	_
+10	She	_	PRON	_	_	11	nsubj	_	_
+11	Playing	_	VERB	_	_	3	parataxis	_	_
+12	Lmao	_	INTJ	_	_	11	discourse	_	_
+13	..	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+1	She	_	PRON	_	_	2	nsubj	_	_
+2	Better	_	VERB	_	_	0	root	_	_
+3	Calm	_	VERB	_	_	2	xcomp	_	_
+4	Her	_	PRON	_	_	5	nmod:poss	_	_
+5	Ass	_	NOUN	_	_	3	obj	_	_
+6	Down	_	ADV	_	_	2	advmod	_	_
+7	.	_	PUNCT	_	_	2	punct	_	_
+
+# text = How come nobody wants to give Amanda Perez Her Props
+# sent_id = 1
+1	How	_	ADV	_	_	2	advmod	_	_
+2	come	_	ADJ	_	_	4	nsubj	_	_
+3	nobody	_	ADV	_	_	4	advmod	_	_
+4	wants	_	VERB	_	_	0	root	_	_
+5	to	_	PART	_	_	6	mark	_	_
+6	give	_	VERB	_	_	4	xcomp	_	_
+7	Amanda	_	PROPN	_	_	6	obj	_	_
+8	Perez	_	VERB	_	_	4	parataxis	_	_
+9	Her	_	PRON	_	_	8	iobj	_	_
+10	Props	_	NOUN	_	_	8	obj	_	_
+
+# text = So you play the battle monsters are they fun will I be able to keep up ?
+# sent_id = 1
+1	So	_	ADV	_	_	3	advmod	_	_
+2	you	_	PRON	_	_	3	nsubj	_	_
+3	play	_	VERB	_	_	0	root	_	_
+4	the	_	DET	_	_	6	det	_	_
+5	battle	_	ADJ	_	_	6	amod	_	_
+6	monsters	_	NOUN	_	_	3	obj	_	_
+7	are	_	AUX	_	_	9	aux	_	_
+8	they	_	PRON	_	_	9	nsubj	_	_
+9	fun	_	VERB	_	_	3	advcl	_	_
+10	will	_	AUX	_	_	13	aux	_	_
+11	I	_	PRON	_	_	13	nsubj	_	_
+12	be	_	AUX	_	_	13	cop	_	_
+13	able	_	ADJ	_	_	9	ccomp	_	_
+14	to	_	PART	_	_	15	mark	_	_
+15	keep	_	VERB	_	_	13	xcomp	_	_
+16	up	_	ADP	_	_	15	compound:prt	_	_
+17	?	_	PUNCT	_	_	3	punct	_	_
+
+# text = Ik dis nig saw my stats/tweets why tf he woke me out my sleep
+# sent_id = 1
+1	Ik	_	VERB	_	_	0	root	_	_
+2	dis	_	NOUN	_	_	3	compound	_	_
+3	nig	_	NOUN	_	_	1	obj	_	_
+4	saw	_	VERB	_	_	1	parataxis	_	_
+5	my	_	PRON	_	_	6	nmod:poss	_	_
+6	stats	_	NOUN	_	_	4	obj	_	_
+7	/tweets	_	VERB	_	_	4	xcomp	_	_
+8	why	_	ADV	_	_	7	advmod	_	_
+9	tf	_	SCONJ	_	_	11	mark	_	_
+10	he	_	PRON	_	_	11	nsubj	_	_
+11	woke	_	VERB	_	_	7	advcl	_	_
+12	me	_	PRON	_	_	11	obj	_	_
+13	out	_	ADP	_	_	15	case	_	_
+14	my	_	PRON	_	_	15	nmod:poss	_	_
+15	sleep	_	NOUN	_	_	11	obl	_	_
+
+# text = That first bowl of Lucky Charms is always magical . No pun intended .
+# sent_id = 1
+1	That	_	DET	_	_	3	det	_	_
+2	first	_	ADJ	_	_	3	amod	_	_
+3	bowl	_	NOUN	_	_	9	nsubj	_	_
+4	of	_	ADP	_	_	5	case	_	_
+5	Lucky	_	PROPN	_	_	3	nmod	_	_
+6	Charms	_	PROPN	_	_	3	flat	_	_
+7	is	_	AUX	_	_	9	cop	_	_
+8	always	_	ADV	_	_	9	advmod	_	_
+9	magical	_	ADJ	_	_	0	root	_	_
+10	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 2
+1	No	_	DET	_	_	2	det	_	_
+2	pun	_	NOUN	_	_	3	nsubj	_	_
+3	intended	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# text = They want us to hate BM 's Billy Abbott to make the transition to DT easier . Backfiring ! # YR
+# sent_id = 1
+1	They	_	PRON	_	_	2	nsubj	_	_
+2	want	_	VERB	_	_	0	root	_	_
+3	us	_	PRON	_	_	2	obj	_	_
+4	to	_	PART	_	_	5	mark	_	_
+5	hate	_	VERB	_	_	2	xcomp	_	_
+6	BM	_	PROPN	_	_	9	nmod:poss	_	_
+7	's	_	PART	_	_	6	case	_	_
+8	Billy	_	ADJ	_	_	9	amod	_	_
+9	Abbott	_	NOUN	_	_	5	obj	_	_
+10	to	_	PART	_	_	11	mark	_	_
+11	make	_	VERB	_	_	5	xcomp	_	_
+12	the	_	DET	_	_	13	det	_	_
+13	transition	_	NOUN	_	_	11	obj	_	_
+14	to	_	ADP	_	_	16	case	_	_
+15	DT	_	PROPN	_	_	16	compound	_	_
+16	easier	_	NOUN	_	_	11	obl	_	_
+17	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+1	Backfiring	_	X	_	_	0	root	_	_
+2	!	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3
+1	#	_	X	_	_	0	discourse	_	_
+2	YR	_	X	_	_	0	root	_	_
+
+# text = Ready to get off and chill wit my bae and kids ... .. one more hr ! ! ! ! ! !
+# sent_id = 1
+1	Ready	_	ADJ	_	_	0	root	_	_
+2	to	_	PART	_	_	3	mark	_	_
+3	get	_	VERB	_	_	1	xcomp	_	_
+4	off	_	ADP	_	_	3	compound:prt	_	_
+5	and	_	CCONJ	_	_	6	cc	_	_
+6	chill	_	NOUN	_	_	3	conj	_	_
+7	wit	_	ADP	_	_	9	case	_	_
+8	my	_	PRON	_	_	9	nmod:poss	_	_
+9	bae	_	NOUN	_	_	3	obl	_	_
+10	and	_	CCONJ	_	_	11	cc	_	_
+11	kids	_	NOUN	_	_	3	conj	_	_
+12	...	_	PUNCT	_	_	1	punct	_	_
+13	..	_	PUNCT	_	_	1	punct	_	_
+14	one	_	NUM	_	_	16	nummod	_	_
+15	more	_	ADJ	_	_	16	amod	_	_
+16	hr	_	NOUN	_	_	1	parataxis	_	_
+17	!	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 3
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 4
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 5
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 6
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# text = Watching Guitar Center Sessions and now I have a Skylar Grey obsession ! ! She 's cool ! !
+# sent_id = 1
+1	Watching	_	VERB	_	_	0	root	_	_
+2	Guitar	_	PROPN	_	_	4	compound	_	_
+3	Center	_	PROPN	_	_	2	flat	_	_
+4	Sessions	_	PROPN	_	_	1	obj	_	_
+5	and	_	CCONJ	_	_	8	cc	_	_
+6	now	_	ADV	_	_	8	advmod	_	_
+7	I	_	PRON	_	_	8	nsubj	_	_
+8	have	_	VERB	_	_	1	conj	_	_
+9	a	_	DET	_	_	10	det	_	_
+10	Skylar	_	PROPN	_	_	8	obj	_	_
+11	Grey	_	PROPN	_	_	12	compound	_	_
+12	obsession	_	NOUN	_	_	10	appos	_	_
+13	!	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 3
+1	She	_	PRON	_	_	3	nsubj	_	_
+2	's	_	AUX	_	_	3	cop	_	_
+3	cool	_	ADJ	_	_	0	root	_	_
+4	!	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 4
+1	!	_	PUNCT	_	_	0	root	_	_
+
+# text = im really lost with my soul , < < where my boyfriend ugh
+# sent_id = 1
+1	im	_	PRON	_	_	3	nsubj	_	_
+2	really	_	ADV	_	_	3	advmod	_	_
+3	lost	_	ADJ	_	_	0	root	_	_
+4	with	_	ADP	_	_	6	case	_	_
+5	my	_	PRON	_	_	6	nmod:poss	_	_
+6	soul	_	NOUN	_	_	3	obl	_	_
+7	,	_	PUNCT	_	_	3	punct	_	_
+8	<	_	X	_	_	3	discourse	_	_
+9	<	_	PUNCT	_	_	3	punct	_	_
+10	where	_	ADV	_	_	12	case	_	_
+11	my	_	PRON	_	_	12	nmod:poss	_	_
+12	boyfriend	_	NOUN	_	_	3	parataxis	_	_
+13	ugh	_	INTJ	_	_	3	discourse	_	_
+
+# text = This girl laughed at EVERY sentence this kid said and not a single one was even close to bein funny
+# sent_id = 1
+1	This	_	DET	_	_	2	det	_	_
+2	girl	_	NOUN	_	_	3	nsubj	_	_
+3	laughed	_	VERB	_	_	0	root	_	_
+4	at	_	ADP	_	_	3	compound:prt	_	_
+5	EVERY	_	PROPN	_	_	6	nsubj	_	_
+6	sentence	_	VERB	_	_	3	ccomp	_	_
+7	this	_	DET	_	_	8	det	_	_
+8	kid	_	PROPN	_	_	6	obj	_	_
+9	said	_	VERB	_	_	3	parataxis	_	_
+10	and	_	CCONJ	_	_	17	cc	_	_
+11	not	_	PART	_	_	17	advmod	_	_
+12	a	_	DET	_	_	14	det	_	_
+13	single	_	ADJ	_	_	14	amod	_	_
+14	one	_	NUM	_	_	17	nsubj	_	_
+15	was	_	AUX	_	_	17	cop	_	_
+16	even	_	ADV	_	_	17	advmod	_	_
+17	close	_	ADJ	_	_	9	conj	_	_
+18	to	_	PART	_	_	19	mark	_	_
+19	bein	_	VERB	_	_	17	xcomp	_	_
+20	funny	_	PROPN	_	_	19	obj	_	_
+
+# text = Ion trust no nigga . Not even da ones who round me !
+# sent_id = 1
+1	Ion	_	NOUN	_	_	2	compound	_	_
+2	trust	_	NOUN	_	_	0	root	_	_
+3	no	_	ADV	_	_	4	advmod	_	_
+4	nigga	_	NOUN	_	_	2	nmod:tmod	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+1	Not	_	PART	_	_	4	advmod	_	_
+2	even	_	ADV	_	_	4	advmod	_	_
+3	da	_	AUX	_	_	4	aux	_	_
+4	ones	_	VERB	_	_	0	root	_	_
+5	who	_	PRON	_	_	6	nsubj	_	_
+6	round	_	VERB	_	_	4	ccomp	_	_
+7	me	_	PRON	_	_	6	obj	_	_
+8	!	_	PUNCT	_	_	4	punct	_	_
+
+# text = Switched to nights , earned shift diff and now pay $ 200 more in taxes . # unbelieveable
+# sent_id = 1
+1	Switched	_	VERB	_	_	0	root	_	_
+2	to	_	ADP	_	_	3	case	_	_
+3	nights	_	NOUN	_	_	1	obl	_	_
+4	,	_	PUNCT	_	_	1	punct	_	_
+5	earned	_	VERB	_	_	1	parataxis	_	_
+6	shift	_	NOUN	_	_	7	compound	_	_
+7	diff	_	NOUN	_	_	5	obj	_	_
+8	and	_	CCONJ	_	_	10	cc	_	_
+9	now	_	ADV	_	_	10	advmod	_	_
+10	pay	_	NOUN	_	_	5	conj	_	_
+11	$	_	SYM	_	_	1	punct	_	_
+12	200	_	NUM	_	_	13	nsubj	_	_
+13	more	_	ADJ	_	_	1	parataxis	_	_
+14	in	_	ADP	_	_	15	case	_	_
+15	taxes	_	NOUN	_	_	13	obl	_	_
+16	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	#	_	X	_	_	0	root	_	_
+2	unbelieveable	_	X	_	_	1	discourse	_	_
+
+# text = Ohhhh Hell Naw Dis Bitch Shay Got My Last Name * Johnson *
+# sent_id = 1
+1	Ohhhh	_	INTJ	_	_	7	discourse	_	_
+2	Hell	_	INTJ	_	_	6	discourse	_	_
+3	Naw	_	NOUN	_	_	5	compound	_	_
+4	Dis	_	NOUN	_	_	5	compound	_	_
+5	Bitch	_	NOUN	_	_	6	compound	_	_
+6	Shay	_	PROPN	_	_	7	nsubj	_	_
+7	Got	_	VERB	_	_	0	root	_	_
+8	My	_	PRON	_	_	10	nmod:poss	_	_
+9	Last	_	NOUN	_	_	10	compound	_	_
+10	Name	_	NOUN	_	_	7	obj	_	_
+11	*	_	PUNCT	_	_	12	punct	_	_
+12	Johnson	_	PROPN	_	_	7	parataxis	_	_
+13	*	_	PUNCT	_	_	12	punct	_	_
+
+# text = I need to get on a laptop so I can change my tumblr bio
+# sent_id = 1
+1	I	_	PRON	_	_	2	nsubj	_	_
+2	need	_	VERB	_	_	0	root	_	_
+3	to	_	PART	_	_	4	mark	_	_
+4	get	_	VERB	_	_	2	xcomp	_	_
+5	on	_	ADP	_	_	7	case	_	_
+6	a	_	DET	_	_	7	det	_	_
+7	laptop	_	NOUN	_	_	4	obl	_	_
+8	so	_	ADV	_	_	11	advmod	_	_
+9	I	_	PRON	_	_	11	nsubj	_	_
+10	can	_	AUX	_	_	11	aux	_	_
+11	change	_	VERB	_	_	2	parataxis	_	_
+12	my	_	PRON	_	_	14	nmod:poss	_	_
+13	tumblr	_	NOUN	_	_	14	compound	_	_
+14	bio	_	NOUN	_	_	11	obj	_	_
+
+# text = Yea Ill Be Good In Bed But Ill Be Bad To Ya !
+# sent_id = 1
+1	Yea	_	INTJ	_	_	4	discourse	_	_
+2	Ill	_	AUX	_	_	4	aux	_	_
+3	Be	_	AUX	_	_	4	cop	_	_
+4	Good	_	ADJ	_	_	0	root	_	_
+5	In	_	SCONJ	_	_	6	mark	_	_
+6	Bed	_	VERB	_	_	4	xcomp	_	_
+7	But	_	CCONJ	_	_	10	cc	_	_
+8	Ill	_	AUX	_	_	10	aux	_	_
+9	Be	_	AUX	_	_	10	aux	_	_
+10	Bad	_	VERB	_	_	6	conj	_	_
+11	To	_	PART	_	_	12	mark	_	_
+12	Ya	_	VERB	_	_	10	xcomp	_	_
+13	!	_	PUNCT	_	_	4	punct	_	_
+
+# text = Soon as u think you gotcha 1 you find out she fckin erbody ! !
+# sent_id = 1
+1	Soon	_	ADJ	_	_	0	root	_	_
+2	as	_	SCONJ	_	_	4	mark	_	_
+3	u	_	PRON	_	_	4	nsubj	_	_
+4	think	_	VERB	_	_	1	advcl	_	_
+5	you	_	PRON	_	_	4	iobj	_	_
+6	gotcha	_	PROPN	_	_	4	obj	_	_
+7	1	_	SYM	_	_	1	discourse	_	_
+8	you	_	PRON	_	_	9	nsubj	_	_
+9	find	_	VERB	_	_	1	parataxis	_	_
+10	out	_	ADP	_	_	9	compound:prt	_	_
+11	she	_	PRON	_	_	12	nsubj	_	_
+12	fckin	_	VERB	_	_	9	ccomp	_	_
+13	erbody	_	PRON	_	_	12	obj	_	_
+14	!	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+1	!	_	PUNCT	_	_	0	root	_	_
+
