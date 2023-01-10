@@ -1,0 +1,5007 @@
+little	A	0.9286	little
+somethin '	N ,	0.9878 0.9577	somethin'
+for	P	0.9910	for
+my	D	0.8420	my
+godson	!	0.4879	godson
+elijah	^	0.9814	elijah
+			
+and	&	0.9981	and
+a	D	0.8948	a
+little	A	0.9286	little
+girl	N	0.8631	girl
+named	V	0.9666	named
+corinne	^	0.9339	corinne
+			
+some	D	0.7045	some
+say	V	0.8550	say
+the	D	0.9792	the
+blacker	^	0.7208	blacker
+the	D	0.9792	the
+berry	N	0.6055	berry
+,	,	0.9918	,
+the	D	0.9792	the
+sweeter	A	0.8679	sweeter
+the	D	0.9792	the
+juice	N	0.8805	juice
+			
+i	O	0.9651	i
+say	V	0.8550	say
+the	D	0.9792	the
+darker	A	0.8598	darker
+the	D	0.9792	the
+flesh	N	0.9315	flesh
+then	R	0.9661	then
+the	D	0.9792	the
+deeper	A	0.9229	deeper
+the	D	0.9792	the
+roots	N	0.9222	roots
+			
+i	O	0.9651	i
+give	V	0.9362	give
+a	D	0.8948	a
+holla	!	0.9105	holla
+to	P	0.9511	to
+my	D	0.8420	my
+sisters	N	0.9615	sisters
+on	P	0.8343	on
+welfare	N	0.7945	welfare
+			
+2pac	^	0.8422	2pac
+cares	V	0.9605	cares
+,	,	0.9918	,
+if	P	0.9711	if
+don't	V	0.9973	don't
+nobody	N	0.8478	nobody
+else	R	0.7939	else
+care	N	0.4306	care
+			
+and	&	0.9981	and
+,	,	0.9918	,
+i	O	0.9651	i
+know	V	0.9285	know
+they	O	0.9737	they
+like	P	0.7012	like
+to	P	0.9511	to
+beat	V	0.8551	beat
+you	O	0.9627	you
+down	T	0.3734	down
+a	D	0.8948	a
+lot	N	0.5757	lot
+			
+when	R	0.9425	when
+you	O	0.9627	you
+come	V	0.9593	come
+around	P	0.4644	around
+the	D	0.9792	the
+block	N	0.5689	block
+,	,	0.9918	,
+brothers	N	0.9196	brothers
+clown	N	0.8760	clown
+a	D	0.8948	a
+lot	N	0.5757	lot
+			
+but	&	0.9901	but
+please	V	0.8246	please
+don't	V	0.9973	don't
+cry	V	0.6868	cry
+,	,	0.9918	,
+dry	A	0.7626	dry
+your	D	0.5467	your
+eyes	N	0.9459	eyes
+,	,	0.9918	,
+never	R	0.9752	never
+let	V	0.8916	let
+up	T	0.8440	up
+			
+forgive	V	0.9275	forgive
+but	&	0.9901	but
+don't	V	0.9973	don't
+forget	V	0.9696	forget
+,	,	0.9918	,
+girl	N	0.8631	girl
+,	,	0.9918	,
+keep	V	0.7901	keep
+your	D	0.5467	your
+head	N	0.9348	head
+up	T	0.8440	up
+			
+and	&	0.9981	and
+when	R	0.9425	when
+he	O	0.9777	he
+tells	V	0.9595	tells
+you	O	0.9627	you
+you	O	0.9627	you
+ain't	V	0.8098	ain't
+nothin '	N ,	0.9771 0.9576	nothin'
+,	,	0.9918	,
+don't	V	0.9973	don't
+believe	V	0.9527	believe
+him	O	0.8980	him
+			
+and	&	0.9981	and
+if	P	0.9711	if
+he	O	0.9777	he
+can't	V	0.9853	can't
+learn	V	0.9599	learn
+to	P	0.9511	to
+love	N	0.6603	love
+you	O	0.9627	you
+,	,	0.9918	,
+you	O	0.9627	you
+should	V	0.9804	should
+leave	V	0.8730	leave
+him	O	0.8980	him
+			
+cause	P	0.4706	cause
+sister	N	0.9815	sister
+,	,	0.9918	,
+you	O	0.9627	you
+don't	V	0.9973	don't
+need	V	0.8664	need
+him	O	0.8980	him
+			
+and	&	0.9981	and
+i	O	0.9651	i
+ain't	V	0.8098	ain't
+tryin '	V ,	0.9173 0.9594	tryin'
+to	P	0.9511	to
+gas	N	0.9116	gas
+ya	!	0.8954	ya
+up	T	0.8440	up
+,	,	0.9918	,
+i	O	0.9651	i
+just	R	0.9975	just
+call	V	0.4423	call
+' em	, O	0.9581 0.9231	'em
+how	R	0.9435	how
+i	O	0.9651	i
+see	V	0.8335	see
+' em	, O	0.9581 0.9231	'em
+			
+you	O	0.9627	you
+know	V	0.9285	know
+what	O	0.9490	what
+makes	V	0.9553	makes
+me	O	0.9918	me
+unhappy	A	0.9722	unhappy
+			
+when	R	0.9425	when
+brothers	N	0.9196	brothers
+make	V	0.8257	make
+babies	N	0.9498	babies
+,	,	0.9918	,
+and	&	0.9981	and
+leave	V	0.8730	leave
+a	D	0.8948	a
+young	A	0.8473	young
+mother	N	0.9356	mother
+to	P	0.9511	to
+be	V	0.9569	be
+a	D	0.8948	a
+pappy	N	0.5656	pappy
+			
+and	&	0.9981	and
+since	P	0.8454	since
+we	O	0.9885	we
+all	D	0.7257	all
+came	V	0.8786	came
+from	P	0.9750	from
+a	D	0.8948	a
+woman	N	0.6200	woman
+			
+got	V	0.7838	got
+our	D	0.8438	our
+name	N	0.9785	name
+from	P	0.9750	from
+a	D	0.8948	a
+woman	N	0.6200	woman
+and	&	0.9981	and
+our	D	0.8438	our
+game	N	0.9747	game
+from	P	0.9750	from
+a	D	0.8948	a
+woman	N	0.6200	woman
+			
+i	O	0.9651	i
+wonder	V	0.6042	wonder
+why	R	0.8527	why
+we	O	0.9885	we
+take	V	0.9216	take
+from	P	0.9750	from
+our	D	0.8438	our
+women	N	0.8590	women
+			
+why	R	0.8527	why
+we	O	0.9885	we
+rape	N	0.6749	rape
+our	D	0.8438	our
+women	N	0.8590	women
+,	,	0.9918	,
+do	V	0.9687	do
+we	O	0.9885	we
+hate	V	0.9340	hate
+our	D	0.8438	our
+women	N	0.8590	women
+			
+i	O	0.9651	i
+think	V	0.9624	think
+it's	L	0.9926	it's
+time	N	0.9685	time
+to	P	0.9511	to
+kill	V	0.8244	kill
+for	P	0.9910	for
+our	D	0.8438	our
+women	N	0.8590	women
+			
+time	N	0.9685	time
+to	P	0.9511	to
+heal	V	0.6445	heal
+our	D	0.8438	our
+women	N	0.8590	women
+,	,	0.9918	,
+be	V	0.9569	be
+real	A	0.7729	real
+to	P	0.9511	to
+our	D	0.8438	our
+women	N	0.8590	women
+			
+and	&	0.9981	and
+if	P	0.9711	if
+we	O	0.9885	we
+don't	V	0.9973	don't
+we'll	L	0.9364	we'll
+have	V	0.9703	have
+a	D	0.8948	a
+race	N	0.9771	race
+of	P	0.8953	of
+babies	N	0.9498	babies
+			
+that	O	0.7135	that
+will	V	0.9478	will
+hate	V	0.9340	hate
+the	D	0.9792	the
+ladies	N	0.9830	ladies
+that	O	0.7135	that
+make	V	0.8257	make
+the	D	0.9792	the
+babies	N	0.9498	babies
+			
+and	&	0.9981	and
+since	P	0.8454	since
+a	D	0.8948	a
+man	!	0.8651	man
+can't	V	0.9853	can't
+make	V	0.8257	make
+one	$	0.7703	one
+			
+he	O	0.9777	he
+has	V	0.9464	has
+no	!	0.9253	no
+right	!	0.8610	right
+to	P	0.9511	to
+tell	V	0.7941	tell
+a	D	0.8948	a
+woman	N	0.6200	woman
+when	R	0.9425	when
+and	&	0.9981	and
+where	R	0.9493	where
+to	P	0.9511	to
+create	V	0.8565	create
+one	$	0.7703	one
+			
+so	R	0.5317	so
+will	V	0.9478	will
+the	D	0.9792	the
+real	A	0.7729	real
+men	N	0.9145	men
+get	V	0.9655	get
+up	T	0.8440	up
+			
+i	O	0.9651	i
+know	V	0.9285	know
+you're	L	0.9569	you're
+fed	V	0.7988	fed
+up	T	0.8440	up
+ladies	N	0.9830	ladies
+,	,	0.9918	,
+but	&	0.9901	but
+keep	V	0.7901	keep
+your	D	0.5467	your
+head	N	0.9348	head
+up	T	0.8440	up
+			
+keep	V	0.7901	keep
+ya	!	0.8954	ya
+head	N	0.9348	head
+up	T	0.8440	up
+,	,	0.9918	,
+ooh	!	0.9975	ooh
+,	,	0.9918	,
+child	N	0.8178	child
+,	,	0.9918	,
+things	N	0.9817	things
+are	V	0.9783	are
+gonna	V	0.9473	gonna
+get	V	0.9655	get
+easier	A	0.9417	easier
+			
+keep	V	0.7901	keep
+ya	!	0.8954	ya
+head	N	0.9348	head
+up	T	0.8440	up
+,	,	0.9918	,
+ooh	!	0.9975	ooh
+,	,	0.9918	,
+child	N	0.8178	child
+,	,	0.9918	,
+things'll	L	0.8447	things'll
+get	V	0.9655	get
+brighter	A	0.9346	brighter
+			
+aiyyo	!	0.9974	aiyyo
+,	,	0.9918	,
+i	O	0.9651	i
+remember	V	0.9516	remember
+marvin	^	0.9917	marvin
+gaye	^	0.7031	gaye
+used	V	0.7169	used
+to	P	0.9511	to
+sing	V	0.9754	sing
+to	P	0.9511	to
+me	O	0.9918	me
+			
+he	O	0.9777	he
+had	V	0.9560	had
+me	O	0.9918	me
+feelin '	V ,	0.9357 0.9501	feelin'
+like	P	0.7012	like
+black	A	0.8061	black
+was	V	0.9773	was
+the	D	0.9792	the
+thing	N	0.9739	thing
+to	P	0.9511	to
+be	V	0.9569	be
+			
+and	&	0.9981	and
+suddenly	R	0.9845	suddenly
+the	D	0.9792	the
+ghetto	A	0.5327	ghetto
+didn't	V	0.9947	didn't
+seem	V	0.5149	seem
+so	R	0.5317	so
+tough	A	0.8700	tough
+			
+and	&	0.9981	and
+though	P	0.7128	though
+we	O	0.9885	we
+had	V	0.9560	had
+it	O	0.9694	it
+rough	A	0.8640	rough
+,	,	0.9918	,
+we	O	0.9885	we
+always	R	0.9795	always
+had	V	0.9560	had
+enough	R	0.3944	enough
+			
+i	O	0.9651	i
+huffed	V	0.4275	huffed
+and	&	0.9981	and
+puffed	V	0.8233	puffed
+about	P	0.8950	about
+my	D	0.8420	my
+curfew	N	0.6328	curfew
+and	&	0.9981	and
+broke	A	0.6875	broke
+the	D	0.9792	the
+rules	N	0.9099	rules
+			
+ran	V	0.9215	ran
+with	P	0.9671	with
+the	D	0.9792	the
+local	A	0.7969	local
+crew	N	0.9785	crew
+and	&	0.9981	and
+had	V	0.9560	had
+a	D	0.8948	a
+smoke	V	0.5715	smoke
+or	&	0.9822	or
+two	$	0.9238	two
+			
+and	&	0.9981	and
+i	O	0.9651	i
+realize	V	0.9165	realize
+momma	!	0.4579	momma
+really	R	0.9938	really
+paid	V	0.8779	paid
+the	D	0.9792	the
+price	N	0.9537	price
+			
+she	O	0.9863	she
+nearly	R	0.9849	nearly
+gave	V	0.9118	gave
+her	O	0.5274	her
+life	N	0.9415	life
+to	P	0.9511	to
+raise	V	0.9328	raise
+me	O	0.9918	me
+right	!	0.8610	right
+			
+and	&	0.9981	and
+all	D	0.7257	all
+i	O	0.9651	i
+had	V	0.9560	had
+to	P	0.9511	to
+give	V	0.9362	give
+her	O	0.5274	her
+was	V	0.9773	was
+my	D	0.8420	my
+pipe	N	0.8933	pipe
+dream	V	0.5374	dream
+			
+of	P	0.8953	of
+how	R	0.9435	how
+i'd	L	0.9803	i'd
+rock	N	0.4903	rock
+the	D	0.9792	the
+mic	N	0.5462	mic
+and	&	0.9981	and
+make	V	0.8257	make
+it	O	0.9694	it
+to	P	0.9511	to
+the	D	0.9792	the
+bright	A	0.7080	bright
+screen	N	0.7494	screen
+			
+i'm	L	0.9890	i'm
+tryin '	V ,	0.9173 0.9594	tryin'
+to	P	0.9511	to
+make	V	0.8257	make
+a	D	0.8948	a
+dollar	N	0.9410	dollar
+out	T	0.6015	out
+of	P	0.8953	of
+fifteen	$	0.5908	fifteen
+cents	N	0.9256	cents
+			
+it's	L	0.9926	it's
+hard	A	0.7109	hard
+to	P	0.9511	to
+be	V	0.9569	be
+legit	A	0.5297	legit
+and	&	0.9981	and
+still	R	0.9849	still
+pay	V	0.6120	pay
+the	D	0.9792	the
+rent	N	0.4695	rent
+			
+and	&	0.9981	and
+in	P	0.8576	in
+the	D	0.9792	the
+end	N	0.8614	end
+it	O	0.9694	it
+seems	V	0.9169	seems
+i'm	L	0.9890	i'm
+headin '	V ,	0.7306 0.9686	headin'
+for	P	0.9910	for
+the	D	0.9792	the
+pen	N	0.8425	pen
+			
+i	O	0.9651	i
+try	V	0.8716	try
+to	P	0.9511	to
+find	V	0.9411	find
+my	D	0.8420	my
+friends	N	0.8548	friends
+but	&	0.9901	but
+they're	L	0.8765	they're
+blowin '	V ,	0.6565 0.9517	blowin'
+in	P	0.8576	in
+the	D	0.9792	the
+wind	N	0.9508	wind
+			
+last	A	0.8954	last
+night	N	0.6493	night
+my	D	0.8420	my
+buddy	N	0.9573	buddy
+lost	V	0.4600	lost
+his	D	0.9130	his
+whole	A	0.8267	whole
+family	N	0.9063	family
+			
+it's	L	0.9926	it's
+gonna	V	0.9473	gonna
+take	V	0.9216	take
+the	D	0.9792	the
+man	!	0.8651	man
+in	P	0.8576	in
+me	O	0.9918	me
+to	P	0.9511	to
+conquer	V	0.8293	conquer
+this	O	0.5028	this
+insanity	N	0.9332	insanity
+			
+it	O	0.9694	it
+seems	V	0.9169	seems
+the	D	0.9792	the
+rain'll	N	0.8157	rain'll
+never	R	0.9752	never
+let	V	0.8916	let
+up	T	0.8440	up
+			
+i	O	0.9651	i
+try	V	0.8716	try
+to	P	0.9511	to
+keep	V	0.7901	keep
+my	D	0.8420	my
+head	N	0.9348	head
+up	T	0.8440	up
+and	&	0.9981	and
+still	R	0.9849	still
+keep	V	0.7901	keep
+from	P	0.9750	from
+gettin '	V ,	0.8985 0.9522	gettin'
+wet	A	0.7112	wet
+up	T	0.8440	up
+			
+you	O	0.9627	you
+know	V	0.9285	know
+it's	L	0.9926	it's
+funny	A	0.9910	funny
+when	R	0.9425	when
+it	O	0.9694	it
+rains	V	0.5270	rains
+it	O	0.9694	it
+pours	V	0.9495	pours
+			
+they	O	0.9737	they
+got	V	0.7838	got
+money	N	0.9305	money
+for	P	0.9910	for
+wars	N	0.9912	wars
+but	&	0.9901	but
+can't	V	0.9853	can't
+feed	V	0.7662	feed
+the	D	0.9792	the
+poor	A	0.5098	poor
+			
+say	V	0.8550	say
+there	R	0.4143	there
+ain't	V	0.8098	ain't
+no	!	0.9253	no
+hope	V	0.6059	hope
+for	P	0.9910	for
+the	D	0.9792	the
+youth	N	0.6262	youth
+and	&	0.9981	and
+the	D	0.9792	the
+truth	N	0.8184	truth
+is	V	0.9892	is
+			
+it	O	0.9694	it
+ain't	V	0.8098	ain't
+no	!	0.9253	no
+hope	V	0.6059	hope
+for	P	0.9910	for
+the	D	0.9792	the
+future	N	0.4781	future
+			
+and	&	0.9981	and
+then	R	0.9661	then
+they	O	0.9737	they
+wonder	V	0.6042	wonder
+why	R	0.8527	why
+we	O	0.9885	we
+crazy	A	0.9821	crazy
+			
+i	O	0.9651	i
+blame	V	0.9090	blame
+my	D	0.8420	my
+mother	N	0.9356	mother
+for	P	0.9910	for
+turning	V	0.9494	turning
+my	D	0.8420	my
+brother	N	0.9180	brother
+into	P	0.9699	into
+a	D	0.8948	a
+crack	N	0.5299	crack
+baby	N	0.9007	baby
+			
+we	O	0.9885	we
+ain't	V	0.8098	ain't
+meant	V	0.8251	meant
+to	P	0.9511	to
+survive	V	0.8531	survive
+cause	P	0.4706	cause
+it's	L	0.9926	it's
+a	D	0.8948	a
+setup	N	0.9394	setup
+			
+and	&	0.9981	and
+even	R	0.9851	even
+though	P	0.7128	though
+you're	L	0.9569	you're
+fed	V	0.7988	fed
+up	T	0.8440	up
+			
+huh	!	0.9930	huh
+,	,	0.9918	,
+ya	!	0.8954	ya
+got	V	0.7838	got
+to	P	0.9511	to
+keep	V	0.7901	keep
+your	D	0.5467	your
+head	N	0.9348	head
+up	T	0.8440	up
+			
+and	&	0.9981	and
+uh	!	0.9927	uh
+,	,	0.9918	,
+to	P	0.9511	to
+all	D	0.7257	all
+the	D	0.9792	the
+ladies	N	0.9830	ladies
+havin '	V ,	0.7990 0.9517	havin'
+babies	N	0.9498	babies
+on	P	0.8343	on
+they	O	0.9737	they
+own	A	0.3702	own
+			
+i	O	0.9651	i
+know	V	0.9285	know
+it's	L	0.9926	it's
+kinda	R	0.5253	kinda
+rough	A	0.8640	rough
+and	&	0.9981	and
+you're	L	0.9569	you're
+feelin '	V ,	0.9357 0.9501	feelin'
+all	D	0.7257	all
+alone	R	0.5001	alone
+			
+daddy's	N	0.4442	daddy's
+long	A	0.8325	long
+gone	V	0.7256	gone
+and	&	0.9981	and
+he	O	0.9777	he
+left	V	0.7279	left
+you	O	0.9627	you
+by	P	0.9649	by
+your	D	0.5467	your
+lonesome	A	0.3384	lonesome
+			
+thank	V	0.6008	thank
+the	D	0.9792	the
+lord	!	0.4014	lord
+for	P	0.9910	for
+my	D	0.8420	my
+kids	N	0.9182	kids
+,	,	0.9918	,
+even	R	0.9851	even
+if	P	0.9711	if
+nobody	N	0.8478	nobody
+else	R	0.7939	else
+want	V	0.9638	want
+' em	, O	0.9581 0.9231	'em
+			
+cause	P	0.4706	cause
+i	O	0.9651	i
+think	V	0.9624	think
+we	O	0.9885	we
+can	V	0.9763	can
+make	V	0.8257	make
+it	O	0.9694	it
+,	,	0.9918	,
+in	P	0.8576	in
+fact	N	0.8446	fact
+,	,	0.9918	,
+i'm	L	0.9890	i'm
+sure	A	0.8345	sure
+			
+and	&	0.9981	and
+if	P	0.9711	if
+you	O	0.9627	you
+fall	V	0.4054	fall
+,	,	0.9918	,
+stand	V	0.5048	stand
+tall	A	0.8398	tall
+and	&	0.9981	and
+come	V	0.9593	come
+back	R	0.5723	back
+for	P	0.9910	for
+more	A	0.4885	more
+			
+cause	P	0.4706	cause
+ain't	V	0.8098	ain't
+nothin '	N ,	0.9771 0.9576	nothin'
+worse	A	0.8961	worse
+than	P	0.9031	than
+when	R	0.9425	when
+your	D	0.5467	your
+son	N	0.8521	son
+			
+wants	V	0.9897	wants
+to	P	0.9511	to
+know	V	0.9285	know
+why	R	0.8527	why
+his	D	0.9130	his
+daddy	N	0.9436	daddy
+don't	V	0.9973	don't
+love	N	0.6603	love
+him	O	0.8980	him
+no	!	0.9253	no
+mo '	! ,	0.4243 0.9261	mo'
+			
+you	O	0.9627	you
+can't	V	0.9853	can't
+complain	V	0.9911	complain
+you	O	0.9627	you
+was	V	0.9773	was
+dealt	V	0.9188	dealt
+this	O	0.5028	this
+			
+hell	!	0.6992	hell
+of	P	0.8953	of
+a	D	0.8948	a
+hand	N	0.8794	hand
+without	P	0.9363	without
+a	D	0.8948	a
+man	!	0.8651	man
+,	,	0.9918	,
+feelin '	V ,	0.9357 0.9501	feelin'
+helpless	A	0.8699	helpless
+			
+because	P	0.9780	because
+there's	L	0.7367	there's
+too	R	0.9370	too
+many	A	0.5707	many
+things	N	0.9817	things
+for	P	0.9910	for
+you	O	0.9627	you
+to	P	0.9511	to
+deal	N	0.9153	deal
+with	P	0.9671	with
+			
+dyin '	V ,	0.8860 0.9776	dyin'
+inside	P	0.4708	inside
+,	,	0.9918	,
+but	&	0.9901	but
+outside	R	0.2821	outside
+you're	L	0.9569	you're
+looking	V	0.9528	looking
+fearless	A	0.9287	fearless
+			
+while	P	0.4182	while
+tears	N	0.9777	tears
+is	V	0.9892	is
+rollin '	V ,	0.9208 0.9603	rollin'
+down	T	0.3734	down
+your	D	0.5467	your
+cheeks	N	0.8971	cheeks
+			
+ya	!	0.8954	ya
+steady	A	0.9613	steady
+hopin '	V ,	0.6111 0.9590	hopin'
+things	N	0.9817	things
+don't	V	0.9973	don't
+fall	V	0.4054	fall
+down	T	0.3734	down
+this	O	0.5028	this
+week	N	0.8660	week
+			
+cause	P	0.4706	cause
+if	P	0.9711	if
+it	O	0.9694	it
+did	V	0.9560	did
+,	,	0.9918	,
+you	O	0.9627	you
+couldn't	V	0.9934	couldn't
+take	V	0.9216	take
+it	O	0.9694	it
+,	,	0.9918	,
+and	&	0.9981	and
+don't	V	0.9973	don't
+blame	V	0.9090	blame
+me	O	0.9918	me
+			
+i	O	0.9651	i
+was	V	0.9773	was
+given	V	0.9648	given
+this	O	0.5028	this
+world	N	0.7022	world
+i	O	0.9651	i
+didn't	V	0.9947	didn't
+make	V	0.8257	make
+it	O	0.9694	it
+			
+and	&	0.9981	and
+now	R	0.9613	now
+my	D	0.8420	my
+son's	N	0.5900	son's
+gettin '	V ,	0.8985 0.9522	gettin'
+older	A	0.9379	older
+and	&	0.9981	and
+older	A	0.9379	older
+and	&	0.9981	and
+cold	A	0.9677	cold
+			
+from	P	0.9750	from
+havin '	V ,	0.7990 0.9517	havin'
+the	D	0.9792	the
+world	N	0.7022	world
+on	P	0.8343	on
+his	D	0.9130	his
+shoulders	N	0.9614	shoulders
+			
+while	P	0.4182	while
+the	D	0.9792	the
+rich	A	0.8721	rich
+kids	N	0.9182	kids
+is	V	0.9892	is
+drivin '	V ,	0.8344 0.9764	drivin'
+benz	N	0.8234	benz
+			
+i'm	L	0.9890	i'm
+still	R	0.9849	still
+tryin '	V ,	0.9173 0.9594	tryin'
+to	P	0.9511	to
+hold	V	0.8836	hold
+on	P	0.8343	on
+to	P	0.9511	to
+surviving	V	0.9413	surviving
+friends	N	0.8548	friends
+			
+and	&	0.9981	and
+it's	L	0.9926	it's
+crazy	A	0.9821	crazy
+,	,	0.9918	,
+it	O	0.9694	it
+seems	V	0.9169	seems
+it'll	L	0.9940	it'll
+never	R	0.9752	never
+let	V	0.8916	let
+up	T	0.8440	up
+,	,	0.9918	,
+but	&	0.9901	but
+			
+please	V	0.8246	please
+,	,	0.9918	,
+you	O	0.9627	you
+got	V	0.7838	got
+to	P	0.9511	to
+keep	V	0.7901	keep
+your	D	0.5467	your
+head	N	0.9348	head
+up	T	0.8440	up
+			
+yeah	!	0.9988	yeah
+nigga	N	0.5857	nigga
+			
+we	O	0.9885	we
+gonna	V	0.9473	gonna
+smoke	V	0.5715	smoke
+this	O	0.5028	this
+motherfucker	N	0.6412	motherfucker
+right	!	0.8610	right
+here	R	0.7796	here
+,	,	0.9918	,
+right	!	0.8610	right
+			
+we	O	0.9885	we
+gonna	V	0.9473	gonna
+smoke	V	0.5715	smoke
+this	O	0.5028	this
+shit	N	0.6894	shit
+			
+and	&	0.9981	and
+i'ma	L	0.9804	i'ma
+drink	V	0.4759	drink
+a	D	0.8948	a
+lot	N	0.5757	lot
+a	D	0.8948	a
+water	N	0.9661	water
+			
+and	&	0.9981	and
+i'ma	L	0.9804	i'ma
+take	V	0.9216	take
+golden	A	0.4845	golden
+seal	N	0.9434	seal
+,	,	0.9918	,
+so	R	0.5317	so
+my	D	0.8420	my
+po	!	0.3639	po
+don't	V	0.9973	don't
+find	V	0.9411	find
+out	T	0.6015	out
+			
+i’m	L	0.9890	i’m
+smoking	V	0.9631	smoking
+this	O	0.5028	this
+shit	N	0.6894	shit
+,	,	0.9918	,
+aight	!	0.9834	aight
+?	,	0.9909	?
+			
+yo	!	0.8612	yo
+,	,	0.9918	,
+niggas	N	0.8807	niggas
+wouldn't	V	0.8013	wouldn't
+rob	^	0.9333	rob
+frankie	^	0.9968	frankie
+if	P	0.9711	if
+they	O	0.9737	they
+had	V	0.9560	had
+the	D	0.9792	the
+chance	N	0.8172	chance
+			
+wasn't	V	0.7564	wasn't
+cause	P	0.4706	cause
+of	P	0.8953	of
+him	O	0.8980	him
+it	O	0.9694	it
+was	V	0.9773	was
+cause	P	0.4706	cause
+of	P	0.8953	of
+his	D	0.9130	his
+man	!	0.8651	man
+lance	^	0.9161	lance
+			
+frankie	^	0.9968	frankie
+cut	N	0.8005	cut
+crack	N	0.5299	crack
+			
+lance	^	0.9161	lance
+hold	V	0.8836	hold
+the	D	0.9792	the
+mac	^	0.9502	mac
+			
+if	P	0.9711	if
+fiends	N	0.6999	fiends
+fuck	!	0.5770	fuck
+with	P	0.9671	with
+frankie's	Z	0.3963	frankie's
+pac's	S	0.3496	pac's
+			
+lance	^	0.9161	lance
+cut	N	0.8005	cut
+the	D	0.9792	the
+crack	N	0.5299	crack
+heads	V	0.4015	heads
+blocked	V	0.9520	blocked
+up	T	0.8440	up
+			
+thought	V	0.9287	thought
+he	O	0.9777	he
+was	V	0.9773	was
+locked	V	0.9398	locked
+up	T	0.8440	up
+			
+came	V	0.8786	came
+thru	N	0.2725	thru
+stuntin '	V ,	0.9009 0.9776	stuntin'
+wit	P	0.3751	wit
+his	D	0.9130	his
+wrist	N	0.9523	wrist
+all	D	0.7257	all
+rocked	V	0.9522	rocked
+up	T	0.8440	up
+			
+shoulda	!	0.2228	shoulda
+seen	V	0.9406	seen
+him	O	0.8980	him
+smile	N	0.5438	smile
+,	,	0.9918	,
+missin '	V ,	0.6960 0.9512	missin'
+the	D	0.9792	the
+tooth	N	0.9786	tooth
+			
+coupe	N	0.9687	coupe
+missin	V	0.5234	missin
+the	D	0.9792	the
+roof	N	0.8760	roof
+			
+he	O	0.9777	he
+like	P	0.7012	like
+"	,	0.9803	"
+what	O	0.9490	what
+up	T	0.8440	up
+,	,	0.9918	,
+50	$	0.9565	50
+?	,	0.9909	?
+"	,	0.9803	"
+			
+i'm	L	0.9890	i'm
+like	P	0.7012	like
+"	,	0.9803	"
+what	O	0.9490	what
+up	T	0.8440	up
+with	P	0.9671	with
+you	O	0.9627	you
+"	,	0.9803	"
+			
+lance	^	0.9161	lance
+had	V	0.9560	had
+a	D	0.8948	a
+reputation	N	0.9589	reputation
+that	O	0.7135	that
+was	V	0.9773	was
+well	!	0.9664	well
+earned	V	0.9878	earned
+			
+heard	V	0.9483	heard
+he	O	0.9777	he
+taught	V	0.9621	taught
+niggas	N	0.8807	niggas
+how	R	0.9435	how
+them	O	0.9105	them
+shells	N	0.9515	shells
+burn	V	0.6348	burn
+			
+out	T	0.6015	out
+there	R	0.4143	there
+in	P	0.8576	in
+red	A	0.9081	red
+firm	N	0.8925	firm
+			
+at	P	0.9712	at
+the	D	0.9792	the
+dice	N	0.9075	dice
+game	N	0.9747	game
+,	,	0.9918	,
+he	O	0.9777	he
+rolled	V	0.9360	rolled
+ahead	R	0.5145	ahead
+,	,	0.9918	,
+crapped	V	0.6375	crapped
+in	P	0.8576	in
+the	D	0.9792	the
+crack	N	0.5299	crack
+			
+i'm	L	0.9890	i'm
+like	P	0.7012	like
+"	,	0.9803	"
+nah	!	0.9921	nah
+,	,	0.9918	,
+i	O	0.9651	i
+ain't	V	0.8098	ain't
+paying	V	0.9829	paying
+for	P	0.9910	for
+that	O	0.7135	that
+!	,	0.9924	!
+nigga	N	0.5857	nigga
+,	,	0.9918	,
+shoot	N	0.7488	shoot
+it	O	0.9694	it
+back	R	0.5723	back
+"	,	0.9803	"
+			
+niggas	N	0.8807	niggas
+lookin	V	0.7789	lookin
+at	P	0.9712	at
+me	O	0.9918	me
+like	P	0.7012	like
+i'm	L	0.9890	i'm
+crazy	A	0.9821	crazy
+,	,	0.9918	,
+they	O	0.9737	they
+shook	V	0.8621	shook
+			
+i	O	0.9651	i
+don't	V	0.9973	don't
+give	V	0.9362	give
+a	D	0.8948	a
+fuck	!	0.5770	fuck
+who	O	0.9764	who
+he	O	0.9777	he
+shot	N	0.9777	shot
+out	T	0.6015	out
+in	P	0.8576	in
+red	A	0.9081	red
+hook	N	0.7990	hook
+			
+asked	V	0.9670	asked
+him	O	0.8980	him
+about	P	0.8950	about
+?	,	0.9909	?
+?	,	0.9909	?
+			
+yeah	!	0.9988	yeah
+,	,	0.9918	,
+bizzy	A	0.4892	bizzy
+was	V	0.9773	was
+my	D	0.8420	my
+man	!	0.8651	man
+till	P	0.8499	till
+he	O	0.9777	he
+beat	V	0.8551	beat
+me	O	0.9918	me
+for	P	0.9910	for
+ten	$	0.7420	ten
+grand	A	0.7543	grand
+and	&	0.9981	and
+sold	V	0.9194	sold
+my	D	0.8420	my
+mac	^	0.9502	mac
+for	P	0.9910	for
+			
+seven	$	0.8065	seven
+grand	A	0.7543	grand
+(	,	0.9082	(
+fuckin '	V ,	0.4351 0.9521	fuckin'
+crazy	A	0.9821	crazy
+)	,	0.9412	)
+			
+the	D	0.9792	the
+man	!	0.8651	man
+was	V	0.9773	was
+crazy	A	0.9821	crazy
+i	O	0.9651	i
+could	V	0.9712	could
+tell	V	0.7941	tell
+by	P	0.9649	by
+his	D	0.9130	his
+look	V	0.8183	look
+			
+cause	P	0.4706	cause
+he	O	0.9777	he
+looked	V	0.9502	looked
+the	D	0.9792	the
+way	N	0.5969	way
+i	O	0.9651	i
+look	V	0.8183	look
+			
+when	R	0.9425	when
+i	O	0.9651	i
+look	V	0.8183	look
+for	P	0.9910	for
+a	D	0.8948	a
+jooks	^	0.2985	jooks
+			
+bitch	N	0.8507	bitch
+			
+motherfucker	N	0.6412	motherfucker
+			
+teamwork	N	0.9814	teamwork
+,	,	0.9918	,
+work	N	0.8618	work
+hard	A	0.7109	hard
+nigga	N	0.5857	nigga
+			
+! digits	, N	0.9857 0.9304	!digits
+cent	N	0.9042	cent
+			
+rotten	A	0.7500	rotten
+apple	^	0.5968	apple
+			
+g-unit	^	0.4304	g-unit
+			
+lloyd	^	0.9620	lloyd
+banks	N	0.9852	banks
+			
+tony	^	0.9202	tony
+yayo	!	0.8122	yayo
+,	,	0.9918	,
+nigga	N	0.5857	nigga
+			
+hey	!	0.9986	hey
+what	O	0.9490	what
+up	T	0.8440	up
+,	,	0.9918	,
+nigga	N	0.5857	nigga
+			
+you	O	0.9627	you
+motherfuckin '	V ,	0.3005 0.9521	motherfuckin'
+right	!	0.8610	right
+this	O	0.5028	this
+dj	^	0.5610	dj
+clue	N	0.8637	clue
+grand	A	0.7543	grand
+theft	N	0.9712	theft
+audio	N	0.8085	audio
+! digits	, N	0.9857 0.9304	!digits
+			
+get	V	0.9655	get
+the	D	0.9792	the
+fuck	!	0.5770	fuck
+out	T	0.6015	out
+the	D	0.9792	the
+car	N	0.9746	car
+nigga	N	0.5857	nigga
+don't	V	0.9973	don't
+make	V	0.8257	make
+me	O	0.9918	me
+rush	N	0.8445	rush
+you	O	0.9627	you
+,	,	0.9918	,
+nigga	N	0.5857	nigga
+			
+shoot	N	0.7488	shoot
+that	O	0.7135	that
+nigga	N	0.5857	nigga
+,	,	0.9918	,
+! digits	, N	0.9857 0.9304	!digits
+!	,	0.9924	!
+			
+try	V	0.8716	try
+to	P	0.9511	to
+remain	V	0.9746	remain
+calm	A	0.6546	calm
+,	,	0.9918	,
+you’re	L	0.9626	you’re
+fucking	!	0.5504	fucking
+with	P	0.9671	with
+a	D	0.8948	a
+don	!	0.2594	don
+			
+pocket	N	0.9012	pocket
+full	A	0.8636	full
+of	P	0.8953	of
+green	A	0.9198	green
+,	,	0.9918	,
+green	A	0.9198	green
+in	P	0.8576	in
+the	D	0.9792	the
+bong	N	0.7747	bong
+			
+that	O	0.7135	that
+bitch	N	0.8507	bitch
+with	P	0.9671	with
+the	D	0.9792	the
+bow	V	0.3619	bow
+leg	N	0.9092	leg
+stance	N	0.9861	stance
+turning	V	0.9494	turning
+me	O	0.9918	me
+on	P	0.8343	on
+			
+too	R	0.9370	too
+little	A	0.9286	little
+time	N	0.9685	time
+,	,	0.9918	,
+peace	N	0.7108	peace
+rainbow	N	0.5710	rainbow
+turn	V	0.9156	turn
+me	O	0.9918	me
+on	P	0.8343	on
+			
+niggas	N	0.8807	niggas
+still	R	0.9849	still
+want	V	0.9638	want
+me	O	0.9918	me
+dead	A	0.8854	dead
+like	P	0.7012	like
+osam ’	! ,	0.3263 0.8768	osam’
+			
+but	&	0.9901	but
+they	O	0.9737	they
+ain't	V	0.8098	ain't
+gon ’	V ,	0.9572 0.8887	gon’
+make	V	0.8257	make
+,	,	0.9918	,
+they	O	0.9737	they
+come	V	0.9593	come
+at	P	0.9712	at
+me	O	0.9918	me
+wrong	A	0.7814	wrong
+			
+them	O	0.9105	them
+niggas	N	0.8807	niggas
+all	D	0.7257	all
+workers	N	0.9287	workers
+i	O	0.9651	i
+smack	N	0.4616	smack
+the	D	0.9792	the
+shit	N	0.6894	shit
+out	T	0.6015	out
+their	D	0.7901	their
+bosses	N	0.9443	bosses
+			
+ferrari	^	0.4380	ferrari
+,	,	0.9918	,
+i’m	L	0.9890	i’m
+stronger	A	0.9385	stronger
+than	P	0.9031	than
+! digits	, N	0.9857 0.9304	!digits
+hundred	!	0.4080	hundred
+horses	N	0.9501	horses
+			
+money	N	0.9305	money
+is	V	0.9892	is
+power	N	0.9175	power
+,	,	0.9918	,
+you	O	0.9627	you
+niggas	N	0.8807	niggas
+better	A	0.6680	better
+wake	V	0.6334	wake
+up	T	0.8440	up
+			
+my	D	0.8420	my
+earrings	N	0.9315	earrings
+blinking	V	0.4679	blinking
+,	,	0.9918	,
+that’s	L	0.9902	that’s
+old	A	0.9547	old
+shit	N	0.6894	shit
+from	P	0.9750	from
+jacob	^	0.9877	jacob
+			
+add	V	0.8749	add
+it	O	0.9694	it
+up	T	0.8440	up
+,	,	0.9918	,
+! digits	, N	0.9857 0.9304	!digits
+plus	L	0.1481	plus
+! digits	, N	0.9857 0.9304	!digits
+that’s	L	0.9902	that’s
+! digits	, N	0.9857 0.9304	!digits
+carats	N	0.8306	carats
+			
+you	O	0.9627	you
+can’t	V	0.9853	can’t
+run	V	0.9514	run
+and	&	0.9981	and
+get	V	0.9655	get
+ya	!	0.8954	ya
+pain	N	0.9899	pain
+,	,	0.9918	,
+you	O	0.9627	you
+ain't	V	0.8098	ain't
+got	V	0.7838	got
+it	O	0.9694	it
+			
+blackjack	N	0.4638	blackjack
+we	O	0.9885	we
+do	V	0.9687	do
+that	O	0.7135	that
+,	,	0.9918	,
+! digits	, N	0.9857 0.9304	!digits
+grand	A	0.7543	grand
+a	D	0.8948	a
+hand	N	0.8794	hand
+			
+you	O	0.9627	you
+could	V	0.9712	could
+get	V	0.9655	get
+shot	N	0.9777	shot
+fucking	!	0.5504	fucking
+with	P	0.9671	with
+floyd	^	0.7291	floyd
+that’s	L	0.9902	that’s
+my	D	0.8420	my
+man	!	0.8651	man
+			
+billionaire	N	0.9136	billionaire
+brotherhood	N	0.9364	brotherhood
+,	,	0.9918	,
+we	O	0.9885	we
+call	V	0.4423	call
+this	O	0.5028	this
+the	D	0.9792	the
+money	N	0.9305	money
+team	N	0.9785	team
+			
+pinky	N	0.7464	pinky
+ring	N	0.7794	ring
+flawless	A	0.7272	flawless
+,	,	0.9918	,
+my	D	0.8420	my
+god	^	0.7896	god
+i’m	L	0.9890	i’m
+gorgeous	A	0.9599	gorgeous
+			
+remain	V	0.9746	remain
+calm	A	0.6546	calm
+,	,	0.9918	,
+you’re	L	0.9626	you’re
+fucking	!	0.5504	fucking
+with	P	0.9671	with
+a	D	0.8948	a
+don	!	0.2594	don
+			
+remain	V	0.9746	remain
+calm	A	0.6546	calm
+,	,	0.9918	,
+hoe	!	0.5622	hoe
+,	,	0.9918	,
+remain	V	0.9746	remain
+calm	A	0.6546	calm
+			
+i’m	L	0.9890	i’m
+chillin ’	V ,	0.8156 0.8915	chillin’
+like	P	0.7012	like
+a	D	0.8948	a
+villain	N	0.9845	villain
+while	P	0.4182	while
+i’m	L	0.9890	i’m
+dealin ’	V ,	0.8432 0.9095	dealin’
+i	O	0.9651	i
+am	V	0.8073	am
+			
+rulin ’	V ,	0.3558 0.8923	rulin’
+while	P	0.4182	while
+i’m	L	0.9890	i’m
+coolin ’	V ,	0.7596 0.9095	coolin’
+with	P	0.9671	with
+my	D	0.8420	my
+tool	N	0.9922	tool
+in	P	0.8576	in
+my	D	0.8420	my
+hand	N	0.8794	hand
+			
+post	N	0.7789	post
+up	T	0.8440	up
+,	,	0.9918	,
+coast	N	0.9664	coast
+up	T	0.8440	up
+,	,	0.9918	,
+this	O	0.5028	this
+is	V	0.9892	is
+my	D	0.8420	my
+life	N	0.9415	life
+bitch	N	0.8507	bitch
+			
+up	T	0.8440	up
+close	A	0.7231	close
+only	R	0.7668	only
+,	,	0.9918	,
+you’ll	L	0.9630	you’ll
+get	V	0.9655	get
+stuck	V	0.7765	stuck
+with	P	0.9671	with
+a	D	0.8948	a
+knife	N	0.8587	knife
+bitch	N	0.8507	bitch
+			
+cuz	P	0.4479	cuz
+burnt	V	0.8142	burnt
+out	T	0.6015	out
+,	,	0.9918	,
+turnt	V	0.6275	turnt
+out	T	0.6015	out
+like	P	0.7012	like
+a	D	0.8948	a
+light	N	0.8505	light
+switch	N	0.6158	switch
+			
+got	V	0.7838	got
+a	D	0.8948	a
+lot	N	0.5757	lot
+of	P	0.8953	of
+hoes	N	0.9671	hoes
+but	&	0.9901	but
+charmaine	^	0.9425	charmaine
+,	,	0.9918	,
+that’s	L	0.9902	that’s
+my	D	0.8420	my
+white	A	0.6236	white
+bitch	N	0.8507	bitch
+			
+the	D	0.9792	the
+rest	N	0.8844	rest
+of	P	0.8953	of
+my	D	0.8420	my
+bitches	N	0.9404	bitches
+,	,	0.9918	,
+nah	!	0.9921	nah
+,	,	0.9918	,
+they	O	0.9737	they
+ain’t	V	0.7489	ain’t
+gonna	V	0.9473	gonna
+like	P	0.7012	like
+this	O	0.5028	this
+			
+but	&	0.9901	but
+i	O	0.9651	i
+don’t	V	0.9973	don’t
+give	V	0.9362	give
+a	D	0.8948	a
+fuck	!	0.5770	fuck
+cause	P	0.4706	cause
+they	O	0.9737	they
+all	D	0.7257	all
+love	N	0.6603	love
+this	O	0.5028	this
+night	N	0.6493	night
+stick	V	0.6881	stick
+			
+but	&	0.9901	but
+i	O	0.9651	i
+still	R	0.9849	still
+remain	V	0.9746	remain
+calm	A	0.6546	calm
+,	,	0.9918	,
+bang	N	0.5091	bang
+and	&	0.9981	and
+drop	N	0.5664	drop
+bombs	N	0.9365	bombs
+			
+collar	N	0.9252	collar
+popped	V	0.9679	popped
+up	T	0.8440	up
+cool	A	0.6273	cool
+as	P	0.7377	as
+the	D	0.9792	the
+fonz	^	0.9268	fonz
+			
+motherfucker	N	0.6412	motherfucker
+,	,	0.9918	,
+have	V	0.9703	have
+a	D	0.8948	a
+seat	N	0.9305	seat
+and	&	0.9981	and
+loosen	V	0.9196	loosen
+up	T	0.8440	up
+			
+get	V	0.9655	get
+a	D	0.8948	a
+glass	N	0.9166	glass
+of	P	0.8953	of
+some	D	0.7045	some
+gin	N	0.9034	gin
+now	R	0.9613	now
+juice	N	0.8805	juice
+it	O	0.9694	it
+up	T	0.8440	up
+			
+deuces	^	0.6123	deuces
+up	T	0.8440	up
+			
+see	V	0.8335	see
+there’s	L	0.7027	there’s
+a	D	0.8948	a
+line	N	0.9647	line
+there	R	0.4143	there
+for	P	0.9910	for
+a	D	0.8948	a
+reason	N	0.8972	reason
+			
+and	&	0.9981	and
+if	P	0.9711	if
+you	O	0.9627	you
+cross	N	0.6074	cross
+it	O	0.9694	it
+no	!	0.9253	no
+more	A	0.4885	more
+breathin ’	V ,	0.8121 0.9475	breathin’
+			
+you’re	L	0.9626	you’re
+leavin ’	V ,	0.9580 0.9172	leavin’
+,	,	0.9918	,
+believe	V	0.9527	believe
+it	O	0.9694	it
+			
+we	O	0.9885	we
+understand	V	0.8868	understand
+each	D	0.4410	each
+other	A	0.9271	other
+			
+cause	P	0.4706	cause
+i	O	0.9651	i
+would	V	0.9736	would
+hate	V	0.9340	hate
+to	P	0.9511	to
+have	V	0.9703	have
+to	P	0.9511	to
+put	V	0.7836	put
+a	D	0.8948	a
+slug	N	0.9666	slug
+in	P	0.8576	in
+you	O	0.9627	you
+brother	N	0.9180	brother
+			
+ya	!	0.8954	ya
+digg	N	0.6057	digg
+?	,	0.9909	?
+			
+with	P	0.9671	with
+fif ’	G ,	0.4243 0.4954	fif’
+on	P	0.8343	on
+that	O	0.7135	that
+shit	N	0.6894	shit
+,	,	0.9918	,
+that	O	0.7135	that
+glock	N	0.4377	glock
+cocked	V	0.9455	cocked
+in	P	0.8576	in
+ya	!	0.8954	ya
+face	N	0.9357	face
+			
+my	D	0.8420	my
+twat	N	0.5986	twat
+cocked	V	0.9455	cocked
+in	P	0.8576	in
+ya	!	0.8954	ya
+face	N	0.9357	face
+,	,	0.9918	,
+you	O	0.9627	you
+know	V	0.9285	know
+you	O	0.9627	you
+wan ’	A ,	0.5248 0.9116	wan’
+taste	V	0.5227	taste
+			
+alexander	^	0.9804	alexander
+mcqueen	^	0.8674	mcqueen
+,	,	0.9918	,
+strapless	N	0.4176	strapless
+with	P	0.9671	with
+my	D	0.8420	my
+back	R	0.5723	back
+out	T	0.6015	out
+			
+! digits	, N	0.9857 0.9304	!digits
+inch	N	0.8763	inch
+givenchy’s	!	0.1738	givenchy’s
+and	&	0.9981	and
+bitch	N	0.8507	bitch
+finna	!	0.3843	finna
+act	V	0.5013	act
+out	T	0.6015	out
+			
+niggas	N	0.8807	niggas
+on	P	0.8343	on
+my	D	0.8420	my
+heels	N	0.9290	heels
+tryna	V	0.8235	tryna
+find	V	0.9411	find
+out	T	0.6015	out
+what	O	0.9490	what
+the	D	0.9792	the
+head	N	0.9348	head
+like	P	0.7012	like
+			
+i	O	0.9651	i
+know	V	0.9285	know
+what	O	0.9490	what
+the	D	0.9792	the
+bread	N	0.9782	bread
+like	P	0.7012	like
+			
+my	D	0.8420	my
+[	,	0.9656	[
+?	,	0.9909	?
+]	,	0.9650	]
+headlight	N	0.6550	headlight
+,	,	0.9918	,
+shine	V	0.8830	shine
+like	P	0.7012	like
+i	O	0.9651	i
+shine	V	0.8830	shine
+			
+night	N	0.6493	night
+or	&	0.9822	or
+day	N	0.9236	day
+time	N	0.9685	time
+			
+but	&	0.9901	but
+nah	!	0.9921	nah
+,	,	0.9918	,
+nana-nah-na	!	0.6498	nana-nah-na
+			
+make	V	0.8257	make
+a	D	0.8948	a
+nigga	N	0.5857	nigga
+walk	V	0.6991	walk
+by	P	0.9649	by
+,	,	0.9918	,
+everything	N	0.9592	everything
+i	O	0.9651	i
+say	V	0.8550	say
+by	P	0.9649	by
+			
+nana-nah-na	!	0.6498	nana-nah-na
+			
+get	V	0.9655	get
+wet	A	0.7112	wet
+i	O	0.9651	i
+got	V	0.7838	got
+that	O	0.7135	that
+comeback	N	0.9818	comeback
+			
+dead	A	0.8854	dead
+crack	N	0.5299	crack
+,	,	0.9918	,
+my	D	0.8420	my
+assets	N	0.9527	assets
+is	V	0.9892	is
+my	D	0.8420	my
+ass	N	0.8849	ass
+jack	^	0.9567	jack
+			
+stunt	N	0.7851	stunt
+i	O	0.9651	i
+tell	V	0.7941	tell
+my	D	0.8420	my
+niggas	N	0.8807	niggas
+right	!	0.8610	right
+where	R	0.9493	where
+your	D	0.5467	your
+stash	N	0.7709	stash
+at	P	0.9712	at
+			
+you’re	L	0.9626	you’re
+fucking	!	0.5504	fucking
+with	P	0.9671	with
+a	D	0.8948	a
+southside	N	0.4415	southside
+bitch	N	0.8507	bitch
+			
+i	O	0.9651	i
+go	V	0.8465	go
+where	R	0.9493	where
+the	D	0.9792	the
+money	N	0.9305	money
+go	V	0.8465	go
+			
+i’m	L	0.9890	i’m
+at	P	0.9712	at
+‘ em	, O	0.8847 0.9166	‘em
+,	,	0.9918	,
+i	O	0.9651	i
+put	V	0.7836	put
+her	O	0.5274	her
+on	P	0.8343	on
+the	D	0.9792	the
+strobe	N	0.6447	strobe
+			
+get	V	0.9655	get
+my	D	0.8420	my
+money	N	0.9305	money
+hoe	!	0.5622	hoe
+			
+catch	V	0.7573	catch
+me	O	0.9918	me
+in	P	0.8576	in
+ferragamo	^	0.6061	ferragamo
+			
+or	&	0.9822	or
+dolce	N	0.6228	dolce
+&	&	0.9901	&
+gabbana	!	0.4643	gabbana
+or	&	0.9822	or
+[	,	0.9656	[
+?	,	0.9909	?
+]	,	0.9650	]
+			
+i’m	L	0.9890	i’m
+b-squared	V	0.4859	b-squared
+up	T	0.8440	up
+,	,	0.9918	,
+what	O	0.9490	what
+?	,	0.9909	?
+			
+i	O	0.9651	i
+don't	V	0.9973	don't
+know	V	0.9285	know
+what	O	0.9490	what
+you	O	0.9627	you
+take	V	0.9216	take
+me	O	0.9918	me
+for	P	0.9910	for
+			
+i	O	0.9651	i
+really	R	0.9938	really
+don't	V	0.9973	don't
+play	V	0.8616	play
+that	O	0.7135	that
+shit	N	0.6894	shit
+			
+i	O	0.9651	i
+ain't	V	0.8098	ain't
+got	V	0.7838	got
+to	P	0.9511	to
+get	V	0.9655	get
+you	O	0.9627	you
+hit	V	0.7971	hit
+			
+i	O	0.9651	i
+get	V	0.9655	get
+out	T	0.6015	out
+myself	O	0.9648	myself
+and	&	0.9981	and
+spray	N	0.9531	spray
+that	O	0.7135	that
+shit	N	0.6894	shit
+			
+i	O	0.9651	i
+got	V	0.7838	got
+a	D	0.8948	a
+itchy	A	0.4694	itchy
+itchy	A	0.4694	itchy
+trigger	N	0.7661	trigger
+finger	N	0.9608	finger
+,	,	0.9918	,
+nigga	N	0.5857	nigga
+its	L	0.9816	its
+a	D	0.8948	a
+killa	N	0.3364	killa
+in	P	0.8576	in
+me	O	0.9918	me
+not	R	0.9628	not
+to	P	0.9511	to
+spray	N	0.9531	spray
+that	O	0.7135	that
+shit	N	0.6894	shit
+			
+i	O	0.9651	i
+got	V	0.7838	got
+enough	R	0.3944	enough
+ammo	N	0.9115	ammo
+shots	N	0.9783	shots
+to	P	0.9511	to
+blow	N	0.8963	blow
+,	,	0.9918	,
+put	V	0.7836	put
+a	D	0.8948	a
+hole	N	0.9610	hole
+up	T	0.8440	up
+every	D	0.6681	every
+mothafucka	!	0.5445	mothafucka
+out	T	0.6015	out
+this	O	0.5028	this
+bitch	N	0.8507	bitch
+			
+i	O	0.9651	i
+unload	V	0.8488	unload
+then	R	0.9661	then
+reload	N	0.4891	reload
+,	,	0.9918	,
+when	R	0.9425	when
+you	O	0.9627	you
+get	V	0.9655	get
+hit	V	0.7971	hit
+i	O	0.9651	i
+supposed	A	0.9193	supposed
+you	O	0.9627	you
+gon '	V ,	0.9724 0.9511	gon'
+be	V	0.9569	be
+strong	A	0.9370	strong
+enough	R	0.3944	enough
+to	P	0.9511	to
+take	V	0.9216	take
+this	O	0.5028	this
+shit	N	0.6894	shit
+			
+i’m	L	0.9890	i’m
+in	P	0.8576	in
+the	D	0.9792	the
+hood	N	0.9547	hood
+ridin ’	V ,	0.7942 0.9095	ridin’
+round	N	0.7496	round
+with	P	0.9671	with
+a	D	0.8948	a
+chrome	N	0.8727	chrome
+fo ’	! ,	0.3295 0.7713	fo’
+pound	N	0.8737	pound
+,	,	0.9918	,
+can	V	0.9763	can
+you	O	0.9627	you
+see	V	0.8335	see
+thru	N	0.2725	thru
+the	D	0.9792	the
+windows	N	0.5440	windows
+see	V	0.8335	see
+tints	N	0.9598	tints
+			
+i	O	0.9651	i
+do	V	0.9687	do
+dirt	N	0.9362	dirt
+,	,	0.9918	,
+the	D	0.9792	the
+gat	!	0.4344	gat
+bussa	N	0.6197	bussa
+,	,	0.9918	,
+get	V	0.9655	get
+to	P	0.9511	to
+kickin ’	V ,	0.8569 0.8911	kickin’
+up	T	0.8440	up
+dust	N	0.9578	dust
+,	,	0.9918	,
+' fore	, N	0.8036 0.3095	'fore
+the	D	0.9792	the
+jakes	N	0.4735	jakes
+come	V	0.9593	come
+around	P	0.4644	around
+here	R	0.7796	here
+kid	N	0.7379	kid
+			
+niggas	N	0.8807	niggas
+get	V	0.9655	get
+knocked	V	0.9573	knocked
+if	P	0.9711	if
+they	O	0.9737	they
+start	V	0.9113	start
+aksin ’	N ,	0.2141 0.8941	aksin’
+question	N	0.9574	question
+,	,	0.9918	,
+my	D	0.8420	my
+name	N	0.9785	name
+end	N	0.8614	end
+up	T	0.8440	up
+in	P	0.8576	in
+all	D	0.7257	all
+types	N	0.9728	types
+of	P	0.8953	of
+shit	N	0.6894	shit
+			
+i	O	0.9651	i
+be	V	0.9569	be
+a	D	0.8948	a
+gangsta	A	0.5495	gangsta
+,	,	0.9918	,
+a	D	0.8948	a
+nigga	N	0.5857	nigga
+till	P	0.8499	till
+i	O	0.9651	i
+die	V	0.8761	die
+fo '	! ,	0.3178 0.9178	fo'
+sho '	! ,	0.6546 0.9183	sho'
+,	,	0.9918	,
+whether	!	0.2092	whether
+i'm	L	0.9890	i'm
+poor	A	0.5098	poor
+or	&	0.9822	or
+i'm	L	0.9890	i'm
+filthy	A	0.9784	filthy
+rich	A	0.8721	rich
+			
+now	R	0.9613	now
+what	O	0.9490	what
+you	O	0.9627	you
+know	V	0.9285	know
+about	P	0.8950	about
+movin '	V ,	0.5780 0.9687	movin'
+that	O	0.7135	that
+pervuian	^	0.3228	pervuian
+and	&	0.9981	and
+flake	V	0.4837	flake
+for	P	0.9910	for
+that	O	0.7135	that
+cake	N	0.9559	cake
+,	,	0.9918	,
+i	O	0.9651	i
+get	V	0.9655	get
+rid	!	0.4573	rid
+of	P	0.8953	of
+them	O	0.9105	them
+bricks	N	0.7823	bricks
+			
+i	O	0.9651	i
+don't	V	0.9973	don't
+know	V	0.9285	know
+what	O	0.9490	what
+you	O	0.9627	you
+take	V	0.9216	take
+me	O	0.9918	me
+for	P	0.9910	for
+			
+i	O	0.9651	i
+really	R	0.9938	really
+don't	V	0.9973	don't
+play	V	0.8616	play
+that	O	0.7135	that
+shit	N	0.6894	shit
+			
+i	O	0.9651	i
+ain't	V	0.8098	ain't
+got	V	0.7838	got
+to	P	0.9511	to
+get	V	0.9655	get
+you	O	0.9627	you
+hit	V	0.7971	hit
+			
+i	O	0.9651	i
+get	V	0.9655	get
+out	T	0.6015	out
+myself	O	0.9648	myself
+and	&	0.9981	and
+spray	N	0.9531	spray
+that	O	0.7135	that
+shit	N	0.6894	shit
+			
+man	!	0.8651	man
+i	O	0.9651	i
+gotta	V	0.9603	gotta
+have	V	0.9703	have
+shoes	N	0.9737	shoes
+,	,	0.9918	,
+you	O	0.9627	you
+know	V	0.9285	know
+chrome	N	0.8727	chrome
+22's	$	0.4019	22's
+,	,	0.9918	,
+everytime	R	0.5115	everytime
+i	O	0.9651	i
+get	V	0.9655	get
+a	D	0.8948	a
+brand	N	0.6236	brand
+new	A	0.9552	new
+whip	N	0.4636	whip
+			
+i	O	0.9651	i
+rolled	V	0.9360	rolled
+around	P	0.4644	around
+in	P	0.8576	in
+a	D	0.8948	a
+! digits	, N	0.9857 0.9304	!digits
+,	,	0.9918	,
+till	P	0.8499	till
+my	D	0.8420	my
+money	N	0.9305	money
+got	V	0.7838	got
+right	!	0.8610	right
+,	,	0.9918	,
+then	R	0.9661	then
+i	O	0.9651	i
+went	V	0.9059	went
+back	R	0.5723	back
+and	&	0.9981	and
+got	V	0.7838	got
+that	O	0.7135	that
+six	$	0.4753	six
+			
+i'm	L	0.9890	i'm
+in	P	0.8576	in
+a	D	0.8948	a
+big	A	0.7283	big
+white	A	0.6236	white
+benz	N	0.8234	benz
+,	,	0.9918	,
+on	P	0.8343	on
+a	D	0.8948	a
+hot	A	0.8061	hot
+sunny	A	0.9297	sunny
+day	N	0.9236	day
+,	,	0.9918	,
+i	O	0.9651	i
+call	V	0.4423	call
+up	T	0.8440	up
+the	D	0.9792	the
+milk	N	0.9781	milk
+truck	N	0.9778	truck
+and	&	0.9981	and
+shit	N	0.6894	shit
+			
+i	O	0.9651	i
+have	V	0.9703	have
+ya	!	0.8954	ya
+hoe	!	0.5622	hoe
+,	,	0.9918	,
+eyeballin '	N ,	0.2291 0.9498	eyeballin'
+at	P	0.9712	at
+the	D	0.9792	the
+light	N	0.8505	light
+,	,	0.9918	,
+damn	!	0.9889	damn
+pimpin '	N ,	0.8098 0.9675	pimpin'
+,	,	0.9918	,
+you	O	0.9627	you
+should	V	0.9804	should
+take	V	0.9216	take
+time	N	0.9685	time
+to	P	0.9511	to
+check	V	0.6567	check
+that	O	0.7135	that
+bitch	N	0.8507	bitch
+			
+you	O	0.9627	you
+saw	V	0.9172	saw
+me	O	0.9918	me
+ridin	V	0.7890	ridin
+through	P	0.8758	through
+the	D	0.9792	the
+hood	N	0.9547	hood
+,	,	0.9918	,
+actin '	V ,	0.8225 0.9501	actin'
+like	P	0.7012	like
+its	L	0.9816	its
+all	D	0.7257	all
+good	A	0.9644	good
+,	,	0.9918	,
+but	&	0.9901	but
+i'm	L	0.9890	i'm
+lookin '	V ,	0.8699 0.9687	lookin'
+for	P	0.9910	for
+a	D	0.8948	a
+jux	R	0.5958	jux
+and	&	0.9981	and
+shit	N	0.6894	shit
+			
+in	P	0.8576	in
+the	D	0.9792	the
+middle	N	0.6060	middle
+of	P	0.8953	of
+the	D	0.9792	the
+night	N	0.6493	night
+,	,	0.9918	,
+you	O	0.9627	you
+can	V	0.9763	can
+turn	V	0.9156	turn
+on	P	0.8343	on
+ya	!	0.8954	ya
+lights	N	0.8377	lights
+,	,	0.9918	,
+i	O	0.9651	i
+mean	V	0.6798	mean
+my	D	0.8420	my
+niggas	N	0.8807	niggas
+in	P	0.8576	in
+ya	!	0.8954	ya
+crib	N	0.9045	crib
+			
+nigga	N	0.5857	nigga
+holla	!	0.9105	holla
+if	P	0.9711	if
+there's	L	0.7367	there's
+a	D	0.8948	a
+problem	N	0.9703	problem
+,	,	0.9918	,
+and	&	0.9981	and
+your	D	0.5467	your
+niggas	N	0.8807	niggas
+got	V	0.7838	got
+drama	N	0.9060	drama
+,	,	0.9918	,
+i	O	0.9651	i
+got	V	0.7838	got
+burners	N	0.9353	burners
+for	P	0.9910	for
+sell	V	0.6070	sell
+and	&	0.9981	and
+shit	N	0.6894	shit
+			
+got	V	0.7838	got
+the	D	0.9792	the
+macs	N	0.7867	macs
+,	,	0.9918	,
+got	V	0.7838	got
+the	D	0.9792	the
+nines	N	0.4407	nines
+,	,	0.9918	,
+got	V	0.7838	got
+them	O	0.9105	them
+tecks	^	0.6170	tecks
+all	D	0.7257	all
+the	D	0.9792	the
+time	N	0.9685	time
+,	,	0.9918	,
+holo-tips	N	0.3977	holo-tips
+and	&	0.9981	and
+the	D	0.9792	the
+extra	A	0.8616	extra
+clips	N	0.9535	clips
+			
+i	O	0.9651	i
+don't	V	0.9973	don't
+know	V	0.9285	know
+what	O	0.9490	what
+you	O	0.9627	you
+take	V	0.9216	take
+me	O	0.9918	me
+for	P	0.9910	for
+			
+i	O	0.9651	i
+really	R	0.9938	really
+don't	V	0.9973	don't
+play	V	0.8616	play
+that	O	0.7135	that
+shit	N	0.6894	shit
+			
+i	O	0.9651	i
+ain't	V	0.8098	ain't
+got	V	0.7838	got
+to	P	0.9511	to
+get	V	0.9655	get
+you	O	0.9627	you
+hit	V	0.7971	hit
+			
+i	O	0.9651	i
+get	V	0.9655	get
+out	T	0.6015	out
+myself	O	0.9648	myself
+and	&	0.9981	and
+spray	N	0.9531	spray
+that	O	0.7135	that
+shit	N	0.6894	shit
+			
+man	!	0.8651	man
+i'm	L	0.9890	i'm
+tired	A	0.8122	tired
+of	P	0.8953	of
+tellin '	V ,	0.7953 0.9520	tellin'
+niggas	N	0.8807	niggas
+over	P	0.6023	over
+and	&	0.9981	and
+over	P	0.6023	over
+everything	N	0.9592	everything
+about	P	0.8950	about
+me	O	0.9918	me
+be	V	0.9569	be
+gangsta	A	0.5495	gangsta
+			
+man	!	0.8651	man
+i'm	L	0.9890	i'm
+tired	A	0.8122	tired
+of	P	0.8953	of
+tellin '	V ,	0.7953 0.9520	tellin'
+niggas	N	0.8807	niggas
+over	P	0.6023	over
+and	&	0.9981	and
+over	P	0.6023	over
+i	O	0.9651	i
+won't	V	0.8295	won't
+hesitate	V	0.9361	hesitate
+to	P	0.9511	to
+pop	N	0.8388	pop
+or	&	0.9822	or
+shank	N	0.6114	shank
+ya	!	0.8954	ya
+			
+man	!	0.8651	man
+i'm	L	0.9890	i'm
+tired	A	0.8122	tired
+of	P	0.8953	of
+tellin '	V ,	0.7953 0.9520	tellin'
+niggas	N	0.8807	niggas
+over	P	0.6023	over
+and	&	0.9981	and
+over	P	0.6023	over
+they	O	0.9737	they
+can	V	0.9763	can
+hustle	V	0.7593	hustle
+and	&	0.9981	and
+i'm	L	0.9890	i'm
+in	P	0.8576	in
+your	D	0.5467	your
+shit	N	0.6894	shit
+			
+man	!	0.8651	man
+i'm	L	0.9890	i'm
+tired	A	0.8122	tired
+of	P	0.8953	of
+tellin '	V ,	0.7953 0.9520	tellin'
+niggas	N	0.8807	niggas
+over	P	0.6023	over
+and	&	0.9981	and
+over	P	0.6023	over
+you	O	0.9627	you
+don't	V	0.9973	don't
+listen	V	0.9782	listen
+you	O	0.9627	you
+gon '	V ,	0.9724 0.9511	gon'
+get	V	0.9655	get
+ya	!	0.8954	ya
+ass	N	0.8849	ass
+hit	V	0.7971	hit
+			
+this	O	0.5028	this
+is	V	0.9892	is
+! digits	, N	0.9857 0.9304	!digits
+			
+yeah	!	0.9988	yeah
+			
+nigga	N	0.5857	nigga
+cherish	V	0.8294	cherish
+me	O	0.9918	me
+			
+like	P	0.7012	like
+the	D	0.9792	the
+water	N	0.9661	water
+you	O	0.9627	you
+drink	V	0.4759	drink
+			
+like	P	0.7012	like
+the	D	0.9792	the
+air	N	0.9492	air
+you	O	0.9627	you
+breathe	N	0.5601	breathe
+			
+you	O	0.9627	you
+need	V	0.8664	need
+me	O	0.9918	me
+to	P	0.9511	to
+live	V	0.4463	live
+			
+yeah	!	0.9988	yeah
+			
+as	P	0.7377	as
+i	O	0.9651	i
+walk	V	0.6991	walk
+through	P	0.8758	through
+the	D	0.9792	the
+valley	N	0.7389	valley
+of	P	0.8953	of
+the	D	0.9792	the
+shadow	N	0.8391	shadow
+of	P	0.8953	of
+death	N	0.9716	death
+			
+i	O	0.9651	i
+take	V	0.9216	take
+a	D	0.8948	a
+look	V	0.8183	look
+at	P	0.9712	at
+my	D	0.8420	my
+life	N	0.9415	life
+and	&	0.9981	and
+realize	V	0.9165	realize
+there's	L	0.7367	there's
+nothin '	N ,	0.9771 0.9576	nothin'
+left	V	0.7279	left
+			
+cause	P	0.4706	cause
+i've	L	0.9746	i've
+been	V	0.9227	been
+blasting	V	0.9726	blasting
+and	&	0.9981	and
+laughing	V	0.9384	laughing
+so	R	0.5317	so
+long	A	0.8325	long
+,	,	0.9918	,
+			
+that	O	0.7135	that
+even	R	0.9851	even
+my	D	0.8420	my
+mama	N	0.7716	mama
+thinks	V	0.9651	thinks
+that	O	0.7135	that
+my	D	0.8420	my
+mind	N	0.7328	mind
+is	V	0.9892	is
+gone	V	0.7256	gone
+			
+but	&	0.9901	but
+i	O	0.9651	i
+ain't	V	0.8098	ain't
+never	R	0.9752	never
+crossed	V	0.9605	crossed
+a	D	0.8948	a
+man	!	0.8651	man
+that	O	0.7135	that
+didn't	V	0.9947	didn't
+deserve	V	0.9559	deserve
+it	O	0.9694	it
+			
+me	O	0.9918	me
+be	V	0.9569	be
+treated	V	0.9591	treated
+like	P	0.7012	like
+a	D	0.8948	a
+punk	N	0.9714	punk
+you	O	0.9627	you
+know	V	0.9285	know
+that's	L	0.9901	that's
+unheard	A	0.7677	unheard
+of	P	0.8953	of
+			
+you	O	0.9627	you
+better	A	0.6680	better
+watch	V	0.8421	watch
+how	R	0.9435	how
+you're	L	0.9569	you're
+talking	V	0.8032	talking
+and	&	0.9981	and
+where	R	0.9493	where
+you're	L	0.9569	you're
+walking	V	0.9567	walking
+			
+or	&	0.9822	or
+you	O	0.9627	you
+and	&	0.9981	and
+your	D	0.5467	your
+homies	N	0.8175	homies
+might	V	0.9268	might
+be	V	0.9569	be
+lined	V	0.9277	lined
+in	P	0.8576	in
+chalk	N	0.8293	chalk
+			
+i	O	0.9651	i
+really	R	0.9938	really
+hate	V	0.9340	hate
+to	P	0.9511	to
+trip	N	0.8851	trip
+but	&	0.9901	but
+i	O	0.9651	i
+gotta	V	0.9603	gotta
+loc	G	0.5183	loc
+			
+as	P	0.7377	as
+they	O	0.9737	they
+croak	V	0.8801	croak
+,	,	0.9918	,
+i	O	0.9651	i
+see	V	0.8335	see
+myself	O	0.9648	myself
+in	P	0.8576	in
+the	D	0.9792	the
+pistol	N	0.9670	pistol
+smoke	V	0.5715	smoke
+,	,	0.9918	,
+fool	N	0.9646	fool
+			
+i'm	L	0.9890	i'm
+the	D	0.9792	the
+kinda	R	0.5253	kinda
+g	!	0.4604	g
+the	D	0.9792	the
+little	A	0.9286	little
+homies	N	0.8175	homies
+wanna	V	0.9079	wanna
+be	V	0.9569	be
+like	P	0.7012	like
+			
+on	P	0.8343	on
+my	D	0.8420	my
+knees	N	0.9266	knees
+in	P	0.8576	in
+the	D	0.9792	the
+night	N	0.6493	night
+saying	V	0.9801	saying
+prayers	N	0.9585	prayers
+in	P	0.8576	in
+the	D	0.9792	the
+streetlight	N	0.9557	streetlight
+			
+been	V	0.9227	been
+spending	V	0.9706	spending
+most	R	0.7557	most
+their	D	0.7901	their
+lives	V	0.5430	lives
+,	,	0.9918	,
+living	V	0.9580	living
+in	P	0.8576	in
+the	D	0.9792	the
+gangsta's	!	0.2667	gangsta's
+paradise	N	0.7458	paradise
+			
+keep	V	0.7901	keep
+spending	V	0.9706	spending
+most	R	0.7557	most
+our	D	0.8438	our
+lives	V	0.5430	lives
+,	,	0.9918	,
+living	V	0.9580	living
+in	P	0.8576	in
+the	D	0.9792	the
+gangsta's	!	0.2667	gangsta's
+paradise	N	0.7458	paradise
+			
+look	V	0.8183	look
+at	P	0.9712	at
+the	D	0.9792	the
+situation	N	0.9931	situation
+they	O	0.9737	they
+got	V	0.7838	got
+me	O	0.9918	me
+facin '	V ,	0.8895 0.9776	facin'
+			
+i	O	0.9651	i
+can't	V	0.9853	can't
+live	V	0.4463	live
+a	D	0.8948	a
+normal	A	0.9204	normal
+life	N	0.9415	life
+,	,	0.9918	,
+i	O	0.9651	i
+was	V	0.9773	was
+raised	V	0.9000	raised
+by	P	0.9649	by
+the	D	0.9792	the
+streets	N	0.5737	streets
+			
+so	R	0.5317	so
+i	O	0.9651	i
+gotta	V	0.9603	gotta
+be	V	0.9569	be
+down	T	0.3734	down
+with	P	0.9671	with
+the	D	0.9792	the
+hood	N	0.9547	hood
+team	N	0.9785	team
+			
+too	R	0.9370	too
+much	A	0.5576	much
+television	N	0.9315	television
+watching	V	0.9830	watching
+got	V	0.7838	got
+me	O	0.9918	me
+chasing	V	0.9780	chasing
+dreams	N	0.8589	dreams
+			
+i'm	L	0.9890	i'm
+an	D	0.7642	an
+educated	V	0.6363	educated
+fool	N	0.9646	fool
+with	P	0.9671	with
+money	N	0.9305	money
+on	P	0.8343	on
+my	D	0.8420	my
+mind	N	0.7328	mind
+			
+got	V	0.7838	got
+my	D	0.8420	my
+! digits	, N	0.9857 0.9304	!digits
+in	P	0.8576	in
+my	D	0.8420	my
+hand	N	0.8794	hand
+and	&	0.9981	and
+a	D	0.8948	a
+gleam	N	0.7371	gleam
+in	P	0.8576	in
+my	D	0.8420	my
+eye	N	0.9362	eye
+			
+i'm	L	0.9890	i'm
+a	D	0.8948	a
+loc'd	G	0.2987	loc'd
+out	T	0.6015	out
+gangsta	A	0.5495	gangsta
+set	V	0.5168	set
+trippin '	V ,	0.9341 0.9711	trippin'
+banger	N	0.8149	banger
+			
+and	&	0.9981	and
+my	D	0.8420	my
+homies	N	0.8175	homies
+is	V	0.9892	is
+down	T	0.3734	down
+so	R	0.5317	so
+don't	V	0.9973	don't
+arouse	V	0.9452	arouse
+my	D	0.8420	my
+anger	N	0.9816	anger
+,	,	0.9918	,
+fool	N	0.9646	fool
+			
+death	N	0.9716	death
+ain't	V	0.8098	ain't
+nothing	N	0.9678	nothing
+but	&	0.9901	but
+a	D	0.8948	a
+heartbeat	N	0.8561	heartbeat
+away	R	0.8585	away
+,	,	0.9918	,
+			
+i'm	L	0.9890	i'm
+living	V	0.9580	living
+life	N	0.9415	life
+,	,	0.9918	,
+do	V	0.9687	do
+or	&	0.9822	or
+die	V	0.8761	die
+,	,	0.9918	,
+what	O	0.9490	what
+can	V	0.9763	can
+i	O	0.9651	i
+say	V	0.8550	say
+			
+i'm	L	0.9890	i'm
+! digits	, N	0.9857 0.9304	!digits
+now	R	0.9613	now
+,	,	0.9918	,
+but	&	0.9901	but
+will	V	0.9478	will
+i	O	0.9651	i
+live	V	0.4463	live
+to	P	0.9511	to
+see	V	0.8335	see
+! digits	, N	0.9857 0.9304	!digits
+			
+the	D	0.9792	the
+way	N	0.5969	way
+things	N	0.9817	things
+are	V	0.9783	are
+going	V	0.9829	going
+i	O	0.9651	i
+don't	V	0.9973	don't
+know	V	0.9285	know
+			
+tell	V	0.7941	tell
+me	O	0.9918	me
+why	R	0.8527	why
+are	V	0.9783	are
+we	O	0.9885	we
+so	R	0.5317	so
+blind	A	0.9582	blind
+to	P	0.9511	to
+see	V	0.8335	see
+			
+that	O	0.7135	that
+the	D	0.9792	the
+ones	N	0.6955	ones
+we	O	0.9885	we
+hurt	V	0.7996	hurt
+are	V	0.9783	are
+you	O	0.9627	you
+and	&	0.9981	and
+me	O	0.9918	me
+			
+been	V	0.9227	been
+spending	V	0.9706	spending
+most	R	0.7557	most
+their	D	0.7901	their
+lives	V	0.5430	lives
+,	,	0.9918	,
+living	V	0.9580	living
+in	P	0.8576	in
+the	D	0.9792	the
+gangsta's	!	0.2667	gangsta's
+paradise	N	0.7458	paradise
+			
+keep	V	0.7901	keep
+spending	V	0.9706	spending
+most	R	0.7557	most
+our	D	0.8438	our
+lives	V	0.5430	lives
+,	,	0.9918	,
+living	V	0.9580	living
+in	P	0.8576	in
+the	D	0.9792	the
+gangsta's	!	0.2667	gangsta's
+paradise	N	0.7458	paradise
+			
+power	N	0.9175	power
+and	&	0.9981	and
+the	D	0.9792	the
+money	N	0.9305	money
+,	,	0.9918	,
+money	N	0.9305	money
+and	&	0.9981	and
+the	D	0.9792	the
+power	N	0.9175	power
+			
+minute	N	0.7091	minute
+after	P	0.8092	after
+minute	N	0.7091	minute
+,	,	0.9918	,
+hour	N	0.7972	hour
+after	P	0.8092	after
+hour	N	0.7972	hour
+			
+everybody's	L	0.6333	everybody's
+running	V	0.9790	running
+,	,	0.9918	,
+but	&	0.9901	but
+half	!	0.6146	half
+of	P	0.8953	of
+them	O	0.9105	them
+ain't	V	0.8098	ain't
+looking	V	0.9528	looking
+			
+what's	L	0.9879	what's
+going	V	0.9829	going
+on	P	0.8343	on
+in	P	0.8576	in
+the	D	0.9792	the
+kitchen	N	0.7885	kitchen
+,	,	0.9918	,
+but	&	0.9901	but
+i	O	0.9651	i
+don't	V	0.9973	don't
+know	V	0.9285	know
+what's	L	0.9879	what's
+cookin '	V ,	0.7931 0.9517	cookin'
+			
+they	O	0.9737	they
+say	V	0.8550	say
+i	O	0.9651	i
+gotta	V	0.9603	gotta
+learn	V	0.9599	learn
+,	,	0.9918	,
+but	&	0.9901	but
+nobody's	L	0.9307	nobody's
+here	R	0.7796	here
+to	P	0.9511	to
+teach	V	0.9045	teach
+me	O	0.9918	me
+			
+if	P	0.9711	if
+they	O	0.9737	they
+can't	V	0.9853	can't
+understand	V	0.8868	understand
+it	O	0.9694	it
+,	,	0.9918	,
+how	R	0.9435	how
+can	V	0.9763	can
+they	O	0.9737	they
+reach	V	0.9148	reach
+me	O	0.9918	me
+			
+i	O	0.9651	i
+guess	V	0.9298	guess
+they	O	0.9737	they
+can't	V	0.9853	can't
+,	,	0.9918	,
+i	O	0.9651	i
+guess	V	0.9298	guess
+they	O	0.9737	they
+won't	V	0.8295	won't
+			
+i	O	0.9651	i
+guess	V	0.9298	guess
+they	O	0.9737	they
+front	N	0.7266	front
+,	,	0.9918	,
+that's	L	0.9901	that's
+why	R	0.8527	why
+i	O	0.9651	i
+know	V	0.9285	know
+my	D	0.8420	my
+life	N	0.9415	life
+is	V	0.9892	is
+out	T	0.6015	out
+of	P	0.8953	of
+luck	N	0.8365	luck
+,	,	0.9918	,
+fool	N	0.9646	fool
+			
+been	V	0.9227	been
+spending	V	0.9706	spending
+most	R	0.7557	most
+their	D	0.7901	their
+lives	V	0.5430	lives
+,	,	0.9918	,
+living	V	0.9580	living
+in	P	0.8576	in
+the	D	0.9792	the
+gangsta's	!	0.2667	gangsta's
+paradise	N	0.7458	paradise
+			
+keep	V	0.7901	keep
+spending	V	0.9706	spending
+most	R	0.7557	most
+our	D	0.8438	our
+lives	V	0.5430	lives
+,	,	0.9918	,
+living	V	0.9580	living
+in	P	0.8576	in
+the	D	0.9792	the
+gangsta's	!	0.2667	gangsta's
+paradise	N	0.7458	paradise
+			
+tell	V	0.7941	tell
+me	O	0.9918	me
+why	R	0.8527	why
+are	V	0.9783	are
+we	O	0.9885	we
+so	R	0.5317	so
+blind	A	0.9582	blind
+to	P	0.9511	to
+see	V	0.8335	see
+			
+that	O	0.7135	that
+the	D	0.9792	the
+one's	S	0.4152	one's
+we	O	0.9885	we
+hurt	V	0.7996	hurt
+are	V	0.9783	are
+you	O	0.9627	you
+and	&	0.9981	and
+me	O	0.9918	me
+			
+tell	V	0.7941	tell
+me	O	0.9918	me
+why	R	0.8527	why
+are	V	0.9783	are
+we	O	0.9885	we
+so	R	0.5317	so
+blind	A	0.9582	blind
+to	P	0.9511	to
+see	V	0.8335	see
+			
+that	O	0.7135	that
+the	D	0.9792	the
+one's	S	0.4152	one's
+we	O	0.9885	we
+hurt	V	0.7996	hurt
+are	V	0.9783	are
+you	O	0.9627	you
+and	&	0.9981	and
+me	O	0.9918	me
+			
+ladies	N	0.9830	ladies
+and	&	0.9981	and
+gentlemen	N	0.9109	gentlemen
+			
+this	O	0.5028	this
+one	$	0.7703	one
+goes	V	0.9196	goes
+out	T	0.6015	out
+to	P	0.9511	to
+that	O	0.7135	that
+little	A	0.9286	little
+kid	N	0.7379	kid
+that	O	0.7135	that
+got	V	0.7838	got
+fried	A	0.9462	fried
+spam	N	0.7439	spam
+for	P	0.9910	for
+lunch	N	0.8497	lunch
+			
+i	O	0.9651	i
+feel	V	0.9161	feel
+for	P	0.9910	for
+you	O	0.9627	you
+,	,	0.9918	,
+i'm	L	0.9890	i'm
+with	P	0.9671	with
+you	O	0.9627	you
+,	,	0.9918	,
+i'm	L	0.9890	i'm
+with	P	0.9671	with
+you	O	0.9627	you
+brother	N	0.9180	brother
+			
+and	&	0.9981	and
+this	O	0.5028	this
+one	$	0.7703	one
+right	!	0.8610	right
+here	R	0.7796	here
+is	V	0.9892	is
+for	P	0.9910	for
+that	O	0.7135	that
+ghetto	A	0.5327	ghetto
+girl	N	0.8631	girl
+with	P	0.9671	with
+the	D	0.9792	the
+bad	A	0.9370	bad
+perm	N	0.6839	perm
+			
+that	O	0.7135	that
+just	R	0.9975	just
+burn	V	0.6348	burn
+baby	N	0.9007	baby
+,	,	0.9918	,
+burn	V	0.6348	burn
+baby	N	0.9007	baby
+,	,	0.9918	,
+burn	V	0.6348	burn
+			
+pop	N	0.8388	pop
+open	V	0.5185	open
+a	D	0.8948	a
+malt	N	0.8479	malt
+liquor	N	0.9561	liquor
+			
+smoke	V	0.5715	smoke
+something	N	0.9754	something
+until	P	0.9730	until
+your	D	0.5467	your
+scalp	N	0.9068	scalp
+gets	V	0.9882	gets
+killed	V	0.9625	killed
+			
+gangstas	N	0.8980	gangstas
+and	&	0.9981	and
+pimps	N	0.9226	pimps
+			
+love	N	0.6603	love
+lobsters	N	0.4648	lobsters
+and	&	0.9981	and
+shrimps	N	0.6434	shrimps
+			
+kool-aid	N	0.6748	kool-aid
+and	&	0.9981	and
+chicken	N	0.7024	chicken
+			
+flashy	A	0.9664	flashy
+things	N	0.9817	things
+and	&	0.9981	and
+women	N	0.8590	women
+			
+all	D	0.7257	all
+i	O	0.9651	i
+need	V	0.8664	need
+			
+is	V	0.9892	is
+remy	^	0.7199	remy
+and	&	0.9981	and
+weed	N	0.6761	weed
+			
+somebody	N	0.9588	somebody
+not	R	0.9628	not
+afraid	A	0.9357	afraid
+			
+to	P	0.9511	to
+go	V	0.8465	go
+some	D	0.7045	some
+for	P	0.9910	for
+my	D	0.8420	my
+escalade	N	0.7008	escalade
+			
+i'm	L	0.9890	i'm
+just	R	0.9975	just
+pimping	V	0.8222	pimping
+			
+baby	N	0.9007	baby
+you	O	0.9627	you
+got	V	0.7838	got
+a	D	0.8948	a
+rule	N	0.8401	rule
+for	P	0.9910	for
+me	O	0.9918	me
+			
+put	V	0.7836	put
+your	D	0.5467	your
+mink	N	0.9223	mink
+on	P	0.8343	on
+and	&	0.9981	and
+slide	N	0.5529	slide
+in	P	0.8576	in
+a	D	0.8948	a
+cool	A	0.6273	cool
+for	P	0.9910	for
+me	O	0.9918	me
+			
+hey	!	0.9986	hey
+you	O	0.9627	you
+gotta	V	0.9603	gotta
+get	V	0.9655	get
+high	!	0.5588	high
+and	&	0.9981	and
+go	V	0.8465	go
+low	A	0.8747	low
+for	P	0.9910	for
+me	O	0.9918	me
+			
+it's	L	0.9926	it's
+cash	N	0.9125	cash
+money	N	0.9305	money
+young	A	0.8473	young
+money	N	0.9305	money
+never	R	0.9752	never
+know	V	0.9285	know
+money	N	0.9305	money
+			
+it's	L	0.9926	it's
+! digits	, N	0.9857 0.9304	!digits
+degreez	N	0.4472	degreez
+it's	L	0.9926	it's
+not	R	0.9628	not
+fool	N	0.9646	fool
+			
+but	&	0.9901	but
+it	O	0.9694	it
+and	&	0.9981	and
+the	D	0.9792	the
+dro	N	0.6286	dro
+got	V	0.7838	got
+me	O	0.9918	me
+so	R	0.5317	so
+scummy	A	0.6531	scummy
+			
+and	&	0.9981	and
+to	P	0.9511	to
+drum	N	0.9382	drum
+hole	N	0.9610	hole
+a	D	0.8948	a
+whole	A	0.8267	whole
+hundred	!	0.4080	hundred
+			
+can	V	0.9763	can
+i	O	0.9651	i
+put	V	0.7836	put
+a	D	0.8948	a
+whole	A	0.8267	whole
+hundred	!	0.4080	hundred
+in	P	0.8576	in
+your	D	0.5467	your
+whole	A	0.8267	whole
+tummy	N	0.8146	tummy
+			
+hehe	!	0.9982	hehe
+,	,	0.9918	,
+man	!	0.8651	man
+weezy's	Z	0.4162	weezy's
+a	D	0.8948	a
+legend	N	0.9522	legend
+			
+you	O	0.9627	you
+can	V	0.9763	can
+tell	V	0.7941	tell
+by	P	0.9649	by
+the	D	0.9792	the
+bottom	N	0.4143	bottom
+of	P	0.8953	of
+my	D	0.8420	my
+sleeve	N	0.9404	sleeve
+when	R	0.9425	when
+you	O	0.9627	you
+see	V	0.8335	see
+what's	L	0.9879	what's
+in	P	0.8576	in
+a	D	0.8948	a
+bezel	N	0.5109	bezel
+			
+and	&	0.9981	and
+he	O	0.9777	he
+be	V	0.9569	be
+on	P	0.8343	on
+a	D	0.8948	a
+level	N	0.9575	level
+that's	L	0.9901	that's
+so	R	0.5317	so
+terrific	A	0.8502	terrific
+			
+i'm	L	0.9890	i'm
+in	P	0.8576	in
+this	O	0.5028	this
+bitch	N	0.8507	bitch
+hold	V	0.8836	hold
+your	D	0.5467	your
+pictures	N	0.9305	pictures
+			
+and	&	0.9981	and
+hold	V	0.8836	hold
+your	D	0.5467	your
+bitches	N	0.9404	bitches
+cuz	P	0.4479	cuz
+she	O	0.9863	she
+gon	V	0.9396	gon
+want	V	0.9638	want
+a	D	0.8948	a
+part	N	0.9608	part
+of	P	0.8953	of
+me	O	0.9918	me
+			
+cuz	P	0.4479	cuz
+she	O	0.9863	she
+never	R	0.9752	never
+see	V	0.8335	see
+the	D	0.9792	the
+roof	N	0.8760	roof
+of	P	0.8953	of
+my	D	0.8420	my
+car	N	0.9746	car
+with	P	0.9671	with
+me	O	0.9918	me
+			
+and	&	0.9981	and
+you	O	0.9627	you
+never	R	0.9752	never
+see	V	0.8335	see
+a	D	0.8948	a
+tooth	N	0.9786	tooth
+without	P	0.9363	without
+a	D	0.8948	a
+diamond	N	0.7441	diamond
+on	P	0.8343	on
+it	O	0.9694	it
+			
+this	O	0.5028	this
+is	V	0.9892	is
+game	N	0.9747	game
+at	P	0.9712	at
+its	L	0.9816	its
+finest	A	0.9434	finest
+homie	N	0.6474	homie
+			
+peep	N	0.7722	peep
+it	O	0.9694	it
+			
+see	V	0.8335	see
+i	O	0.9651	i
+was	V	0.9773	was
+born	V	0.8521	born
+from	P	0.9750	from
+a	D	0.8948	a
+gangsta	A	0.5495	gangsta
+			
+pa	^	0.4318	pa
+gave	V	0.9118	gave
+me	O	0.9918	me
+a	D	0.8948	a
+whip	N	0.4636	whip
+			
+ran	V	0.9215	ran
+numbers	N	0.9470	numbers
+with	P	0.9671	with
+pimps	N	0.9226	pimps
+and	&	0.9981	and
+i	O	0.9651	i
+laid	V	0.9012	laid
+down	T	0.3734	down
+cents	N	0.9256	cents
+			
+one	$	0.7703	one
+of	P	0.8953	of
+a	D	0.8948	a
+kind	N	0.4666	kind
+birdman	^	0.9241	birdman
+i	O	0.9651	i
+shine	V	0.8830	shine
+			
+22's	$	0.4019	22's
+on	P	0.8343	on
+it	O	0.9694	it
+?	,	0.9909	?
+			
+the	D	0.9792	the
+bitch	N	0.8507	bitch
+ain't	V	0.8098	ain't
+mine	O	0.9042	mine
+			
+i	O	0.9651	i
+taught	V	0.9621	taught
+her	O	0.5274	her
+the	D	0.9792	the
+game	N	0.9747	game
+ma	!	0.3265	ma
+			
+i	O	0.9651	i
+gave	V	0.9118	gave
+it	O	0.9694	it
+all	D	0.7257	all
+to	P	0.9511	to
+her	O	0.5274	her
+			
+weezy	^	0.5564	weezy
+wee	A	0.5581	wee
+my	D	0.8420	my
+son	N	0.8521	son
+i	O	0.9651	i
+give	V	0.9362	give
+it	O	0.9694	it
+all	D	0.7257	all
+to	P	0.9511	to
+him	O	0.8980	him
+			
+the	D	0.9792	the
+birdman	^	0.9241	birdman
+junior	N	0.7717	junior
+i'm	L	0.9890	i'm
+the	D	0.9792	the
+son	N	0.8521	son
+of	P	0.8953	of
+a	D	0.8948	a
+stunna	N	0.4260	stunna
+			
+mannie	!	0.2985	mannie
+fresh	A	0.9708	fresh
+			
+jazze	^	0.4748	jazze
+phezzy	N	0.3017	phezzy
+this	O	0.5028	this
+our	D	0.8438	our
+summer	N	0.9492	summer
+			
+! digits	, N	0.9857 0.9304	!digits
+degreez	N	0.4472	degreez
+got	V	0.7838	got
+rich	A	0.8721	rich
+off	T	0.4522	off
+the	D	0.9792	the
+four	$	0.7031	four
+			
+cadillac	^	0.9116	cadillac
+slant	N	0.8815	slant
+back	R	0.5723	back
+cut	N	0.8005	cut
+side	N	0.9407	side
+elbow	N	0.9647	elbow
+			
+cadillac	^	0.9116	cadillac
+smoke	V	0.5715	smoke
+dro	N	0.6286	dro
+just	R	0.9975	just
+me	O	0.9918	me
+and	&	0.9981	and
+the	D	0.9792	the
+ho	!	0.8703	ho
+			
+flash	N	0.9214	flash
+from	P	0.9750	from
+hard	A	0.7109	hard
+times	N	0.9355	times
+from	P	0.9750	from
+that	O	0.7135	that
+coke	N	0.9461	coke
+and	&	0.9981	and
+dope	N	0.3992	dope
+			
+put	V	0.7836	put
+cars	N	0.9685	cars
+in	P	0.8576	in
+moms	N	0.7043	moms
+name	N	0.9785	name
+just	R	0.9975	just
+to	P	0.9511	to
+duck	N	0.9753	duck
+white	A	0.6236	white
+folks	N	0.9775	folks
+			
+we	O	0.9885	we
+eat	V	0.8267	eat
+lobster	N	0.9717	lobster
+and	&	0.9981	and
+shrimp	N	0.9676	shrimp
+			
+nigga	N	0.5857	nigga
+park	N	0.5751	park
+that	O	0.7135	that
+lambo	N	0.6611	lambo
+			
+i'm	L	0.9890	i'm
+a	D	0.8948	a
+v.i.p.	!	0.3574	v.i.p.
+nigga	N	0.5857	nigga
+			
+pop	N	0.8388	pop
+bottles	N	0.9305	bottles
+of	P	0.8953	of
+mo	!	0.6952	mo
+			
+i	O	0.9651	i
+pray	V	0.7629	pray
+that	O	0.7135	that
+one	$	0.7703	one
+day	N	0.9236	day
+i'll	L	0.9768	i'll
+open	V	0.5185	open
+a	D	0.8948	a
+better	A	0.6680	better
+door	N	0.9645	door
+			
+ain't	V	0.8098	ain't
+no	!	0.9253	no
+mountain	N	0.9204	mountain
+high	!	0.5588	high
+enough	R	0.3944	enough
+			
+to	P	0.9511	to
+me	O	0.9918	me
+for	P	0.9910	for
+cuz	P	0.4479	cuz
+i	O	0.9651	i
+keep	V	0.7901	keep
+on	P	0.8343	on
+buying	V	0.9854	buying
+fi-fi	^	0.7220	fi-fi
+stuff	N	0.9403	stuff
+			
+and	&	0.9981	and
+the	D	0.9792	the
+eastside	^	0.7711	eastside
+where	R	0.9493	where
+we	O	0.9885	we
+pump	N	0.6475	pump
+			
+it's	L	0.9926	it's
+my	D	0.8420	my
+part	N	0.9608	part
+of	P	0.8953	of
+new	A	0.9552	new
+orleans	^	0.6357	orleans
+			
+bleed	V	0.9522	bleed
+for	P	0.9910	for
+ya	!	0.8954	ya
+i'm	L	0.9890	i'm
+the	D	0.9792	the
+heart	N	0.8468	heart
+of	P	0.8953	of
+new	A	0.9552	new
+orleans	^	0.6357	orleans
+			
+hear	V	0.6283	hear
+you're	L	0.9569	you're
+fucking	!	0.5504	fucking
+with	P	0.9671	with
+a	D	0.8948	a
+gangsta	A	0.5495	gangsta
+foe	N	0.5617	foe
+			
+hope	V	0.6059	hope
+you	O	0.9627	you
+never	R	0.9752	never
+close	A	0.7231	close
+your	D	0.5467	your
+eyes	N	0.9459	eyes
+i'll	L	0.9768	i'll
+bang	N	0.5091	bang
+your	D	0.5467	your
+ho	!	0.8703	ho
+			
+all	D	0.7257	all
+she	O	0.9863	she
+need	V	0.8664	need
+is	V	0.9892	is
+some	D	0.7045	some
+guidance	N	0.9394	guidance
+i'll	L	0.9768	i'll
+tame	A	0.7747	tame
+your	D	0.5467	your
+ho	!	0.8703	ho
+			
+it's	L	0.9926	it's
+big	A	0.7283	big
+pimping	V	0.8222	pimping
+over	P	0.6023	over
+here	R	0.7796	here
+man	!	0.8651	man
+yeah	!	0.9988	yeah
+man	!	0.8651	man
+			
+if	P	0.9711	if
+she	O	0.9863	she
+looking	V	0.9528	looking
+for	P	0.9910	for
+a	D	0.8948	a
+daddy	N	0.9436	daddy
+see	V	0.8335	see
+the	D	0.9792	the
+lil	A	0.3067	lil
+man	!	0.8651	man
+			
+weezy	^	0.5564	weezy
+baby	N	0.9007	baby
+,	,	0.9918	,
+don't	V	0.9973	don't
+fool	N	0.9646	fool
+yourself	O	0.8983	yourself
+you	O	0.9627	you
+need	V	0.8664	need
+me	O	0.9918	me
+baby	N	0.9007	baby
+			
+easy	A	0.9319	easy
+baby	N	0.9007	baby
+,	,	0.9918	,
+i'm	L	0.9890	i'm
+just	R	0.9975	just
+trying	V	0.9885	trying
+to	P	0.9511	to
+keep	V	0.7901	keep
+my	D	0.8420	my
+bread	N	0.9782	bread
+cheesy	A	0.9165	cheesy
+baby	N	0.9007	baby
+			
+slick	A	0.9566	slick
+when	R	0.9425	when
+i	O	0.9651	i
+spit	V	0.4555	spit
+shit	N	0.6894	shit
+right	!	0.8610	right
+			
+26-inch	N	0.6267	26-inch
+got	V	0.7838	got
+a	D	0.8948	a
+deep-dish	A	0.8701	deep-dish
+ma	!	0.3265	ma
+			
+sweet	A	0.9793	sweet
+as	P	0.7377	as
+mami	N	0.7458	mami
+lips	N	0.9246	lips
+when	R	0.9425	when
+i'm	L	0.9890	i'm
+creeping	V	0.9563	creeping
+by	P	0.9649	by
+			
+baby	N	0.9007	baby
+gave	V	0.9118	gave
+me	O	0.9918	me
+wings	N	0.9809	wings
+just	R	0.9975	just
+to	P	0.9511	to
+keep	V	0.7901	keep
+me	O	0.9918	me
+fly	V	0.7748	fly
+			
+weezy	^	0.5564	weezy
+i	O	0.9651	i
+,	,	0.9918	,
+hell	!	0.6992	hell
+yeah	!	0.9988	yeah
+			
+and	&	0.9981	and
+i'm	L	0.9890	i'm
+rolling	V	0.9047	rolling
+with	P	0.9671	with
+them	O	0.9105	them
+			
+there	R	0.4143	there
+ain't	V	0.8098	ain't
+no	!	0.9253	no
+love	N	0.6603	love
+like	P	0.7012	like
+			
+like	P	0.7012	like
+father	N	0.9117	father
+like	P	0.7012	like
+son	N	0.8521	son
+,	,	0.9918	,
+nigga	N	0.5857	nigga
+			
+yeah	!	0.9988	yeah
+			
+it's	L	0.9926	it's
+filthy	A	0.9784	filthy
+with	P	0.9671	with
+quarter	N	0.9707	quarter
+ki's	!	0.2273	ki's
+in	P	0.8576	in
+the	D	0.9792	the
+kitchen	N	0.7885	kitchen
+on	P	0.8343	on
+' em	, O	0.9581 0.9231	'em
+			
+tha	D	0.9020	tha
+block	N	0.5689	block
+is	V	0.9892	is
+hot	A	0.8061	hot
+but	&	0.9901	but
+we	O	0.9885	we
+out	T	0.6015	out
+here	R	0.7796	here
+gettin	V	0.7891	gettin
+it	O	0.9694	it
+on	P	0.8343	on
+' em	, O	0.9581 0.9231	'em
+			
+and	&	0.9981	and
+keep	V	0.7901	keep
+a	D	0.8948	a
+tool	N	0.9922	tool
+everytime	R	0.5115	everytime
+we	O	0.9885	we
+hit	V	0.7971	hit
+the	D	0.9792	the
+streets	N	0.5737	streets
+			
+cause	P	0.4706	cause
+these	D	0.6152	these
+niggas	N	0.8807	niggas
+act	V	0.5013	act
+a	D	0.8948	a
+fool	N	0.9646	fool
+and	&	0.9981	and
+we	O	0.9885	we
+be	V	0.9569	be
+quick	A	0.7070	quick
+to	P	0.9511	to
+put	V	0.7836	put
+it	O	0.9694	it
+on	P	0.8343	on
+' em	, O	0.9581 0.9231	'em
+			
+them	O	0.9105	them
+tear	N	0.6328	tear
+drops	V	0.6778	drops
+homie	N	0.6474	homie
+we	O	0.9885	we
+so	R	0.5317	so
+not	R	0.9628	not
+			
+the	D	0.9792	the
+nigga	N	0.5857	nigga
+to	P	0.9511	to
+fuck	!	0.5770	fuck
+with	P	0.9671	with
+cause	P	0.4706	cause
+we	O	0.9885	we
+will	V	0.9478	will
+pop	N	0.8388	pop
+			
+. 40	, $	0.9824 0.9464	.40
+cal	!	0.4319	cal
+keep	V	0.7901	keep
+it	O	0.9694	it
+cocked	V	0.9455	cocked
+nigga	N	0.5857	nigga
+ready	A	0.9553	ready
+to	P	0.9511	to
+block	N	0.5689	block
+			
+keep	V	0.7901	keep
+a	D	0.8948	a
+gun	N	0.9068	gun
+a	D	0.8948	a
+extra	A	0.8616	extra
+clip	N	0.9490	clip
+homie	N	0.6474	homie
+thats	L	0.9523	thats
+how	R	0.9435	how
+we	O	0.9885	we
+rock	N	0.4903	rock
+			
+and	&	0.9981	and
+like	P	0.7012	like
+father	N	0.9117	father
+like	P	0.7012	like
+son	N	0.8521	son
+daddy	N	0.9436	daddy
+we	O	0.9885	we
+dont	V	0.9006	dont
+borrow	V	0.8224	borrow
+			
+we	O	0.9885	we
+stay	V	0.6675	stay
+on	P	0.8343	on
+the	D	0.9792	the
+grind	V	0.8030	grind
+homie	N	0.6474	homie
+cause	P	0.4706	cause
+we	O	0.9885	we
+grind	V	0.8030	grind
+harder	A	0.8231	harder
+			
+and	&	0.9981	and
+fuckin	!	0.4109	fuckin
+with	P	0.9671	with
+me	O	0.9918	me
+homie	N	0.6474	homie
+you	O	0.9627	you
+won't	V	0.8295	won't
+like	P	0.7012	like
+			
+you	O	0.9627	you
+be	V	0.9569	be
+the	D	0.9792	the
+next	A	0.4810	next
+t-shirt	N	0.9423	t-shirt
+,	,	0.9918	,
+we	O	0.9885	we
+in	P	0.8576	in
+ya	!	0.8954	ya
+hood	N	0.9547	hood
+all	D	0.7257	all
+night	N	0.6493	night
+			
+we	O	0.9885	we
+got	V	0.7838	got
+birds	N	0.9298	birds
+flyin	V	0.5449	flyin
+out	T	0.6015	out
+and	&	0.9981	and
+we've	L	0.7905	we've
+allowed	V	0.6222	allowed
+the	D	0.9792	the
+pipes	N	0.9179	pipes
+			
+we	O	0.9885	we
+do	V	0.9687	do
+this	O	0.5028	this
+state	N	0.9185	state
+to	P	0.9511	to
+state	N	0.9185	state
+thing	N	0.9739	thing
+and	&	0.9981	and
+cheat	V	0.9040	cheat
+the	D	0.9792	the
+price	N	0.9537	price
+			
+and	&	0.9981	and
+rufus	^	0.9680	rufus
+came	V	0.8786	came
+home	N	0.8327	home
+and	&	0.9981	and
+i	O	0.9651	i
+told	V	0.9704	told
+him	O	0.8980	him
+to	P	0.9511	to
+shave	V	0.8096	shave
+			
+but	&	0.9901	but
+he	O	0.9777	he
+was	V	0.9773	was
+tellin	V	0.6711	tellin
+me	O	0.9918	me
+about	P	0.8950	about
+them	O	0.9105	them
+pussy	N	0.9683	pussy
+niggas	N	0.8807	niggas
+back	R	0.5723	back
+in	P	0.8576	in
+the	D	0.9792	the
+eighties	N	0.8326	eighties
+,	,	0.9918	,
+baby	N	0.9007	baby
+			
+listen	V	0.9782	listen
+			
+birdman	^	0.9241	birdman
+put	V	0.7836	put
+me	O	0.9918	me
+on	P	0.8343	on
+when	R	0.9425	when
+i	O	0.9651	i
+was	V	0.9773	was
+just	R	0.9975	just
+eleven	$	0.7560	eleven
+			
+he	O	0.9777	he
+was	V	0.9773	was
+my	D	0.8420	my
+teacher	N	0.9417	teacher
+,	,	0.9918	,
+so	R	0.5317	so
+i	O	0.9651	i
+was	V	0.9773	was
+like	P	0.7012	like
+fuck	!	0.5770	fuck
+the	D	0.9792	the
+lesson	N	0.8495	lesson
+			
+he	O	0.9777	he
+was	V	0.9773	was
+my	D	0.8420	my
+preacher	N	0.9452	preacher
+,	,	0.9918	,
+so	R	0.5317	so
+i	O	0.9651	i
+was	V	0.9773	was
+like	P	0.7012	like
+fuck	!	0.5770	fuck
+the	D	0.9792	the
+reverend	^	0.7442	reverend
+			
+my	D	0.8420	my
+mother	N	0.9356	mother
+cita	!	0.5404	cita
+,	,	0.9918	,
+she	O	0.9863	she
+said	V	0.9555	said
+that	O	0.7135	that
+i	O	0.9651	i
+was	V	0.9773	was
+with	P	0.9671	with
+the	D	0.9792	the
+devil	N	0.8827	devil
+			
+my	D	0.8420	my
+mother	N	0.9356	mother
+cita	!	0.5404	cita
+,	,	0.9918	,
+now	R	0.9613	now
+say	V	0.8550	say
+that	O	0.7135	that
+he	O	0.9777	he
+was	V	0.9773	was
+sent	V	0.9331	sent
+from	P	0.9750	from
+heaven	^	0.8091	heaven
+			
+so	R	0.5317	so
+,	,	0.9918	,
+i	O	0.9651	i
+take	V	0.9216	take
+heed	V	0.8771	heed
+to	P	0.9511	to
+every	D	0.6681	every
+single	A	0.8220	single
+word	!	0.7884	word
+that	O	0.7135	that
+he	O	0.9777	he
+tell	V	0.7941	tell
+me	O	0.9918	me
+			
+and	&	0.9981	and
+i	O	0.9651	i
+remember	V	0.9516	remember
+what	O	0.9490	what
+my	D	0.8420	my
+poppa	!	0.4070	poppa
+told	V	0.9704	told
+me	O	0.9918	me
+			
+remember	V	0.9516	remember
+what	O	0.9490	what
+my	D	0.8420	my
+poppa	!	0.4070	poppa
+told	V	0.9704	told
+me	O	0.9918	me
+,	,	0.9918	,
+young	A	0.8473	young
+stunna	N	0.4260	stunna
+			
+yeah	!	0.9988	yeah
+			
+im	L	0.9789	im
+out	T	0.6015	out
+c'here	N	0.6399	c'here
+homie	N	0.6474	homie
+pitchin	V	0.8737	pitchin
+the	D	0.9792	the
+game	N	0.9747	game
+			
+and	&	0.9981	and
+yes	!	0.9958	yes
+i	O	0.9651	i
+do	V	0.9687	do
+the	D	0.9792	the
+whole	A	0.8267	whole
+thing	N	0.9739	thing
+nigga	N	0.5857	nigga
+give	V	0.9362	give
+me	O	0.9918	me
+my	D	0.8420	my
+change	N	0.7192	change
+			
+yes	!	0.9958	yes
+we	O	0.9885	we
+do	V	0.9687	do
+the	D	0.9792	the
+same	A	0.9270	same
+thing	N	0.9739	thing
+out	T	0.6015	out
+the	D	0.9792	the
+brand	N	0.6236	brand
+new	A	0.9552	new
+range	N	0.9712	range
+			
+little	A	0.9286	little
+nigga	N	0.5857	nigga
+like	P	0.7012	like
+his	D	0.9130	his
+father	N	0.9117	father
+homie	N	0.6474	homie
+doin	V	0.9669	doin
+his	D	0.9130	his
+thing	N	0.9739	thing
+			
+we	O	0.9885	we
+keep	V	0.7901	keep
+the	D	0.9792	the
+gun	N	0.9068	gun
+for	P	0.9910	for
+paper	N	0.9663	paper
+homie	N	0.6474	homie
+aimed	V	0.9296	aimed
+and	&	0.9981	and
+cocked	V	0.9455	cocked
+			
+every	D	0.6681	every
+nigga	N	0.5857	nigga
+in	P	0.8576	in
+my	D	0.8420	my
+circle	N	0.9710	circle
+homie	N	0.6474	homie
+ready	A	0.9553	ready
+to	P	0.9511	to
+pop	N	0.8388	pop
+			
+we	O	0.9885	we
+be	V	0.9569	be
+ridin	V	0.7890	ridin
+drop	N	0.5664	drop
+tops	N	0.5909	tops
+thats	L	0.9523	thats
+just	R	0.9975	just
+how	R	0.9435	how
+we	O	0.9885	we
+rock	N	0.4903	rock
+			
+and	&	0.9981	and
+ill	L	0.9564	ill
+be	V	0.9569	be
+ridin	V	0.7890	ridin
+in	P	0.8576	in
+the	D	0.9792	the
+phantom	A	0.6409	phantom
+through	P	0.8758	through
+my	D	0.8420	my
+up	T	0.8440	up
+town	N	0.8420	town
+blocks	N	0.7737	blocks
+			
+nigga	N	0.5857	nigga
+			
+alright	!	0.9864	alright
+money	N	0.9305	money
+on	P	0.8343	on
+my	D	0.8420	my
+mind	N	0.7328	mind
+			
+look	V	0.8183	look
+i-i-i	L	0.3334	i-i-i
+i	O	0.9651	i
+hear	V	0.6283	hear
+you	O	0.9627	you
+niggas	N	0.8807	niggas
+wisperin	!	0.2503	wisperin
+			
+i	O	0.9651	i
+say	V	0.8550	say
+wisperin	!	0.2503	wisperin
+cause	P	0.4706	cause
+you	O	0.9627	you
+niggas	N	0.8807	niggas
+ain't	V	0.8098	ain't
+hollerin	V	0.7801	hollerin
+bout	P	0.5620	bout
+shit	N	0.6894	shit
+			
+po '	G ,	0.2985 0.6066	po'
+pussy	N	0.9683	pussy
+ass	N	0.8849	ass
+niggas	N	0.8807	niggas
+gangster	N	0.9773	gangster
+and	&	0.9981	and
+me	O	0.9918	me
+			
+look	V	0.8183	look
+birdman	^	0.9241	birdman
+jr	^	0.9024	jr
+fuck	!	0.5770	fuck
+the	D	0.9792	the
+world	N	0.7022	world
+pops	N	0.7093	pops
+			
+and	&	0.9981	and
+we	O	0.9885	we
+gon	V	0.9396	gon
+keep	V	0.7901	keep
+it	O	0.9694	it
+movin	V	0.4248	movin
+even	R	0.9851	even
+if	P	0.9711	if
+the	D	0.9792	the
+world	N	0.7022	world
+stops	V	0.5360	stops
+			
+stay	V	0.6675	stay
+strapped	V	0.9504	strapped
+and	&	0.9981	and
+laced	V	0.8507	laced
+like	P	0.7012	like
+girl	N	0.8631	girl
+socks	N	0.7593	socks
+			
+stay	V	0.6675	stay
+dapped	V	0.8296	dapped
+and	&	0.9981	and
+drapped	V	0.8975	drapped
+like	P	0.7012	like
+a	D	0.8948	a
+birthday	N	0.9593	birthday
+cake	N	0.9559	cake
+			
+birthdays	N	0.9540	birthdays
+was	V	0.9773	was
+the	D	0.9792	the
+worst	A	0.9241	worst
+days	N	0.9144	days
+			
+now	R	0.9613	now
+we	O	0.9885	we
+sippin '	V ,	0.8195 0.9612	sippin'
+on	P	0.8343	on
+louis	^	0.9366	louis
+when	R	0.9425	when
+we	O	0.9885	we
+thirsty	A	0.9625	thirsty
+			
+ya	!	0.8954	ya
+know	V	0.9285	know
+,	,	0.9918	,
+i	O	0.9651	i
+do	V	0.9687	do
+believe	V	0.9527	believe
+the	D	0.9792	the
+moneys	N	0.9316	moneys
+cursed	V	0.9510	cursed
+me	O	0.9918	me
+			
+so	R	0.5317	so
+i	O	0.9651	i
+pray	V	0.7629	pray
+to	P	0.9511	to
+god	^	0.7896	god
+that	O	0.7135	that
+the	D	0.9792	the
+devil	N	0.8827	devil
+dont	V	0.9006	dont
+murk	N	0.5553	murk
+me	O	0.9918	me
+,	,	0.9918	,
+uh	!	0.9927	uh
+			
+little	A	0.9286	little
+wizzle	N	0.5631	wizzle
+but	&	0.9901	but
+you	O	0.9627	you
+bitches	N	0.9404	bitches
+call	V	0.4423	call
+me	O	0.9918	me
+first	A	0.7263	first
+place	N	0.9567	place
+			
+and	&	0.9981	and
+papa	^	0.8513	papa
+taught	V	0.9621	taught
+me	O	0.9918	me
+paper	N	0.9663	paper
+chase	N	0.4598	chase
+never	R	0.9752	never
+skirt	N	0.9489	skirt
+chase	N	0.4598	chase
+			
+i	O	0.9651	i
+put	V	0.7836	put
+you	O	0.9627	you
+niggas	N	0.8807	niggas
+in	P	0.8576	in
+the	D	0.9792	the
+closet	N	0.9439	closet
+in	P	0.8576	in
+the	D	0.9792	the
+shirt	N	0.9391	shirt
+space	N	0.9379	space
+			
+you	O	0.9627	you
+niggas	N	0.8807	niggas
+yellow	A	0.7577	yellow
+like	P	0.7012	like
+sesame	N	0.8933	sesame
+street	N	0.6770	street
+bert's	S	0.3179	bert's
+face	N	0.9357	face
+			
+worst	A	0.9241	worst
+case	N	0.9641	case
+scenario	N	0.9497	scenario
+,	,	0.9918	,
+burial	N	0.9482	burial
+			
+two	$	0.9238	two
+tone	N	0.9471	tone
+carara	!	0.5895	carara
+like	P	0.7012	like
+mascara	N	0.8432	mascara
+,	,	0.9918	,
+uh	!	0.9927	uh
+			
+the	D	0.9792	the
+g4	^	0.4518	g4
+take	V	0.9216	take
+your	D	0.5467	your
+boy	N	0.8695	boy
+where	R	0.9493	where
+ever	R	0.9297	ever
+			
+like	P	0.7012	like
+father	N	0.9117	father
+,	,	0.9918	,
+like	P	0.7012	like
+son	N	0.8521	son
+the	D	0.9792	the
+era	N	0.9402	era
+,	,	0.9918	,
+nigga	N	0.5857	nigga
+			
+dj	^	0.5610	dj
+,	,	0.9918	,
+please	V	0.8246	please
+pick	V	0.8334	pick
+up	T	0.8440	up
+your	D	0.5467	your
+phone	N	0.9893	phone
+			
+i'm	L	0.9890	i'm
+on	P	0.8343	on
+the	D	0.9792	the
+request	N	0.8971	request
+line	N	0.9647	line
+			
+this	O	0.5028	this
+is	V	0.9892	is
+a	D	0.8948	a
+missy	N	0.9194	missy
+elliott	^	0.9705	elliott
+one-time	A	0.9683	one-time
+exclusive	A	0.9362	exclusive
+,	,	0.9918	,
+come	V	0.9593	come
+on	P	0.8343	on
+			
+is	V	0.9892	is
+it	O	0.9694	it
+worth	A	0.3472	worth
+it	O	0.9694	it
+,	,	0.9918	,
+let	V	0.8916	let
+me	O	0.9918	me
+work	N	0.8618	work
+it	O	0.9694	it
+			
+i	O	0.9651	i
+put	V	0.7836	put
+my	D	0.8420	my
+thing	N	0.9739	thing
+down	T	0.3734	down
+,	,	0.9918	,
+flip	V	0.4057	flip
+it	O	0.9694	it
+and	&	0.9981	and
+reverse	N	0.6426	reverse
+it	O	0.9694	it
+			
+put	V	0.7836	put
+my	D	0.8420	my
+thing	N	0.9739	thing
+down	T	0.3734	down
+,	,	0.9918	,
+flip	V	0.4057	flip
+it	O	0.9694	it
+and	&	0.9981	and
+reverse	N	0.6426	reverse
+it	O	0.9694	it
+			
+if	P	0.9711	if
+you	O	0.9627	you
+got	V	0.7838	got
+a	D	0.8948	a
+big	A	0.7283	big
+dick	N	0.8818	dick
+,	,	0.9918	,
+let	V	0.8916	let
+me	O	0.9918	me
+search	N	0.9268	search
+you	O	0.9627	you
+			
+and	&	0.9981	and
+find	V	0.9411	find
+out	T	0.6015	out
+how	R	0.9435	how
+hard	A	0.7109	hard
+i	O	0.9651	i
+gotta	V	0.9603	gotta
+work	N	0.8618	work
+you	O	0.9627	you
+			
+put	V	0.7836	put
+my	D	0.8420	my
+thing	N	0.9739	thing
+down	T	0.3734	down
+,	,	0.9918	,
+flip	V	0.4057	flip
+it	O	0.9694	it
+and	&	0.9981	and
+reverse	N	0.6426	reverse
+it	O	0.9694	it
+			
+i'd	L	0.9803	i'd
+like	P	0.7012	like
+to	P	0.9511	to
+get	V	0.9655	get
+to	P	0.9511	to
+know	V	0.9285	know
+ya	!	0.8954	ya
+so	R	0.5317	so
+i	O	0.9651	i
+could	V	0.9712	could
+show	N	0.8348	show
+ya	!	0.8954	ya
+			
+put	V	0.7836	put
+the	D	0.9792	the
+pussy	N	0.9683	pussy
+on	P	0.8343	on
+ya	!	0.8954	ya
+like	P	0.7012	like
+i	O	0.9651	i
+told	V	0.9704	told
+ya	!	0.8954	ya
+			
+give	V	0.9362	give
+me	O	0.9918	me
+all	D	0.7257	all
+your	D	0.5467	your
+numbers	N	0.9470	numbers
+so	R	0.5317	so
+i	O	0.9651	i
+can	V	0.9763	can
+phone	N	0.9893	phone
+ya	!	0.8954	ya
+			
+your	D	0.5467	your
+girl	N	0.8631	girl
+acting	V	0.9760	acting
+stank	A	0.6124	stank
+,	,	0.9918	,
+then	R	0.9661	then
+call	V	0.4423	call
+me	O	0.9918	me
+ova	!	0.5601	ova
+			
+not	R	0.9628	not
+on	P	0.8343	on
+the	D	0.9792	the
+bed	N	0.9188	bed
+,	,	0.9918	,
+lay	V	0.6078	lay
+me	O	0.9918	me
+on	P	0.8343	on
+your	D	0.5467	your
+sofa	N	0.8188	sofa
+			
+call	V	0.4423	call
+before	P	0.7798	before
+you	O	0.9627	you
+come	V	0.9593	come
+,	,	0.9918	,
+i	O	0.9651	i
+need	V	0.8664	need
+to	P	0.9511	to
+shave	V	0.8096	shave
+my	D	0.8420	my
+chocha	!	0.6525	chocha
+			
+you	O	0.9627	you
+do	V	0.9687	do
+or	&	0.9822	or
+you	O	0.9627	you
+don't	V	0.9973	don't
+or	&	0.9822	or
+you	O	0.9627	you
+will	V	0.9478	will
+or	&	0.9822	or
+won't	V	0.8295	won't
+you	O	0.9627	you
+			
+go	V	0.8465	go
+downtown	N	0.3964	downtown
+and	&	0.9981	and
+eat	V	0.8267	eat
+it	O	0.9694	it
+like	P	0.7012	like
+a	D	0.8948	a
+vulture	N	0.9351	vulture
+			
+see	V	0.8335	see
+my	D	0.8420	my
+hips	N	0.9208	hips
+and	&	0.9981	and
+my	D	0.8420	my
+tips	N	0.9761	tips
+,	,	0.9918	,
+don't	V	0.9973	don't
+ya	!	0.8954	ya
+			
+see	V	0.8335	see
+my	D	0.8420	my
+ass	N	0.8849	ass
+and	&	0.9981	and
+my	D	0.8420	my
+lips	N	0.9246	lips
+,	,	0.9918	,
+don't	V	0.9973	don't
+ya	!	0.8954	ya
+			
+lost	V	0.4600	lost
+a	D	0.8948	a
+few	A	0.4890	few
+pounds	N	0.8662	pounds
+and	&	0.9981	and
+my	D	0.8420	my
+waist	N	0.8720	waist
+for	P	0.9910	for
+ya	!	0.8954	ya
+			
+this	O	0.5028	this
+the	D	0.9792	the
+kinda	R	0.5253	kinda
+beat	V	0.8551	beat
+that	O	0.7135	that
+go	V	0.8465	go
+ra-ta-ta	G	0.5029	ra-ta-ta
+			
+ra-ta-ta-ta-ta-ta-ta-ta-ta-ta	G	0.5618	ra-ta-ta-ta-ta-ta-ta-ta-ta-ta
+			
+sex	N	0.8990	sex
+me	O	0.9918	me
+so	R	0.5317	so
+good	A	0.9644	good
+i	O	0.9651	i
+say	V	0.8550	say
+blah-blah-blah	!	0.9847	blah-blah-blah
+			
+work	N	0.8618	work
+it	O	0.9694	it
+,	,	0.9918	,
+i	O	0.9651	i
+need	V	0.8664	need
+a	D	0.8948	a
+glass	N	0.9166	glass
+of	P	0.8953	of
+water	N	0.9661	water
+			
+boy	N	0.8695	boy
+oh	!	0.9988	oh
+boy	N	0.8695	boy
+,	,	0.9918	,
+it's	L	0.9926	it's
+good	A	0.9644	good
+to	P	0.9511	to
+know	V	0.9285	know
+ya	!	0.8954	ya
+			
+if	P	0.9711	if
+you	O	0.9627	you
+a	D	0.8948	a
+fly	V	0.7748	fly
+gal	N	0.7778	gal
+get	V	0.9655	get
+your	D	0.5467	your
+nails	N	0.9588	nails
+done	V	0.8666	done
+			
+get	V	0.9655	get
+a	D	0.8948	a
+pedicure	N	0.8150	pedicure
+,	,	0.9918	,
+get	V	0.9655	get
+your	D	0.5467	your
+hair	N	0.9056	hair
+did	V	0.9560	did
+			
+boy	N	0.8695	boy
+,	,	0.9918	,
+lift	V	0.7074	lift
+it	O	0.9694	it
+up	T	0.8440	up
+,	,	0.9918	,
+let's	L	0.9792	let's
+make	V	0.8257	make
+a	D	0.8948	a
+toast-a	N	0.9465	toast-a
+			
+let's	L	0.9792	let's
+get	V	0.9655	get
+drunk	A	0.8413	drunk
+,	,	0.9918	,
+that's	L	0.9901	that's
+gonna	V	0.9473	gonna
+bring	V	0.9836	bring
+us	O	0.9183	us
+closer	R	0.8782	closer
+			
+don't	V	0.9973	don't
+i	O	0.9651	i
+look	V	0.8183	look
+like	P	0.7012	like
+a	D	0.8948	a
+halle	N	0.3257	halle
+berry	N	0.6055	berry
+poster	N	0.9914	poster
+			
+see	V	0.8335	see
+the	D	0.9792	the
+belvedere	^	0.3667	belvedere
+playing	V	0.9921	playing
+tricks	N	0.8967	tricks
+on	P	0.8343	on
+you	O	0.9627	you
+			
+girlfriend	N	0.8774	girlfriend
+wanna	V	0.9079	wanna
+be	V	0.9569	be
+like	P	0.7012	like
+me	O	0.9918	me
+,	,	0.9918	,
+never	R	0.9752	never
+			
+you	O	0.9627	you
+won't	V	0.8295	won't
+find	V	0.9411	find
+a	D	0.8948	a
+bitch	N	0.8507	bitch
+that's	L	0.9901	that's
+even	R	0.9851	even
+better	A	0.6680	better
+			
+i	O	0.9651	i
+make	V	0.8257	make
+you	O	0.9627	you
+hot	A	0.8061	hot
+as	P	0.7377	as
+las	^	0.4664	las
+vegas	^	0.9492	vegas
+weather	N	0.8220	weather
+			
+listen	V	0.9782	listen
+up	T	0.8440	up
+close	A	0.7231	close
+while	P	0.4182	while
+i	O	0.9651	i
+take	V	0.9216	take
+it	O	0.9694	it
+backwards	R	0.8800	backwards
+			
+i'm	L	0.9890	i'm
+not	R	0.9628	not
+a	D	0.8948	a
+prostitute	N	0.9779	prostitute
+,	,	0.9918	,
+but	&	0.9901	but
+i	O	0.9651	i
+could	V	0.9712	could
+give	V	0.9362	give
+you	O	0.9627	you
+what	O	0.9490	what
+you	O	0.9627	you
+want	V	0.9638	want
+			
+i	O	0.9651	i
+love	N	0.6603	love
+your	D	0.5467	your
+braids	N	0.9350	braids
+and	&	0.9981	and
+your	D	0.5467	your
+mouth	N	0.9785	mouth
+full	A	0.8636	full
+of	P	0.8953	of
+floss	N	0.7096	floss
+			
+love	N	0.6603	love
+the	D	0.9792	the
+way	N	0.5969	way
+my	D	0.8420	my
+ass	N	0.8849	ass
+go	V	0.8465	go
+bum-bum-bum-bum	N	0.8335	bum-bum-bum-bum
+			
+keep	V	0.7901	keep
+your	D	0.5467	your
+eyes	N	0.9459	eyes
+on	P	0.8343	on
+my	D	0.8420	my
+bum-bum-bum-bum-bum	N	0.8335	bum-bum-bum-bum-bum
+			
+you	O	0.9627	you
+think	V	0.9624	think
+you	O	0.9627	you
+can	V	0.9763	can
+handle	V	0.9570	handle
+this	O	0.5028	this
+badonkadonk-donk	N	0.8516	badonkadonk-donk
+			
+take	V	0.9216	take
+my	D	0.8420	my
+thong	N	0.9482	thong
+off	T	0.4522	off
+and	&	0.9981	and
+my	D	0.8420	my
+ass	N	0.8849	ass
+go	V	0.8465	go
+boom	!	0.6344	boom
+			
+cut	N	0.8005	cut
+the	D	0.9792	the
+lights	N	0.8377	lights
+on	P	0.8343	on
+so	R	0.5317	so
+you	O	0.9627	you
+see	V	0.8335	see
+what	O	0.9490	what
+i	O	0.9651	i
+could	V	0.9712	could
+do	V	0.9687	do
+			
+boys	N	0.9869	boys
+,	,	0.9918	,
+boys	N	0.9869	boys
+,	,	0.9918	,
+all	D	0.7257	all
+type	N	0.8137	type
+of	P	0.8953	of
+boys	N	0.9869	boys
+			
+black	A	0.8061	black
+,	,	0.9918	,
+white	A	0.6236	white
+,	,	0.9918	,
+puerto	^	0.7710	puerto
+rican	^	0.5084	rican
+,	,	0.9918	,
+chinese	N	0.3268	chinese
+boys	N	0.9869	boys
+			
+why-thai	R	0.3345	why-thai
+,	,	0.9918	,
+-thai-o-toy-o-thai-thai	N	0.2300	-thai-o-toy-o-thai-thai
+			
+rock-thai	N	0.4363	rock-thai
+,	,	0.9918	,
+-thai-o-toy-o-thai-thai	N	0.2300	-thai-o-toy-o-thai-thai
+			
+girls	N	0.9710	girls
+,	,	0.9918	,
+girls	N	0.9710	girls
+,	,	0.9918	,
+get	V	0.9655	get
+that	O	0.7135	that
+cash	N	0.9125	cash
+			
+if	P	0.9711	if
+it's	L	0.9926	it's
+! digits	, N	0.9857 0.9304	!digits
+to	P	0.9511	to
+! digits	, N	0.9857 0.9304	!digits
+or	&	0.9822	or
+shaking	V	0.9773	shaking
+your	D	0.5467	your
+ass	N	0.8849	ass
+			
+ain't	V	0.8098	ain't
+no	!	0.9253	no
+shame	N	0.9321	shame
+,	,	0.9918	,
+ladies	N	0.9830	ladies
+do	V	0.9687	do
+your	D	0.5467	your
+thing	N	0.9739	thing
+			
+just	R	0.9975	just
+make	V	0.8257	make
+sure	A	0.8345	sure
+you	O	0.9627	you
+ahead	R	0.5145	ahead
+of	P	0.8953	of
+the	D	0.9792	the
+game	N	0.9747	game
+			
+just	R	0.9975	just
+cause	P	0.4706	cause
+i	O	0.9651	i
+got	V	0.7838	got
+a	D	0.8948	a
+lot	N	0.5757	lot
+of	P	0.8953	of
+fame	N	0.9575	fame
+super	R	0.4433	super
+			
+prince	^	0.6358	prince
+couldn't	V	0.9934	couldn't
+get	V	0.9655	get
+me	O	0.9918	me
+change	N	0.7192	change
+my	D	0.8420	my
+name	N	0.9785	name
+papa	^	0.8513	papa
+			
+kunta	^	0.9649	kunta
+kinte	^	0.9708	kinte
+a	D	0.8948	a
+slave	N	0.9609	slave
+again	R	0.9571	again
+,	,	0.9918	,
+no	!	0.9253	no
+sir	!	0.7264	sir
+			
+picture	N	0.9454	picture
+black	A	0.8061	black
+sam	^	0.8942	sam
+,	,	0.9918	,
+oh	!	0.9988	oh
+yes	!	0.9958	yes
+a	D	0.8948	a
+massa	^	0.8110	massa
+			
+picture	N	0.9454	picture
+lil '	A ,	0.5628 0.9707	lil'
+kim	^	0.9805	kim
+dating	V	0.9525	dating
+a	D	0.8948	a
+pastor	N	0.9895	pastor
+			
+minute	N	0.7091	minute
+man	!	0.8651	man
+and	&	0.9981	and
+big	A	0.7283	big
+red	A	0.9081	red
+could	V	0.9712	could
+out	T	0.6015	out
+last	A	0.8954	last
+ya	!	0.8954	ya
+			
+who	O	0.9764	who
+is	V	0.9892	is
+the	D	0.9792	the
+best	A	0.9236	best
+,	,	0.9918	,
+i	O	0.9651	i
+don't	V	0.9973	don't
+have	V	0.9703	have
+to	P	0.9511	to
+ask	V	0.8878	ask
+ya	!	0.8954	ya
+			
+when	R	0.9425	when
+i	O	0.9651	i
+come	V	0.9593	come
+out	T	0.6015	out
+,	,	0.9918	,
+you	O	0.9627	you
+won't	V	0.8295	won't
+even	R	0.9851	even
+matter	N	0.8011	matter
+			
+why	R	0.8527	why
+you	O	0.9627	you
+act	V	0.5013	act
+dumb	A	0.9096	dumb
+like	P	0.7012	like
+,	,	0.9918	,
+uh	!	0.9927	uh
+,	,	0.9918	,
+duh	!	0.9914	duh
+			
+so	R	0.5317	so
+you	O	0.9627	you
+act	V	0.5013	act
+dumb	A	0.9096	dumb
+like	P	0.7012	like
+,	,	0.9918	,
+uh	!	0.9927	uh
+,	,	0.9918	,
+duh	!	0.9914	duh
+			
+as	P	0.7377	as
+the	D	0.9792	the
+drummer	N	0.9776	drummer
+boy	N	0.8695	boy
+go	V	0.8465	go
+ba-rom-pop-pom-pom	G	0.4278	ba-rom-pop-pom-pom
+			
+give	V	0.9362	give
+you	O	0.9627	you
+some-some-some	!	0.3382	some-some-some
+of	P	0.8953	of
+this	O	0.5028	this
+cinnabun	N	0.5473	cinnabun
+			
+to	P	0.9511	to
+my	D	0.8420	my
+fellas	N	0.9436	fellas
+,	,	0.9918	,
+i	O	0.9651	i
+like	P	0.7012	like
+the	D	0.9792	the
+way	N	0.5969	way
+you	O	0.9627	you
+work	N	0.8618	work
+that	O	0.7135	that
+			
+to	P	0.9511	to
+my	D	0.8420	my
+ladies	N	0.9830	ladies
+,	,	0.9918	,
+you	O	0.9627	you
+sure	A	0.8345	sure
+know	V	0.9285	know
+how	R	0.9435	how
+to	P	0.9511	to
+work	N	0.8618	work
+that	O	0.7135	that
+			
+hey	!	0.9986	hey
+you	O	0.9627	you
+nigga	N	0.5857	nigga
+			
+tell	V	0.7941	tell
+me	O	0.9918	me
+what	O	0.9490	what
+the	D	0.9792	the
+issue	N	0.9221	issue
+			
+all	D	0.7257	all
+up	T	0.8440	up
+in	P	0.8576	in
+the	D	0.9792	the
+booty	N	0.9176	booty
+like	P	0.7012	like
+tissue	N	0.8990	tissue
+			
+could	V	0.9712	could
+it	O	0.9694	it
+be	V	0.9569	be
+how	R	0.9435	how
+missy	N	0.9194	missy
+so	R	0.5317	so
+vicious	A	0.8595	vicious
+			
+make	V	0.8257	make
+you	O	0.9627	you
+so	R	0.5317	so
+suspicious	A	0.9485	suspicious
+			
+i	O	0.9651	i
+been	V	0.9227	been
+known	V	0.9267	known
+to	P	0.9511	to
+beat	V	0.8551	beat
+them	O	0.9105	them
+bitches	N	0.9404	bitches
+with	P	0.9671	with
+those	O	0.4868	those
+switches	N	0.4944	switches
+			
+if	P	0.9711	if
+you	O	0.9627	you
+wanna	V	0.9079	wanna
+roll	V	0.5043	roll
+with	P	0.9671	with
+those	O	0.4868	those
+sissies	N	0.8417	sissies
+			
+you	O	0.9627	you
+can't	V	0.9853	can't
+roll	V	0.5043	roll
+with	P	0.9671	with
+missy	N	0.9194	missy
+i'ma	L	0.9804	i'ma
+kiss	V	0.5466	kiss
+you	O	0.9627	you
+on	P	0.8343	on
+your	D	0.5467	your
+cookie	N	0.9570	cookie
+			
+show	N	0.8348	show
+these	D	0.6152	these
+pussies	N	0.8090	pussies
+i'm	L	0.9890	i'm
+the	D	0.9792	the
+rookie	N	0.5247	rookie
+			
+sleep	N	0.6167	sleep
+while	P	0.4182	while
+your	D	0.5467	your
+homeboy	N	0.4784	homeboy
+book	N	0.8708	book
+me	O	0.9918	me
+(	,	0.9082	(
+fikky	!	0.3925	fikky
+fikky	!	0.3925	fikky
+fikky	!	0.3925	fikky
+)	,	0.9412	)
+			
+is	V	0.9892	is
+you	O	0.9627	you
+mad	A	0.9005	mad
+cause	P	0.4706	cause
+i'm	L	0.9890	i'm
+took	V	0.9612	took
+and	&	0.9981	and
+got	V	0.7838	got
+you	O	0.9627	you
+shooken	^	0.3348	shooken
+			
+you	O	0.9627	you
+think	V	0.9624	think
+you	O	0.9627	you
+slick	A	0.9566	slick
+			
+tried	V	0.9269	tried
+to	P	0.9511	to
+play	V	0.8616	play
+a	D	0.8948	a
+dirty	A	0.7726	dirty
+trick	N	0.8436	trick
+on	P	0.8343	on
+this	O	0.5028	this
+heart	N	0.8468	heart
+of	P	0.8953	of
+mine	O	0.9042	mine
+			
+you	O	0.9627	you
+thought	V	0.9287	thought
+that	O	0.7135	that
+i	O	0.9651	i
+was	V	0.9773	was
+blind	A	0.9582	blind
+			
+you	O	0.9627	you
+took	V	0.9612	took
+your	D	0.5467	your
+pick	V	0.8334	pick
+			
+between	P	0.9126	between
+this	O	0.5028	this
+other	A	0.9271	other
+girl	N	0.8631	girl
+and	&	0.9981	and
+me	O	0.9918	me
+			
+she	O	0.9863	she
+was	V	0.9773	was
+a	D	0.8948	a
+friend	N	0.8072	friend
+of	P	0.8953	of
+mine	O	0.9042	mine
+			
+i	O	0.9651	i
+got	V	0.7838	got
+your	D	0.5467	your
+ass	N	0.8849	ass
+this	O	0.5028	this
+time	N	0.9685	time
+			
+don't	V	0.9973	don't
+you	O	0.9627	you
+come	V	0.9593	come
+here	R	0.7796	here
+talking	V	0.8032	talking
+that	O	0.7135	that
+bull	N	0.9446	bull
+shit	N	0.6894	shit
+to	P	0.9511	to
+me	O	0.9918	me
+(	,	0.9082	(
+to	P	0.9511	to
+me	O	0.9918	me
+)	,	0.9412	)
+			
+i	O	0.9651	i
+ain't	V	0.8098	ain't
+the	D	0.9792	the
+one	$	0.7703	one
+you	O	0.9627	you
+with	P	0.9671	with
+			
+tears	N	0.9777	tears
+in	P	0.8576	in
+your	D	0.5467	your
+eyes	N	0.9459	eyes
+won't	V	0.8295	won't
+shed	V	0.7419	shed
+the	D	0.9792	the
+lies	N	0.8987	lies
+you	O	0.9627	you
+told	V	0.9704	told
+to	P	0.9511	to
+me	O	0.9918	me
+(	,	0.9082	(
+to	P	0.9511	to
+me	O	0.9918	me
+)	,	0.9412	)
+			
+so	R	0.5317	so
+get	V	0.9655	get
+up	T	0.8440	up
+out	T	0.6015	out
+my	D	0.8420	my
+face	N	0.9357	face
+			
+bye	!	0.9774	bye
+(	,	0.9082	(
+it	O	0.9694	it
+aint	V	0.7028	aint
+a	D	0.8948	a
+,	,	0.9918	,
+it	O	0.9694	it
+aint	V	0.7028	aint
+a	D	0.8948	a
+)	,	0.9412	)
+			
+bye	!	0.9774	bye
+bye	!	0.9774	bye
+(	,	0.9082	(
+you	O	0.9627	you
+can	V	0.9763	can
+cry	V	0.6868	cry
+all	D	0.7257	all
+you	O	0.9627	you
+want	V	0.9638	want
+to	P	0.9511	to
+)	,	0.9412	)
+			
+bye	!	0.9774	bye
+(	,	0.9082	(
+i	O	0.9651	i
+caught	V	0.9061	caught
+you	O	0.9627	you
+)	,	0.9412	)
+			
+you	O	0.9627	you
+coulda	!	0.2818	coulda
+stopped	V	0.9851	stopped
+by	P	0.9649	by
+,	,	0.9918	,
+you	O	0.9627	you
+got	V	0.7838	got
+me	O	0.9918	me
+hurting	V	0.9558	hurting
+inside	P	0.4708	inside
+			
+you	O	0.9627	you
+shoulda	!	0.2228	shoulda
+never	R	0.9752	never
+lied	V	0.9282	lied
+			
+bye	!	0.9774	bye
+(	,	0.9082	(
+bye	!	0.9774	bye
+)	,	0.9412	)
+you	O	0.9627	you
+shouldn'tve	V	0.5770	shouldn'tve
+kept	V	0.9574	kept
+that	O	0.7135	that
+trick	N	0.8436	trick
+on	P	0.8343	on
+the	D	0.9792	the
+side	N	0.9407	side
+			
+you	O	0.9627	you
+think	V	0.9624	think
+you	O	0.9627	you
+bad	A	0.9370	bad
+			
+lost	V	0.4600	lost
+the	D	0.9792	the
+only	R	0.7668	only
+love	N	0.6603	love
+you	O	0.9627	you
+had	V	0.9560	had
+			
+looking	V	0.9528	looking
+for	P	0.9910	for
+someone	N	0.9495	someone
+			
+who	O	0.9764	who
+you	O	0.9627	you
+could	V	0.9712	could
+fuck	!	0.5770	fuck
+for	P	0.9910	for
+fun	N	0.6011	fun
+(	,	0.9082	(
+ficky-ficky-ficky	G	0.2616	ficky-ficky-ficky
+)	,	0.9412	)
+			
+why	R	0.8527	why
+stay	V	0.6675	stay
+wit	P	0.3751	wit
+me	O	0.9918	me
+			
+if	P	0.9711	if
+what	O	0.9490	what
+you	O	0.9627	you
+wanna	V	0.9079	wanna
+do	V	0.9687	do
+is	V	0.9892	is
+play	V	0.8616	play
+			
+take	V	0.9216	take
+your	D	0.5467	your
+tricks	N	0.8967	tricks
+somewhere	R	0.9532	somewhere
+			
+and	&	0.9981	and
+keep	V	0.7901	keep
+your	D	0.5467	your
+hoe	!	0.5622	hoe
+ass	N	0.8849	ass
+there	R	0.4143	there
+(	,	0.9082	(
+you	O	0.9627	you
+can	V	0.9763	can
+stay	V	0.6675	stay
+right	!	0.8610	right
+there	R	0.4143	there
+)	,	0.9412	)
+			
+shouldn't	V	0.9954	shouldn't
+have	V	0.9703	have
+kept	V	0.9574	kept
+,	,	0.9918	,
+shouldn't	V	0.9954	shouldn't
+have	V	0.9703	have
+kept	V	0.9574	kept
+that	O	0.7135	that
+trick	N	0.8436	trick
+on	P	0.8343	on
+the	D	0.9792	the
+side	N	0.9407	side
+			
+then	R	0.9661	then
+maybe	R	0.9308	maybe
+i	O	0.9651	i
+,	,	0.9918	,
+i	O	0.9651	i
+wouldn't	V	0.8013	wouldn't
+of	P	0.8953	of
+had	V	0.9560	had
+to	P	0.9511	to
+say	V	0.8550	say
+goodbye	!	0.9922	goodbye
+			
+all	D	0.7257	all
+you	O	0.9627	you
+had	V	0.9560	had
+to	P	0.9511	to
+do	V	0.9687	do
+was	V	0.9773	was
+ask	V	0.8878	ask
+me	O	0.9918	me
+			
+if	P	0.9711	if
+i	O	0.9651	i
+was	V	0.9773	was
+nasty	A	0.9688	nasty
+			
+lasting	V	0.5358	lasting
+			
+won't	V	0.8295	won't
+quit	V	0.9098	quit
+until	P	0.9730	until
+the	D	0.9792	the
+sun	^	0.4683	sun
+set	V	0.5168	set
+			
+read	V	0.8720	read
+my	D	0.8420	my
+lips	N	0.9246	lips
+			
+i'd	L	0.9803	i'd
+like	P	0.7012	like
+to	P	0.9511	to
+know	V	0.9285	know
+who	O	0.9764	who
+that	O	0.7135	that
+bitch	N	0.8507	bitch
+in	P	0.8576	in
+the	D	0.9792	the
+flick	N	0.9668	flick
+is	V	0.9892	is
+			
+who	O	0.9764	who
+you	O	0.9627	you
+cheesing	V	0.9041	cheesing
+with	P	0.9671	with
+,	,	0.9918	,
+i'm	L	0.9890	i'm
+about	P	0.8950	about
+to	P	0.9511	to
+flip	V	0.4057	flip
+			
+know	V	0.9285	know
+what	O	0.9490	what
+i'd	L	0.9803	i'd
+do	V	0.9687	do
+if	P	0.9711	if
+i	O	0.9651	i
+drink	V	0.4759	drink
+a	D	0.8948	a
+brew	N	0.8604	brew
+			
+uhh	!	0.9921	uhh
+miller	^	0.9173	miller
+boo	!	0.6150	boo
+			
+kick	N	0.7913	kick
+1-2	$	0.9712	1-2
+kung	!	0.5217	kung
+fu	!	0.6048	fu
+			
+you	O	0.9627	you
+and	&	0.9981	and
+your	D	0.5467	your
+boo	!	0.6150	boo
+			
+the	D	0.9792	the
+worst	A	0.9241	worst
+thing	N	0.9739	thing
+you	O	0.9627	you
+could	V	0.9712	could
+ever	R	0.9297	ever
+do	V	0.9687	do
+			
+is	V	0.9892	is
+have	V	0.9703	have
+a	D	0.8948	a
+chick	N	0.7004	chick
+on	P	0.8343	on
+the	D	0.9792	the
+side	N	0.9407	side
+,	,	0.9918	,
+right	!	0.8610	right
+?	,	0.9909	?
+			
+true	A	0.9009	true
+!	,	0.9924	!
+(	,	0.9082	(
+true	A	0.9009	true
+,	,	0.9918	,
+true	A	0.9009	true
+)	,	0.9412	)
+			
