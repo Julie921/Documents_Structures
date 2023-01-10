@@ -2,7 +2,7 @@
   "lang":"en",
   "name":"pipeline",
   "version":"0.0.0",
-  "spacy_version":">=3.4.1,<3.5.0",
+  "spacy_version":">=3.4.4,<3.5.0",
   "description":"",
   "author":"",
   "email":"",
@@ -21,18 +21,44 @@
 
     ],
     "tagger":[
+      "#_#",
+      "$_$",
+      "&_&",
       "ADJ",
       "ADP",
       "ADV",
+      "AUX",
+      "A_A",
+      "CCONJ",
       "CONJ",
       "DET",
+      "D_D",
+      "E_E",
+      "G_G",
+      "INTJ",
+      "L_L",
+      "M_M",
       "NOUN",
       "NUM",
+      "N_N",
+      "O_O",
       "PART",
       "PRON",
+      "PROPN",
       "PUNCT",
+      "P_P",
+      "R_R",
+      "SCONJ",
+      "SYM",
+      "S_S",
+      "T_T",
+      "U_U",
       "VERB",
-      "X"
+      "V_V",
+      "X",
+      "X_X",
+      "Y_Y",
+      "Z_Z"
     ]
   },
   "pipeline":[
@@ -47,8 +73,8 @@
 
   ],
   "performance":{
-    "tag_acc":0.8492054149,
-    "tok2vec_loss":670.9369228777,
-    "tagger_loss":891.2618190805
+    "tag_acc":0.8435885392,
+    "tok2vec_loss":13711.3169305912,
+    "tagger_loss":123480.8619618462
   }
 }

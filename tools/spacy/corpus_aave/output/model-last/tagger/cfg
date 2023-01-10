@@ -1,0 +1,18 @@
+{
+  "labels":[
+    "ADJ",
+    "ADP",
+    "ADV",
+    "CONJ",
+    "DET",
+    "NOUN",
+    "NUM",
+    "PART",
+    "PRON",
+    "PUNCT",
+    "VERB",
+    "X"
+  ],
+  "neg_prefix":"!",
+  "overwrite":false
+}
