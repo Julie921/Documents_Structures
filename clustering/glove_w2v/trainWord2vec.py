@@ -1,12 +1,12 @@
 import gensim
 import sys
-import dendoun.extraction as dde
+import traitements.extraction as te
 
 if __name__=="__main__":
     
     my_conll = sys.argv[1]
         
-    corpus_clean = dde.get_only_tokens_text(my_conll)
+    corpus_clean = te.get_only_tokens_text(my_conll)
     
     model = gensim.models.Word2Vec(min_count=1, vector_size=250, window=10, workers=4)
     model.build_vocab(corpus_clean)  # prepare the model vocabulary
