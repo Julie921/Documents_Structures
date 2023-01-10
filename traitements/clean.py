@@ -1,11 +1,27 @@
 import re
-from typing import List
-from misc import safe_list_get
+from typing import List, Any
 import sys
 
 
 ####################################################################################
 
+def safe_list_get(l: List[Any], idx: int, default: Any) -> Any:
+    """
+    Cette fonction prend en entrée une liste, un indice et une valeur par défaut. Elle renvoie l'élément de la liste à l'indice spécifié, si l'indice est en dehors des limites de la liste, elle retourne la valeur par défaut.
+    Cela permet d'éviter les erreurs d'indexation qui pourraient se produire lors de l'accès à un élément de la liste.
+
+    Args:
+    - l (List[Any]): une liste
+    - idx (int): un indice
+    - default: valeur par défaut
+
+    Returns:
+    - Any : l'élément de la liste à l'indice spécifié ou la valeur par défaut.
+    """
+    try:
+        return l[idx]
+    except IndexError:
+        return default
 
 def clean_token(token: str) -> str:
     """Nettoyage des tokens de tweet.
@@ -58,7 +74,7 @@ def clean_texte_from_text_grid(texte: str) -> str:
     clean_texte = re.sub(r"\(.+\)", "", clean_texte).replace("\n \n", "\n") # on enlève (laughing)
     return clean_texte.lower() # on met tout en minuscules
 
-def clean_conll(conll_file: str) -> List[str]:
+def clean_conll(folder, interFolder, conll_file: str) -> List[str]:
     """Nettoie un fichier CoNLL donné en entrée.
     
     En plus d'écriture le CoNLL nettoyé dans un nouveau fichier, la fonction renvoie le fichier nettoyé 
@@ -73,9 +89,9 @@ def clean_conll(conll_file: str) -> List[str]:
 
     clean_file_as_list = [] # le fichier propre sous la forme d'une liste de strings
 
-    with open(f"clean_{conll_file.split('/')[-1]}", "w", encoding="utf-8") as output:
+    with open(f"{folder}/clean_{conll_file}.conllu", "w", encoding="utf-8") as output:
         
-        with open(conll_file, "r", encoding="utf-8") as input:
+        with open(f"{folder}/{interFolder}/{conll_file}.conllu", "r", encoding="utf-8") as input:
             l = input.readline()
             
             while l:

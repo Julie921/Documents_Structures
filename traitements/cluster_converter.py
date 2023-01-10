@@ -1,8 +1,26 @@
 import csv
 import re
 import sys
-from typing import List
-from misc import safe_list_get
+from typing import List, Any
+#from misc import safe_list_get
+
+def safe_list_get(l: List[Any], idx: int, default: Any) -> Any:
+    """
+    Cette fonction prend en entrée une liste, un indice et une valeur par défaut. Elle renvoie l'élément de la liste à l'indice spécifié, si l'indice est en dehors des limites de la liste, elle retourne la valeur par défaut.
+    Cela permet d'éviter les erreurs d'indexation qui pourraient se produire lors de l'accès à un élément de la liste.
+
+    Args:
+    - l (List[Any]): une liste
+    - idx (int): un indice
+    - default: valeur par défaut
+
+    Returns:
+    - Any : l'élément de la liste à l'indice spécifié ou la valeur par défaut.
+    """
+    try:
+        return l[idx]
+    except IndexError:
+        return default
 
 def makeDictFromTSV(tsv_file: str) -> dict:
     """
@@ -40,7 +58,7 @@ def makeDictFromTSV(tsv_file: str) -> dict:
     return converter
 
 
-def convertConll(conll_file:str, converter:dict)->List[str]:
+def convertConll(folder,conll_file:str, converter:dict)->List[str]:
     """Cette fonction prend en entrée un fichier CoNLL déjà nettoyé
     et un dictionnaire de correspondances de remplacement (forme -> nom_cluster). 
     Elle sert à exploiter les clusters créés avec l'algorithme de Brown.
@@ -62,9 +80,9 @@ def convertConll(conll_file:str, converter:dict)->List[str]:
     
     file_as_list = [] # le fichier sous forme de liste si jamais on veut tester des trucs
     
-    with open(f"clustered_{conll_file.split('/')[-1]}", "w", encoding="utf-8") as output: # pour l'écriture du résultat
+    with open(f"{folder}/clustered_{conll_file}.conllu", "w", encoding="utf-8") as output: # pour l'écriture du résultat
     
-        with open(conll_file, "r") as input_conll: # lecture du conll
+        with open(f"{folder}/{conll_file}.conllu", "r") as input_conll: # lecture du conll
             l = input_conll.readline()
     
             while l: # tant qu'il reste des lignes
