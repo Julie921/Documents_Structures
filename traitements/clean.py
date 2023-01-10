@@ -3,6 +3,13 @@ import re
 def clean_token(token: str) -> str:
     """Nettoyage des tokens de tweet.
     
+    Remplacements effectués : 
+    
+    - anonymisation : "@user"
+    - "COL" -> ":"
+    - liens -> "@link"
+    - numéros -> "!digits
+    
     Args:
         token (str): Le token à nettoyer.
     
@@ -15,6 +22,8 @@ def clean_token(token: str) -> str:
         return ":"
     elif token.startswith("httpCOL//"): # on enlève les liens
         return "@link"
+    elif re.match("\d", token): # on remplace les chiffres
+        return "!digits"
     else: # on renvoie le token non modifié 
         return token
 

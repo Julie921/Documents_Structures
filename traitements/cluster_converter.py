@@ -2,7 +2,7 @@ import csv
 import re
 import sys
 from typing import List, Any
-
+from clean import clean_token
 
 def safe_list_get(l:List[Any], idx:int, default:Any)->Any:
     """
@@ -85,11 +85,13 @@ def convertConll(conll_file:str, converter:dict)->List[str]:
             l = input_conll.readline()
             while l: # tant qu'il reste des lignes
                 source = safe_list_get(l.split("\t"), 1, False) # forme du token
+                l_list = l.split("\t")
                 if source in converter.keys(): # si la forme se trouve dnas le dico de conversion
-                    l_list = l.split("\t")
                     l_list[1] = converter[source] # on remplace la forme du token par le nom du cluster
                     l_list[-1] = f"clustered = {source}\n" # on conserve la forme dans la colonne "misc"
-                    l = "\t".join(l_list) # on reconstitue la ligne
+                elif source: # si on ne trouve pas le token dans le dico de conversion 
+                    l_list[1] = clean_token(l_list[1]) # on nettoie le token
+                l = "\t".join(l_list) # on reconstitue la ligne
                 output.write(l)
                 file_as_list.append(l) 
                 l = input_conll.readline() # on passe à la ligne suivante 
@@ -105,7 +107,8 @@ def main():
 
     tsv_file = sys.argv[2] # fichier avec les correspondances
     file = sys.argv[1] # le conll
-    makeDictFromTSV(tsv_file)
+    converter = makeDictFromTSV(tsv_file)
+    convertConll(file, converter)
 
 if __name__ == "__main__":
     
