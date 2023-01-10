@@ -27,6 +27,8 @@ def clean_token(token: str) -> str:
     """
     if re.match("@\w", token): # anonymisation des utilisateurs
         return "@user"
+    elif re.match(r"URL[0-9]+", token): # on enlève les liens qui étaient sous la forme "URL1234", etc.
+        return re.sub(r"URL[0-9]+", "@link", token)
     elif token.startswith("httpCOL//") or token.startswith("httpsCOL//"): # on enlève les liens
         return "@link"
     elif re.search("COL", token):
