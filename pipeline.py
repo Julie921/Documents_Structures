@@ -8,32 +8,47 @@ import itertools
 from eval import get_pos_list
 from tools.sparknlp.loadSparkNLPmodel import main as sparknlp_test
 from tools.sparknlp.trainSparkNLP import main as sparknlp_train
-exec(open("tools/stanfordnlp/stanza-train/stanza-main/test_stanzaiy.py").read())
+exec(open("tools/stanfordnlp/stanza-train/stanza-main/test_stanzaiy.py").read()) # récuperation des fonction test_my_model() et train_model() pour stanza
 import spacy
 import os
 import glob as glb
 import sys
 
 def convert_to_UD(folder, conll_file):
+    """
+    fonction convertissant les pos d'un fichier conll de Penn vers UD
+    prend en entrée un dossier, et le nom d'un fichier
+    """
     converter = tagset_converter.makeDictFromCsv("./traitements/PenPos2UD.csv")
     tagset_converter.convertConll(folder, conll_file, 4, converter)
     return "prout"
 
 def clean(folder,interFolder, conll_file):
+    """
+    fonction nettoyant les corpus de manière à uniformiser les données
+    elle prend en entrée un dossier, un dossier intermédiaire et un fichier
+    """
     clean_conll(folder, interFolder, conll_file)
     return "prout"
 
 def cluster(folder, conll_file):
+    """
+    fonction clusterisant les corpus de manière à améliorer les résultats
+    elle prend en entrée un dossier, un dossier intermédiaire et un fichier
+    """
     converter = cluster_converter.makeDictFromTSV("./clustering/brown_hierarchy/50mpaths2.txt")
     cluster_converter.convertConll(folder, conll_file, converter)
     return "prout"
 
 def pretraitements(thing, clustered):
-
-    global trashcan
+    """
+    fonction de prétraitements
+    elle prend en entrée le type de corpus (train, dev, test) et une variable controle permettant de savoir si les fichiers doivent etre clusterisés
+    elle écrit les fichiers dans l'arborescence
+    """
 
     thing_list = thing.split("/")
-    folder, interFolder, thing = thing_list
+    folder, interFolder, thing = thing_list #séparation du chemin pour faciliter les manipulations des fichiers
     thing = thing.split(".")[0]
     thingy = thing
 
@@ -52,6 +67,9 @@ def pretraitements(thing, clustered):
     return final_thing, thingy
 
 def make_ark_file(y_true):
+    """
+    création d'un fichier d'entrée formaté pour arknlp
+    """
     with open("test_for_ark.conllu", "w") as test:
         for phrase in y_true:
             for tok, _ in phrase:
@@ -61,7 +79,9 @@ def make_ark_file(y_true):
                     test.write(tok.strip("'’")+"\n")
             test.write("\n")
 def eval_tool(y_true_file, clustered, tool):
-
+    """
+    fonction d'évaluation sur tous nos fichiers de test
+    """
     global corpus
 
     y_true_file, name = pretraitements(y_true_file, clustered)
@@ -103,7 +123,9 @@ def eval_tool(y_true_file, clustered, tool):
     return "prout"
 
 def pipeline_train(folder,train, dev, clustered, tool):
-
+    """
+    fonction d'entrainements des outils
+    """
     final_train, _ = pretraitements(train, clustered)
     final_dev, _ = pretraitements(dev, clustered)
 
@@ -147,5 +169,4 @@ if __name__ == "__main__":
             eval_tool(f"{file}", clustered, tool)
 
     else:
-        print("hop")
-    print("prout")
+        print("This isn't an option, this can only be used for training or testing : 'python pipeline.py test|train ...'")
