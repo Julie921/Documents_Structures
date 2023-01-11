@@ -75,7 +75,7 @@ def eval_tool(y_true_file, clustered, tool):
     elif tool == "sparknlp":
         y_true = [tok[1] for tok in list(itertools.chain.from_iterable(y_true))]
         y_pred = sparknlp_test("./sparknlp_output",y_true_file)
-    elif tool == "stanza":
+    elif tool == "stanfordnlp":
         y_true = [tok[1] for tok in list(itertools.chain.from_iterable(y_true))]
         y_pred = test_my_model(y_true_file)
     elif tool == "arknlp":
@@ -117,7 +117,7 @@ def pipeline_train(folder,train, dev, clustered, tool):
         sparknlp_train(train, dev, "./sparknlp_output/")
     elif tool == "arknlp":
         print("Cannot train tool arknlp")
-    elif tool == "stanza":
+    elif tool == "stanfordnlp":
         os.system(f"mv {final_train}.conllu ./tools/stanfordnlp/stanza-train/data/udbase/UD_English-TEST/en_test-ud-train.conllu")
         os.system(f"mv {final_dev}.conllu ./tools/stanfordnlp/stanza-train/data/udbase/UD_English-TEST/en_test-ud-dev.conllu")
 

@@ -71,7 +71,7 @@ def remove_repeats(word):
     """
     return re.sub(r'([^\w\s])\1+', r'\1', word)
 
-def convertConll(folder,conll_file:str, converter:dict, fuzzyMatches: dict)->List[str]:
+def convertConll(folder,conll_file:str, converter:dict, fuzzyMatches: dict|bool = False)->List[str]:
     """Cette fonction prend en entrée un fichier CoNLL déjà nettoyé
     et un dictionnaire de correspondances de remplacement (forme -> nom_cluster). 
     Elle sert à exploiter les clusters créés avec l'algorithme de Brown.
@@ -105,9 +105,10 @@ def convertConll(folder,conll_file:str, converter:dict, fuzzyMatches: dict)->Lis
                 if source in converter.keys(): # si la forme se trouve dnas le dico de conversion
                     l_list[1] = converter[source] # on remplace la forme du token par le nom du cluster
                     l_list[-1] = f"clustered = {source}\n" # on conserve la forme dans la colonne "misc"
-                elif remove_repeats(source) in fuzzyMatches.keys(): # s'il n'est pas dans les clusters, on le cherche dans les fuzzy matches
-                    l_list[1] = converter[fuzzyMatches[source]] # on utilise le cluster du fuzzy match
-                    l_list[-1] = f"clustered = {source}\n" # on conserve la forme originale dans la colonne "misc"
+                elif fuzzyMatches:
+                    if remove_repeats(source) in fuzzyMatches.keys(): # s'il n'est pas dans les clusters, on le cherche dans les fuzzy matches
+                        l_list[1] = converter[fuzzyMatches[source]] # on utilise le cluster du fuzzy match
+                        l_list[-1] = f"clustered = {source}\n" # on conserve la forme originale dans la colonne "misc"
                 l = "\t".join(l_list) # on reconstitue la ligne
                 output.write(l)
                 file_as_list.append(l) 
