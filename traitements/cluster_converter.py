@@ -58,7 +58,20 @@ def makeDictFromTSV(tsv_file: str) -> dict:
     return converter
 
 
-def convertConll(folder,conll_file:str, converter:dict)->List[str]:
+def remove_repeats(word):
+    """Enlève les caractères répétés pour pouvoir trouver un mot dans
+    le dictionnaire des fuzzy matches si jamais il ne se trouve pas
+    dans celui des clusters
+    
+    Args:
+        word (str): le mot qui ne se trouve pas dans les clusters (par exemple: "woooooowwwww")
+    
+    Returns:
+        str: le mot où on a enlevé tous les caractères répétés (ex: "wow")
+    """
+    return re.sub(r'([^\w\s])\1+', r'\1', word)
+
+def convertConll(folder,conll_file:str, converter:dict, fuzzyMatches: dict)->List[str]:
     """Cette fonction prend en entrée un fichier CoNLL déjà nettoyé
     et un dictionnaire de correspondances de remplacement (forme -> nom_cluster). 
     Elle sert à exploiter les clusters créés avec l'algorithme de Brown.
@@ -92,7 +105,9 @@ def convertConll(folder,conll_file:str, converter:dict)->List[str]:
                 if source in converter.keys(): # si la forme se trouve dnas le dico de conversion
                     l_list[1] = converter[source] # on remplace la forme du token par le nom du cluster
                     l_list[-1] = f"clustered = {source}\n" # on conserve la forme dans la colonne "misc"
-    
+                elif remove_repeats(source) in fuzzyMatches.keys(): # s'il n'est pas dans les clusters, on le cherche dans les fuzzy matches
+                    l_list[1] = converter[fuzzyMatches[source]] # on utilise le cluster du fuzzy match
+                    l_list[-1] = f"clustered = {source}\n" # on conserve la forme originale dans la colonne "misc"
                 l = "\t".join(l_list) # on reconstitue la ligne
                 output.write(l)
                 file_as_list.append(l) 
@@ -109,9 +124,12 @@ def main():
     """
 
     tsv_file = sys.argv[2] # fichier avec les correspondances
-    file = sys.argv[1] # le conll
+    conll_file = sys.argv[1] # le conll
+    fuzzyMatches_file = sys.argv[2] # le tsv avec les fuzzy matches
+    
     converter = makeDictFromTSV(tsv_file)
-    convertConll(file, converter)
+    fuzzyMatches = makeDictFromTSV(fuzzyMatches) # dictionnaire qui map pour chaque mot non-présnet dans les clusters le mot qui est le plus proche de lui dans les clusters
+    convertConll(conll_file, converter)
 
 if __name__ == "__main__":
     
