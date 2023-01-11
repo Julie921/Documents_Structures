@@ -4,6 +4,7 @@ from traitements.conll_vs_spacy_pos import get_lexique, process_tokenized_corpus
 from traitements.clean import clean_conll
 from traitements import tagset_converter, cluster_converter
 from traitements.misc import safe_list_get
+from eval import get_pos_list
 from tools.sparknlp.loadSparkNLPmodel import main as sparknlp_test
 from tools.sparknlp.trainSparkNLP import main as sparknlp_train
 exec(open("tools/stanfordnlp/stanza-train/stanza-main/test_stanzaiy.py").read())
@@ -68,6 +69,12 @@ def eval_tool(y_true_file, clustered, tool):
     elif tool == "stanza":
         y_true = [tok[1] for tok in y_true]
         y_pred = test_my_model(y_true_file)
+    elif tool == "arknlp":
+        os.system(f"./tools/outil_4/ark-tweet-nlp-0.3/ark-tweet-nlp-0.3.2/runTagger.sh --input-format conll --ouput-format conll {y_true_file} > prout.conllu")
+        conv = tagset_converter.converter("./traitements/PenPos2UD.csv")
+        tagset_converter.convertConll(".","prout",3,conv)
+        y_pred = get_pos_list("converted_prout.conllu", "UPOS")
+        y_true = [tok[1] for tok in y_true]
 
     folder_path = f"results/{tool}/trained_{corpus}"
     if clustered:
@@ -104,8 +111,6 @@ def pipeline_train(folder,train, dev, clustered, tool):
         os.system(f"sudo mv {final_dev} ./tools/stanfordnlp/stanza-train/data/udbase/UD_English-TEST/en_test-ud-dev.conllu")
 
         train_model()
-
-        print("prout")
     else:
         print(f"This script doesn't train with the tool {tool}, it can only take stanza, sparknlp or spacy")
 
