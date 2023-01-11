@@ -5,7 +5,7 @@
 # Set UDBASE to the location of UD data folder
 # The data should be CoNLL-U format
 # For details, see http://universaldependencies.org/conll18/data.html (CoNLL-18 UD data)
-export UDBASE=../data/udbase
+export UDBASE=./tools/stanfordnlp/stanza-train/data/udbase
 
 # Set NERBASE to the location of NER data folder
 # The data should be BIO format
@@ -13,7 +13,7 @@ export UDBASE=../data/udbase
 export NERBASE=../data/nerbase
 
 # Set directories to store processed training/evaluation files
-export DATA_ROOT=../data/processed
+export DATA_ROOT=./tools/stanfordnlp/stanza-train/data/processed
 export TOKENIZE_DATA_DIR=$DATA_ROOT/tokenize
 export MWT_DATA_DIR=$DATA_ROOT/mwt
 export LEMMA_DATA_DIR=$DATA_ROOT/lemma
@@ -24,4 +24,4 @@ export NER_DATA_DIR=$DATA_ROOT/ner
 export CHARLM_DATA_DIR=$DATA_ROOT/charlm
 
 # Set directories to store external word vector data
-export WORDVEC_DIR=../data/wordvec
+export WORDVEC_DIR=./tools/stanfordnlp/stanza-train/data/wordvec

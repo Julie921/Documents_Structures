@@ -732,7 +732,7 @@
 2	mo	_	NOUN	_	_	_	_	_	_
 3	got	_	VERB	_	_	_	_	_	_
 4	!digits	_	NUM	_	_	_	_	_	_
-5	COL	_	PUNCT	_	_	_	_	_	_
+5	:	_	PUNCT	_	_	_	_	_	_
 6	!digits	_	NUM	_	_	_	_	_	_
 7	this	_	DET	_	_	_	_	_	_
 8	morning	_	NOUN	_	_	_	_	_	_
@@ -4194,7 +4194,7 @@
 11	road	_	NOUN	_	_	_	_	_	_
 12	at	_	ADP	_	_	_	_	_	_
 13	!digits	_	NUM	_	_	_	_	_	_
-14	COL	_	PUNCT	_	_	_	_	_	_
+14	:	_	PUNCT	_	_	_	_	_	_
 15	!digits	_	NUM	_	_	_	_	_	_
 16	in	_	ADP	_	_	_	_	_	_
 17	the	_	DET	_	_	_	_	_	_
@@ -4423,7 +4423,7 @@
 
 1	it's	_	PRON	_	_	_	_	_	_
 2	!digits	_	NUM	_	_	_	_	_	_
-3	COL	_	PUNCT	_	_	_	_	_	_
+3	:	_	PUNCT	_	_	_	_	_	_
 4	!digits	_	NUM	_	_	_	_	_	_
 5	in	_	ADP	_	_	_	_	_	_
 6	the	_	DET	_	_	_	_	_	_

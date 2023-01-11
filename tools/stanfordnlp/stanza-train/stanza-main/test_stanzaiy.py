@@ -8,10 +8,9 @@ def train_model():
     et qui sort un modèle.
     Je pars du principe que tu es dans le dossier `stanza-main`
     """
-    os.system("source scripts/config.sh")
+    os.system("source ./tools/stanfordnlp/stanza-train/config/config.sh")
     os.system("python3 -m stanza.utils.datasets.prepare_pos_treebank UD_English-TEST")
     os.system("python3 -m stanza.utils.training.run_pos UD_English-TEST --max_steps 200 --wordvec_pretrain_file ../../../stanza_resources/ar/pretrain/padt.pt")
-    os.system("rm saved-models/pos")
 
 def change_name(train_conllu,dev_conllu):
     os.system(f"mv {train_conllu} en_test-ud-train.conllu")
@@ -33,7 +32,7 @@ def test_my_model(test_conllu):
     nlp = stanza.Pipeline(lang='en', processors='tokenize,pos',tokenize_pretokenized=True)
 
     # Charger les données de test CoNLL
-    doc = CoNLL.conll2doc(test_conllu)
+    doc = CoNLL.conll2doc(f"{test_conllu}.conllu")
 
     # Effectuer l'étiquetage POS sur les données de test en utilisant le modèle personnalisé    
     doc = nlp(doc)
@@ -43,5 +42,6 @@ def test_my_model(test_conllu):
         for word in sent.words:
             result.append(str(word.pos))
             #print(f'{word.text}\t{word.pos}')
+
 
     return result

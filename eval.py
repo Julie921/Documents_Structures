@@ -1,7 +1,7 @@
 import sys
 from sklearn.metrics import classification_report
 
-dico_conll = {'UPOS': 5, 'XPOS': 6}
+dico_conll = {'UPOS': 3, 'XPOS': 4, 'arknlp': 1}
 
 
 def safe_list_get(l, idx, default):

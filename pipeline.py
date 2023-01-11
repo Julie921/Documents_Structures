@@ -4,6 +4,7 @@ from traitements.conll_vs_spacy_pos import get_lexique, process_tokenized_corpus
 from traitements.clean import clean_conll
 from traitements import tagset_converter, cluster_converter
 from traitements.misc import safe_list_get
+import itertools
 from eval import get_pos_list
 from tools.sparknlp.loadSparkNLPmodel import main as sparknlp_test
 from tools.sparknlp.trainSparkNLP import main as sparknlp_train
@@ -50,7 +51,15 @@ def pretraitements(thing, clustered):
 
     return final_thing, thingy
 
-
+def make_ark_file(y_true):
+    with open("test_for_ark.conllu", "w") as test:
+        for phrase in y_true:
+            for tok, _ in phrase:
+                if tok == "!digits":
+                    test.write("digits\n")
+                else:
+                    test.write(tok.strip("'’")+"\n")
+            test.write("\n")
 def eval_tool(y_true_file, clustered, tool):
 
     global corpus
@@ -64,17 +73,19 @@ def eval_tool(y_true_file, clustered, tool):
         vocab = get_lexique(y_true_file)
         y_pred, y_true = process_tokenized_corpus(nlp,y_true, vocab)
     elif tool == "sparknlp":
-        y_true = [tok[1] for tok in y_true]
+        y_true = [tok[1] for tok in list(itertools.chain.from_iterable(y_true))]
         y_pred = sparknlp_test("./sparknlp_output",y_true_file)
     elif tool == "stanza":
-        y_true = [tok[1] for tok in y_true]
+        y_true = [tok[1] for tok in list(itertools.chain.from_iterable(y_true))]
         y_pred = test_my_model(y_true_file)
     elif tool == "arknlp":
-        os.system(f"./tools/outil_4/ark-tweet-nlp-0.3/ark-tweet-nlp-0.3.2/runTagger.sh --input-format conll --ouput-format conll {y_true_file} > prout.conllu")
-        conv = tagset_converter.converter("./traitements/PenPos2UD.csv")
-        tagset_converter.convertConll(".","prout",3,conv)
-        y_pred = get_pos_list("converted_prout.conllu", "UPOS")
-        y_true = [tok[1] for tok in y_true]
+        make_ark_file(y_true)
+        y_true = [tok[1] for tok in list(itertools.chain.from_iterable(y_true))]
+        os.system(f"bash ./tools/outil_4/ark-tweet-nlp-0.3/ark-tweet-nlp-0.3.2/runTagger.sh --output-format conll test_for_ark.conllu > prout.conllu")
+        conv = tagset_converter.makeDictFromCsv("./traitements/PenPos2UD.csv")
+        tagset_converter.convertConll(".","prout",2,conv)
+        y_pred = get_pos_list("converted_prout.conllu", "arknlp")
+
 
     folder_path = f"results/{tool}/trained_{corpus}"
     if clustered:
@@ -107,8 +118,8 @@ def pipeline_train(folder,train, dev, clustered, tool):
     elif tool == "arknlp":
         print("Cannot train tool arknlp")
     elif tool == "stanza":
-        os.system(f"sudo mv {final_train} ./tools/stanfordnlp/stanza-train/data/udbase/UD_English-TEST/en_test-ud-train.conllu")
-        os.system(f"sudo mv {final_dev} ./tools/stanfordnlp/stanza-train/data/udbase/UD_English-TEST/en_test-ud-dev.conllu")
+        os.system(f"mv {final_train}.conllu ./tools/stanfordnlp/stanza-train/data/udbase/UD_English-TEST/en_test-ud-train.conllu")
+        os.system(f"mv {final_dev}.conllu ./tools/stanfordnlp/stanza-train/data/udbase/UD_English-TEST/en_test-ud-dev.conllu")
 
         train_model()
     else:
