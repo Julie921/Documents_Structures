@@ -11,7 +11,7 @@ def main(model, test):
     ```
     """
     model_dir = model
-    test_corpus = test
+    test_corpus = test+".conllu"
     
     sc = sparknlp.start() #session de connexion
     df_dev = CoNLLU().readDataset(sc, test_corpus) # corpus de dev

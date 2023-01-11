@@ -71,7 +71,7 @@ def remove_repeats(word):
     """
     return re.sub(r'([^\w\s])\1+', r'\1', word)
 
-def convertConll(folder,conll_file:str, converter:dict, fuzzyMatches: dict|bool = False)->List[str]:
+def convertConll(folder,conll_file:str, converter:dict, fuzzyMatches: dict = False)->List[str]:
     """Cette fonction prend en entrée un fichier CoNLL déjà nettoyé
     et un dictionnaire de correspondances de remplacement (forme -> nom_cluster). 
     Elle sert à exploiter les clusters créés avec l'algorithme de Brown.
