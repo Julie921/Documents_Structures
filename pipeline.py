@@ -4,6 +4,8 @@ from traitements.conll_vs_spacy_pos import get_lexique, process_tokenized_corpus
 from traitements.clean import clean_conll
 from traitements import tagset_converter, cluster_converter
 from traitements.misc import safe_list_get
+from tools.sparknlp.loadSparkNLPmodel import main as sparknlp_test
+from tools.sparknlp.trainSparkNLP import main as sparknlp_train
 import spacy
 import os
 import glob as glb
@@ -49,16 +51,23 @@ def pretraitements(thing, clustered):
     return final_thing, thingy
 
 
-def eval(y_true_file, clustered):
+def eval_tool(y_true_file, clustered, tool):
 
     global corpus
 
-    nlp = spacy.load("./spacy_output/model-best/")
     y_true_file, name = pretraitements(y_true_file, clustered)
-    vocab = get_lexique(y_true_file)
+
     y_true = read(y_true_file)
-    y_pred, y_true = process_tokenized_corpus(nlp,y_true, vocab)
-    folder_path = f"results/spacy/trained_{corpus}"
+
+    if tool == "spacy":
+        nlp = spacy.load("./spacy_output/model-best/")
+        vocab = get_lexique(y_true_file)
+        y_pred, y_true = process_tokenized_corpus(nlp,y_true, vocab)
+    elif tool == "sparknlp":
+        y_true = [tok[1] for tok in y_true]
+        y_pred = sparknlp_test("./sparknlp_output",y_true_file)
+
+    folder_path = f"results/{tool}/trained_{corpus}"
     if clustered:
         folder_path += "/clustered/"
     else:
@@ -73,19 +82,25 @@ def eval(y_true_file, clustered):
         print(multilabel_confusion_matrix(y_true,y_pred), file=clf_cm)
     return "prout"
 
-def pipeline_train(folder,train, dev, clustered):
-
-    global trashcan
+def pipeline_train(folder,train, dev, clustered, tool):
 
     final_train, _ = pretraitements(train, clustered)
     final_dev, _ = pretraitements(dev, clustered)
 
-    os.system(f"python3 -m spacy convert {final_train}.conllu {folder}")
+    if tool == "spacy":
+        os.system(f"python3 -m spacy convert {final_train}.conllu {folder}")
 
-    os.system(f"python3 -m spacy convert {final_dev}.conllu {folder}")
+        os.system(f"python3 -m spacy convert {final_dev}.conllu {folder}")
 
-    os.system(f"python3 -m spacy train ./tools/spacy/output/model-best/config.cfg --output ./spacy_output --paths.train {final_train}.spacy --paths.dev {final_dev}.spacy")
-
+        os.system(f"python3 -m spacy train ./tools/spacy/output/model-best/config.cfg --output ./spacy_output --paths.train {final_train}.spacy --paths.dev {final_dev}.spacy")
+    elif tool == "sparknlp":
+        sparknlp_train(train, dev, "./sparknlp_output/")
+    elif tool == "arknlp":
+        print("Cannot train tool arknlp")
+    elif tool == "stanza":
+        print("prout")
+    else:
+        print(f"This script doesn't train with the tool {tool}, it can only take stanza, sparknlp or spacy")
 
 
     return "prout"
@@ -93,17 +108,21 @@ def pipeline_train(folder,train, dev, clustered):
 
 
 if __name__ == "__main__":
-    choice = sys.argv[1]
-    clustered = safe_list_get(sys.argv, 3, False)
-    corpus = sys.argv[2] # can be "only_aave" "only_english" or "concatenated"
+    tool = sys.argv[1]
+    choice = sys.argv[2]
+    clustered = safe_list_get(sys.argv, 4, False)
+    corpus = sys.argv[3] # can be "only_aave" "only_english" or "concatenated"
     if choice == "train":
         folder = "./corpus"
         train = f"corpus/train/{corpus}.conllu"
         dev = "corpus/dev/aave_dev.conllu"
-        pipeline_train(folder, train, dev, clustered)
+        pipeline_train(folder, train, dev, clustered, tool)
     elif choice == "test":
         folder = "corpus/test/*"
         files = glb.glob(folder)
         for file in files:
-            eval(f"{file}", clustered)
+            eval_tool(f"{file}", clustered, tool)
+
+    else:
+        print("hop")
     print("prout")
