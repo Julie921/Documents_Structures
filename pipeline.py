@@ -46,8 +46,6 @@ def pretraitements(thing, clustered):
         convert_to_UD(folder, f"clean_{thing}")
         final_thing = f"{folder}/converted_clean_{thing}"
 
-    print(final_thing)
-
     return final_thing, thingy
 
 
