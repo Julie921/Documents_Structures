@@ -2,7 +2,7 @@ import stanza
 from stanza.utils.conll import CoNLL
 import os
 
-def train_model(dossier):
+def train_model():
     """
     Fonction qui prend en entrée un nom de dossier contenant trains/dev : UD_English-TEST
     et qui sort un modèle.

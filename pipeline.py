@@ -6,6 +6,7 @@ from traitements import tagset_converter, cluster_converter
 from traitements.misc import safe_list_get
 from tools.sparknlp.loadSparkNLPmodel import main as sparknlp_test
 from tools.sparknlp.trainSparkNLP import main as sparknlp_train
+exec(open("tools/stanfordnlp/stanza-train/stanza-main/test_stanzaiy.py").read())
 import spacy
 import os
 import glob as glb
@@ -64,6 +65,9 @@ def eval_tool(y_true_file, clustered, tool):
     elif tool == "sparknlp":
         y_true = [tok[1] for tok in y_true]
         y_pred = sparknlp_test("./sparknlp_output",y_true_file)
+    elif tool == "stanza":
+        y_true = [tok[1] for tok in y_true]
+        y_pred = test_my_model(y_true_file)
 
     folder_path = f"results/{tool}/trained_{corpus}"
     if clustered:
@@ -96,6 +100,11 @@ def pipeline_train(folder,train, dev, clustered, tool):
     elif tool == "arknlp":
         print("Cannot train tool arknlp")
     elif tool == "stanza":
+        os.system(f"sudo mv {final_train} ./tools/stanfordnlp/stanza-train/data/udbase/UD_English-TEST/en_test-ud-train.conllu")
+        os.system(f"sudo mv {final_dev} ./tools/stanfordnlp/stanza-train/data/udbase/UD_English-TEST/en_test-ud-dev.conllu")
+
+        train_model()
+
         print("prout")
     else:
         print(f"This script doesn't train with the tool {tool}, it can only take stanza, sparknlp or spacy")
