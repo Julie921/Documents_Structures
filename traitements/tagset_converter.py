@@ -10,7 +10,7 @@ def makeDictFromCsv(csv_file):
     with open(csv_file, "r", encoding='utf8') as csvfile:
         dictCSV = csv.reader(csvfile, delimiter=';')
         for row in dictCSV:
-            converter[row[1]] = row[0]
+            converter[row[0]] = row[1]
     return converter
 
 
@@ -43,7 +43,7 @@ def convertConll(folder,conll_file, col_n, converter):
                 l_list = l.split("\t")
                 source = safe_list_get(l.split("\t"), col_n, False)
                 if source in converter.keys():
-                    l_list[col_n] = converter
+                    l_list[col_n] = converter[source]
                     output.write("\t".join(l_list))
                     file_as_list.append("\t".join(l_list))
                 else:

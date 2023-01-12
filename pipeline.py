@@ -20,7 +20,7 @@ def convert_to_UD(folder, conll_file):
     prend en entrée un dossier, et le nom d'un fichier
     """
     converter = tagset_converter.makeDictFromCsv("./traitements/PenPos2UD.csv")
-    tagset_converter.convertConll(folder, conll_file, 4, converter)
+    tagset_converter.convertConll(folder, conll_file, 3, converter)
     return "prout"
 
 def clean(folder,interFolder, conll_file,clustered=False):
