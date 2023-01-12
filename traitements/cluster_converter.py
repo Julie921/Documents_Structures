@@ -22,7 +22,7 @@ def safe_list_get(l: List[Any], idx: int, default: Any) -> Any:
     except IndexError:
         return default
 
-def makeDictFromTSV(tsv_file: str) -> dict:
+def makeDictFromTSV(tsv_file: str, fuzzy=False) -> dict:
     """
     Cette fonction prend un fichier TSV en entrée et crée un dictionnaire en lisant le fichier.
     Chaque ligne du fichier est censée contenir 2 valeurs (minimum) séparées par une tabulation, avec la première valeur comme clé et la deuxième valeur comme valeur dans le dictionnaire.
@@ -50,6 +50,15 @@ def makeDictFromTSV(tsv_file: str) -> dict:
     Returns: 
         dict: un dictionnaire créé à partir du fichier tsv
     """
+    if fuzzy:
+        converter = dict()
+        with open(tsv_file, "r", encoding='utf8') as file:
+            dictTSV = csv.reader(file, delimiter='\t')
+            for row in dictTSV:
+                if int(row[2])>90:
+                    converter[row[1]] = row[0]
+        return converter
+
     converter=dict()
     with open(tsv_file, "r", encoding='utf8') as file:
         dictTSV = csv.reader(file, delimiter='\t')
@@ -90,10 +99,12 @@ def convertConll(folder,conll_file:str, converter:dict, fuzzyMatches: dict = Fal
     Returns:
         file_as_list (List[str]): le contenu du nouveau fichier CoNLL converti sous forme de liste de strings
     """
-    
+
     file_as_list = [] # le fichier sous forme de liste si jamais on veut tester des trucs
-    
-    with open(f"{folder}/clustered_{conll_file}.conllu", "w", encoding="utf-8") as output: # pour l'écriture du résultat
+    conll_file_f = conll_file
+    if fuzzyMatches:
+        conll_file_f = "fuzzy_"+conll_file
+    with open(f"{folder}/clustered_{conll_file_f}.conllu", "w", encoding="utf-8") as output: # pour l'écriture du résultat
     
         with open(f"{folder}/{conll_file}.conllu", "r") as input_conll: # lecture du conll
             l = input_conll.readline()
@@ -106,9 +117,10 @@ def convertConll(folder,conll_file:str, converter:dict, fuzzyMatches: dict = Fal
                     l_list[1] = converter[source] # on remplace la forme du token par le nom du cluster
                     l_list[-1] = f"clustered = {source}\n" # on conserve la forme dans la colonne "misc"
                 elif fuzzyMatches:
-                    if remove_repeats(source) in fuzzyMatches.keys(): # s'il n'est pas dans les clusters, on le cherche dans les fuzzy matches
-                        l_list[1] = converter[fuzzyMatches[source]] # on utilise le cluster du fuzzy match
-                        l_list[-1] = f"clustered = {source}\n" # on conserve la forme originale dans la colonne "misc"
+                    if source:
+                        if remove_repeats(source) in fuzzyMatches.keys(): # s'il n'est pas dans les clusters, on le cherche dans les fuzzy matches
+                            l_list[1] = converter[fuzzyMatches[source]] # on utilise le cluster du fuzzy match
+                            l_list[-1] = f"clustered = {source}\n" # on conserve la forme originale dans la colonne "misc"
                 l = "\t".join(l_list) # on reconstitue la ligne
                 output.write(l)
                 file_as_list.append(l) 

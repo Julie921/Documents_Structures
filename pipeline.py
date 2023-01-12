@@ -23,7 +23,7 @@ def convert_to_UD(folder, conll_file):
     tagset_converter.convertConll(folder, conll_file, 4, converter)
     return "prout"
 
-def clean(folder,interFolder, conll_file):
+def clean(folder,interFolder, conll_file,clustered=False):
     """
     fonction nettoyant les corpus de manière à uniformiser les données
     elle prend en entrée un dossier, un dossier intermédiaire et un fichier
@@ -31,13 +31,15 @@ def clean(folder,interFolder, conll_file):
     clean_conll(folder, interFolder, conll_file)
     return "prout"
 
-def cluster(folder, conll_file):
+def cluster(folder, conll_file, fuzzy = False):
     """
     fonction clusterisant les corpus de manière à améliorer les résultats
     elle prend en entrée un dossier, un dossier intermédiaire et un fichier
     """
+    if fuzzy:
+        fuzzy=cluster_converter.makeDictFromTSV("./clustering/brown_hierarchy/fuzzy_matches.tsv", fuzzy=True)
     converter = cluster_converter.makeDictFromTSV("./clustering/brown_hierarchy/50mpaths2.txt")
-    cluster_converter.convertConll(folder, conll_file, converter)
+    cluster_converter.convertConll(folder, conll_file, converter, fuzzy)
     return "prout"
 
 def pretraitements(thing, clustered):
@@ -53,11 +55,16 @@ def pretraitements(thing, clustered):
     thingy = thing
 
     if clustered:
-        clean(folder, interFolder, thing)
-        cluster(folder, f"clean_{thing}")
-        convert_to_UD(folder, f"clustered_clean_{thing}")
-        final_thing = f"{folder}/converted_clustered_clean_{thing}"
-
+        if clustered!="fuzzy":
+            clean(folder, interFolder, thing)
+            cluster(folder, f"clean_{thing}")
+            convert_to_UD(folder, f"clustered_clean_{thing}")
+            final_thing = f"{folder}/converted_clustered_clean_{thing}"
+        else:
+            clean(folder, interFolder, thing, clustered)
+            cluster(folder, f"clean_{thing}", clustered)
+            convert_to_UD(folder, f"clustered_fuzzy_clean_{thing}")
+            final_thing = f"{folder}/converted_clustered_fuzzy_clean_{thing}"
 
     else:
         clean(folder, interFolder, thing)
@@ -109,14 +116,15 @@ def eval_tool(y_true_file, clustered, tool):
 
     folder_path = f"results/{tool}/trained_{corpus}"
     if clustered:
-        folder_path += "/clustered/"
+        if clustered != "fuzzy":
+            folder_path += "/clustered/"
+        else:
+            folder_path += "/fuzzy_clustered/"
     else:
         folder_path += f"/unclustered/"
 
     os.makedirs(f"{folder_path}{name}", exist_ok=True)
     with open(f"{folder_path}{name}/classification_report.txt", "w") as clf_r:
-        print(len(y_pred))
-        print(len(y_true))
         print(classification_report(y_true,y_pred), file=clf_r)
     with open(f"{folder_path}{name}/confusion_matrix.txt", "w") as clf_cm:
         print(multilabel_confusion_matrix(y_true,y_pred), file=clf_cm)

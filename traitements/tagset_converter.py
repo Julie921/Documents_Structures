@@ -34,7 +34,9 @@ def safe_list_get(l: List[Any], idx: int, default: Any) -> Any:
 
 def convertConll(folder,conll_file, col_n, converter):
     file_as_list = []
-    with open(f"{folder}/converted_{conll_file}.conllu", "w", encoding='utf8') as output:
+    conll_file_f = conll_file
+
+    with open(f"{folder}/converted_{conll_file_f}.conllu", "w", encoding='utf8') as output:
         with open(f"{folder}/{conll_file}.conllu", "r") as input_conll:
             l = input_conll.readline()
             while l:
